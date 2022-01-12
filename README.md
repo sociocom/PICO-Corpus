@@ -1,5 +1,9 @@
 # PICO-Corpus
+
+
+# Example annotated abstract 
 ![](example_annotated_abstract.png)
+
 
 
 # Citation 
