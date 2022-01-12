@@ -1,2 +1,2 @@
 # PICO-Corpus
-![abstract](example_annotated_abstract.png =250x250)
+![](example_annotated_abstract.png){:height="50%" widht="50%"}
