@@ -1,0 +1,29 @@
+T2	total-participants 444 447	522
+T3	total-participants 476 479	514
+T4	intervention-participants 628 631	258
+T5	control-participants 667 670	256
+T7	intervention 81 121	level-III axillary lymph node dissection
+T9	outcome 825 839	operation time
+T10	iv-cont-mean 841 845	77.0
+T11	cv-cont-mean 849 857	60.5 min
+T12	outcome 894 904	blood loss
+T13	eligibility 379 419	breast cancer without distant metastasis
+T14	iv-cont-mean 906 910	62.1
+T15	cv-cont-mean 914 921	48.1 ml
+T16	outcome 1003 1038	arm oedema and shoulder disturbance
+T17	outcome 1083 1108	number of dissected nodes
+T18	iv-cont-mean 1123 1127	18.7
+T19	cv-cont-mean 1131 1135	14.8
+T20	outcome 1177 1201	number of involved nodes
+T21	iv-cont-mean 1203 1207	1.54
+T22	cv-cont-mean 1211 1215	1.44
+T23	outcome 1263 1278	10-year overall
+T24	outcome 1283 1310	disease-free survival rates
+T25	iv-bin-percent 1312 1316	89.6
+T26	iv-bin-percent 1321 1326	76.6%
+T27	cv-bin-percent 1342 1346	87.8
+T28	cv-bin-percent 1351 1356	74.1%
+T1	outcome 1441 1455	operation time
+T6	outcome 1468 1478	blood loss
+T29	outcome 1517 1530	survival rate
+T8	control 70 77	level-I

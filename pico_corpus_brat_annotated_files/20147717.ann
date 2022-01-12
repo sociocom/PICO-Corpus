@@ -1,0 +1,12 @@
+T1	intervention 21 55	hypofractionated radiation therapy
+T2	eligibility 326 483	Women with invasive breast cancer who had undergone breast-conserving surgery and in whom resection margins were clear and axillary lymph nodes were negative
+T3	control 555 568	standard dose
+T5	outcome 750 786	risk of local recurrence at 10 years
+T6	cv-bin-percent 791 795	6.7%
+T7	control-participants 806 809	612
+T8	iv-bin-percent 866 870	6.2%
+T9	intervention-participants 881 884	622
+T4	outcome 1152 1186	good or excellent cosmetic outcome
+T10	outcome 1021 1032	At 10 years
+T11	cv-bin-percent 1034 1039	71.3%
+T12	iv-bin-percent 1087 1092	69.8%

@@ -1,0 +1,21 @@
+T1	eligibility 506 558	post-primary treatment breast cancer survivors (BCS)
+T2	total-participants 582 585	152
+T4	control 677 692	usual care (UC)
+T8	outcome 1116 1143	Resting and submaximal RPPs
+T9	outcome 1438 1453	reduced fatigue
+T10	condition 65 72	fatigue
+T11	intervention 97 127	physical activity intervention
+T3	outcome 1265 1272	stage 1
+T12	outcome 1328 1335	stage 4
+T13	iv-cont-mean 1459 1463	-0.7
+T14	iv-cont-sd 1466 1469	2.0
+T15	cv-cont-mean 1477 1482	+0.1 
+T16	cv-cont-sd 1484 1487	2.0
+T17	iv-cont-mean 1285 1288	-13
+T18	iv-cont-sd 1291 1293	17
+T19	cv-cont-mean 1301 1303	-7
+T20	cv-cont-sd 1306 1308	18
+T21	iv-cont-mean 1348 1351	-21
+T22	iv-cont-sd 1354 1356	26
+T23	cv-cont-mean 1364 1367	-9 
+T24	cv-cont-sd 1369 1371	24

@@ -1,0 +1,16 @@
+T1	total-participants 576 578	48
+T2	intervention-participants 580 582	27
+T4	control-participants 616 618	21
+T6	outcome 876 888	Fat necroses
+T7	iv-bin-percent 931 934	56%
+T8	cv-bin-percent 942 945	24%
+T9	outcome 921 929	frequent
+T10	outcome 951 957	larger
+T11	iv-cont-median 959 962	8.7
+T12	cv-cont-median 970 979	1.6 sq cm
+T13	outcome 1024 1043	Scar calcifications
+T14	iv-bin-percent 1094 1097	63%
+T15	cv-bin-percent 1105 1108	19%
+T3	intervention 601 614	BCT with IORT
+T16	control 632 675	BCT with standard whole-breast radiotherapy
+T5	outcome 1120 1151	incidence of large fat necroses

@@ -1,0 +1,17 @@
+T1	intervention 0 23	Preoperative breast MRI
+T2	eligibility 230 305	women with early-stage breast cancer undergoing breast conservation therapy
+T3	intervention-participants 351 354	174
+T5	intervention-participants 471 474	174
+T6	control 454 467	control group
+T9	outcome 1069 1107	likely to have extremely dense breasts
+T10	iv-bin-percent 1109 1112	28%
+T11	cv-bin-percent 1116 1118	6%
+T12	outcome 1136 1166	mammographically occult cancer
+T13	iv-bin-percent 1168 1171	24%
+T14	cv-bin-percent 1175 1177	9%
+T15	outcome 1454 1471	needed reexcision
+T16	iv-bin-percent 1473 1476	29%
+T17	cv-bin-percent 1480 1483	45%
+T18	outcome 1592 1615	locoregional recurrence
+T19	outcome 1630 1651	disease-free survival
+T20	outcome 1693 1709	Reexcision rates

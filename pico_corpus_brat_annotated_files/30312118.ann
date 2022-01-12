@@ -1,0 +1,21 @@
+T1	condition 53 62	Bone Loss
+T2	eligibility 392 411	Premenopausal women
+T3	total-participants 417 420	206
+T4	age 426 436	≤ 55 years
+T7	control 570 583	control group
+T6	intervention 263 303	combined aerobic and resistance exercise
+T11	outcome 1262 1293	Bone turnover markers decreased
+T12	total-participants 1084 1087	100
+T13	control-participants 1089 1091	54
+T14	intervention-participants 1101 1103	46
+T17	outcome 1151 1173	lumbar spine bone loss
+T5	eligibility 437 517	at cancer diagnosis who were within two years of receiving adjuvant chemotherapy
+T8	outcome 827 843	Lumbar spine BMD
+T9	iv-cont-mean 935 942	-0.008 
+T10	iv-cont-mean 944 955	0.003 g/cm2
+T15	cv-cont-mean 969 975	-0.014
+T16	cv-cont-sd 978 989	0.003 g/cm2
+T18	iv-cont-mean 1175 1180	0.001
+T20	iv-cont-sd 1183 1194	0.005 g/cm2
+T19	cv-cont-mean 1215 1221	-0.014
+T21	cv-cont-sd 1224 1235	0.005 g/cm2

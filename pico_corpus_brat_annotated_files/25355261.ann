@@ -1,0 +1,22 @@
+T1	intervention 11 15	Yoga
+T2	condition 19 41	cancer related fatigue
+T4	total-participants 261 264	100
+T5	control 373 386	control group
+T6	intervention-participants 390 392	50
+T8	total-participants 646 648	82
+T9	control-participants 680 682	42
+T10	intervention-participants 715 717	40
+T7	outcome 825 828	CRF
+T3	eligibility 265 304	breast cancer patients with CRF (CFS>0)
+T13	outcome 1115 1133	mean scores of CFS
+T14	outcome 1135 1147	body fatigue
+T15	outcome 1152 1169	cognitive fatigue
+T12	outcome 954 972	mean scores of CFS
+T17	outcome 977 989	body fatigue
+T11	outcome 1304 1319	overall fatigue
+T18	outcome 1321 1333	body fatigue
+T19	outcome 1338 1355	cognitive fatigue
+T16	outcome 1431 1468	time influence on the overall fatigue
+T20	outcome 1470 1482	body fatigue
+T21	outcome 1487 1503	emotional fatigu
+T22	outcome 1696 1708	body fatigue

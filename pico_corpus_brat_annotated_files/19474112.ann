@@ -1,0 +1,13 @@
+T1	intervention 115 124	letrozole
+T2	control 128 137	tamoxifen
+T3	eligibility 218 339	postmenopausal women treated with 5 years of adjuvant tamoxifen or letrozole for endocrine-responsive early breast cancer
+T4	total-participants 405 409	4895
+T7	outcome 668 695	incidence of bone fractures
+T8	iv-bin-abs 746 749	228
+T9	intervention-participants 753 757	2448
+T10	iv-bin-percent 765 769	9.3%
+T11	cv-bin-abs 790 793	160
+T12	control-participants 797 800	244
+T13	cv-bin-percent 809 813	6.5%
+T5	condition 0 14	Bone fractures
+T14	outcome 855 863	fracture

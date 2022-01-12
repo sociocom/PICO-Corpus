@@ -1,0 +1,22 @@
+T1	intervention 23 32	letrozole
+T2	control 40 49	tamoxifen
+T6	location 265 282	Basel Switzerland
+T7	location 358 372	Turku, Finland
+T8	age 408 417	<70 years
+T9	age 430 441	>/=70 years
+T10	total-participants 493 511	Nine hundred seven
+T12	iv-bin-percent 1113 1116	38%
+T13	cv-bin-percent 1159 1162	18%
+T17	iv-bin-percent 1271 1274	26%
+T18	cv-bin-percent 1287 1290	22%
+T19	outcome 1293 1296	TTP
+T20	iv-cont-median 1406 1416	8.8 months
+T21	cv-cont-median 1429 1439	6.0 months
+T22	outcome 1375 1382	younger
+T23	outcome 1441 1446	older
+T24	iv-cont-median 1470 1481	12.2 months
+T25	cv-cont-median 1494 1504	5.8 months
+T3	eligibility 512 548	patients with advanced breast cancer
+T5	outcome 1018 1029	overall ORR
+T11	outcome 1221 1225	ORRs
+T14	outcome 1599 1602	ORR

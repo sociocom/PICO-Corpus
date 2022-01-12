@@ -1,0 +1,13 @@
+T1	condition 115 138	postoperative analgesia
+T2	intervention 100 111	bupivacaine
+T3	age 820 836	age ranged 18-70
+T4	control 1120 1137	0.25% bupivacaine
+T8	total-participants 1592 1594	42
+T10	intervention-participants 1605 1607	21
+T12	outcome 1815 1825	NRS scores
+T13	outcome 1909 1949	mean intraoperative fentanyl requirement
+T9	iv-cont-mean 1722 1728	149.52
+T15	iv-cont-sd 1731 1739	25.39 mg
+T14	cv-cont-mean 1756 1762	199.52
+T16	cv-cont-sd 1765 1773	32.78 mg
+T5	outcome 1664 1689	mean tramadol consumption

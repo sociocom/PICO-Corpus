@@ -1,0 +1,10 @@
+T3	control 565 572	placebo
+T11	outcome 1309 1361	10-year cumulative incidence of breast cancer events
+T1	intervention 90 124	low-dose tamoxifen and fenretinide
+T2	outcome 1015 1019	SHBG
+T4	outcome 1046 1058	testosterone
+T5	outcome 1060 1069	estradiol
+T7	outcome 1075 1084	prolactin
+T8	outcome 1102 1104	LH
+T9	outcome 1150 1182	testosterone and androstenedione
+T10	outcome 1197 1204	retinol

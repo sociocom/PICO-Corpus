@@ -1,0 +1,26 @@
+T1	total-participants 133 156	One hundred and sixteen
+T2	eligibility 157 203	women with measurable metastatic breast cancer
+T3	age 412 425	over 65 years
+T4	total-participants 939 961	One hundred and eleven
+T5	total-participants 1003 1006	106
+T6	intervention 58 89	pegylated liposomal doxorubicin
+T7	outcome 1102 1124	achieving a DI of >90%
+T8	iv-bin-abs 1093 1095	37
+T9	iv-bin-percent 1097 1100	69%
+T10	cv-bin-abs 1173 1175	37
+T11	cv-bin-percent 1177 1180	65%
+T12	outcome 1290 1299	Mucositis
+T13	iv-bin-percent 1348 1351	35%
+T14	cv-bin-percent 1376 1379	14%
+T15	outcome 1394 1433	palmar plantar erythrodysesthesia (PPE)
+T16	iv-bin-percent 1484 1486	2%
+T17	cv-bin-percent 1511 1514	16%
+T18	outcome 1536 1563	objective partial responses
+T19	iv-bin-abs 1614 1616	15
+T20	intervention-participants 1617 1619	51
+T21	iv-bin-percent 1621 1624	29%
+T22	cv-bin-abs 1639 1641	17
+T23	control-participants 1642 1644	56
+T24	cv-bin-percent 1646 1649	31%
+T25	outcome 1219 1232	adverse event
+T26	control 381 386	ARM B

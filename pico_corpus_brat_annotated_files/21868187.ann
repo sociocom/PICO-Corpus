@@ -1,0 +1,14 @@
+T1	location 110 112	UK
+T2	location 572 590	South-east England
+T3	eligibility 477 537	postmenopausal, early stage breast cancer patients in the UK
+T4	intervention-participants 673 675	54
+T6	control 798 800	53
+T7	control 811 837	healthy eating advice only
+T10	outcome 1147 1167	fat intake reduction
+T11	outcome 1246 1294	size of the effect of active dietary counselling
+T12	iv-bin-percent 1299 1302	37%
+T14	iv-bin-percent 1335 1338	35%
+T15	outcome 1339 1351	at 24 months
+T13	outcome 1303 1314	at 3 months
+T16	outcome 1369 1384	Mean fat intake
+T8	intervention 9 30	dietary fat reduction

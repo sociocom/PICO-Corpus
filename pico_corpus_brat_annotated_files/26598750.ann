@@ -1,0 +1,17 @@
+T1	intervention 27 36	Telephone
+T3	control 479 489	usual care
+T5	total-participants 577 588	One hundred
+T6	eligibility 589 648	breast cancer survivors with a body mass index ≥ 25 kg/m(2)
+T7	intervention-participants 701 703	33
+T8	intervention-participants 732 734	34
+T9	control-participants 761 763	33
+T14	age 1091 1105	59 ± 7.5 years
+T15	outcome 1269 1296	Average 6-month weight loss
+T16	iv-bin-percent 1301 1305	6.4%
+T17	iv-bin-percent 1307 1311	5.4%
+T18	cv-bin-percent 1317 1321	2.0%
+T19	outcome 1520 1557	decrease in C-reactive protein levels
+T20	iv-bin-percent 1516 1519	30%
+T21	cv-bin-percent 1665 1667	1%
+T2	intervention 44 76	In-Person Weight Loss Counseling
+T4	control 740 755	usual care (UC)

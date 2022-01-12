@@ -1,0 +1,15 @@
+T1	condition 14 23	bone loss
+T2	intervention 29 40	risedronate
+T3	total-participants 904 907	109
+T4	eligibility 908 1040	postmenopausal women with low bone mass on an AI (anastrozole, letrozole, or exemestane) for hormone-receptor-positive breast cancer
+T5	control 1107 1114	placebo
+T10	outcome 1542 1552	at the hip
+T16	outcome 1497 1509	at the spine
+T6	outcome 1702 1706	P1NP
+T9	outcome 1673 1676	CTX
+T11	outcome 1765 1777	CTX and P1NP
+T12	outcome 1356 1359	BMD
+T8	outcome 1887 1910	safe and well tolerated
+T7	outcome-Measure 1192 1195	BMD
+T13	outcome-Measure 1197 1200	BTM
+T14	outcome-Measure 1306 1312	safety

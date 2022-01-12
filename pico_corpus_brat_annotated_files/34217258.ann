@@ -1,0 +1,16 @@
+T1	intervention 13 32	information leaflet
+T2	location 424 440	Barcelona, Spain
+T6	total-participants 1007 1013	11,119
+T7	intervention-participants 1036 1040	5416
+T8	control-participants 1085 1089	5703
+T9	outcome 1242 1260	attended screening
+T10	iv-bin-percent 1137 1140	36%
+T11	iv-bin-abs 1142 1146	1964
+T12	intervention-participants 1147 1151	5393
+T13	cv-bin-percent 1196 1199	37%
+T14	cv-bin-abs 1201 1205	2135
+T15	control-participants 1206 1210	5694
+T16	outcome 1312 1325	participation
+T17	outcome 1469 1479	attendance
+T3	age 466 477	50-69 years
+T4	control 1097 1110	control group

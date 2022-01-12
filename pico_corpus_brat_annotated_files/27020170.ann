@@ -1,0 +1,8 @@
+T1	intervention 50 70	biosimilar LA-EP2006
+T2	control 76 99	reference pegfilgrastim
+T3	age 292 301	≥18 years
+T4	eligibility 225 271	women receiving chemotherapy for breast cancer
+T5	intervention-participants 345 348	159
+T6	control-participants 368 371	157
+T7	outcome 686 689	DSN
+T8	outcome-Measure 480 531	duration of severe neutropenia (DSN) during cycle 1

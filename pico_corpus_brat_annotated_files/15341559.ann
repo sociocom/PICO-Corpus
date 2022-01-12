@@ -1,0 +1,23 @@
+T2	total-participants 483 488	2,565
+T3	age 499 501	67
+T4	intervention 532 539	calcium
+T5	control 555 564	vitamin D
+T6	outcome 624 686	new fracture, cardiovascular event, or breast cancer diagnosis
+T9	total-participants 853 858	1,627
+T11	outcome 915 927	any fracture
+T12	outcome 938 956	vertebral fracture
+T13	outcome 966 993	clinical vertebral fracture
+T14	outcome 1003 1015	hip fracture
+T15	outcome 1025 1049	any cardiovascular event
+T16	outcome 1063 1080	all breast cancer
+T18	total-participants 1129 1132	938
+T20	outcome 1194 1206	new fracture
+T21	outcome 1217 1239	new vertebral fracture
+T22	outcome 1250 1277	clinical vertebral fracture
+T23	outcome 1287 1299	hip fracture
+T24	outcome 1310 1334	any cardiovascular event
+T25	outcome 1348 1365	all breast cancer
+T1	eligibility 459 479	Postmenopausal women
+T26	eligibility 503 520	with osteoporosis
+T7	outcome 865 876	event rates
+T10	outcome 1139 1150	event rates

@@ -1,0 +1,27 @@
+T4	condition 112 118	Seroma
+T5	total-participants 600 602	96
+T6	eligibility 572 594	breast cancer patients
+T7	eligibility 604 681	undergoing latissimus dorsi flap reconstruction performed by a single surgeon
+T8	intervention-participants 750 752	23
+T9	intervention-participants 788 790	26
+T10	control 800 823	normal saline (control)
+T11	control-participants 829 831	27
+T12	intervention-participants 919 921	20
+T13	outcome-Measure 942 948	seroma
+T14	outcome-Measure 950 962	drain output
+T15	outcome-Measure 968 993	days to last drain remova
+T16	outcome 1145 1164	overall seroma rate
+T17	outcome 1234 1254	drainage for weeks 1
+T19	iv-bin-percent 1361 1372	5.0 percent
+T20	iv-bin-abs 1378 1379	1
+T21	cv-bin-percent 1429 1441	34.5 percent
+T22	iv-bin-percent 1451 1463	27.6 percent
+T23	iv-bin-percent 1484 1496	37.6 percent
+T24	outcome 1656 1692	incidence of all other complications
+T2	outcome 1337 1357	incidence of seromas
+T3	cv-cont-mean 1559 1568	35.5 days
+T18	iv-cont-mean 1578 1587	39.5 days
+T25	iv-cont-mean 1604 1613	37.4 days
+T26	iv-cont-mean 1629 1638	25.8 days
+T27	outcome 1499 1518	Drains were removed
+T1	intervention 50 108	Fibrin Glue, Triamcinolone Acetonide, and Quilting Sutures

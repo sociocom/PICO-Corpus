@@ -1,0 +1,15 @@
+T1	condition 14 43	anastrozole induced bone loss
+T2	intervention 62 73	ibandronate
+T4	total-participants 338 341	131
+T5	eligibility 342 387	postmenopausal women with early breast cancer
+T6	control 653 660	placebo
+T7	total-participants 427 429	13
+T8	total-participants 448 450	50
+T9	total-participants 466 468	68
+T10	intervention-participants 772 774	20
+T14	control-participants 1028 1030	16
+T18	control-participants 1235 1236	8
+T3	outcome 1314 1327	change in BMD
+T13	outcome 934 937	BMD
+T11	outcome 1388 1401	BMD increased
+T12	outcome 1161 1180	improvements in BMD

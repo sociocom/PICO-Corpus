@@ -1,0 +1,13 @@
+T1	total-participants 653 659	67 142
+T2	intervention 0 19	Overweight, Obesity
+T3	age 686 700	50 to 79 years
+T4	location 707 709	US
+T5	eligibility 660 680	postmenopausal women
+T8	outcome 828 851	invasive breast cancers
+T9	outcome 1270 1307	increased invasive breast cancer risk
+T10	outcome 1608 1693	risk for estrogen receptor-positive and progesterone receptor-positive breast cancers
+T11	outcome 1836 1881	advanced disease, including larger tumor size
+T12	outcome 1922 1942	positive lymph nodes
+T13	outcome 1983 2012	regional and/or distant stage
+T14	outcome 2057 2083	deaths after breast cancer
+T25	outcome 2251 2269	breast cancer risk

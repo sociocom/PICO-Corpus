@@ -1,0 +1,27 @@
+T2	control 113 122	docetaxel
+T1	intervention 38 64	navelbine and capecitabine
+T3	eligibility 421 487	Patients with no prior chemotherapy for MBC and HER-2/neu negative
+T5	total-participants 875 878	106
+T6	total-participants 903 914	Ninety-four
+T7	intervention-participants 1078 1087	Forty-one
+T8	control-participants 1126 1128	29
+T10	iv-bin-percent 1158 1160	56
+T11	cv-bin-percent 1165 1168	71%
+T12	outcome 1204 1230	median time to progression
+T13	outcome 1235 1251	overall survival
+T14	iv-cont-median 1257 1259	10
+T15	iv-cont-median 1264 1273	35 months
+T16	cv-cont-median 1287 1289	12
+T17	cv-cont-median 1294 1303	37 months
+T18	outcome 1347 1368	grade 3-4 neutropenia
+T19	iv-bin-percent 1370 1373	10%
+T20	outcome 1376 1390	grade 3 anemia
+T21	iv-bin-percent 1392 1394	5%
+T22	outcome 1404 1423	grade 3 neutropenia
+T23	cv-bin-percent 1425 1427	6%
+T24	outcome 1430 1444	grade 3 anemia
+T25	cv-bin-percent 1446 1450	6.2%
+T26	outcome 1457 1473	grade 2 alopecia
+T27	cv-bin-percent 1475 1478	12%
+T4	outcome 1148 1152	ORRs
+T9	outcome 1535 1549	were tolerated

@@ -1,0 +1,24 @@
+T1	intervention 70 79	tamoxifen
+T3	total-participants 568 572	2494
+T4	control 620 627	placebo
+T5	eligibility 573 586	healthy women
+T6	outcome-Measure 665 701	occurrence of invasive breast cancer
+T7	outcome-Measure 735 789	estrogen receptor (ER)-positive invasive breast cancer
+T8	total-participants 1054 1058	2471
+T9	intervention-participants 1082 1086	1238
+T10	control-participants 1125 1129	1233
+T11	outcome 1178 1200	invasive breast cancer
+T12	iv-bin-abs 1202 1204	82
+T13	cv-bin-abs 1222 1225	104
+T14	outcome 1349 1360	ER positive
+T15	iv-bin-abs 1362 1364	53
+T16	cv-bin-abs 1382 1384	86
+T17	outcome 1446 1479	risk of ER-positive breast cancer
+T18	iv-bin-abs 1603 1605	30
+T19	cv-bin-abs 1639 1641	39
+T20	outcome 1753 1773	posttreatment period
+T21	iv-bin-abs 1775 1777	23
+T22	cv-bin-abs 1803 1805	47
+T23	iv-bin-abs 1871 1881	Fifty-four
+T25	outcome 1912 1916	died
+T2	outcome 1981 2003	adverse event profiles

@@ -1,0 +1,7 @@
+T1	total-participants 437 441	9427
+T2	eligibility 442 616	women with hormone-receptor-positive, human epidermal growth factor receptor 2-negative, axillary node-negative breast cancer, in whom an assay of 21 genes had been performed
+T3	intervention 46 62	Adjuvant Therapy
+T4	outcome 2061 2100	estimated distant recurrence at 9 years
+T5	outcome 1800 1853	estimated (±SE) rate of distant recurrence at 9 years
+T6	outcome 1030 1052	level of clinical risk
+T7	outcome 1894 1910	recurrence score

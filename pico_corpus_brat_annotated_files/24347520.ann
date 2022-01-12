@@ -1,0 +1,15 @@
+T1	intervention 12 57	short-term psychodynamic psychotherapy (STPP)
+T2	total-participants 519 522	157
+T3	eligibility 523 570	breast cancer patients with comorbid depression
+T5	intervention-participants 636 638	78
+T6	control-participants 687 689	79
+T8	outcome-Measure 1031 1052	quality of life (QoL)
+T9	outcome 1153 1162	remission
+T10	iv-bin-percent 1096 1099	44%
+T11	cv-bin-percent 1173 1176	23%
+T12	outcome 1179 1193	STPP treatment
+T15	outcome 1271 1275	time
+T4	control 643 663	'treatment as usual'
+T13	outcome 1374 1401	HADS-D score post-treatment
+T7	outcome-Measure 749 766	rate of remission
+T14	outcome 1461 1464	QoL

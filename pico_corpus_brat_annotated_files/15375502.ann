@@ -1,0 +1,18 @@
+T1	outcome 922 925	DFS
+T2	iv-bin-percent 1042 1047	84.3%
+T3	cv-bin-percent 1060 1065	69.4%
+T4	outcome 778 811	5-year overall survival rate (OS)
+T5	outcome 820 859	5-year disease-free survival rate (DFS)
+T6	total-participants 692 695	136
+T7	intervention-participants 713 715	68
+T8	control-participants 734 736	68
+T10	intervention 0 85	1-hexylcarbamoyl-5-fluorouracil + cyclophosphamide + tamoxifen versus CMF + tamoxifen
+T11	control 361 370	CMF + TAM
+T9	eligibility 493 596	Clinical stage I, II primary breast cancers with histologically positive axillary lymph node metastasis
+T12	outcome 1144 1159	adverse effects
+T13	outcome 1368 1371	QOL
+T14	outcome 1228 1243	adverse effects
+T15	outcome 1382 1391	lassitude
+T16	outcome 1393 1427	degree of difficulty in daily life
+T17	outcome 1429 1456	satisfaction with treatment
+T18	outcome 1461 1473	present mood

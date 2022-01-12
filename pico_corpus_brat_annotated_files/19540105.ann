@@ -1,0 +1,19 @@
+T3	eligibility 91 115	women with breast cancer
+T4	control 627 634	placebo
+T5	outcome-Measure 765 798	passive abduction of the shoulder
+T6	outcome-Measure 832 857	difference in arm volumes
+T7	total-participants 934 936	83
+T8	intervention-participants 974 976	42
+T9	control-participants 1019 1021	41
+T10	outcome 1121 1176	withdrawn from the treatment due to disease progression
+T11	iv-bin-abs 1178 1182	four
+T12	cv-bin-abs 1215 1220	three
+T13	outcome 1372 1390	Median improvement
+T14	iv-cont-median 1409 1420	3.7 degrees
+T15	cv-cont-median 1458 1468	9.4 degree
+T16	outcome 1563 1574	Arm volumes
+T17	iv-cont-median 1617 1622	1.04%
+T18	cv-cont-median 1652 1657	0.50%
+T19	condition 57 87	radiation-induced side-effects
+T20	outcome 1270 1312	impaired passive abduction of the shoulder
+T1	intervention 0 28	Pentoxifylline and vitamin E

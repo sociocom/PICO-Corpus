@@ -1,0 +1,15 @@
+T3	control 167 186	control acupuncture
+T4	eligibility 251 346	breast cancer patients treated with adjuvant tamoxifen suffering from hot flushes and sweatings
+T2	total-participants 348 359	Eighty-four
+T6	total-participants 454 466	Seventy-four
+T7	iv-bin-percent 546 549	42%
+T8	iv-bin-abs 551 553	16
+T9	intervention-participants 554 556	38
+T10	outcome 567 608	improvements in hot flushes after 6 weeks
+T11	cv-bin-percent 621 624	47%
+T12	cv-bin-abs 626 628	17
+T13	control-participants 629 631	36
+T14	outcome 716 769	severity and frequencies in hot flushes and sweatings
+T5	intervention 33 44	acupuncture
+T15	outcome 861 891	severity of sweatings at night
+T16	outcome 1111 1126	hormonal levels

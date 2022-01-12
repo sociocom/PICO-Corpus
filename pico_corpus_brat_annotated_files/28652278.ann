@@ -1,0 +1,17 @@
+T1	intervention 0 37	Palbociclib Combined with Fulvestrant
+T4	total-participants 573 576	521
+T5	intervention-participants 599 602	347
+T6	control-participants 603 606	174
+T7	control 715 722	placebo
+T8	outcome 1101 1111	Median PFS
+T2	iv-bin-abs 1160 1162	72
+T9	cv-bin-abs 1188 1190	36
+T10	iv-cont-median 1196 1199	9.5
+T11	cv-cont-median 1207 1217	5.6 months
+T12	outcome 1787 1801	well-tolerated
+T13	outcome 1773 1782	effective
+T3	outcome 1385 1419	Any-grade and grade ≤3 neutropenia
+T14	outcome 1421 1431	leukopenia
+T15	outcome 1437 1447	infections
+T16	outcome 1566 1588	Hormone concentrations
+T17	outcome 1477 1491	adverse events

@@ -1,0 +1,16 @@
+T1	intervention 10 20	everolimus
+T2	eligibility 163 290	postmenopausal women with estrogen receptor-positive breast cancer progressing despite nonsteroidal aromatase inhibitor therapy
+T7	total-participants 1061 1064	724
+T8	outcome 1195 1220	progression-free survival
+T10	outcome 991 1023	Baseline disease characteristics
+T11	iv-bin-percent 1104 1109	43.9%
+T12	cv-bin-percent 1125 1130	54.0%
+T13	outcome 1428 1446	Bone marker levels
+T14	outcome 1550 1606	cumulative incidence rate of progressive disease in bone
+T15	outcome 1641 1668	Bone-related adverse events
+T3	control 745 770	placebo (exemestane only)
+T4	iv-bin-percent 1715 1719	3.3%
+T16	cv-bin-percent 1735 1739	4.2%
+T9	outcome 1447 1464	at 6 and 12 weeks
+T5	outcome-Measure 803 841	changes in bone turnover marker levels
+T6	outcome-Measure 845 885	baseline and progressive disease in bone

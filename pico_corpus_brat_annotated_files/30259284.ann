@@ -1,0 +1,15 @@
+T1	intervention 0 7	Dietary
+T2	eligibility 455 493	Overweight and obese, early-stage, BCS
+T3	intervention-participants 535 537	76
+T4	control 542 549	Control
+T5	control-participants 555 557	77
+T7	total-participants 900 923	One hundred twenty-five
+T8	intervention-participants 933 935	60
+T9	control-participants 943 945	65
+T10	outcome 1011 1053	Adherence to Mediterranean diet guidelines
+T13	outcome 1529 1552	use of spices and herbs
+T6	iv-cont-mean 1574 1582	+ 146.2%
+T14	cv-cont-mean 1587 1593	+33.3%
+T11	iv-cont-mean 1135 1142	+ 22.5%
+T12	cv-cont-mean 1147 1153	+ 2.7%
+T15	outcome 1282 1291	adherence

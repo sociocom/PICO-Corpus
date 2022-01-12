@@ -1,0 +1,22 @@
+T1	intervention 41 50	tamoxifen
+T2	total-participants 394 398	1884
+T4	control 497 504	placebo
+T6	outcome-Measure 544 567	breast cancer incidence
+T7	outcome 621 635	breast cancers
+T8	cv-bin-abs 618 620	24
+T9	iv-bin-abs 651 653	19
+T10	outcome 736 762	trends in luminal-A tumors
+T11	outcome 1024 1047	coronary heart syndrome
+T12	cv-bin-abs 1049 1050	6
+T13	iv-bin-abs 1058 1059	4
+T14	outcome 1062 1084	cerebrovascular events
+T15	cv-bin-abs 1086 1087	2
+T16	iv-bin-abs 1095 1096	5
+T17	outcome 1099 1102	VTE
+T18	cv-bin-abs 1104 1105	2
+T19	iv-bin-abs 1113 1114	5
+T20	outcome 1120 1135	uterine cancers
+T21	cv-bin-abs 1137 1138	3
+T22	iv-bin-abs 1146 1147	1
+T23	outcome 1150 1168	Vasomotor symptoms
+T24	iv-bin-percent 1174 1177	50%

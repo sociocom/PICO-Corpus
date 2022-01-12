@@ -1,0 +1,23 @@
+T1	intervention 0 33	Partial lower axillary dissection
+T2	eligibility 38 90	patients with clinically node-negative breast cancer
+T4	intervention-participants 537 541	1043
+T5	control 547 566	historical controls
+T6	control-participants 610 614	1084
+T7	outcome 622 636	5-year overall
+T8	outcome 641 668	disease-free survival rates
+T9	iv-bin-percent 674 679	95.6%
+T10	cv-bin-percent 684 689	89.7%
+T11	iv-bin-percent 695 700	94.9%
+T12	cv-bin-percent 705 710	88.4%
+T14	iv-cont-mean 852 860	41.6 min
+T15	cv-cont-mean 868 876	60.9 min
+T16	outcome 879 904	intraoperative blood loss
+T17	iv-cont-mean 906 913	28.0 ml
+T18	cv-cont-mean 922 929	51.3 ml
+T19	outcome 932 987	volume of lymphatic drainage at 2 weeks postoperatively
+T20	iv-cont-mean 989 995	488 ml
+T21	cv-cont-mean 1003 1009	836 ml
+T22	outcome 1016 1042	persistent arm lymphoedema
+T23	iv-bin-percent 1044 1048	0.0%
+T24	cv-bin-percent 1056 1061	11.8%
+T13	outcome 826 850	Mean duration of surgery

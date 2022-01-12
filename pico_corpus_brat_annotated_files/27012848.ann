@@ -1,0 +1,22 @@
+T1	intervention 22 62	phone- and web-based weight loss program
+T2	eligibility 423 482	Women with BMI ≥27.5 kg/m(2) at elevated breast cancer risk
+T3	intervention-participants 524 526	71
+T4	control 531 541	usual care
+T5	control-participants 547 549	34
+T6	outcome 676 687	weight loss
+T9	outcome 654 662	6 months
+T10	outcome 838 847	12 months
+T13	outcome 971 980	12 months
+T14	outcome 1026 1043	physical activity
+T15	iv-cont-mean 1057 1067	12 min/day
+T16	cv-cont-mean 1090 1099	no change
+T7	iv-cont-mean 881 886	3.7 %
+T8	iv-cont-sd 903 908	5.4 %
+T11	cv-cont-mean 923 928	1.3 %
+T12	cv-cont-sd 935 938	4.2
+T17	outcome 876 880	lost
+T18	outcome 890 896	weight
+T19	iv-cont-mean 728 733	4.7 %
+T20	iv-cont-sd 766 771	4.7 %
+T21	cv-cont-mean 797 802	0.4 %
+T22	cv-cont-sd 814 819	3.0 %

@@ -1,0 +1,18 @@
+T1	intervention 12 23	fulvestrant
+T2	control 38 49	anastrozole
+T3	eligibility 324 396	advanced hormone receptor-positive breast cancer in postmenopausal women
+T4	outcome-Measure 672 699	clinical benefit rate (CBR)
+T6	outcome 908 911	CBR
+T7	iv-bin-abs 948 951	102
+T8	cv-bin-abs 974 977	103
+T9	iv-bin-percent 980 985	72.5%
+T10	cv-bin-percent 988 993	67.0%
+T14	iv-bin-percent 1143 1148	36.0%
+T15	cv-bin-percent 1163 1168	35.5%
+T16	outcome 1170 1195	Time to progression (TTP)
+T17	cv-cont-median 1301 1312	12.5 months
+T5	outcome 1060 1089	Objective response rate (ORR)
+T11	iv-cont-median 1268 1279	not reached
+T12	outcome 1384 1405	Duration of OR and CB
+T13	outcome 1468 1482	well tolerated
+T18	outcome 1549 1563	adverse events

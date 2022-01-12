@@ -1,0 +1,15 @@
+T1	intervention 7 33	mobile phone short message
+T2	total-participants 222 225	703
+T3	location 260 269	Barcelona
+T5	control-participants 445 448	470
+T6	control 463 486	usual appointment track
+T7	intervention-participants 518 521	233
+T9	outcome 962 968	uptake
+T10	iv-bin-percent 993 998	78.1%
+T11	cv-bin-percent 1003 1008	72.3%
+T12	outcome 1156 1183	mean of re-invitation calls
+T13	iv-cont-mean 1231 1234	.41
+T14	cv-cont-mean 1239 1242	.65
+T15	iv-cont-mean 1426 1429	.09
+T16	cv-cont-mean 1434 1437	.19
+T4	outcome 1394 1424	previously participating women

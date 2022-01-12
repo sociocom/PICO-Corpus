@@ -1,0 +1,22 @@
+T1	intervention 0 9	Tamoxifen
+T2	eligibility 359 400	women at increased risk for breast cancer
+T3	total-participants 598 604	13,388
+T4	control 640 647	placebo
+T6	outcome 1001 1042	cumulative rate of invasive breast cancer
+T9	outcome 1190 1234	cumulative rate of noninvasive breast cancer
+T12	iv-bin-percent 1461 1464	32%
+T13	outcome 1465 1500	reduction in osteoporotic fractures
+T14	outcome 1555 1561	stroke
+T15	outcome 1563 1583	deep-vein thrombosis
+T16	outcome 1589 1598	cataracts
+T17	outcome 1639 1661	ischemic heart disease
+T18	outcome 1666 1671	death
+T19	outcome 1759 1786	Risks of pulmonary embolism
+T7	cv-bin-abs 1060 1064	42.5
+T20	control-participants 1069 1073	1000
+T8	iv-bin-abs 1104 1108	24.8
+T21	intervention-participants 1113 1117	1000
+T10	cv-bin-abs 1252 1256	15.8
+T22	control-participants 1261 1265	1000
+T11	iv-bin-abs 1296 1300	10.2
+T23	intervention-participants 1305 1309	1000

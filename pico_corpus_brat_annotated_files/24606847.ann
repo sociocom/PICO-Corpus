@@ -1,0 +1,6 @@
+T1	intervention 108 136	active breathing coordinator
+T2	condition 514 548	radiation-induced cardiac toxicity
+T3	eligibility 699 785	Stages I to III left breast cancer patients requiring adjuvant radiation therapy (XRT)
+T4	control 812 818	No-ABC
+T7	total-participants 1433 1435	57
+T8	total-participants 1464 1465	3

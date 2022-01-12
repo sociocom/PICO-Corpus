@@ -1,0 +1,10 @@
+T1	intervention 11 41	Ligasure vessel sealing system
+T2	condition 76 92	seroma formation
+T4	eligibility 561 643	patients with positive sentinel lymph node biopsy or clinical axillary involvement
+T5	total-participants 969 981	thirty three
+T6	age 1010 1022	51.4 +- 13.7
+T8	outcome 1370 1384	operative time
+T9	outcome 1459 1472	complications
+T3	control 919 945	linking and electrocautery
+T7	outcome 1304 1319	drainage amount
+T10	outcome 1324 1341	duration of drain

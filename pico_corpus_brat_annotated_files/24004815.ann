@@ -1,0 +1,16 @@
+T1	intervention 445 499	online breast cancer chemoprevention decision aid (DA)
+T2	eligibility 540 575	women at high risk of breast cancer
+T3	total-participants 738 741	585
+T4	age 744 759	46- to 74-years
+T7	outcome-Measure 1129 1215	whether women’s intentions and decisions regarding chemoprevention drugs were informed
+T8	outcome-Measure 1221 1331	whether women who viewed the DA were more likely to make informed decisions than women who did not view the DA
+T9	outcome 1632 1655	made informed decisions
+T10	iv-bin-percent 1613 1618	52.7%
+T11	cv-bin-percent 1626 1630	5.9%
+T12	outcome 1725 1749	rates of informed choice
+T13	iv-bin-percent 1772 1777	16.9%
+T14	control 920 942	standard control group
+T15	cv-bin-percent 1804 1809	11.8%
+T16	cv-bin-percent 1814 1818	8.0%
+T5	control 1007 1032	three-month control group
+T6	outcome 1884 1908	informed decision making

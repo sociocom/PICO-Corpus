@@ -1,0 +1,36 @@
+T1	intervention 42 52	ultrasound
+T2	control 56 67	mammography
+T3	ethinicity 124 131	Chinese
+T4	location 240 245	China
+T6	total-participants 402 408	13 339
+T7	eligibility 409 424	high-risk women
+T8	age 430 441	30-65 years
+T5	outcome 1129 1140	specificity
+T9	outcome 1168 1193	positive predictive value
+T10	cv-bin-percent 1142 1145	100
+T11	iv-bin-percent 1149 1154	99.9%
+T12	cv-bin-percent 1195 1199	72.7
+T13	iv-bin-percent 1203 1208	70.0%
+T14	outcome 974 983	sensitive
+T15	iv-bin-percent 985 988	100
+T16	cv-bin-percent 992 997	57.1%
+T17	outcome 1021 1040	diagnostic accuracy
+T18	iv-bin-percent 1042 1047	0.999
+T19	cv-bin-percent 1051 1056	0.766
+T20	outcome 673 680	cancers
+T21	cv-bin-abs 720 721	5
+T22	cv-bin-abs 723 727	0.72
+T23	control-participants 728 732	1000
+T24	iv-bin-abs 765 767	11
+T25	cv-bin-abs 769 773	1.51
+T26	intervention-participants 774 778	1000
+T27	iv-bin-abs 809 811	14
+T28	iv-bin-abs 813 817	2.02
+T29	intervention-participants 818 822	1000
+T30	outcome 910 917	cancers
+T31	iv-bin-abs 907 909	14
+T32	cv-bin-abs 948 949	8
+T33	outcome 1245 1250	costs
+T34	iv-cont-mean 1306 1311	$7876
+T35	cv-cont-mean 1313 1320	$45 253
+T36	iv-cont-mean 1326 1333	$21 599

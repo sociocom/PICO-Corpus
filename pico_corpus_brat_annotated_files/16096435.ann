@@ -1,0 +1,28 @@
+T2	control 283 319	6 cycles of epidoxorubicin/docetaxel
+T4	total-participants 396 406	Forty-five
+T5	outcome-Measure 702 743	pathological complete response (pCR) rate
+T7	outcome 862 865	pCR
+T8	iv-bin-percent 878 881	10%
+T9	iv-bin-abs 883 886	two
+T10	intervention-participants 890 892	20
+T11	cv-bin-percent 912 915	36%
+T12	cv-bin-abs 917 921	nine
+T13	control-participants 925 927	25
+T14	outcome 988 1032	Breast-conserving surgery could be performed
+T15	iv-bin-percent 1036 1039	70%
+T16	iv-bin-abs 1041 1043	14
+T17	intervention-participants 1047 1049	20
+T18	cv-bin-percent 1069 1072	76%
+T19	cv-bin-abs 1074 1076	19
+T20	control-participants 1080 1082	25
+T21	outcome 1106 1145	Axillary lymph node status was negative
+T22	iv-bin-percent 1149 1152	45%
+T23	iv-bin-abs 1154 1158	nine
+T24	intervention-participants 1162 1164	20
+T25	cv-bin-percent 1181 1184	52%
+T26	cv-bin-abs 1186 1188	13
+T27	control-participants 1192 1194	25
+T28	eligibility 407 453	patients eligible for neoadjuvant chemotherapy
+T1	intervention 68 96	epidoxorubicin and docetaxel
+T3	outcome-Measure 774 808	rates of breast-conserving surgery
+T6	outcome-Measure 817 843	axillary lymph node status

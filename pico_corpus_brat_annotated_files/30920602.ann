@@ -1,0 +1,18 @@
+T1	intervention 10 41	Aerobic and Resistance Exercise
+T2	condition 58 85	Cardiovascular Disease Risk
+T3	eligibility 89 125	Women With Early-Stage Breast Cancer
+T4	eligibility 497 504	16-week
+T5	total-participants 710 713	100
+T6	eligibility 714 925	women with stage I to III breast cancer who were sedentary, with overweight condition or obesity (body mass index of ≥25.0 or body fat of ≥30%), and completed cancer treatment within 6 months prior to enrollment
+T7	control 970 980	usual care
+T11	total-participants 1635 1638	100
+T14	ethinicity 1762 1776	Hispanic white
+T15	age 1818 1835	53.5 (10.4) years
+T16	outcome 1841 1867	mean (SD) total FRS scores
+T17	outcome 1966 1986	postintervention FRS
+T9	control-participants 1723 1726	 50
+T12	intervention-participants 1695 1697	50
+T13	iv-cont-mean 1890 1893	2.0
+T19	iv-cont-sd 1895 1898	1.5
+T18	cv-cont-mean 1926 1930	13.0
+T20	cv-cont-sd 1932 1935	3.0

@@ -1,0 +1,23 @@
+T1	intervention 3 46	community-based patient assistance programs
+T2	total-participants 508 511	374
+T3	intervention-participants 519 522	190
+T4	control 559 569	usual care
+T5	control-participants 552 555	184
+T6	eligibility 576 606	with early-stage breast cancer
+T9	outcome 965 983	received treatment
+T10	iv-bin-percent 985 988	87%
+T11	cv-bin-percent 1000 1003	91%
+T12	outcome 1038 1059	received radiotherapy
+T13	iv-bin-percent 1071 1074	93%
+T14	cv-bin-percent 1086 1089	86%
+T15	outcome 1151 1172	received chemotherapy
+T16	iv-bin-percent 1184 1187	92%
+T17	cv-bin-percent 1199 1202	93%
+T18	outcome 1407 1437	needs connected with a program
+T19	iv-bin-percent 1454 1457	92%
+T20	outcome 1490 1522	used patient-assistance programs
+T21	iv-bin-percent 1541 1544	75%
+T22	cv-bin-percent 1547 1550	76%
+T23	outcome 1619 1641	likely to receive help
+T7	outcome-Measure 882 910	receiving adjuvant treatment
+T8	outcome-Measure 915 929	obtaining help

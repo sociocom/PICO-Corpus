@@ -1,0 +1,13 @@
+T3	total-participants 666 669	176
+T4	eligibility 670 760	women with lymph node-negative breast cancer who were candidates for adjuvant chemotherapy
+T5	intervention-participants 845 847	83
+T6	control-participants 893 895	93
+T1	intervention 799 843	Decision Board plus the medical consultation
+T7	control 865 891	medical consultation alone
+T11	iv-cont-mean 1425 1429	80.2
+T12	cv-cont-mean 1502 1506	71.7
+T13	outcome 1584 1596	satisfaction
+T15	iv-bin-percent 1848 1851	77%
+T16	cv-bin-percent 1856 1859	70%
+T14	outcome 1796 1846	number of patients who chose adjuvant chemotherapy
+T2	outcome 1306 1321	better informed

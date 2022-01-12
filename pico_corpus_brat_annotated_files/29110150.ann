@@ -1,0 +1,12 @@
+T1	intervention 17 33	aerobic exercise
+T2	condition 112 126	cardiotoxicity
+T3	total-participants 451 462	Twenty-four
+T4	eligibility 463 499	women with early stage breast cancer
+T5	control 658 668	usual care
+T6	outcome 1006 1083	doxorubicin-related change in longitudinal strain, twist, or cardiac troponin
+T7	outcome 1134 1157	changes in hemodynamics
+T11	outcome 1417 1434	No adverse events
+T8	outcome 1267 1283	body weight gain
+T9	outcome 1285 1313	prevalence of depressed mood
+T10	outcome 1315 1327	sore muscles
+T12	outcome 1333 1346	low back pain

@@ -1,0 +1,19 @@
+T1	age 75 86	55-75 years
+T5	total-participants 828 831	749
+T6	eligibility 832 990	patients with unifocal infiltrating breast cancer up to 25 mm, 0-3 positive axillary lymph nodes, no extensive intraductal component or lymphvascular invasion
+T2	location 1010 1015	Italy
+T9	outcome 1465 1468	IBR
+T10	iv-bin-abs 1455 1457	12
+T11	iv-bin-percent 1459 1463	3.4%
+T12	cv-bin-abs 1496 1498	16
+T13	cv-bin-percent 1500 1504	4.4%
+T14	intervention 0 57	Breast-conservative surgery with and without radiotherapy
+T15	control 1075 1084	BCS alone
+T16	outcome 1516 1519	OAS
+T17	iv-bin-percent 1524 1529	81.4%
+T18	cv-bin-percent 1543 1548	83.7%
+T4	outcome 1619 1632	IBR and death
+T7	intervention-participants 1058 1061	373
+T8	control-participants 1092 1095	376
+T3	outcome-Measure 656 707	cumulative incidence of in-breast-recurrences (IBR)
+T19	outcome-Measure 712 734	overall survival (OAS)

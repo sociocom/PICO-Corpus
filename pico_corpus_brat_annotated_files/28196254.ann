@@ -1,0 +1,27 @@
+T1	intervention 12 32	Scalp Cooling Device
+T2	condition 36 44	Alopecia
+T3	eligibility 48 95	Women Undergoing Chemotherapy for Breast Cancer
+T5	location 768 781	United States
+T6	total-participants 787 790	182
+T7	eligibility 791 838	women with breast cancer requiring chemotherapy
+T8	intervention-participants 920 923	119
+T9	control 928 935	control
+T10	control-participants 941 943	63
+T11	outcome-Measure 1036 1064	successful hair preservation
+T12	outcome-Measure 1400 1407	wig use
+T13	outcome-Measure 1485 1500	Quality of Life
+T14	outcome-Measure 1524 1561	Hospital Anxiety and Depression Scale
+T15	outcome-Measure 1569 1606	summary scale of the Body Image Scale
+T16	total-participants 1645 1648	142
+T17	age 1716 1733	52.6 (10.1) years
+T18	outcome 1843 1871	Successful hair preservation
+T19	iv-bin-abs 1885 1887	48
+T20	intervention-participants 1891 1893	95
+T21	iv-bin-percent 1914 1919	50.5%
+T22	cv-bin-abs 1956 1957	0
+T23	control-participants 1961 1963	47
+T24	cv-bin-percent 1992 1994	0%
+T25	outcome 2332 2379	changes in any of the scales of quality of life
+T26	outcome 2467 2481	adverse events
+T27	cv-bin-abs 2520 2522	54
+T4	outcome 2616 2637	adverse device events

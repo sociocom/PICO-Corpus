@@ -1,0 +1,20 @@
+T4	condition 103 128	major depressive disorder
+T6	location 678 692	New York State
+T7	outcome-Measure 870 936	change in the Hamilton Depression Rating Scale (HAM-D) at 12 weeks
+T8	outcome-Measure 966 1042	other validated patient-reported outcomes for depression and quality of life
+T9	total-participants 1047 1050	179
+T10	eligibility 1051 1109	women with breast cancer screening positive for depression
+T11	total-participants 1141 1144	134
+T12	ethinicity 1220 1228	Hispanic
+T13	outcome 1374 1399	improvements on the HAM-D
+T14	outcome 1462 1476	response rates
+T15	iv-bin-percent 1482 1485	35%
+T16	iv-bin-percent 1495 1498	50%
+T17	iv-bin-percent 1511 1514	31%
+T18	outcome 1528 1543	remission rates
+T19	iv-bin-percent 1544 1547	25%
+T20	iv-bin-percent 1549 1552	30%
+T21	iv-bin-percent 1557 1560	27%
+T22	outcome 1637 1693	Quality of Life Enjoyment and Satisfaction Questionnaire
+T23	outcome 1695 1702	Dropout
+T1	intervention 22 98	interpersonal psychotherapy, problem solving therapy, and supportive therapy

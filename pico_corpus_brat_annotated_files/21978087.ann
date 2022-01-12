@@ -1,0 +1,14 @@
+T1	intervention 11 24	music therapy
+T2	condition 28 35	anxiety
+T3	eligibility 213 271	female breast cancer patients following radical mastectomy
+T4	total-participants 487 490	120
+T6	intervention-participants 663 665	60
+T9	control-participants 754 756	60
+T12	outcome 1340 1364	mean state anxiety score
+T13	outcome 1254 1276	level of state anxiety
+T20	outcome 1496 1511	mean difference
+T21	outcome 1676 1689	1st post-test
+T22	outcome 1691 1704	2nd post-test
+T23	outcome 1709 1722	3rd post-test
+T5	control 772 792	routine nursing care
+T7	outcome-Measure 898 917	state anxiety score

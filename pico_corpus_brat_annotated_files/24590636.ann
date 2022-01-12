@@ -1,0 +1,16 @@
+T1	intervention 32 36	yoga
+T3	eligibility 282 325	Patients with stages 0 to III breast cancer
+T4	intervention-participants 399 401	53
+T5	control 406 416	stretching
+T6	control-participants 426 428	56
+T7	control 475 483	waitlist
+T8	control-participants 493 495	54
+T13	outcome 827 858	physical component scale scores
+T14	outcome 998 1018	physical functioning
+T15	outcome 1248 1255	fatigue
+T16	outcome 1303 1334	mental health and sleep quality
+T17	outcome 1336 1350	Cortisol slope
+T2	outcome-Measure 530 533	QOL
+T9	outcome-Measure 604 611	fatigue
+T10	outcome-Measure 613 623	depression
+T11	outcome-Measure 629 642	sleep quality

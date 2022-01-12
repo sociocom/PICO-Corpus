@@ -1,0 +1,23 @@
+T5	total-participants 355 358	636
+T6	age 370 380	≥ 70 years
+T7	eligibility 382 519	who had clinical stage I (T1N0M0 according to TNM classification) estrogen receptor (ER) -positive breast carcinoma treated by lumpectomy
+T8	intervention-participants 595 598	317
+T10	control 609 624	tamoxifen alone
+T11	control-participants 631 634	319
+T12	outcome-Measure 667 703	time to local or regional recurrence
+T13	outcome-Measure 705 728	frequency of mastectomy
+T14	outcome-Measure 730 761	breast cancer-specific survival
+T15	outcome-Measure 763 789	time to distant metastasis
+T16	outcome-Measure 795 816	overall survival (OS)
+T18	outcome 1008 1048	free from local and regional recurrences
+T19	iv-bin-percent 888 891	98%
+T20	cv-bin-percent 955 958	90%
+T22	outcome 1202 1213	Ten-year OS
+T23	iv-bin-percent 1218 1221	67%
+T24	cv-bin-percent 1247 1250	66%
+T1	intervention 0 53	Lumpectomy plus tamoxifen with or without irradiation
+T2	outcome 1386 1409	locoregional recurrence
+T3	outcome 1091 1109	time to mastectomy
+T4	outcome 1111 1137	time to distant metastasis
+T9	outcome 1139 1170	breast cancer-specific survival
+T17	outcome 1175 1177	OS

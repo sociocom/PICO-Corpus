@@ -1,0 +1,17 @@
+T1	intervention 45 69	informatics-based system
+T3	age 452 463	42-69 years
+T4	eligibility 468 518	with no record of a mammogram in the prior 2 years
+T5	outcome-Measure 1091 1161	proportion of overdue women undergoing mammography at 1-year follow-up
+T6	outcome 1163 1189	Baseline mammography rates
+T7	iv-bin-percent 1244 1249	79.5%
+T8	cv-bin-percent 1253 1258	79.3%
+T9	intervention-participants 1277 1282	3,054
+T10	control-participants 1319 1324	3,676
+T11	ethinicity 1439 1457	non-Hispanic white
+T12	outcome 1559 1575	Action was taken
+T13	iv-bin-abs 1580 1585	2,652
+T14	iv-bin-percent 1587 1592	86.8%
+T15	outcome 1668 1699	After 1 year, mammography rates
+T16	iv-bin-percent 1751 1756	31.4%
+T17	cv-bin-percent 1760 1765	23.3%
+T2	control 1210 1227	control practices

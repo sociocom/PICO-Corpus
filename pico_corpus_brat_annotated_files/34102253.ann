@@ -1,0 +1,15 @@
+T1	intervention 0 27	Ribociclib plus fulvestrant
+T2	outcome 2033 2036	mOS
+T3	iv-cont-median 2041 2052	39.7 months
+T4	cv-cont-median 2073 2084	33.7 months
+T7	outcome 1936 1939	mOS
+T8	cv-cont-median 1944 1955	51.8 months
+T11	outcome 1630 1645	median OS (mOS)
+T12	iv-cont-median 1650 1661	53.7 months
+T13	cv-cont-median 1682 1693	41.5 months
+T17	total-participants 1526 1529	726
+T18	intervention-participants 1563 1566	484
+T19	control-participants 1580 1583	242
+T20	outcome-Measure 1371 1373	OS
+T21	control 1249 1256	placebo
+T5	eligibility 782 884	men and postmenopausal women (age ≥18 years) with histologically/cytologically confirmed HR+/HER2- ABC

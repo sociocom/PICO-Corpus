@@ -1,0 +1,7 @@
+T1	intervention 16 63	guideline-based heart substructures delineation
+T2	eligibility 67 133	left-sided breast cancer patients undergoing adjuvant radiotherapy
+T3	condition 364 388	cardiovascular morbidity
+T4	total-participants 668 670	16
+T8	outcome 1376 1422	Mean DSC between CBD and the corresponding MCD
+T5	outcome 1136 1168	Mean DSCs between heart chambers
+T7	outcome 1254 1284	Mean DSC between substructures

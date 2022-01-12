@@ -1,0 +1,14 @@
+T1	intervention 8 19	Mitomycin C
+T2	condition 34 54	Capsular Contracture
+T3	age 655 674	older than 18 years
+T4	eligibility 675 782	scheduled for the second stage of an implant-based breast reconstruction after mastectomy for breast cancer
+T5	location 819 824	Milan
+T7	total-participants 1071 1074	322
+T8	intervention-participants 1174 1195	One hundred sixty-two
+T9	control-participants 1249 1252	160
+T10	control 1284 1297	control group
+T11	outcome 1303 1340	relative risk of capsular contracture
+T13	outcome 1406 1425	Major complications
+T6	outcome 1437 1451	reintervention
+T12	outcome 1453 1471	oncologic outcomes
+T14	outcome 1477 1495	aesthetic outcomes

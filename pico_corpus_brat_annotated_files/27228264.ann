@@ -1,0 +1,13 @@
+T1	total-participants 347 368	Three hundred and two
+T2	eligibility 369 469	women with early stage breast cancer who were recruited within 1 year of diagnosis and their spouses
+T3	control 33 43	supportive
+T4	intervention 53 98	skill-based couple-focused group intervention
+T5	outcome 724 731	anxiety
+T7	outcome 733 752	depressive symptoms
+T8	outcome 758 782	cancer-specific distress
+T9	outcome 915 936	reduction of distress
+T10	outcome 940 975	improvements in positive well-being
+T6	outcome 1043 1093	levels of cancer-specific preintervention distress
+T11	outcome 1095 1102	anxiety
+T12	outcome 1104 1114	depression
+T13	outcome 1120 1130	well-being

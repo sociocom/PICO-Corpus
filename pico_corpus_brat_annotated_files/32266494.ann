@@ -1,0 +1,14 @@
+T2	total-participants 305 316	Thirty-five
+T1	eligibility 317 357	sedentary and obese postmenopausal women
+T5	intervention-participants 427 429	10
+T6	intervention-participants 462 464	13
+T3	intervention 0 13	Exercise type
+T4	condition 18 31	fat mass loss
+T7	control 470 483	control group
+T8	control-participants 492 494	12
+T10	outcome 779 806	reduction in total fat mass
+T11	outcome 844 870	increase in lean body mass
+T12	outcome 943 961	decrease in DHEA-S
+T13	outcome 989 1006	free testosterone
+T14	outcome 1248 1264	circulating SHBG
+T15	outcome 1287 1293	DHEA-S

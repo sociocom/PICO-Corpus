@@ -1,0 +1,12 @@
+T1	intervention 79 101	lipegfilgrastim (XM22)
+T2	total-participants 439 442	208
+T3	eligibility 443 470	chemotherapy-naive patients
+T7	outcome 894 902	mean DSN
+T4	control 537 550	pegfilgrastim
+T5	outcome-Measure 749 796	duration of severe neutropenia (DSN) in cycle 1
+T6	outcome 856 870	DSN in cycle 1
+T9	iv-cont-mean 907 916	0.76 days
+T10	cv-cont-mean 957 966	0.87 days
+T8	outcome 1140 1180	absolute neutrophil count (ANC) at nadir
+T11	outcome 1190 1207	ANC recovery time
+T12	outcome 1223 1254	safety and tolerability profile

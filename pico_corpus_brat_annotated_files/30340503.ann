@@ -1,0 +1,15 @@
+T1	intervention 0 31	Aerobic and resistance exercise
+T3	eligibility 95 139	overweight and obese breast cancer survivors
+T4	total-participants 702 713	One hundred
+T5	eligibility 714 786	breast cancer survivors within 6 months of completing adjuvant treatment
+T10	outcome 1301 1316	quality of life
+T11	control 1286 1296	usual care
+T12	outcome 1381 1388	fatigue
+T13	outcome 1402 1412	depression
+T14	outcome 1426 1442	estimated VO2max
+T15	outcome 1456 1473	muscular strength
+T16	outcome 1487 1498	osteocalcin
+T17	outcome 1515 1519	BSAP
+T18	outcome 1559 1615	patient-reported outcomes and physical fitness variables
+T2	outcome 1895 1910	quality of life
+T6	outcome 1915 1931	physical fitness

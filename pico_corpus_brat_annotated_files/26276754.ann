@@ -1,0 +1,22 @@
+T1	intervention 10 19	Metformin
+T2	total-participants 453 456	200
+T3	eligibility 457 515	nondiabetic patients diagnosed with invasive breast cancer
+T4	control 559 566	placebo
+T8	outcome 960 989	median posttreatment Ki-67 LI
+T9	iv-cont-median 1048 1051	15%
+T10	cv-cont-median 1066 1068	5%
+T11	outcome 1075 1082	in LCIS
+T12	iv-cont-median 1094 1097	12%
+T13	cv-cont-median 1112 1115	10%
+T14	outcome 1123 1130	in DCIS
+T15	iv-cont-median 1146 1148	3%
+T16	cv-cont-median 1162 1164	3%
+T17	outcome 1171 1176	in DH
+T18	outcome 1197 1246	posttreatment Ki-67 in HER2-positive DCIS lesions
+T19	iv-cont-median 1340 1343	22%
+T20	cv-cont-median 1359 1362	35%
+T21	outcome 1371 1392	in HER2-positive DCIS
+T22	iv-cont-median 1412 1415	12%
+T23	cv-cont-median 1430 1433	32%
+T24	outcome 1442 1475	in ER-positive/HER2-positive DCIS
+T25	outcome 1564 1586	invasive breast cancer

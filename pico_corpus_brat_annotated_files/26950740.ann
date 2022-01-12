@@ -1,0 +1,26 @@
+T1	intervention 29 33	Talc
+T2	intervention 41 53	Iodopovidone
+T3	condition 76 92	Seroma Formation
+T4	eligibility 560 626	Patients with breast cancer undergoing modified radical mastectomy
+T5	control 680 687	control
+T6	outcome-Measure 756 785	frequency of seroma formation
+T7	outcome-Measure 815 834	wound complications
+T12	total-participants 985 987	86
+T13	total-participants 1022 1024	80
+T14	outcome 1126 1142	adverse outcomes
+T15	outcome 1092 1104	discontinued
+T17	iv-bin-percent 1303 1308	19.4%
+T18	cv-bin-percent 1328 1333	23.3%
+T9	outcome 1431 1461	aspirations per patient seroma
+T10	outcome 1471 1485	volume drained
+T11	outcome 1285 1301	seroma formation
+T16	iv-cont-mean 1524 1528	88.2
+T19	iv-cont-sd 1531 1533	73
+T20	cv-cont-mean 1538 1543	158.3
+T21	cv-cont-sd 1546 1550	90.5
+T8	outcome-Measure 899 912	analgesic use
+T22	outcome-Measure 914 932	postoperative pain
+T23	outcome-Measure 934 953	total drain outputs
+T24	outcome-Measure 959 976	drainage duration
+T25	outcome 1144 1161	drainage duration
+T26	outcome 1166 1195	total amount of fluid drained

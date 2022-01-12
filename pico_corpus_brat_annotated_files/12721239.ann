@@ -1,0 +1,17 @@
+T1	intervention 31 48	exercise training
+T3	total-participants 386 397	Fifty-three
+T4	intervention-participants 480 482	25
+T5	control 487 494	control
+T6	control-participants 500 502	28
+T7	outcome-Measure 730 764	changes in peak oxygen consumption
+T8	outcome-Measure 769 814	overall QOL from baseline to postintervention
+T9	total-participants 994 1003	Fifty-two
+T11	outcome 1157 1168	overall QOL
+T12	outcome 1210 1233	Peak oxygen consumption
+T15	outcome 1421 1432	Overall QOL
+T16	iv-cont-mean 1446 1456	9.1 points
+T17	cv-cont-mean 1493 1503	0.3 points
+T2	eligibility 398 436	postmenopausal breast cancer survivors
+T10	outcome 1119 1142	peak oxygen consumption
+T13	outcome 1632 1655	peak oxygen consumption
+T14	outcome 1682 1693	overall QOL

@@ -1,0 +1,30 @@
+T1	intervention 52 61	idoxifene
+T2	total-participants 390 392	56
+T3	eligibility 393 475	postmenopausal patients with progressive locally advanced/metastatic breast cancer
+T4	control 579 588	tamoxifen
+T5	total-participants 692 694	47
+T6	intervention-participants 727 729	25
+T7	control-participants 741 743	22
+T8	outcome 760 777	partial responses
+T10	outcome 854 883	overall clinical benefit rate
+T11	iv-bin-abs 756 759	two
+T12	iv-bin-abs 782 785	two
+T13	iv-bin-percent 884 887	16%
+T15	iv-cont-median 952 962	9.8 months
+T16	outcome 980 999	objective responses
+T17	cv-bin-abs 977 979	no
+T18	cv-bin-abs 1067 1070	two
+T9	outcome 786 813	disease stabilizations (SD)
+T19	outcome 1084 1086	SD
+T20	outcome 1108 1129	clinical benefit rate
+T21	cv-bin-percent 1130 1132	9%
+T22	outcome 1208 1231	drug-related toxicities
+T23	outcome 1283 1294	hot flushes
+T24	iv-bin-percent 1295 1298	13%
+T25	cv-bin-percent 1302 1305	15%
+T26	outcome 1307 1318	mild nausea
+T27	iv-bin-percent 1319 1322	20%
+T28	cv-bin-percent 1326 1329	15%
+T14	outcome 912 947	median duration of clinical benefit
+T29	outcome 1580 1604	serum cholesterol levels
+T30	outcome 1413 1471	serum follicle-stimulating hormone and luteinizing hormone

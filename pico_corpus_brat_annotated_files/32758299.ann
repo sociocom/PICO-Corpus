@@ -1,0 +1,27 @@
+T1	intervention 87 101	nab-paclitaxel
+T2	total-participants 648 651	160
+T4	eligibility 652 685	women with advanced breast cancer
+T5	age 691 701	≥ 65 years
+T6	location 744 749	Italy
+T7	outcome-Measure 963 988	event-free survival (EFS)
+T9	total-participants 1467 1470	158
+T10	outcome 1491 1501	Median EFS
+T12	outcome 1710 1788	percentage of dose reductions and discontinuations due to adverse events (AEs)
+T16	iv-bin-percent 1924 1927	43%
+T17	cv-bin-percent 1932 1935	51%
+T18	outcome 1955 1976	peripheral neuropathy
+T19	iv-bin-percent 1995 1998	19%
+T20	cv-bin-percent 2003 2006	38%
+T13	outcome 1866 1908	fatigue (grade [G] 2-3 toxicity occurrence
+T14	iv-cont-median 1506 1516	8.2 months
+T15	cv-cont-median 1558 1568	8.3 months
+T3	outcome 1443 1449	events
+T11	outcome 1608 1633	Progression-free survival
+T21	outcome 1635 1651	overall survival
+T22	outcome 1657 1671	response rates
+T23	outcome 2148 2176	neurotoxicity-related events
+T8	outcome-Measure 1270 1299	objective response rate (ORR)
+T24	outcome-Measure 1301 1328	clinical benefit rate (CBR)
+T25	outcome-Measure 1330 1361	progression-free survival (PFS)
+T26	outcome-Measure 1363 1384	overall survival (OS)
+T27	outcome-Measure 1390 1396	safety

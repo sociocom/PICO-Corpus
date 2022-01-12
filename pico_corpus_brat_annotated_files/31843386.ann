@@ -1,0 +1,11 @@
+T1	intervention 11 30	hydrochlorothiazide
+T4	total-participants 783 788	Sixty
+T5	eligibility 789 894	patients with breast cancer who underwent skin- or nipple-sparing mastectomy and DIEP flap reconstruction
+T7	control 1101 1122	no diuretic (control)
+T9	outcome 1256 1303	average total drainage volume at the donor site
+T11	outcome 1533 1572	No hypotension or electrolyte imbalance
+T12	iv-cont-mean 1308 1314	291 mL
+T13	cv-cont-mean 1342 1348	434 mL
+T2	condition 34 70	drainage volume and seroma formation
+T3	outcome 1402 1417	body mass index
+T6	outcome 1422 1433	flap weight

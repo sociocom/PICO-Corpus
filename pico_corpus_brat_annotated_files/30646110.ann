@@ -1,0 +1,38 @@
+T1	intervention 13 21	Hypnosis
+T3	location 654 660	France
+T4	total-participants 662 665	150
+T5	eligibility 666 713	women scheduled for minor breast cancer surgery
+T6	control 738 745	control
+T7	control-participants 774 776	71
+T8	intervention-participants 789 791	77
+T9	outcome-Measure 1184 1205	breast pain reduction
+T10	outcome-Measure 1345 1360	nausea/vomiting
+T11	outcome-Measure 1362 1369	fatigue
+T12	outcome-Measure 1371 1389	comfort/well-being
+T13	outcome-Measure 1391 1398	anxiety
+T14	outcome-Measure 1404 1423	PACU length of stay
+T15	age 1508 1537	57 years (range, 33-79 years)
+T16	age 1561 1590	53 years (range, 20-84 years)
+T17	outcome 1829 1856	mean (SD) breast pain score
+T18	outcome 2067 2074	Fatigue
+T19	outcome 2244 2270	median PACU length of stay
+T20	outcome 2511 2525	fatigue scores
+T21	outcome 2686 2693	Anxiety
+T24	cv-cont-mean 2163 2167	3.81
+T25	iv-cont-mean 2197 2201	2.99
+T26	cv-cont-median 2275 2285	60 minutes
+T27	iv-cont-median 2332 2342	46 minutes
+T2	cv-cont-mean 1875 1879	1.75
+T31	cv-cont-sd 1881 1885	1.59
+T22	iv-cont-mean 1909 1913	2.63
+T32	iv-cont-sd 1915 1919	1.62
+T33	cv-cont-sd 2169 2173	2.15
+T34	iv-cont-sd 2203 2207	2.56
+T23	cv-cont-mean 2599 2603	4.13
+T35	cv-cont-sd 2605 2609	2.26
+T28	iv-cont-mean 2640 2644	2.97
+T36	iv-cont-sd 2646 2650	2.42
+T29	iv-cont-mean 2796 2800	0.75
+T37	iv-cont-sd 2802 2806	1.64
+T30	cv-cont-mean 2834 2838	1.67
+T38	cv-cont-sd 2840 2844	2.29

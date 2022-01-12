@@ -1,0 +1,13 @@
+T1	intervention 8 25	physical activity
+T2	total-participants 488 491	320
+T3	eligibility 492 523	postmenopausal, sedentary women
+T4	age 528 542	50 to 74 years
+T5	intervention-participants 641 644	160
+T6	control 689 712	usual level of activity
+T7	intervention 592 608	aerobic exercise
+T8	control-participants 718 721	160
+T9	total-participants 1025 1028	309
+T10	outcome 1166 1201	significant reductions in estradiol
+T11	outcome 1266 1280	free estradiol
+T12	outcome 1320 1337	increases in SHBG
+T13	outcome 1442 1521	No significant differences in estrone, androstenedione, and testosterone levels

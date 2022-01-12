@@ -1,0 +1,17 @@
+T1	intervention 0 48	Indocyanine green fluorescence-guided lumpectomy
+T2	control 85 105	wire-guided excision
+T3	total-participants 416 418	62
+T4	eligibility 419 542	patients with a preoperative histological diagnosis of NBC lesions that could be visualized with ultrasound and mammography
+T5	total-participants 748 750	62
+T6	intervention-participants 761 763	32
+T7	control-participants 797 799	30
+T8	outcome 848 872	retrieval of the lesions
+T9	iv-bin-percent 843 847	100%
+T10	outcome 878 899	rate of clear margins
+T11	iv-bin-percent 945 950	87.5%
+T12	iv-bin-abs 952 954	28
+T13	intervention-participants 955 957	32
+T14	cv-bin-percent 979 984	63.3%
+T15	cv-bin-abs 986 988	19
+T16	control-participants 989 991	30
+T17	outcome 1110 1143	mean volume of the INBCL specimen

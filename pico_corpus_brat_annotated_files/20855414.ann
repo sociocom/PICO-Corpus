@@ -1,0 +1,17 @@
+T1	intervention 0 23	Brief smoking cessation
+T2	location 665 672	Denmark
+T3	total-participants 674 696	One hundred and thirty
+T4	control 771 784	standard care
+T5	intervention-participants 764 766	65
+T6	control-participants 790 792	65
+T7	outcome 1007 1046	overall postoperative complication rate
+T10	outcome 1155 1178	wound complication rate
+T11	iv-bin-percent 1183 1186	44%
+T12	cv-bin-percent 1194 1197	45%
+T13	outcome 1203 1244	effect on perioperative smoking cessation
+T14	iv-bin-percent 1257 1260	28%
+T15	cv-bin-percent 1281 1284	11%
+T16	outcome 1350 1377	effect on smoking cessation
+T17	iv-bin-percent 1392 1395	13%
+T18	cv-bin-percent 1403 1405	9%
+T8	iv-bin-percent 1091 1094	61%

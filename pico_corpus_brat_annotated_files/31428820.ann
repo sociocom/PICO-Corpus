@@ -1,0 +1,16 @@
+T1	intervention 23 28	CT-P6
+T3	eligibility 61 94	HER2-positive early breast cancer
+T4	intervention-participants 612 615	271
+T5	control-participants 620 623	278
+T6	outcome 679 682	pCR
+T7	outcome 687 703	breast pCR rates
+T8	outcome 862 914	study drug-related treatment-emergent adverse events
+T9	iv-bin-percent 800 805	47.6%
+T10	cv-bin-percent 818 823	52.2%
+T11	outcome 956 969	heart failure
+T12	iv-bin-abs 978 980	10
+T13	cv-bin-abs 995 996	7
+T14	outcome 1040 1071	discontinued adjuvant treatment
+T15	iv-bin-abs 999 1002	Two
+T16	cv-bin-abs 1013 1018	three
+T2	control 36 57	reference trastuzumab

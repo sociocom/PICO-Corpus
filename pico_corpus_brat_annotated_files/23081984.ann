@@ -1,0 +1,9 @@
+T1	intervention 0 23	Problem-solving therapy
+T2	condition 28 50	psychological distress
+T3	ethinicity 54 62	Japanese
+T4	total-participants 343 345	36
+T5	eligibility 346 390	post-surgery Japanese breast cancer patients
+T6	location 427 450	Osaka Prefecture, Japan
+T7	intervention-participants 685 693	Nineteen
+T8	outcome 842 885	total Hospital Anxiety and Depression Scale
+T9	outcome 1076 1136	changes in worry, self-efficacy and quality of life measures

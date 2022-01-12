@@ -1,0 +1,16 @@
+T1	intervention 24 41	exercise behavior
+T2	total-participants 1041 1056	Two hundred one
+T3	control-participants 1115 1117	85
+T4	intervention-participants 1162 1164	74
+T5	intervention-participants 1212 1214	42
+T6	total-participants 429 432	242
+T7	control 493 503	usual care
+T8	control-participants 509 511	82
+T9	intervention-participants 550 552	82
+T10	intervention-participants 591 593	78
+T12	outcome 1711 1743	postintervention body mass index
+T13	outcome 1657 1674	positive attitude
+T14	outcome 1599 1623	postintervention fatigue
+T15	outcome 1545 1566	strength improvements
+T16	outcome 1493 1518	breast conserving surgery
+T17	outcome 1410 1427	pretrial exercise

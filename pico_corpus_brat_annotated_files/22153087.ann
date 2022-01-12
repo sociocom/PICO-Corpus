@@ -1,0 +1,12 @@
+T1	condition 11 27	seroma formation
+T3	intervention-participants 746 748	30
+T5	intervention 614 678	standard scalpel blades, scissors, ligations, and electrocautery
+T6	outcome 807 846	axillary and chest wall drainage volume
+T7	outcome 852 876	number of axilla seromas
+T8	outcome 878 901	intraoperative bleeding
+T9	outcome 907 927	hospitalization stay
+T10	outcome 1043 1057	operative time
+T11	outcome 1068 1134	no postoperative hematoma, wound infections, and chest wall seroma
+T12	outcome 1206 1261	magnitude of seromas in axilla and hospitalization stay
+T2	eligibility 542 600	patients undergoing breast surgery and axillary dissection
+T4	control 686 709	ultrasound scalpel only

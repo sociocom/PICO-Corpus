@@ -1,0 +1,14 @@
+T1	intervention 0 22	High-dose chemotherapy
+T3	age 293 314	younger than 56 years
+T4	total-participants 995 998	885
+T5	intervention-participants 1009 1012	442
+T6	control-participants 1054 1057	443
+T7	control 1065 1088	conventional-dose group
+T9	outcome 1143 1177	5-year relapse-free survival rates
+T10	cv-bin-percent 1183 1193	59 percent
+T11	iv-bin-percent 1229 1239	65 percent
+T14	outcome 1423 1450	relapse-free survival rates
+T15	cv-bin-percent 1456 1466	51 percent
+T16	iv-bin-percent 1502 1512	61 percent
+T2	eligibility 322 399	who had undergone surgery for breast cancer and who had no distant metastases
+T8	outcome 1683 1704	relapse-free survival

@@ -1,0 +1,9 @@
+T3	eligibility 465 529	Breast cancer patients scheduled for modified radical mastectomy
+T4	condition 110 131	Upper Limb Lymphedema
+T5	control 567 589	physical exercise only
+T6	control-participants 618 621	500
+T7	intervention-participants 671 674	500
+T1	intervention 10 54	Manual Lymph Drainage with Physical Exercise
+T2	outcome 1442 1458	scar contracture
+T8	outcome 1460 1478	shoulder abduction
+T9	outcome 1484 1508	upper limb circumference

@@ -1,0 +1,26 @@
+T1	intervention 19 28	Cocculine
+T2	condition 52 79	chemotherapy-induced emesis
+T3	eligibility 740 801	Chemotherapy-naïve patients with non-metastatic breast cancer
+T5	outcome-Measure 1174 1186	nausea score
+T6	outcome-Measure 1341 1349	vomiting
+T7	outcome-Measure 1378 1397	nausea and vomiting
+T9	outcome-Measure 1489 1509	treatment compliance
+T11	total-participants 1548 1551	431
+T12	intervention-participants 1578 1581	214
+T13	control-participants 1603 1606	217
+T15	cv-bin-abs 1804 1807	103
+T16	iv-bin-abs 1836 1839	102
+T14	outcome 1868 1890	nausea FLIE scores > 6
+T19	outcome 2399 2405	nausea
+T20	cv-bin-percent 2410 2415	17.6%
+T21	iv-bin-percent 2422 2427	15.7%
+T22	outcome 2437 2445	vomiting
+T23	cv-bin-percent 2450 2455	10.8%
+T24	iv-bin-percent 2462 2467	12.0%
+T10	outcome 2337 2362	severe (Grade ≥ 2) nausea
+T18	outcome 2367 2375	vomiting
+T25	outcome 1695 1705	compliance
+T4	control 1610 1621	placebo (P)
+T8	outcome 2198 2204	nausea
+T17	outcome 2206 2214	vomiting
+T26	outcome 2219 2244	global emesis FLIE scores

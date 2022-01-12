@@ -1,0 +1,13 @@
+T4	control 1053 1063	usual care
+T10	total-participants 1783 1785	80
+T11	total-participants 1825 1827	65
+T12	intervention-participants 1848 1850	29
+T13	control-participants 1865 1867	36
+T14	age 1921 1935	58 ± 5.6 years
+T15	outcome 2050 2079	baseline body weight adjusted
+T1	intervention 92 124	lifestyle intervention programme
+T3	outcome 2343 2369	rated the programme highly
+T8	outcome 2275 2278	BMI
+T9	outcome 2280 2299	waist circumference
+T16	outcome 2301 2318	physical activity
+T17	outcome 2323 2335	sitting time

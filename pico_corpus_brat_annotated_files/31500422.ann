@@ -1,0 +1,23 @@
+T4	condition 152 192	chemotherapy-induced nausea and vomiting
+T5	location 264 268	Thai
+T6	eligibility 905 1002	early-stage breast cancer patients receiving doxorubicin 60 mg/m2 plus cyclophosphamide 600 mg/m2
+T8	control 1104 1111	placebo
+T9	outcome-Measure 1358 1392	no nausea rate in the early period
+T11	total-participants 1772 1774	39
+T12	intervention-participants 1845 1847	20
+T13	control-participants 1881 1883	19
+T15	iv-bin-percent 2191 2194	50%
+T16	cv-bin-percent 2199 2204	10.5%
+T18	outcome 2285 2299	overall period
+T19	outcome 2335 2344	no nausea
+T20	iv-bin-percent 2301 2306	30.0%
+T21	cv-bin-percent 2311 2313	0%
+T22	outcome 2463 2485	complete response rate
+T23	iv-bin-percent 2516 2521	75.0%
+T24	cv-bin-percent 2550 2555	36.8%
+T14	outcome 2147 2176	no nausea in the early period
+T1	intervention 92 133	olanzapine, ondansetron and dexamethasone
+T2	outcome 1954 1960	nausea
+T3	outcome 2596 2628	treatment-related adverse events
+T7	outcome-Measure 1423 1472	no nausea rate in the delayed and overall periods
+T10	outcome-Measure 1479 1536	complete response (no vomiting and no use of rescue drug)

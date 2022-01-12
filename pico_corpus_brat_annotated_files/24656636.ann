@@ -1,0 +1,15 @@
+T1	condition 14 47	palmar-plantar erythrodysesthesia
+T2	intervention 56 70	antiperspirant
+T3	eligibility 74 141	breast cancer patients treated with pegylated liposomal doxorubicin
+T4	control 520 533	placebo cream
+T5	outcome-Measure 668 722	rate of grade 2 or 3 palmar-plantar erythrodysesthesia
+T6	outcome-Measure 753 829	patient-reported symptom burden (tingling, numbness, pain, or skin problems)
+T7	total-participants 869 871	53
+T8	outcome 1010 1026	Grade 2 or 3 PPE
+T9	total-participants 1051 1053	52
+T10	cv-bin-abs 1077 1080	six
+T11	outcome 1090 1105	adverse effects
+T12	iv-bin-abs 1174 1177	one
+T13	outcome 1196 1229	palmar-plantar erythrodysesthesia
+T14	outcome 1293 1353	grade 2 or 3 palmar-plantar erythrodysesthesia on their foot
+T15	cv-bin-abs 1269 1273	Four

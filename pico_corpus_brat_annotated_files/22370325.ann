@@ -1,0 +1,24 @@
+T1	intervention 50 77	fulvestrant and anastrozole
+T2	control 107 124	anastrozole alone
+T4	eligibility 380 608	Postmenopausal women, or premenopausal women receiving a gonadotropin-releasing hormone agonist, with estrogen receptor- and/or progesterone receptor-positive disease at first relapse after primary treatment of localized disease
+T5	outcome-Measure 812 837	time to progression (TTP)
+T6	total-participants 847 850	514
+T7	intervention-participants 935 938	258
+T8	control-participants 974 977	256
+T9	outcome 1106 1116	Median TTP
+T10	iv-cont-median 1121 1125	10.8
+T11	cv-cont-median 1130 1141	10.2 months
+T14	outcome 1255 1278	median overall survival
+T15	iv-cont-median 1283 1287	37.8
+T16	cv-cont-median 1292 1303	38.2 months
+T19	outcome 1389 1409	adverse events (AEs)
+T20	outcome 1424 1435	Hot flashes
+T21	iv-bin-abs 1478 1480	63
+T22	iv-bin-percent 1491 1496	24.6%
+T23	cv-bin-abs 1505 1507	35
+T24	cv-bin-percent 1518 1523	13.8%
+T25	outcome 1558 1576	Death owing to AEs
+T26	iv-bin-abs 1593 1595	11
+T27	iv-bin-percent 1597 1601	4.3%
+T28	cv-bin-abs 1607 1611	five
+T29	cv-bin-percent 1622 1626	2.0%

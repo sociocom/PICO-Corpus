@@ -1,0 +1,21 @@
+T1	intervention 0 29	Epirubicin-based chemotherapy
+T2	eligibility 297 338	node-negative breast cancer (BC) patients
+T4	total-participants 605 608	328
+T6	control-participants 688 691	161
+T7	intervention-participants 811 814	167
+T8	outcome 890 907	10-year DFS rates
+T9	cv-bin-percent 913 915	64
+T10	iv-bin-percent 920 923	71%
+T11	outcome 1154 1169	risk of relapse
+T14	outcome 1266 1279	local relapse
+T15	cv-bin-percent 1281 1283	24
+T16	iv-bin-percent 1291 1295	18 %
+T17	outcome 1316 1333	10-year local DFS
+T18	cv-bin-percent 1338 1342	70.5
+T19	iv-bin-percent 1347 1353	79.3 %
+T20	outcome 1384 1408	10-year overall survival
+T21	cv-bin-percent 1428 1432	74.1
+T22	iv-bin-percent 1440 1446	70.7 %
+T3	outcome 1518 1533	risk of relapse
+T12	outcome 1583 1609	incidence of local relapse
+T5	control 652 682	no systemic treatment (control

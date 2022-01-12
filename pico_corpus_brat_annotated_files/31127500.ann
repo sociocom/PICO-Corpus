@@ -1,0 +1,21 @@
+T1	intervention 28 39	palbociclib
+T2	ethinicity 43 51	Japanese
+T3	eligibility 775 903	postmenopausal women with estrogen receptor-positive, HER2- ABC who had not received prior systemic therapy for advanced disease
+T5	total-participants 1258 1261	101
+T7	outcome 1366 1403	all-grade/grade 3/grade 4 neutropenia
+T8	outcome 1513 1548	required palbociclib dose reduction
+T9	iv-bin-percent 1408 1411	94%
+T10	iv-bin-percent 1412 1415	53%
+T11	iv-bin-percent 1416 1419	34%
+T12	iv-bin-percent 1421 1425	100%
+T13	iv-bin-percent 1426 1429	69%
+T14	iv-bin-percent 1430 1433	21%
+T15	iv-bin-percent 1439 1443	100%
+T16	iv-bin-percent 1444 1447	67%
+T17	iv-bin-percent 1448 1451	26%
+T18	iv-bin-abs 1467 1473	Twenty
+T19	iv-bin-percent 1475 1478	63%
+T20	iv-bin-abs 1481 1483	28
+T21	iv-bin-percent 1485 1488	67%
+T22	iv-bin-abs 1495 1497	15
+T23	iv-bin-percent 1499 1502	56%

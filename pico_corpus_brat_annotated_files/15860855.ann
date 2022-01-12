@@ -1,0 +1,13 @@
+T2	intervention 29 70	adjuvant anthracycline-based chemotherapy
+T3	eligibility 227 340	patients with early breast cancer who are eligible for adjuvant chemotherapy according to Saint Gallen guidelines
+T4	total-participants 353 356	937
+T1	control 492 507	no chemotherapy
+T5	total-participants 878 881	888
+T6	outcome 1050 1079	5-year overall survival rates
+T7	iv-bin-percent 1085 1088	91%
+T8	cv-bin-percent 1093 1096	87%
+T9	outcome 1243 1271	5-year overall survival rate
+T10	iv-bin-percent 1276 1279	95%
+T11	outcome 1422 1451	5-year overall survival rates
+T12	iv-bin-percent 1457 1460	86%
+T13	cv-bin-percent 1465 1468	79%

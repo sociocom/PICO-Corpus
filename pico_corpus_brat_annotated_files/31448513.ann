@@ -1,0 +1,17 @@
+T1	intervention 23 57	palbociclib plus endocrine therapy
+T2	location 61 75	North American
+T3	total-participants 543 546	267
+T4	total-participants 593 596	240
+T5	eligibility 706 773	treatment-naïve postmenopausal patients with advanced breast cancer
+T6	control 890 912	placebo plus letrozole
+T7	outcome 1224 1256	median progression-free survival
+T8	iv-cont-median 1329 1333	25.4
+T9	cv-cont-median 1337 1348	13.7 months
+T12	iv-cont-median 1411 1414	9.9
+T13	cv-cont-median 1418 1428	3.5 months
+T16	outcome 1505 1536	clinical benefit response rates
+T17	outcome 1482 1500	Objective response
+T18	outcome 1682 1705	median overall survival
+T19	iv-cont-median 1733 1737	32.0
+T20	cv-cont-median 1741 1752	24.7 months
+T10	eligibility 927 977	patients who progressed on prior endocrine therapy

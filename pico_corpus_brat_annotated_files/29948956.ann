@@ -1,0 +1,18 @@
+T1	intervention 39 49	pyridoxine
+T2	condition 72 90	hand-foot syndrome
+T3	eligibility 552 602	patients with advanced or metastatic breast cancer
+T4	control 690 703	no pyridoxine
+T6	total-participants 998 1001	135
+T7	intervention-participants 1050 1052	67
+T8	control-participants 1076 1078	68
+T9	outcome 1088 1108	Grade 2 or worse HFS
+T10	iv-bin-abs 1122 1124	19
+T11	intervention-participants 1128 1130	66
+T12	iv-bin-percent 1141 1146	28.8%
+T13	cv-bin-abs 1155 1157	21
+T14	control-participants 1161 1163	67
+T15	cv-bin-percent 1174 1179	31.3%
+T16	outcome 1243 1287	median time to onset of grade 2 or worse HFS
+T17	iv-cont-median 1292 1296	13.6
+T18	cv-cont-median 1301 1312	10.6 months
+T5	outcome-Measure 911 948	time to onset of grade 2 or worse HFS

@@ -1,0 +1,16 @@
+T1	intervention 20 37	acupressure bands
+T2	condition 111 138	chemotherapy-induced nausea
+T3	total-participants 591 612	Two hundred forty-two
+T4	eligibility 613 679	chemotherapy-naïve patients with breast cancer who expected nausea
+T5	control 871 892	control without bands
+T6	outcome 987 995	Peak CIN
+T11	iv-cont-mean 1496 1500	3.62
+T12	cv-cont-mean 1505 1509	4.38
+T7	outcome 1472 1480	peak CIN
+T8	outcome 1599 1607	peak CIN
+T9	iv-cont-mean 1623 1627	3.62
+T10	cv-cont-mean 1632 1636	4.62
+T13	iv-cont-mean 1036 1040	3.52
+T14	iv-cont-mean 1042 1046	3.55
+T15	cv-cont-mean 1052 1056	3.87
+T16	outcome 1384 1405	pre-treatment anxiety

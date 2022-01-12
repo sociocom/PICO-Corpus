@@ -1,0 +1,8 @@
+T3	eligibility 562 589	women undergoing mastectomy
+T4	total-participants 591 596	Sixty
+T7	outcome 935 956	Analgesic consumption
+T9	outcome 1101 1112	Pain scores
+T10	outcome 1479 1515	time needed to resume daily activity
+T2	outcome 1328 1345	shoulder movement
+T1	intervention 0 27	Guided paravertebral blocks
+T5	control 40 57	without clonidine

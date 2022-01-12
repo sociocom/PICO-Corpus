@@ -1,0 +1,20 @@
+T1	intervention 0 8	Exercise
+T3	eligibility 269 309	women with newly diagnosed breast cancer
+T4	location 346 355	Australia
+T5	outcome-Measure 429 450	overall survival (OS)
+T6	outcome-Measure 455 482	disease-free survival (DFS)
+T7	total-participants 521 524	194
+T8	total-participants 565 568	143
+T9	control 655 665	usual care
+T10	intervention-participants 818 821	207
+T11	control-participants 862 865	130
+T13	outcome 945 951	deaths
+T16	outcome 1096 1106	DFS events
+T14	iv-bin-abs 935 937	11
+T19	iv-bin-percent 939 943	5.3%
+T15	cv-bin-abs 988 990	15
+T20	cv-bin-percent 992 997	11.5%
+T17	iv-bin-abs 1153 1155	25
+T21	iv-bin-percent 1157 1162	12.1%
+T18	cv-bin-abs 1168 1170	23
+T22	cv-bin-percent 1172 1177	17.7%

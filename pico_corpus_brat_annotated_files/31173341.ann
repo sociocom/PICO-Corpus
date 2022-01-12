@@ -1,0 +1,16 @@
+T1	intervention 11 24	exercise dose
+T2	location 499 505	Canada
+T3	total-participants 517 520	301
+T4	eligibility 521 584	breast cancer patients initiating chemotherapy to thrice weekly
+T5	control 622 635	standard dose
+T7	outcome-Measure 1046 1107	objective health-related fitness (assessed at 12 months only)
+T8	outcome-Measure 1112 1143	self-reported exercise behavior
+T9	total-participants 1156 1159	269
+T10	total-participants 1256 1259	263
+T11	outcome 1387 1421	sleep quality at 6-month follow-up
+T12	outcome 1449 1500	upper body muscular endurance at 12-month follow-up
+T13	outcome 1533 1595	meeting the resistance exercise guideline at 6-month follow-up
+T14	outcome 1727 1786	better patient-reported outcomes and health-related fitness
+T6	outcome-Measure 954 969	quality of life
+T15	outcome-Measure 971 994	cancer-related symptoms
+T16	outcome-Measure 999 1020	psychosocial outcomes

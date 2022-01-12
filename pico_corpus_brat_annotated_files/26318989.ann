@@ -1,0 +1,17 @@
+T1	intervention 226 252	doxorubicin plus docetaxel
+T2	control 268 301	doxorubicin plus cyclophosphamide
+T3	total-participants 314 317	627
+T4	eligibility 318 342	women with breast cancer
+T5	outcome 473 475	FN
+T6	iv-bin-percent 488 493	40.8%
+T7	iv-bin-abs 495 498	126
+T8	intervention-participants 499 502	311
+T9	cv-bin-percent 520 524	7.1%
+T10	cv-bin-abs 526 528	22
+T11	control-participants 529 532	316
+T12	outcome 804 806	FN
+T13	iv-bin-abs 865 867	85
+T14	cv-bin-abs 881 883	70
+T15	outcome 1072 1082	risk of FN
+T16	iv-bin-percent 1084 1089	83.3%
+T17	cv-bin-percent 1139 1144	32.8%

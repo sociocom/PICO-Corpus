@@ -1,0 +1,9 @@
+T3	ethinicity 231 236	black
+T4	ethinicity 342 364	African-American/black
+T6	intervention-participants 726 730	1724
+T7	control-participants 747 751	1233
+T8	control 752 760	controls
+T9	outcome 1051 1087	Dietary vitamin D and calcium intake
+T5	outcome 1293 1317	risk of several subtypes
+T10	outcome 1508 1534	risk of ER+, ER-, and TNBC
+T1	intervention 10 45	vitamin D and calcium, sun exposure

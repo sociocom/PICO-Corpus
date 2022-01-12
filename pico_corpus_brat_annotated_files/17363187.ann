@@ -1,0 +1,26 @@
+T2	location 332 340	Austrian
+T3	eligibility 85 125	women with favorable early breast cancer
+T4	total-participants 408 411	869
+T6	intervention-participants 464 467	414
+T7	control 472 475	not
+T8	control-participants 481 484	417
+T9	outcome-Measure 943 970	local relapse-free survival
+T11	age 1138 1146	66 years
+T12	outcome 1171 1185	local relapses
+T13	iv-bin-abs 1192 1193	2
+T14	outcome 1230 1238	5-y rate
+T15	iv-bin-percent 1239 1243	0.4%
+T16	control-participants 1249 1251	19
+T17	cv-bin-percent 1282 1286	5.1%
+T20	outcome 1335 1351	Overall relapses
+T21	iv-bin-abs 1382 1383	7
+T22	outcome 1418 1426	5-y rate
+T23	iv-bin-percent 1427 1431	2.1%
+T24	cv-bin-abs 1437 1439	23
+T25	cv-bin-percent 1477 1481	6.1%
+T1	intervention 0 81	Lumpectomy plus tamoxifen or anastrozole with or without whole breast irradiation
+T5	outcome 1556 1574	distant metastases
+T18	outcome 1579 1595	overall survival
+T10	outcome-Measure 995 1022	contralateral breast cancer
+T19	outcome-Measure 1024 1042	distant metastases
+T26	outcome-Measure 1048 1081	disease-free and overall survival

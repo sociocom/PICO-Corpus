@@ -1,0 +1,22 @@
+T1	intervention 101 111	Pertuzumab
+T3	total-participants 763 765	79
+T4	total-participants 1056 1058	79
+T5	total-participants 1096 1098	78
+T6	intervention-participants 1162 1164	41
+T7	iv-bin-abs 1167 1170	two
+T8	outcome 1184 1201	partial responses
+T9	iv-bin-abs 1207 1209	18
+T10	iv-bin-percent 1220 1223	44%
+T11	outcome 1237 1280	stable disease (SD) lasting > or = 12 weeks
+T12	control-participants 1296 1298	37
+T13	outcome 1301 1303	SD
+T14	cv-bin-percent 1320 1322	14
+T15	cv-bin-percent 1333 1336	38%
+T17	outcome 1625 1649	congestive heart failure
+T18	iv-bin-abs 1613 1616	one
+T19	iv-bin-abs 1592 1597	eight
+T20	eligibility 767 830	with centrally confirmed HER2-negative metastatic breast cancer
+T2	outcome 1503 1537	left ventricular ejection fraction
+T16	outcome 1429 1443	well tolerated
+T21	outcome 1384 1402	SD > or = 6 months
+T22	control 973 989	1,050 mg (arm B)

@@ -1,0 +1,22 @@
+T3	eligibility 173 324	ambulatory patients with objectively proven, disseminated metastatic breast carcinoma (TOPIC-1) or stage III/IV non-small-cell lung carcinoma (TOPIC-2)
+T5	outcome-Measure 444 522	objectively confirmed symptomatic or asymptomatic venous thromboembolism (VTE)
+T6	outcome 645 667	Venous thromboembolism
+T7	iv-bin-percent 734 736	4%
+T8	iv-bin-abs 762 763	7
+T9	intervention-participants 767 770	174
+T10	cv-bin-percent 774 776	4%
+T11	cv-bin-abs 796 797	7
+T12	control-participants 801 804	177
+T17	iv-bin-percent 884 888	4.5%
+T18	iv-bin-abs 890 892	12
+T19	intervention-participants 896 899	268
+T20	cv-bin-percent 904 908	8.3%
+T21	cv-bin-abs 910 912	22
+T22	control-participants 916 919	264
+T25	outcome 1063 1066	VTE
+T26	iv-bin-percent 1095 1099	3.5%
+T27	cv-bin-percent 1103 1108	10.2%
+T4	intervention 0 28	Low-molecular-weight heparin
+T13	control 36 43	placebo
+T14	condition 66 88	venous thromboembolism
+T2	outcome 959 968	Mortality

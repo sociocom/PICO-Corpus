@@ -1,0 +1,10 @@
+T3	intervention-participants 564 566	59
+T4	control-participants 607 609	50
+T1	intervention 0 81	Group medical consultations (GMCs) and tablet-based online support group sessions
+T2	control 612 625	care as usual
+T5	outcome-Measure 814 838	distress and empowerment
+T6	outcome 934 958	experienced peer-support
+T7	iv-bin-percent 968 971	78%
+T8	iv-bin-percent 998 1001	29%
+T9	outcome 1004 1016	Satisfaction
+T10	outcome 1087 1110	distress or empowerment

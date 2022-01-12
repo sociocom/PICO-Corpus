@@ -1,0 +1,19 @@
+T1	intervention 53 64	fulvestrant
+T2	control 79 89	exemestane
+T4	outcome-Measure 886 911	time to progression (TTP)
+T5	total-participants 1120 1123	693
+T6	intervention-participants 1173 1176	351
+T7	control-participants 1197 1200	342
+T8	outcome 1286 1296	Median TTP
+T9	iv-cont-median 1301 1311	3.7 months
+T12	outcome 1390 1411	overall response rate
+T13	iv-bin-percent 1413 1417	7.4%
+T14	cv-bin-percent 1420 1424	6.7%
+T15	outcome 1440 1461	clinical benefit rate
+T16	iv-bin-percent 1463 1468	32.2%
+T17	cv-bin-percent 1471 1476	31.5%
+T19	iv-cont-median 1590 1593	9.3
+T20	cv-cont-median 1598 1608	8.3 months
+T21	outcome 1700 1746	incidence of adverse events or quality of life
+T3	outcome 1550 1585	Median duration of clinical benefit
+T10	outcome 1645 1659	well tolerated

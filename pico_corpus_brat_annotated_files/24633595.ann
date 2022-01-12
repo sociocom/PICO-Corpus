@@ -1,0 +1,32 @@
+T1	intervention 11 19	exercise
+T2	location 398 406	Canadian
+T3	total-participants 441 444	242
+T5	control 493 503	usual care
+T6	control-participants 509 511	82
+T7	intervention-participants 538 540	78
+T8	intervention-participants 562 564	82
+T9	outcome-Measure 652 679	disease-free survival (DFS)
+T13	intervention-participants 822 825	160
+T14	outcome 931 941	DFS events
+T15	iv-bin-abs 916 918	25
+T16	intervention-participants 919 922	160
+T17	iv-bin-percent 924 929	15.6%
+T18	cv-bin-abs 969 971	18
+T19	control-participants 972 974	82
+T20	cv-bin-percent 976 981	22.0%
+T21	outcome 1005 1019	Eight-year DFS
+T22	iv-bin-percent 1024 1029	82.7%
+T23	cv-bin-percent 1068 1073	75.6%
+T24	outcome 1213 1229	overall survival
+T25	outcome 1281 1292	distant DFS
+T26	outcome 1348 1372	recurrence-free interval
+T28	outcome 1570 1589	stage II/III cancer
+T29	outcome 1621 1654	estrogen receptor-positive tumors
+T30	outcome 1686 1742	human epidermal growth factor receptor 2-positive tumors
+T31	outcome 1775 1810	eceived taxane-based chemotherapies
+T32	outcome 1862 1882	planned chemotherapy
+T4	outcome 1495 1498	DFS
+T27	outcome 1503 1534	women who were overweight/obese
+T10	outcome-Measure 707 723	overall survival
+T11	outcome-Measure 725 736	distant DFS
+T12	outcome-Measure 742 766	recurrence-free interval

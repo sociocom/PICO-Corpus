@@ -1,0 +1,14 @@
+T1	intervention 51 70	Omega-3 Fatty Acids
+T2	condition 90 138	Aromatase Inhibitor-Induced Musculoskeletal Pain
+T3	eligibility 464 569	Women with early-stage breast cancer receiving an AI who had a worst joint pain/stiffness score ≥ 5 of 10
+T5	total-participants 1041 1044	262
+T6	total-participants 1066 1069	249
+T7	intervention-participants 1091 1094	122
+T8	control-participants 1122 1125	127
+T9	control 1133 1140	placebo
+T10	outcome 1174 1200	mean observed BPI-SF score
+T12	outcome 1488 1507	Triglyceride levels
+T13	outcome 1660 1691	HDL, LDL, or C-reactive protein
+T4	outcome 1376 1390	baseline score
+T11	outcome 1392 1406	osteoarthritis
+T14	outcome 1412 1422	taxane use

@@ -1,0 +1,11 @@
+T1	intervention 122 131	gefitinib
+T2	eligibility 728 810	women with unilateral, primary operable, ER negative invasive breast cancer ≥ 2 cm
+T3	total-participants 1207 1210	115
+T4	intervention-participants 1250 1252	59
+T5	control-participants 1289 1291	56
+T6	control 1308 1315	placebo
+T7	outcome 1399 1414	change was seen
+T8	iv-bin-abs 1418 1423	three
+T9	iv-bin-percent 1451 1455	5.1%
+T10	cv-bin-abs 1464 1467	two
+T11	cv-bin-percent 1493 1497	3.6%

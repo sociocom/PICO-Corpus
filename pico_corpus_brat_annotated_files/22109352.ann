@@ -1,0 +1,8 @@
+T1	intervention 24 52	telephone-delivered exercise
+T2	ethinicity 483 493	Australian
+T3	eligibility 494 518	women with breast cancer
+T5	intervention-participants 625 627	73
+T6	control 632 642	usual care
+T7	control-participants 648 650	70
+T4	outcome 696 705	retention
+T8	outcome 812 840	meeting intervention targets

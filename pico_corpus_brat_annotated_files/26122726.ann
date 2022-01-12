@@ -1,0 +1,20 @@
+T1	condition 139 157	severe neutropenia
+T2	total-participants 511 514	218
+T6	outcome 1047 1068	DSN (days) in cycle 1
+T7	intervention-participants 1102 1105	101
+T8	control-participants 1139 1142	103
+T9	outcome 1263 1296	clinically meaningful differences
+T10	outcome 1590 1604	adverse events
+T5	intervention 14 20	EP2006
+T3	eligibility 416 498	breast cancer patients receiving (neo)adjuvant myelosuppressive chemotherapy (TAC)
+T12	iv-cont-mean 1073 1077	1.17
+T13	iv-cont-sd 1080 1084	1.11
+T14	cv-cont-mean 1111 1115	1.20
+T15	cv-cont-sd 1118 1122	1.02
+T16	control 1124 1133	reference
+T4	outcome-Measure 850 901	duration of severe neutropenia (DSN) during cycle 1
+T11	outcome 1351 1388	incidence of febrile neutropenia (FN)
+T17	outcome 1390 1415	hospitalization due to FN
+T18	outcome 1417 1440	incidence of infections
+T19	outcome 1442 1497	depth and time of absolute neutrophil count (ANC) nadir
+T20	outcome 1502 1522	time to ANC recovery

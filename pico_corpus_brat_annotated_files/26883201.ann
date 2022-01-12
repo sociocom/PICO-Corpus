@@ -1,0 +1,15 @@
+T1	intervention 0 12	Decision aid
+T2	age 557 571	50 to 74 years
+T3	control 636 659	usual invitation letter
+T4	outcome-Measure 685 734	participation rate 12 months after the invitation
+T5	total-participants 736 742	16 000
+T6	total-participants 769 775	15 844
+T7	outcome 834 852	participation rate
+T8	iv-bin-percent 883 889	40.25%
+T9	iv-bin-abs 891 895	3174
+T10	intervention-participants 896 900	7885
+T11	cv-bin-percent 922 928	42.13%
+T12	cv-bin-abs 930 934	3353
+T13	control-participants 935 939	7959
+T14	outcome 974 1007	Previous attendance for screening
+T15	outcome 1056 1079	medium household income

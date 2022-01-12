@@ -1,0 +1,12 @@
+T1	intervention 0 34	Red meat, poultry, and fish intake
+T2	ethinicity 64 72	Hispanic
+T3	ethinicity 77 95	Non-Hispanic white
+T4	intervention-participants 421 426	1,982
+T5	control-participants 437 442	2,218
+T6	intervention-participants 475 480	1,777
+T7	control-participants 491 496	2,218
+T8	outcome 917 960	association between tuna intake and BC risk
+T9	outcome 1047 1100	association between BC risk and processed meat intake
+T10	outcome 1158 1176	between white meat
+T11	location 461 463	US
+T12	control 443 451	controls

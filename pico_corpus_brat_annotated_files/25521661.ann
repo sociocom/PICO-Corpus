@@ -1,0 +1,13 @@
+T2	eligibility 455 482	patients with breast cancer
+T3	total-participants 488 490	88
+T4	control 539 559	waiting-list control
+T5	intervention-participants 589 591	46
+T6	total-participants 871 873	66
+T7	outcome 910 934	Reactions to website use
+T8	outcome 1162 1179	Positive word use
+T1	intervention 59 86	Internet-based intervention
+T9	outcome 1225 1236	at 6 months
+T10	outcome 1028 1061	more likely to use their websites
+T11	outcome 1069 1094	found the websites useful
+T12	outcome 1200 1224	heightened positive mood
+T13	outcome 1285 1304	depressive symptoms

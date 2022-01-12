@@ -1,0 +1,14 @@
+T4	control 93 108	screening alone
+T1	intervention 47 84	screening plus goserelin, ibandronate
+T2	eligibility 292 349	premenopausal women with increased risk for breast cancer
+T3	outcome-Measure 650 682	refusal to undergo randomization
+T5	outcome-Measure 687 715	discontinuation of treatment
+T6	outcome-Measure 717 743	Safety and quality of life
+T8	total-participants 798 800	31
+T9	intervention-participants 850 852	15
+T10	control-participants 900 902	15
+T7	outcome 1112 1123	Hot flushes
+T12	outcome 1125 1133	headache
+T13	outcome 1139 1164	vaginal dryness/discharge
+T14	outcome 1262 1288	agreement to randomization
+T15	outcome 1326 1355	Acceptance of chemoprevention

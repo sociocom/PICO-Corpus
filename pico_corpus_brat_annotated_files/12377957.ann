@@ -1,0 +1,26 @@
+T1	total-participants 610 615	1,009
+T3	intervention-participants 657 660	336
+T4	control 663 678	XRT and placebo
+T5	control-participants 684 687	336
+T7	intervention-participants 710 713	337
+T11	cv-bin-percent 1022 1025	49%
+T13	iv-bin-percent 1098 1101	63%
+T14	outcome 1201 1233	reduction in hazard rate of IBTR
+T15	iv-bin-percent 1197 1200	81%
+T17	iv-bin-percent 1284 1289	16.5%
+T18	cv-bin-percent 1300 1304	9.3%
+T19	iv-bin-percent 1331 1335	2.8%
+T24	condition 56 91	ipsilateral breast tumor recurrence
+T25	eligibility 112 172	women with invasive breast cancers of one centimeter or less
+T26	outcome 1748 1756	Survival
+T27	iv-bin-percent 1781 1784	93%
+T28	cv-bin-percent 1786 1789	94%
+T29	iv-bin-percent 1795 1798	93%
+T6	outcome 1032 1051	hazard rate of IBTR
+T2	outcome 1235 1263	Cumulative incidence of IBTR
+T12	outcome 1457 1483	Distant treatment failures
+T16	outcome 1661 1677	reduction in CBC
+T20	intervention 0 37	Tamoxifen, radiation therapy, or both
+T8	outcome-Measure 716 729	Rates of IBTR
+T9	outcome-Measure 731 749	distant recurrence
+T10	outcome-Measure 755 788	contralateral breast cancer (CBC)

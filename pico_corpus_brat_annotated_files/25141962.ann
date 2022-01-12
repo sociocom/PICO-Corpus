@@ -1,0 +1,11 @@
+T1	intervention 0 19	Phototherapy 660 nm
+T2	condition 42 57	radiodermatitis
+T3	total-participants 916 918	52
+T4	eligibility 919 987	patients undergoing radiotherapy for breast cancer (stages I to III)
+T6	intervention-participants 1096 1098	26
+T7	control 1105 1118	control group
+T8	control-participants 1145 1147	26
+T9	outcome-Measure 1703 1732	prevention of radiodermatitis
+T10	outcome-Measure 1737 1770	pain secondary to radiodermatitis
+T11	outcome 1952 2030	promote tissue repair by reducing inflammation and inducing collagen synthesis
+T12	outcome 2095 2109	adverse events

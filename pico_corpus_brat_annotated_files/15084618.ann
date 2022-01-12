@@ -1,0 +1,17 @@
+T1	intervention 30 51	Calendula officinalis
+T2	control 66 75	trolamine
+T3	condition 98 114	acute dermatitis
+T4	location 452 458	France
+T6	total-participants 625 628	254
+T7	control-participants 797 800	128
+T8	intervention-participants 825 828	126
+T9	outcome-Measure 914 965	occurrence of acute dermatitis of grade 2 or higher
+T10	outcome-Measure 1101 1119	occurrence of pain
+T11	outcome-Measure 1125 1155	quantity of topical agent used
+T12	outcome-Measure 1161 1181	patient satisfaction
+T13	outcome 1187 1238	occurrence of acute dermatitis of grade 2 or higher
+T14	iv-bin-percent 1264 1267	41%
+T15	cv-bin-percent 1270 1273	63%
+T18	eligibility 629 736	patients who had been operated on for breast cancer and who were to receive postoperative radiation therapy
+T16	outcome 1443 1465	radiation-induced pain
+T17	outcome 1527 1553	self-assessed satisfaction

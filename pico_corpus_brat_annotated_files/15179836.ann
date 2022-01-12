@@ -1,0 +1,13 @@
+T1	intervention 30 38	carmofur
+T2	total-participants 161 164	150
+T3	eligibility 165 224	patients with breast cancer of T0N1, T1, N1, T2N0, and T2N1
+T4	intervention-participants 244 247	100
+T5	control-participants 265 267	50
+T6	control 272 282	carboquone
+T8	outcome 437 453	Overall survival
+T9	iv-bin-percent 492 495	90%
+T10	cv-bin-percent 523 526	88%
+T11	outcome 636 651	Leukocyte count
+T12	iv-bin-abs 768 769	5
+T13	cv-bin-abs 787 788	5
+T14	outcome 819 836	second malignancy

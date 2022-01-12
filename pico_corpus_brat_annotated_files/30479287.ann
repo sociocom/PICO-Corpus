@@ -1,0 +1,8 @@
+T1	intervention 10 34	Topical Anesthetic Cream
+T2	condition 38 42	Pain
+T3	eligibility 596 701	adult females with breast cancer undergoing periareolar injection of Tc99m for sentinel lymph node biopsy
+T5	intervention-participants 1022 1024	23
+T6	control-participants 1042 1044	26
+T8	outcome 1184 1200	pain experienced
+T9	outcome 1264 1281	median pain score
+T10	control 789 796	placebo

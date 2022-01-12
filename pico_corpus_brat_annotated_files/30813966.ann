@@ -1,0 +1,25 @@
+T1	condition 43 72	neratinib-associated diarrhea
+T2	eligibility 603 733	Women with HER2-positive early-stage breast cancer with prior standard primary therapy and trastuzumab-based (neo)adjuvant therapy
+T3	intervention 753 762	neratinib
+T4	control 777 784	placebo
+T6	outcome-Measure 800 806	Safety
+T8	total-participants 1044 1077	Two thousand eight hundred sixtee
+T9	intervention-participants 1086 1090	1408
+T11	outcome 1125 1147	Grade 3 and 4 diarrhea
+T15	cv-bin-abs 1230 1231	0
+T16	iv-bin-percent 1293 1298	28.6%
+T17	outcome 1315 1329	grade 3 events
+T19	outcome 1486 1510	Serious diarrheal events
+T20	iv-bin-abs 1516 1518	22
+T21	iv-bin-percent 1520 1524	1.6%
+T22	outcome 1530 1572	diarrheal events requiring hospitalization
+T23	iv-bin-abs 1578 1580	20
+T24	iv-bin-percent 1582 1586	1.4%
+T12	iv-bin-abs 1160 1163	561
+T25	iv-bin-percent 1165 1170	39.8%
+T13	iv-bin-abs 1176 1177	1
+T26	iv-bin-percent 1179 1183	0.1%
+T14	cv-bin-abs 1216 1218	23
+T27	cv-bin-percent 1220 1224	1.6%
+T5	outcome 1383 1431	median cumulative duration of grade 3/4 diarrhea
+T7	iv-cont-median 1451 1457	5 days

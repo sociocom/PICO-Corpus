@@ -1,0 +1,16 @@
+T1	intervention 21 70	docetaxel and cyclophosphamide six- cycle therapy
+T2	ethinicity 100 108	Japanese
+T3	eligibility 109 181	human epidermal growth factor receptor 2-negative breast cancer patients
+T4	outcome-Measure 587 595	toxicity
+T6	intervention-participants 729 731	22
+T7	control-participants 736 738	21
+T8	outcome 798 833	grade 3 or higher adverse reactions
+T9	outcome 843 878	neutropenia and febrile neutropenia
+T10	outcome 1079 1104	treatment completion rate
+T11	iv-bin-percent 1109 1114	86.4%
+T12	iv-bin-percent 1164 1169	93.2%
+T13	cv-bin-percent 1197 1202	95.2%
+T14	cv-bin-percent 1207 1212	98.9%
+T5	outcome-Measure 622 647	treatment completion rate
+T15	outcome-Measure 652 675	relative dose intensity
+T16	control 357 362	T-FEC

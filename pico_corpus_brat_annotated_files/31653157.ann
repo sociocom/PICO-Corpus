@@ -1,0 +1,9 @@
+T1	intervention 14 44	Lymphedema Prevention Protocol
+T2	eligibility 70 108	Breast Cancer Patients with Mastectomy
+T3	condition 110 120	Lymphedema
+T4	total-participants 730 733	120
+T5	location 419 429	Tamil Nadu
+T6	intervention-participants 800 802	60
+T8	control 1035 1073	comparison group received routine care
+T9	outcome 1340 1355	quality of life
+T10	outcome 1464 1485	lymphedema occurrence

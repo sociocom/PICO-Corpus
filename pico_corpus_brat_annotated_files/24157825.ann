@@ -1,0 +1,14 @@
+T1	intervention 14 23	metformin
+T2	condition 27 36	apoptosis
+T3	total-participants 460 463	100
+T4	eligibility 464 488	non-diabetic BC patients
+T6	total-participants 583 595	Eighty-seven
+T7	intervention-participants 606 608	45
+T8	control-participants 626 628	42
+T9	outcome 700 712	TUNEL levels
+T10	outcome 958 995	Ki67 labelling index and TUNEL levels
+T11	outcome 1161 1186	level of TUNEL at surgery
+T12	outcome 1494 1517	modulation of apoptosis
+T17	outcome 1097 1123	without insulin resistance
+T18	outcome 1340 1363	with insulin resistance
+T5	control 632 639	placebo

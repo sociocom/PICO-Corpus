@@ -1,0 +1,29 @@
+T1	condition 43 59	seroma formation
+T3	control 504 510	saline
+T4	outcome-Measure 916 932	seroma formation
+T5	outcome-Measure 967 1010	frequency of side-effects and complications
+T6	total-participants 1023 1026	212
+T7	eligibility 1027 1083	women scheduled for mastectomy for primary breast cancer
+T9	intervention-participants 1135 1137	69
+T10	outcome 1144 1162	developed a seroma
+T12	control-participants 1230 1232	67
+T13	outcome 1270 1299	mean cumulative seroma volume
+T14	outcome 1099 1113	After M + SLNB
+T17	iv-bin-abs 1607 1609	35
+T18	intervention-participants 1613 1615	37
+T19	iv-bin-percent 1617 1628	95 per cent
+T20	cv-bin-abs 1642 1644	34
+T21	control-participants 1648 1650	36
+T22	cv-bin-percent 1652 1663	94 per cent
+T23	outcome 1776 1790	infection rate
+T15	outcome 1573 1579	seroma
+T16	iv-cont-mean 1423 1428	24 ml
+T24	cv-cont-mean 1436 1442	127 ml
+T25	iv-cont-mean 1468 1471	177
+T26	cv-cont-mean 1479 1485	328 ml
+T8	iv-bin-abs 1115 1117	32
+T27	iv-bin-percent 1119 1130	46 per cent
+T11	cv-bin-abs 1210 1212	52
+T28	cv-bin-percent 1214 1225	78 per cent
+T29	outcome 1351 1365	10 and 30 days
+T2	intervention 80 114	local methylprednisolone injection

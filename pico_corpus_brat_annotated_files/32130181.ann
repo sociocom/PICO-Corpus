@@ -1,0 +1,18 @@
+T1	location 113 119	Taiwan
+T2	intervention 74 109	Self-Management Support mHealth App
+T4	eligibility 739 886	women with stage 0 to III breast cancer, who were recruited from social networking sites or referred by their oncologists or oncology case managers
+T5	control 930 944	control groups
+T6	control 1033 1043	usual care
+T7	total-participants 1813 1816	112
+T8	intervention-participants 1896 1898	53
+T9	control-participants 1920 1922	59
+T10	total-participants 1966 1969	100
+T12	outcome 2201 2230	mean total QoL summary scores
+T13	outcome 2240 2247	QLQ-C30
+T14	outcome 2280 2288	QLQ-BR23
+T15	iv-cont-mean 2249 2254	83.45
+T16	cv-cont-mean 2258 2263	82.23
+T17	iv-cont-mean 2290 2295	65.53
+T18	cv-cont-mean 2299 2304	63.13
+T3	ethinicity 519 528	Taiwanese
+T11	outcome 1939 1954	completion rate

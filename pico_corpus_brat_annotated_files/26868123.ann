@@ -1,0 +1,13 @@
+T1	intervention 29 39	vitamin D3
+T2	condition 53 116	aromatase inhibitor-associated musculoskeletal symptoms (AIMSS)
+T3	eligibility 528 712	Postmenopausal women ≥18 years with stages I-IIIA breast cancer, taking AI and experiencing AIMSS [breast cancer prevention trial symptom scale-musculoskeletal (BCPT-MS) subscale ≥1.5]
+T4	total-participants 753 756	116
+T5	control-participants 873 875	56
+T6	intervention-participants 896 898	57
+T7	outcome-Measure 947 962	change in AIMSS
+T9	outcome 1454 1479	changes in AIMSS measures
+T8	outcome 1306 1323	measures of AIMSS
+T10	outcome 1325 1370	pharmacokinetics of anastrozole and letrozole
+T11	outcome 1372 1409	serum levels of reproductive hormones
+T12	outcome 1414 1428	adverse events
+T13	control 325 340	usual care dose

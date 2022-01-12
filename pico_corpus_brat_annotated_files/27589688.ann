@@ -1,0 +1,22 @@
+T1	intervention 92 116	HER2 peptide GP2 vaccine
+T2	eligibility 465 625	HLA-A2+, clinically disease-free, node-positive and high-risk node-negative breast cancer patients with tumors expressing HER2 (immunohistochemistry[IHC] 1+-3+)
+T3	control 673 685	GM-CSF alone
+T4	intervention 655 665	GP2+GM-CSF
+T6	total-participants 892 895	180
+T7	intervention-participants 906 908	89
+T8	control-participants 933 935	91
+T10	iv-bin-percent 1124 1127	88%
+T11	cv-bin-percent 1162 1165	81%
+T13	iv-bin-percent 1315 1318	94%
+T14	cv-bin-percent 1339 1342	85%
+T17	iv-bin-percent 1424 1427	94%
+T18	intervention-participants 1465 1467	51
+T19	cv-bin-percent 1473 1476	89%
+T20	control-participants 1511 1513	50
+T15	outcome 1364 1419	In IHC 3+/FISH+ patients, the estimated 5-year DFS rate
+T16	outcome 1534 1546	ITT analyses
+T21	iv-bin-percent 1551 1555	100%
+T22	cv-bin-percent 1560 1563	89%
+T9	outcome 1084 1099	5-year DFS rate
+T12	outcome 1283 1309	estimated 5-year DFS rates
+T23	outcome 1248 1277	In the per-treatment analysis

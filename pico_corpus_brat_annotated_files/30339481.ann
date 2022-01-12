@@ -1,0 +1,12 @@
+T1	intervention 3 22	Compression Sleeves
+T2	condition 47 61	Arm Lymphedema
+T3	eligibility 695 751	women treated due to breast cancer 2 years after surgery
+T4	intervention-participants 753 759	Twenty
+T5	control-participants 843 845	21
+T6	control 896 929	control group without compression
+T9	outcome 1170 1184	arm lymphedema
+T10	intervention-participants 1087 1089	20
+T11	iv-bin-abs 1076 1081	Three
+T12	cv-bin-abs 1133 1134	6
+T13	control-participants 1140 1142	21
+T14	outcome 1315 1330	quality of life

@@ -1,0 +1,15 @@
+T1	intervention 0 31	Aerobic and Resistance Exercise
+T2	condition 41 58	Shoulder Function
+T4	eligibility 426 482	women who are overweight or obese and have breast cancer
+T5	location 630 649	Southern California
+T6	total-participants 651 662	One hundred
+T7	control 727 737	usual-care
+T8	age 781 798	53.5 (10.4) years
+T9	ethinicity 809 823	Hispanic white
+T11	outcome 1482 1538	significant increases in shoulder active range of motion
+T12	outcome 1627 1643	shoulder flexion
+T13	outcome 1675 1699	external rotation at 0° 
+T14	outcome 1734 1759	external rotation at 90° 
+T15	outcome 1791 1834	improved upper extremity isometric strength
+T16	outcome 1840 1923	improved Disabilities of the Arm, Shoulder, and Hand and Penn Shoulder Scale scores
+T3	outcome-Measure 2056 2073	shoulder function

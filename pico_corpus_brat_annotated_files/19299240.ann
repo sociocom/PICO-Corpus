@@ -1,0 +1,12 @@
+T1	intervention 95 105	raloxifene
+T2	outcome 893 921	breast cancer incidence rate
+T4	control-participants 935 939	1000
+T11	total-participants 652 656	3967
+T12	eligibility 122 160	Postmenopausal women with osteoporosis
+T13	intervention-participants 715 719	2280
+T14	intervention-participants 780 783	401
+T15	control 794 801	placebo
+T16	control-participants 807 811	1286
+T3	cv-bin-abs 926 930	5.39
+T5	iv-bin-abs 989 993	2.26
+T6	iv-bin-abs 1062 1066	3.59

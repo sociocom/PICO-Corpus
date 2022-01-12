@@ -1,0 +1,13 @@
+T1	intervention 8 57	granulocyte colony-stimulating factor prophylaxis
+T2	condition 172 191	febrile neutropenia
+T3	eligibility 656 783	patients with breast cancer who were considered fit enough to receive 3-weekly polychemotherapy, but also had > 20% risk for FN
+T4	control 970 982	standard arm
+T5	total-participants 1146 1149	167
+T6	control-participants 1247 1249	84
+T8	outcome 1349 1362	episode of FN
+T9	intervention-participants 1380 1382	83
+T10	outcome 1469 1479	FN episode
+T7	cv-bin-abs 1322 1327	eight
+T12	cv-bin-percent 1329 1332	10%
+T13	iv-bin-abs 1453 1455	30
+T14	iv-bin-percent 1457 1460	36%

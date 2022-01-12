@@ -1,0 +1,36 @@
+T2	total-participants 419 421	70
+T3	eligibility 422 491	patients scheduled for mastectomy with axillary lymph node dissection
+T4	control 587 594	placebo
+T5	intervention-participants 580 582	35
+T6	intervention-participants 600 602	35
+T9	outcome 887 904	incidence of PONV
+T10	iv-bin-percent 981 986	28.6%
+T11	cv-bin-percent 991 994	60%
+T1	intervention 0 26	Preoperative dexamethasone
+T12	outcome 942 979	at the early postoperative evaluation
+T13	outcome 1010 1016	at 6 h
+T14	iv-bin-percent 1018 1023	17.2%
+T15	cv-bin-percent 1028 1033	45.8%
+T16	outcome 1081 1122	required additional antiemetic medication
+T17	cv-bin-abs 1124 1126	21
+T18	iv-bin-abs 1131 1132	8
+T19	outcome 1191 1228	postoperative pain just after surgery
+T22	outcome 1282 1288	at 6 h
+T25	outcome 1335 1342	at 12 h
+T28	outcome 1384 1394	Analgesics
+T29	cv-bin-abs 1448 1450	21
+T30	iv-bin-abs 1455 1457	10
+T31	condition 35 74	postoperative pain, nausea and vomiting
+T32	outcome 1485 1523	adverse events, morbidity or mortality
+T20	iv-cont-mean 1241 1245	4.54
+T33	iv-cont-sd 1248 1252	1.55
+T21	cv-cont-mean 1257 1261	5.83
+T34	cv-cont-sd 1264 1268	2.00
+T23	iv-cont-mean 1290 1294	3.03
+T35	iv-cont-sd 1297 1301	1.20
+T24	cv-cont-mean 1306 1310	4.17
+T36	cv-cont-sd 1313 1317	1.24
+T26	iv-cont-mean 1344 1348	2.09
+T37	iv-cont-sd 1351 1355	0.85
+T27	cv-cont-mean 1360 1364	2.54
+T38	cv-cont-sd 1367 1371	0.98

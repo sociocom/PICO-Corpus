@@ -1,0 +1,18 @@
+T1	outcome 1608 1623	Quality of life
+T2	outcome 1569 1582	sleep outcome
+T3	iv-bin-percent 1584 1587	40%
+T4	cv-bin-percent 1591 1594	14%
+T5	total-participants 1333 1335	53
+T6	age 1348 1356	51 ± 8 y
+T7	intervention-participants 1399 1401	25
+T9	control-participants 1432 1434	28
+T10	total-participants 1437 1439	38
+T11	intervention-participants 1464 1467	57%
+T12	control-participants 1480 1483	88%
+T14	eligibility 764 892	Women with breast cancer or at high risk for developing the disease who had hot flashes in association with nocturnal awakenings
+T15	intervention 942 950	zolpidem
+T8	control 960 967	placebo
+T16	intervention 16 85	venlafaxine and selective serotonin reuptake inhibitors with zolpidem
+T17	condition 95 120	sleep and quality of life
+T18	outcome 1703 1714	hot flashes
+T19	outcome 1719 1723	mood

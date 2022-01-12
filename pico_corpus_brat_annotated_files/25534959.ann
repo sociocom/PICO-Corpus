@@ -1,0 +1,8 @@
+T1	intervention 0 21	Nevasic audio program
+T2	condition 44 84	chemotherapy induced nausea and vomiting
+T3	control 871 886	usual care only
+T4	total-participants 1105 1107	99
+T5	total-participants 1151 1153	15
+T6	eligibility 756 785	female breast cancer patients
+T7	outcome 1440 1459	use of anti-emetics
+T8	outcome 1518 1533	quality of life

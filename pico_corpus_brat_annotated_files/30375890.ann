@@ -1,0 +1,10 @@
+T1	intervention 10 33	Dietary Flaxseed Intake
+T2	total-participants 494 496	99
+T3	eligibility 74 94	Postmenopausal Women
+T4	eligibility 497 517	postmenopausal women
+T5	location 521 536	Toronto, Canada
+T6	control 631 642	control arm
+T11	outcome 967 996	Serum enterolignans increased
+T12	outcome 1083 1105	serum 2-hydroxyestrone
+T13	outcome 1167 1193	2:16α-hydroxyestrone ratio
+T14	outcome 1313 1341	change in enterolignan level

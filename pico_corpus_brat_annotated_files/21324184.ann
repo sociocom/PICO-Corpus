@@ -1,0 +1,17 @@
+T1	intervention 37 65	docetaxel-based chemotherapy
+T2	eligibility 69 127	patients with locally advanced or metastatic breast cancer
+T3	age 424 434	≤ 70 years
+T4	outcome-Measure 751 791	global quality of life change at 6-weeks
+T6	total-participants 949 952	139
+T7	intervention-participants 979 981	70
+T8	control-participants 996 998	69
+T9	outcome 1301 1327	Neutropenia and stomatitis
+T10	outcome 1376 1382	deaths
+T11	cv-bin-abs 1366 1369	two
+T12	outcome 1398 1419	Overall response rate
+T13	cv-bin-percent 1424 1429	39.1%
+T14	iv-bin-percent 1434 1439	33.3%
+T15	control 1002 1014	3-weekly arm
+T5	outcome 1100 1115	quality of life
+T17	outcome 1546 1551	death
+T16	outcome 1485 1496	progression

@@ -1,0 +1,12 @@
+T1	intervention 14 51	Counseling on Breast Cancer Awareness
+T2	ethinicity 61 68	Iranian
+T3	total-participants 719 721	60
+T4	location 743 754	Abish Ahmad
+T5	location 763 780	northwestern Iran
+T6	eligibility 722 733	rural women
+T7	control-participants 1072 1074	30
+T8	control 1134 1147	control group
+T9	intervention-participants 1152 1154	30
+T10	outcome 1503 1543	mean knowledge about breast cancer score
+T11	outcome 1722 1763	barriers to breast cancer screening score
+T12	outcome 1925 1954	frequency of breast self-exam

@@ -1,0 +1,18 @@
+T2	total-participants 479 482	340
+T3	eligibility 483 577	patients with stage II and III breast adenocarcinoma, ineligible for breast conserving surgery
+T4	outcome 1541 1549	pCR rate
+T5	outcome 1436 1485	toxicity, no cardiac toxicity, and no toxic death
+T6	outcome 1319 1327	pCR rate
+T7	iv-bin-percent 1336 1339	26%
+T8	cv-bin-percent 1393 1396	19%
+T9	outcome 1137 1140	pCR
+T10	iv-bin-percent 1204 1208	11.5
+T11	cv-bin-percent 1213 1216	13%
+T12	outcome 1109 1135	In the HER2 negative group
+T13	outcome 1291 1317	In the HER2 positive group
+T14	total-participants 787 790	220
+T15	total-participants 967 970	120
+T17	control 890 913	no additional treatment
+T1	intervention 43 144	sequential epirubicin/cyclophosphamide followed by docetaxel with or without celecoxib or trastuzumab
+T16	eligibility 759 781	HER2-negative patients
+T18	outcome 1593 1602	pCR rates

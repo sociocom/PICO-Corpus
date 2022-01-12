@@ -1,0 +1,19 @@
+T1	intervention 0 27	Conjugated equine oestrogen
+T3	total-participants 619 625	10,739
+T4	eligibility 626 646	postmenopausal women
+T5	location 655 657	US
+T6	age 746 757	50-79 years
+T7	eligibility 758 847	who had undergone hysterectomy and had expected 3-year survival and mammography clearance
+T8	intervention-participants 1018 1022	5310
+T9	control 1035 1042	placebo
+T10	control-participants 1046 1050	5429
+T14	outcome 1829 1864	incidence of invasive breast cancer
+T15	iv-bin-abs 1866 1869	151
+T17	cv-bin-abs 1916 1919	199
+T16	outcome 2137 2165	breast cancer risk reduction
+T18	outcome 2333 2356	died from breast cancer
+T19	iv-bin-abs 2358 2361	six
+T20	cv-bin-abs 2411 2413	16
+T21	outcome 2510 2561	died from any cause after a breast cancer diagnosis
+T22	iv-bin-abs 2563 2565	30
+T23	cv-bin-abs 2610 2612	50

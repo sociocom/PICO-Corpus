@@ -1,0 +1,16 @@
+T1	intervention 0 22	Mindfulness meditation
+T2	eligibility 500 601	Women diagnosed with early stage breast cancer at or before age 50 who had completed cancer treatment
+T4	intervention-participants 696 698	39
+T5	control 708 731	wait-list control group
+T6	control-participants 737 739	32
+T7	outcome-Measure 824 854	stress and depressive symptoms
+T14	outcome 1369 1391	inflammatory signaling
+T3	outcome 1198 1214	perceived stress
+T11	outcome 1253 1272	depressive symptoms
+T12	outcome 1322 1353	proinflammatory gene expression
+T13	outcome 1476 1483	fatigue
+T15	outcome 1485 1502	sleep disturbance
+T16	outcome 1508 1526	vasomotor symptoms
+T8	outcome-Measure 885 902	physical symptoms
+T9	outcome-Measure 904 927	cancer-related distress
+T10	outcome-Measure 933 950	positive outcomes

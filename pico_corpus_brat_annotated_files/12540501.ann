@@ -1,0 +1,10 @@
+T1	intervention 0 11	Fenretinide
+T2	eligibility 377 407	women with early breast cancer
+T3	control 442 454	no treatment
+T4	location 610 622	Milan, Italy
+T5	intervention-participants 624 627	818
+T6	control-participants 632 635	756
+T12	outcome 1920 1941	Retinol plasma levels
+T14	outcome 2031 2043	4-HPR levels
+T10	outcome 1808 1821	retinol level
+T11	outcome 1421 1467	4-HPR and N-(4-methoxyphenyl)retinamide levels

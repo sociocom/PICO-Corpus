@@ -1,0 +1,41 @@
+T2	intervention 33 53	irinotecan schedules
+T3	eligibility 461 613	MBC patients who experienced disease progression after one to three chemotherapy regimens, including at least one anthracycline- or taxane-based regimen
+T1	intervention-participants 789 791	52
+T4	control-participants 839 841	51
+T5	intervention 774 784	weekly arm
+T6	control 817 834	every-3-weeks arm
+T7	outcome 886 904	objective response
+T8	iv-bin-percent 967 970	23%
+T10	iv-cont-median 1037 1047	4.9 months
+T12	iv-cont-median 1109 1119	9.7 months
+T13	outcome 1180 1203	objective response rate
+T14	cv-bin-percent 1208 1211	14%
+T15	iv-bin-abs 972 975	one
+T16	outcome 976 978	CR
+T17	iv-bin-abs 980 982	11
+T18	outcome 983 985	PR
+T19	cv-bin-abs 1213 1217	nine
+T20	outcome 1218 1220	PR
+T22	cv-cont-median 1271 1281	4.2 months
+T24	cv-cont-median 1343 1353	8.6 months
+T25	outcome 1408 1422	well tolerated
+T26	outcome 1454 1481	Grade 3 to 4 adverse events
+T27	outcome 1517 1528	neutropenia
+T28	iv-bin-percent 1530 1533	29%
+T29	outcome 1539 1547	diarrhea
+T30	iv-bin-percent 1549 1552	17%
+T31	outcome 1576 1587	neutropenia
+T32	cv-bin-percent 1589 1592	36%
+T33	outcome 1595 1603	vomiting
+T34	cv-bin-percent 1605 1608	20%
+T35	outcome 1611 1618	dyspnea
+T36	cv-bin-percent 1620 1623	18%
+T37	outcome 1626 1632	nausea
+T38	cv-bin-percent 1634 1637	16%
+T39	outcome 1644 1652	diarrhea
+T40	cv-bin-percent 1654 1657	12%
+T41	outcome 1711 1728	good tolerability
+T9	outcome 1008 1032	Median response duration
+T11	outcome 1081 1104	median overall survival
+T21	outcome 1242 1266	median response duration
+T23	outcome 1315 1338	median overall survival

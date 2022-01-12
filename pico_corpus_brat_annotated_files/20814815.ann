@@ -1,0 +1,17 @@
+T1	intervention 44 73	capecitabine plus enzastaurin
+T2	control 81 106	capecitabine plus placebo
+T3	eligibility 110 206	patients with metastatic or recurrent breast cancer after prior anthracycline and taxane therapy
+T4	outcome-Measure 863 894	progression-free survival (PFS)
+T5	total-participants 960 963	109
+T6	total-participants 999 1001	85
+T7	intervention-participants 1042 1044	42
+T8	control-participants 1049 1051	43
+T9	outcome 1171 1181	Median PFS
+T10	iv-cont-median 1195 1198	2.8
+T11	cv-cont-median 1258 1261	4.3
+T14	outcome 1365 1388	Median overall survival
+T15	iv-cont-median 1480 1483	9.9
+T16	cv-cont-median 1505 1509	14.9
+T17	outcome 1541 1565	Grade 3/4 adverse events
+T18	iv-bin-percent 1621 1626	42.9%
+T19	cv-bin-percent 1630 1635	32.6%

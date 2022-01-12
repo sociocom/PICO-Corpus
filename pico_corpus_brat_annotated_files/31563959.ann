@@ -1,0 +1,25 @@
+T1	intervention 14 42	Abemaciclib Plus Fulvestrant
+T2	outcome 2956 2965	median OS
+T3	outcome 2507 2541	Time to second disease progression
+T4	iv-cont-median 2551 2562	23.1 months
+T5	cv-cont-median 2566 2577	20.6 months
+T6	outcome 2580 2600	time to chemotherapy
+T7	iv-cont-median 2610 2621	50.2 months
+T8	cv-cont-median 2625 2636	22.1 months
+T9	outcome 2643 2669	chemotherapy-free survival
+T10	iv-cont-median 2679 2690	25.5 months
+T11	cv-cont-median 2694 2705	18.2 months
+T12	outcome 1964 1970	deaths
+T13	outcome 2074 2083	median OS
+T14	iv-cont-median 2087 2098	46.7 months
+T15	cv-cont-median 2136 2147	37.3 months
+T18	total-participants 1712 1715	669
+T19	intervention-participants 1732 1735	446
+T20	control-participants 1835 1838	223
+T21	control 1901 1925	placebo plus fulvestrant
+T22	outcome-Measure 1600 1616	Overall survival
+T23	outcome-Measure 1573 1598	progression-free survival
+T16	outcome 2333 2356	more pronounced effects
+T17	outcome 2442 2472	primary resistance to prior ET
+T24	outcome 2374 2404	patients with visceral disease
+T25	outcome 2800 2814	safety signals

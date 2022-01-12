@@ -1,0 +1,16 @@
+T8	total-participants 533 535	41
+T9	eligibility 536 662	breast cancer patients with visible and palpable cords on the arm and axilla and a numeric rating scale (NRS) pain score of >3
+T10	control-participants 723 725	20
+T11	intervention-participants 790 792	21
+T18	outcome 1516 1526	Lymphedema
+T19	cv-bin-abs 1555 1556	6
+T1	intervention 13 77	physical therapy program combined with manual lymphatic drainage
+T2	condition 81 147	shoulder function, quality of life, lymphedema incidence, and pain
+T3	iv-bin-abs 1563 1566	not
+T4	control 689 691	PT
+T5	outcome 1236 1280	QOL including functional and symptom aspects
+T6	outcome 1282 1306	shoulder flexor strength
+T7	outcome 1308 1312	DASH
+T16	outcome 1318 1328	NRS scores
+T17	outcome 1414 1423	NRS score
+T20	outcome 1428 1438	arm volume

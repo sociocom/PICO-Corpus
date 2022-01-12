@@ -1,0 +1,18 @@
+T1	ethinicity 363 373	black race
+T4	total-participants 847 851	4817
+T5	ethinicity 887 892	black
+T6	intervention-participants 871 874	405
+T7	control 908 916	nonblack
+T2	outcome 955 986	rate of triple-negative disease
+T8	iv-bin-percent 988 993	31.9%
+T9	cv-bin-percent 997 1002	17.2%
+T10	outcome 1150 1171	disease-free survival
+T11	iv-bin-percent 1222 1227	76.7%
+T12	cv-bin-percent 1231 1236	84.5%
+T13	outcome 1337 1353	overall survival
+T14	iv-bin-percent 1399 1404	87.6%
+T15	cv-bin-percent 1408 1413	91.9%
+T16	intervention 74 86	chemotherapy
+T17	eligibility 438 498	patients who were treated with contemporary adjuvant therapy
+T18	outcome 1355 1378	5-year overall survival
+T19	intervention 927 932	black

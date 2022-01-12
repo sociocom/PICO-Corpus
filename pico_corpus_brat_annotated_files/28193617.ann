@@ -1,0 +1,17 @@
+T2	eligibility 241 264	women at increased risk
+T3	location 355 362	England
+T4	location 364 380	Northern Ireland
+T5	location 386 391	Wales
+T6	total-participants 397 400	928
+T12	outcome 1069 1113	knew tamoxifen can reduce breast cancer risk
+T1	intervention 103 117	GPs' attitudes
+T14	control 703 744	secondary care clinician [SCC] prescriber
+T17	outcome 1144 1173	aware of NICE guideline CG164
+T18	iv-bin-percent 1356 1361	68.9%
+T19	cv-bin-percent 1369 1374	84.6%
+T13	outcome 1242 1272	willing to prescribe tamoxifen
+T20	outcome 1414 1447	less comfort discussing tamoxifen
+T21	iv-bin-percent 1449 1454	53.4%
+T22	cv-bin-percent 1462 1467	62.5%
+T15	iv-bin-percent 1051 1056	51.7%
+T16	cv-bin-percent 1132 1137	24.1%

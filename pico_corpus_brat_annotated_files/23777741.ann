@@ -1,0 +1,14 @@
+T1	intervention 123 142	axillary dissection
+T2	control 146 167	axillary radiotherapy
+T3	total-participants 321 324	435
+T4	age 341 354	over 45 years
+T5	eligibility 356 401	tumour ≤1.4 cm and clinically negative axilla
+T6	control-participants 772 775	145
+T7	intervention-participants 805 808	140
+T8	outcome 977 1027	10-year cumulative incidence of distant metastasis
+T9	cv-bin-percent 1068 1070	1%
+T10	iv-bin-percent 1107 1109	7%
+T11	outcome 1217 1252	10-year disease-free survival (DFS)
+T12	outcome 1257 1273	overall survival
+T13	outcome 1388 1399	10-year DFS
+T14	outcome 1472 1484	Ten-year DFS

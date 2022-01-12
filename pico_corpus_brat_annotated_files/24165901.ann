@@ -1,0 +1,17 @@
+T1	condition 20 38	postoperative pain
+T3	intervention 131 159	thoracic paravertebral block
+T4	control 163 192	local anesthetic infiltration
+T2	eligibility 478 542	Women scheduled for elective breast cancer surgery were randomly
+T6	total-participants 944 947	145
+T7	intervention-participants 977 979	65
+T8	control-participants 1008 1010	64
+T10	iv-bin-abs 1182 1183	5
+T11	cv-bin-abs 1205 1206	4
+T13	outcome 1303 1336	Arm morbidity and quality of life
+T5	outcome 1224 1277	Brief Pain Inventory severity and interference scores
+T12	outcome 1399 1421	shoulder-arm morbidity
+T14	outcome 1434 1449	quality of life
+T9	outcome 1135 1155	met criteria for PPP
+T15	outcome-Measure 316 351	persistent postoperative pain (PPP)
+T16	outcome-Measure 443 456	arm morbidity
+T17	outcome-Measure 461 476	quality of life

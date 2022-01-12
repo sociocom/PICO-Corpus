@@ -1,0 +1,17 @@
+T1	intervention 10 35	second timed appointments
+T2	location 84 91	England
+T3	control 878 977	invitation letter with a telephone number to call to book their new screening appointment (control)
+T4	age 1292 1303	50-70 years
+T5	outcome-Measure 1412 1425	participation
+T6	total-participants 1758 1764	33 146
+T8	total-participants 1930 1936	26 054
+T9	intervention-participants 1976 1982	12 807
+T10	control-participants 2013 2019	13 247
+T11	outcome 2043 2056	Participation
+T13	intervention-participants 2171 2177	12 807
+T15	control-participants 2220 2226	13 247
+T12	iv-bin-abs 2157 2161	2861
+T16	iv-bin-percent 2163 2166	22%
+T14	cv-bin-abs 2206 2210	1632
+T17	cv-bin-percent 2212 2215	12%
+T7	eligibility 655 753	women in six centres in the NHSBSP in England who were invited for routine breast cancer screening

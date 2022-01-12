@@ -1,0 +1,30 @@
+T1	intervention 19 45	gemcitabine plus docetaxel
+T2	control 53 80	capecitabine plus docetaxel
+T3	eligibility 272 310	patients with metastatic breast cancer
+T4	outcome-Measure 691 716	time to progression (TtP)
+T6	total-participants 851 854	475
+T7	total-participants 893 896	324
+T8	outcome 1059 1082	discontinued due to AEs
+T9	cv-bin-percent 1054 1057	28%
+T10	iv-bin-percent 1101 1106	18.0%
+T11	outcome 1120 1123	TtP
+T14	outcome 1209 1211	OS
+T18	iv-bin-abs 1372 1374	72
+T19	intervention-participants 1378 1381	207
+T20	iv-bin-percent 1383 1388	34.8%
+T21	cv-bin-abs 1398 1400	78
+T22	control-participants 1404 1407	191
+T23	cv-bin-percent 1409 1414	40.8%
+T12	outcome 1417 1433	TtP, OS, and ORR
+T13	outcome 1513 1520	fatigue
+T15	outcome 1522 1536	hepatotoxicity
+T16	outcome 1538 1549	neutropenia
+T17	outcome 1555 1571	thrombocytopenia
+T24	outcome 1580 1599	febrile neutropenia
+T25	outcome 1616 1634	hand-foot syndrome
+T26	outcome 1636 1661	gastrointestinal toxicity
+T27	outcome 1667 1676	mucositis
+T28	outcome 1310 1313	ORR
+T5	outcome-Measure 749 776	overall response rate (ORR)
+T29	outcome-Measure 778 799	overall survival (OS)
+T30	outcome-Measure 805 825	adverse events (AEs)

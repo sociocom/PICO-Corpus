@@ -1,0 +1,46 @@
+T1	intervention 9 21	decision aid
+T2	location 619 645	New South Wales, Australia
+T3	age 683 694	48-50 years
+T4	eligibility 744 885	women were eligible if they had not had mammography in the past 2 years and did not have a personal or strong family history of breast cancer
+T5	total-participants 933 936	879
+T7	outcome-Measure 1327 1342	informed choice
+T9	intervention-participants 1775 1778	440
+T10	control-participants 1830 1833	439
+T11	intervention-participants 2064 2067	409
+T12	control-participants 2104 2107	408
+T13	outcome 2204 2227	made an informed choice
+T15	intervention-participants 2168 2171	409
+T17	control-participants 2254 2257	408
+T18	outcome 2380 2428	met the threshold for adequate overall knowledge
+T19	iv-bin-abs 2430 2433	122
+T20	intervention-participants 2565 2568	409
+T21	iv-bin-percent 2439 2442	29%
+T22	cv-bin-abs 2447 2449	71
+T23	control-participants 2450 2453	419
+T24	cv-bin-percent 2455 2458	17%
+T25	outcome 2523 2559	positive attitudes towards screening
+T26	intervention-participants 2434 2437	419
+T27	iv-bin-abs 2561 2564	282
+T28	iv-bin-percent 2570 2573	69%
+T29	cv-bin-abs 2578 2581	340
+T30	control-participants 2582 2585	408
+T31	cv-bin-percent 2587 2590	83%
+T32	outcome 2631 2654	intended to be screened
+T33	iv-bin-abs 2656 2659	308
+T34	intervention-participants 2660 2663	419
+T35	iv-bin-percent 2665 2668	74%
+T36	cv-bin-abs 2673 2676	363
+T37	control-participants 2677 2680	419
+T38	cv-bin-percent 2682 2685	87%
+T39	outcome 2807 2830	made an informed choice
+T41	intervention-participants 2771 2774	409
+T43	control-participants 2857 2860	408
+T14	iv-bin-abs 2156 2158	99
+T44	iv-bin-percent 2160 2163	24%
+T16	cv-bin-abs 2242 2244	63
+T45	cv-bin-percent 2246 2249	15%
+T40	iv-bin-abs 2758 2761	203
+T46	iv-bin-percent 2763 2766	50%
+T42	cv-bin-abs 2845 2847	79
+T47	cv-bin-percent 2849 2852	19%
+T6	control 1855 1868	control group

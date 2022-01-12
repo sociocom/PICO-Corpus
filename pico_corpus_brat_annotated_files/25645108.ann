@@ -1,0 +1,14 @@
+T1	intervention 32 90	adjuvant radiotherapy combined with concurrent bevacizumab
+T4	intervention-participants 621 623	39
+T2	control-participants 659 661	45
+T5	control 671 688	adjuvant RT alone
+T6	eligibility 724 824	All patients had triple-negative non-metastatic BC and received adjuvant chemotherapy followed by RT
+T7	outcome 1555 1559	pain
+T8	iv-bin-percent 1561 1564	18%
+T9	outcome 1567 1575	fibrosis
+T10	iv-bin-percent 1577 1580	8%)
+T11	outcome 1585 1599	telangiectasia
+T12	iv-bin-percent 1601 1603	5%
+T13	outcome 1314 1338	Grade 3 acute dermatitis
+T14	iv-bin-percent 1355 1357	9%
+T15	cv-bin-percent 1389 1391	5%

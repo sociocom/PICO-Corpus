@@ -1,0 +1,15 @@
+T3	intervention-participants 881 887	Thirty
+T4	intervention-participants 920 922	50
+T5	control-participants 1065 1076	Forty eight
+T6	control 1077 1093	healthy controls
+T7	eligibility 682 775	postmenopausal BC patients who were, following doxorubicin/cyclophosphamide (AC) chemotherapy
+T8	outcome 1129 1146	Memory complaints
+T9	iv-bin-percent 1164 1167	28%
+T10	iv-bin-percent 1191 1194	24%
+T11	cv-bin-percent 1222 1224	6%
+T12	outcome 1425 1443	verbal functioning
+T13	outcome 1503 1514	motor speed
+T14	outcome 1591 1605	verbal fluency
+T15	outcome 1610 1638	information processing speed
+T16	condition 0 30	Neuropsychological functioning
+T1	intervention 85 108	tamoxifen or exemestane

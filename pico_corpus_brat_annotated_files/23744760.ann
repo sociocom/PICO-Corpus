@@ -1,0 +1,7 @@
+T2	control 706 727	standard chemotherapy
+T1	intervention 118 158	chemotherapy with or without trastuzumab
+T3	total-participants 881 885	2318
+T5	outcome 1364 1385	disease-free survival
+T4	outcome 1613 1625	sHER2 levels
+T6	outcome 1790 1815	survival after recurrence
+T7	outcome 1823 1851	3-year overall survival rate

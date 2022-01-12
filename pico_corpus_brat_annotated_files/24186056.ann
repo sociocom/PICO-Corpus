@@ -1,0 +1,27 @@
+T1	intervention 0 39	Ultrasonic dissection system technology
+T2	total-participants 691 714	One hundred thirty-nine
+T3	age 733 741	61 years
+T4	eligibility 762 841	with confirmed pT1-2 primary infiltrating ductal BC undergoing curative surgery
+T5	intervention-participants 971 973	68
+T6	control 1025 1033	controls
+T7	control-participants 1035 1037	71
+T8	outcome 1269 1288	mean operative time
+T9	outcome 1290 1315	intraoperative blood loss
+T10	outcome 1321 1336	drainage output
+T17	outcome 1496 1524	developed an axillary seroma
+T18	iv-bin-abs 1526 1527	9
+T19	iv-bin-abs 1529 1535	13.2 %
+T20	cv-bin-abs 1541 1543	20
+T21	cv-bin-percent 1545 1551	28.2 %
+T11	iv-cont-mean 1352 1354	95
+T22	iv-cont-sd 1357 1359	22
+T12	cv-cont-mean 1367 1370	109
+T23	cv-cont-sd 1373 1379	25 min
+T13	iv-cont-mean 1381 1383	56
+T24	iv-cont-sd 1386 1388	12
+T14	cv-cont-mean 1396 1398	86
+T25	cv-cont-sd 1401 1406	15 mL
+T15	iv-cont-mean 1412 1415	412
+T26	iv-cont-sd 1418 1420	83
+T16	cv-cont-mean 1428 1431	456
+T27	cv-cont-sd 1434 1439	69 mL

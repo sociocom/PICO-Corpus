@@ -1,0 +1,19 @@
+T3	outcome-Measure 575 612	pathological complete remission (pCR)
+T5	total-participants 698 717	One hundred and two
+T6	total-participants 757 759	96
+T7	outcome 879 888	pCR rates
+T8	iv-bin-percent 894 899	6.8 %
+T9	iv-bin-abs 901 902	3
+T10	intervention-participants 903 905	45
+T11	cv-bin-percent 911 917	17.6 %
+T12	cv-bin-abs 919 920	9
+T13	control-participants 921 923	51
+T14	outcome 1085 1104	event free survival
+T17	outcome 1161 1182	disease-free survival
+T20	outcome 1390 1416	neutropenia and leucopenia
+T15	intervention 23 99	neoadjuvant chemotherapy with docetaxel, anthracycline, and cyclophosphamide
+T16	control 107 138	docetaxel plus cyclophosphamide
+T1	outcome-Measure 644 650	safety
+T2	outcome-Measure 652 674	clinical response rate
+T4	outcome-Measure 680 696	survival outcome
+T18	outcome 1297 1316	adverse event rates

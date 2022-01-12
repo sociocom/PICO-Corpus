@@ -1,0 +1,21 @@
+T1	intervention 18 45	tailored web-based messages
+T2	total-participants 626 630	1498
+T4	control 1037 1050	control group
+T5	outcome 1384 1434	agree that exposure to SHS increased their BC risk
+T6	cv-bin-abs 1290 1293	491
+T7	control-participants 1294 1297	839
+T8	cv-bin-percent 1299 1304	58.5%
+T9	iv-bin-abs 1344 1347	339
+T10	intervention-participants 1348 1351	649
+T11	iv-bin-percent 1353 1358	52.2%
+T12	outcome 1551 1602	agree that starting smoking would increase their BC
+T13	iv-bin-percent 1532 1535	14%
+T15	cv-bin-abs 1689 1692	348
+T16	control-participants 1693 1696	839
+T17	cv-bin-percent 1698 1703	41.5%
+T18	iv-bin-abs 1742 1745	310
+T19	intervention-participants 1746 1749	649
+T20	iv-bin-percent 1751 1756	47.8%
+T21	iv-bin-percent 1932 1935	52%
+T22	outcome 1951 1998	request additional information about SHS and BC
+T14	outcome 1782 1839	agree that girls' exposure to SHS increased their BC risk

@@ -1,0 +1,8 @@
+T1	intervention 2 68	web-based personalized risk communication and decision-making tool
+T2	total-participants 1055 1059	1250
+T3	age 1087 1097	aged 40-69
+T4	eligibility 1098 1255	with a recent negative screening mammogram who are at increased risk for interval cancer based on their 5-year breast cancer risk and BI-RADS® breast density
+T5	location 1025 1042	Pacific Northwest
+T6	control 1364 1392	standard educational content
+T7	outcome-Measure 1434 1463	electronic health record data
+T8	outcome-Measure 1519 1536	telephone surveys

@@ -1,0 +1,25 @@
+T1	location 461 469	Austrian
+T2	total-participants 523 526	869
+T3	intervention 0 58	Endocrine therapy with or without whole breast irradiation
+T4	intervention-participants 598 601	439
+T5	control 615 626	observation
+T6	control-participants 632 635	430
+T7	outcome 790 818	in-breast recurrences (IBRs)
+T8	cv-bin-abs 848 850	31
+T9	iv-bin-abs 787 789	10
+T10	outcome 878 923	10-year local recurrence-free survival (LRFS)
+T11	iv-bin-percent 927 932	97.5%
+T12	cv-bin-percent 937 942	92.4%
+T13	outcome 1012 1049	rates for disease-free survival (DFS)
+T14	iv-bin-percent 1051 1056	94.5%
+T15	cv-bin-percent 1068 1073	88.4%
+T16	outcome 1099 1138	distant metastases-free survival (DMFS)
+T17	outcome 1143 1164	overall survival (OS)
+T18	iv-bin-percent 1200 1205	96.7%
+T19	iv-bin-percent 1210 1215	86.6%
+T20	cv-bin-percent 1235 1240	96.4%
+T21	cv-bin-percent 1245 1250	87.6%
+T22	outcome 1270 1273	WBI
+T25	outcome 1314 1328	tumour grading
+T23	outcome 1495 1508	local control
+T24	outcome 1513 1516	DFS

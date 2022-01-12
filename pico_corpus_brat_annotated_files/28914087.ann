@@ -1,0 +1,14 @@
+T1	intervention 10 31	myofascial techniques
+T2	location 402 409	Belgium
+T3	total-participants 422 424	50
+T4	eligibility 425 516	patients with persistent arm pain and myofascial dysfunctions after breast cancer treatment
+T5	control 721 736	placebo therapy
+T7	outcome 1158 1172	pain intensity
+T11	iv-bin-percent 1381 1384	44%
+T12	cv-bin-percent 1392 1395	64%
+T13	condition 49 68	persistent arm pain
+T6	outcome-Measure 767 781	pain intensity
+T8	outcome-Measure 847 874	prevalence rate of arm pain
+T9	outcome-Measure 876 901	pressure hypersensitivity
+T14	outcome-Measure 941 953	pain quality
+T10	outcome 1408 1430	still experienced pain

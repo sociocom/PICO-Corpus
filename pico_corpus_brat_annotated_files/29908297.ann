@@ -1,0 +1,15 @@
+T1	condition 46 55	bone loss
+T2	intervention 92 107	zoledronic acid
+T4	control 540 547	placebo
+T5	eligibility 59 77	premenopausal wome
+T6	intervention-participants 594 604	Thirty-one
+T7	control-participants 647 658	thirty-four
+T11	iv-cont-mean 1116 1120	2.2%
+T12	cv-cont-mean 1125 1129	7.3%
+T13	iv-cont-mean 932 936	2.9%
+T14	cv-cont-mean 981 985	7.1%
+T3	outcome 899 922	BMD at the lumbar spine
+T8	outcome 1137 1160	BMD at the lumbar spine
+T9	outcome 1070 1078	60-month
+T10	outcome 888 897	24 months
+T15	outcome 1385 1429	BMD-values at the femoral neck and total hip

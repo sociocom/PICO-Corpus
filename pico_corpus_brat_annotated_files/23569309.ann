@@ -1,0 +1,17 @@
+T1	intervention 44 68	maintenance chemotherapy
+T2	control 76 87	observation
+T5	total-participants 822 825	324
+T6	total-participants 861 864	231
+T7	intervention-participants 1044 1047	116
+T8	control-participants 1069 1072	115
+T9	age 1094 1102	48 years
+T10	outcome 1263 1278	median PFS time
+T11	iv-cont-median 1370 1373	7.5
+T12	cv-cont-median 1376 1386	3.8 months
+T13	outcome 1417 1450	median overall survival (OS) time
+T14	iv-cont-median 1518 1522	32.3
+T15	cv-cont-median 1525 1536	23.5 months
+T16	outcome 1567 1604	rate of grade 3 or higher neutropenia
+T17	iv-bin-percent 1696 1699	61%
+T18	cv-bin-percent 1702 1706	0.9%
+T3	eligibility 651 733	Patients MBC with who achieved disease control after six cycles of PG chemotherapy

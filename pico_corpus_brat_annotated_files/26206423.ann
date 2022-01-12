@@ -1,0 +1,10 @@
+T1	eligibility 438 584	healthy postmenopausal women at high risk of breast cancer due to dense breast tissue with differing catechol-O-methyltransferase (COMT) genotypes
+T3	control 696 703	placebo
+T4	outcome-Measure 919 958	changes in percent mammographic density
+T5	outcome-Measure 960 995	circulating endogenous sex hormones
+T6	outcome-Measure 1001 1041	insulin-like growth factor axis proteins
+T7	outcome-Measure 1068 1121	changes in urinary estrogens and estrogen metabolites
+T8	outcome-Measure 1126 1153	circulating F2-isoprostanes
+T9	total-participants 1250 1255	1,075
+T10	total-participants 1426 1429	937
+T2	intervention 14 36	Green Tea Trial (MGTT)

@@ -1,0 +1,16 @@
+T1	intervention 73 94	weight loss programme
+T2	eligibility 739 761	Overweight/obese women
+T3	location 769 771	UK
+T4	eligibility 823 902	identified at high, moderately increased, average and low-risk of breast cancer
+T5	total-participants 1311 1314	126
+T6	total-participants 1340 1342	52
+T7	outcome 1376 1394	breast cancer risk
+T9	outcome 1566 1609	Odds ratio of retention for high/moderately
+T10	outcome 1747 1758	Weight loss
+T19	iv-bin-percent 1795 1798	63%
+T20	cv-bin-percent 1817 1820	43%
+T21	iv-bin-percent 1863 1866	39%
+T22	cv-bin-percent 1871 1873	8%
+T8	outcome 1898 1904	Uptake
+T11	outcome 1906 1915	retention
+T12	outcome 1920 1931	weight loss

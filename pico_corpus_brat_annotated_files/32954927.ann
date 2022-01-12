@@ -1,0 +1,13 @@
+T1	intervention 0 43	Abemaciclib Combined With Endocrine Therapy
+T2	eligibility 818 947	patients with HR+, HER2-, high-risk EBC, who had surgery and, as indicated, radiotherapy and/or adjuvant/neoadjuvant chemotherapy
+T3	control 1133 1149	standard-of-care
+T4	outcome-Measure 1270 1308	invasive disease-free survival (IDFS),
+T6	total-participants 1453 1458	5,637
+T7	outcome 1491 1502	IDFS events
+T8	outcome 1594 1598	IDFS
+T9	outcome 1673 1690	2-year IDFS rates
+T10	iv-bin-percent 1694 1699	92.2%
+T11	cv-bin-percent 1707 1712	88.7%
+T5	outcome-Measure 1343 1372	distant relapse-free survival
+T12	outcome-Measure 1374 1390	overall survival
+T13	outcome-Measure 1396 1402	safety

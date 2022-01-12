@@ -1,0 +1,36 @@
+T1	intervention 14 44	comprehensive education course
+T4	ethinicity 83 90	Chinese
+T5	eligibility 91 158	breast cancer patients during the postoperative radiotherapy period
+T6	total-participants 371 374	290
+T7	eligibility 375 396	one-sided BC patients
+T8	control 441 452	control arm
+T10	outcome 841 855	Response rates
+T11	iv-bin-percent 861 863	94
+T12	cv-bin-percent 868 872	100%
+T13	outcome 924 946	Means of score changes
+T14	outcome 1036 1047	for anxiety
+T15	outcome 1094 1115	for depression scores
+T16	outcome 1131 1164	'Abnormal' anxiety and depression
+T17	cv-bin-percent 1179 1182	4.1
+T18	cv-bin-percent 1187 1191	6.9%
+T19	outcome 1192 1203	at baseline
+T20	cv-bin-abs 1208 1211	4.8
+T21	cv-bin-percent 1216 1220	6.9%
+T22	outcome 1221 1233	at end of RT
+T23	iv-bin-percent 1269 1272	6.6
+T24	iv-bin-percent 1277 1281	7.4%
+T25	iv-bin-percent 1287 1290	8.8
+T26	iv-bin-percent 1295 1300	10.3%
+T2	condition 54 76	anxiety and depression
+T3	control-participants 983 987	 145
+T27	iv-cont-mean 994 1000	+ 0.59
+T28	iv-cont-sd 1007 1011	2.47
+T29	cv-cont-mean 1017 1023	+ 0.11
+T30	cv-cont-sd 1030 1034	2.55
+T31	iv-cont-mean 1052 1058	+ 0.81
+T32	iv-cont-sd 1065 1069	2.81
+T33	cv-cont-mean 1075 1081	+ 0.45
+T34	cv-cont-sd 1088 1092	2.77
+T9	outcome 1354 1376	anxiety and depression
+T35	outcome 1482 1511	score and severity of anxiety
+T36	outcome 1516 1535	depression symptoms

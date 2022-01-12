@@ -1,0 +1,20 @@
+T2	outcome-Measure 724 777	6-month percentage of 25OHD serum level normalization
+T3	control 520 577	6-month conventional (C) vitD and calcium supplementation
+T4	intervention 583 610	6-month high-dose oral vitD
+T5	total-participants 790 793	215
+T6	total-participants 867 870	195
+T7	intervention-participants 900 903	100
+T8	control-participants 908 910	95
+T9	outcome 913 957	Compliance to the daily oral supplementation
+T10	cv-bin-percent 962 967	68.4%
+T11	iv-bin-percent 972 975	67%
+T12	outcome 1011 1050	Discontinuous high-dose vitD compliance
+T13	iv-bin-percent 1081 1084	77%
+T15	iv-bin-percent 1167 1170	30%
+T16	cv-bin-percent 1178 1183	12.6%
+T17	outcome 1217 1231	well tolerated
+T18	cv-bin-percent 1332 1341	Fifty-two
+T19	outcome 1393 1414	switched to the T arm
+T1	intervention 26 59	vitamin D supplementation regimen
+T14	outcome 1131 1152	normalized vitD level
+T20	outcome 1467 1494	achieved vitD normalization

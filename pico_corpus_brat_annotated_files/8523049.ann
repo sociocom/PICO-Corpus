@@ -1,0 +1,7 @@
+T2	total-participants 309 312	960
+T3	control 519 540	no adjuvant treatment
+T4	intervention 187 208	adjuvant radiotherapy
+T5	outcome 942 966	risk of local recurrence
+T6	outcome 1039 1068	risk of distant dissemination
+T1	eligibility 212 288	early breast cancer patients with more than 15 years of follow-up evaluation
+T7	outcome-Measure 1453 1469	overall survival

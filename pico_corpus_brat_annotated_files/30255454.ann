@@ -1,0 +1,22 @@
+T1	intervention 89 102	scalp cooling
+T3	condition 178 213	Chemotherapy-induced alopecia (CIA)
+T4	eligibility 476 552	Patients undergoing (neo)adjuvant chemotherapy for early breast cancer (EBC)
+T5	control 595 614	observation (NoCAP)
+T8	outcome-Measure 899 943	rate of alopecia determined by medical staff
+T9	outcome-Measure 945 966	rate of wig/scarf use
+T10	outcome-Measure 968 980	tolerability
+T11	outcome-Measure 992 1013	quality of life (QoL)
+T12	total-participants 1015 1027	Seventy-nine
+T13	outcome 1054 1071	Hair preservation
+T14	iv-bin-percent 1088 1093	39.3%
+T15	cv-bin-percent 1128 1130	0%
+T16	outcome 1161 1174	Wig/scarf use
+T17	iv-bin-percent 1225 1230	40.7%
+T18	cv-bin-percent 1234 1239	95.5%
+T19	outcome 1285 1298	drop-out rate
+T20	iv-bin-percent 1303 1308	31.7%
+T21	cv-bin-percent 1313 1318	34.2%
+T2	outcome 1390 1415	hair loss, adverse events
+T6	outcome 1489 1497	efficacy
+T22	outcome 1564 1567	QoL
+T7	outcome-Measure 727 760	patient-reported rate of alopecia

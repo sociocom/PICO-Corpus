@@ -1,0 +1,23 @@
+T1	intervention 32 43	anastrozole
+T2	control 48 57	tamoxifen
+T3	ethinicity 116 124	Japanese
+T4	outcome 1563 1573	PgR status
+T5	outcome 1661 1694	changed from positive to negative
+T6	iv-bin-abs 1577 1579	16
+T7	intervention-participants 1580 1582	17
+T8	cv-bin-abs 1624 1625	1
+T9	control-participants 1626 1628	11
+T10	outcome 1396 1405	ER status
+T11	outcome 1423 1480	changed from positive at baseline to negative at 3 months
+T12	iv-bin-abs 1409 1410	5
+T13	intervention-participants 1411 1413	40
+T14	cv-bin-abs 1520 1522	20
+T15	control-participants 1523 1525	37
+T16	intervention-participants 1115 1117	48
+T17	control-participants 1137 1139	49
+T19	total-participants 550 552	97
+T20	eligibility 314 437	postmenopausal women with large, operable or potentially operable, locally advanced hormone receptor-positive breast cancer
+T21	outcome 1164 1195	histopathological response rate
+T22	iv-bin-percent 1275 1279	35.4
+T23	cv-bin-percent 1284 1289	12.2%
+T24	outcome 1310 1365	histopathological and clinical objective response rates

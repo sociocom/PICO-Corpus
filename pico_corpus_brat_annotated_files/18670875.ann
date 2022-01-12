@@ -1,0 +1,16 @@
+T1	intervention 0 11	Venlafaxine
+T2	control 19 28	clonidine
+T3	outcome 875 896	reduction in HF score
+T4	iv-bin-abs 901 904	49%
+T5	cv-bin-abs 925 928	55%
+T6	outcome 715 753	Premature discontinuation for toxicity
+T7	iv-bin-abs 766 768	14
+T8	cv-bin-abs 795 796	5
+T9	intervention-participants 769 771	59
+T10	control-participants 797 799	53
+T11	intervention-participants 651 657	Thirty
+T12	control-participants 696 698	30
+T14	total-participants 417 419	60
+T15	eligibility 420 458	breast cancer patients experiencing HF
+T16	condition 50 61	hot flashes
+T17	outcome 1016 1028	HF reduction

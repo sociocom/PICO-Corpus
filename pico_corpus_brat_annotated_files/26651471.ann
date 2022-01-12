@@ -1,0 +1,16 @@
+T1	intervention 0 32	Internet-based physical activity
+T2	total-participants 435 437	55
+T3	eligibility 438 543	women with at least 1 first-degree relative with breast cancer (but no personal history of breast cancer)
+T5	control 648 666	active control arm
+T9	age 941 963	46.2 (SD = 11.4) years
+T13	outcome 1457 1485	Baseline breast cancer worry
+T14	outcome 1490 1504	perceived risk
+T15	outcome 1147 1158	at 3 months
+T16	outcome 1186 1194	5 months
+T17	iv-cont-mean 1160 1163	213
+T18	cv-cont-mean 1168 1180	129 min/week
+T19	iv-cont-mean 1196 1199	208
+T20	cv-cont-mean 1204 1216	119 min/week
+T4	outcome 1326 1373	self-efficacy for physical activity at 3 months
+T11	outcome 1420 1445	self-efficacy at 5 months
+T10	outcome 1062 1111	minutes of moderate to vigorous physical activity

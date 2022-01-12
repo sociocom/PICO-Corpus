@@ -1,0 +1,29 @@
+T1	intervention 5 14	tamoxifen
+T2	outcome 1887 1906	Event-free survival
+T3	outcome 1591 1597	events
+T4	iv-bin-abs 1603 1605	39
+T5	cv-bin-abs 1617 1619	44
+T6	outcome 1631 1651	locoregional relapse
+T7	outcome 1661 1679	distant metastases
+T8	outcome 1690 1716	metachronous breast cancer
+T9	outcome 1726 1739	other tumours
+T10	iv-bin-abs 1655 1657	10
+T11	cv-bin-abs 1658 1659	8
+T12	iv-bin-abs 1683 1685	14
+T13	cv-bin-abs 1686 1688	16
+T14	iv-bin-abs 1720 1721	4
+T15	cv-bin-abs 1722 1724	10
+T16	iv-bin-abs 1743 1745	11
+T17	cv-bin-abs 1746 1748	10
+T18	outcome 1480 1504	prematurely discontinued
+T19	iv-bin-abs 1460 1470	Thirty-six
+T21	total-participants 1014 1043	Four hundred and thirty-three
+T22	intervention-participants 1087 1090	217
+T23	control-participants 1102 1105	216
+T25	age 389 403	35 to 75 years
+T20	control 609 624	follow-up alone
+T26	eligibility 405 553	operated more than 2 years previously for monolateral breast cancer without adjuvant TAM, with no signs of metastases and no contraindication to TAM
+T24	outcome 1764 1800	ER-positive secondary breast cancers
+T27	iv-bin-abs 1866 1867	1
+T28	cv-bin-abs 1871 1873	10
+T29	control 1092 1101	follow-up

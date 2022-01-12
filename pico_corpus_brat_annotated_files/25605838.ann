@@ -1,0 +1,27 @@
+T1	intervention 66 93	Lapatinib Plus Capecitabine
+T2	control 101 130	Trastuzumab Plus Capecitabine
+T3	eligibility 134 222	Patients With Human Epidermal Growth Factor Receptor 2-Positive Metastatic Breast Cancer
+T4	eligibility 452 492	Patients without baseline CNS metastases
+T5	outcome-Measure 859 886	incidence of CNS metastases
+T8	total-participants 1038 1041	540
+T9	intervention-participants 1061 1064	271
+T10	control-participants 1102 1105	269
+T11	outcome 1142 1169	Incidence of CNS metastases
+T12	iv-bin-percent 1199 1201	3%
+T13	iv-bin-abs 1203 1208	eight
+T14	intervention-participants 1212 1215	251
+T15	cv-bin-percent 1257 1259	5%
+T16	cv-bin-abs 1261 1263	12
+T17	control-participants 1267 1270	250
+T19	outcome 1550 1572	Serious adverse events
+T20	iv-bin-percent 1590 1593	13%
+T21	iv-bin-abs 1595 1597	34
+T22	intervention-participants 1601 1604	269
+T23	cv-bin-percent 1619 1622	17%
+T24	cv-bin-abs 1624 1626	45
+T25	control-participants 1630 1633	267
+T18	outcome 1371 1374	PFS
+T30	outcome 1379 1381	OS
+T7	outcome 1884 1911	incidence of CNS metastases
+T6	outcome-Measure 943 974	progression-free survival (PFS)
+T26	outcome-Measure 979 1000	overall survival (OS)

@@ -1,0 +1,11 @@
+T1	eligibility 407 449	postmenopausal women with an intact uterus
+T2	intervention 48 79	estrogen plus progestin therapy
+T3	control 562 569	placebo
+T4	control-participants 575 579	8102
+T5	intervention-participants 552 556	8506
+T7	outcome 1034 1077	new-onset breast tenderness after 12 months
+T8	iv-bin-percent 1079 1084	36.1%
+T9	cv-bin-percent 1088 1093	11.8%
+T10	outcome 1182 1200	breast cancer risk
+T13	outcome 1442 1469	new-onset breast tenderness
+T11	outcome 755 790	incidence of invasive breast cancer

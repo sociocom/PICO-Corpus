@@ -1,0 +1,20 @@
+T1	intervention 0 9	Tamoxifen
+T2	location 67 74	Italian
+T4	total-participants 567 571	5408
+T5	eligibility 582 626	healthy women who had undergone hysterectomy
+T6	control 705 712	placebo
+T8	outcome 942 955	breast cancer
+T9	cv-bin-abs 906 908	74
+T10	iv-bin-abs 918 920	62
+T14	outcome 1064 1086	rates of breast cancer
+T17	outcome 1493 1504	hot flashes
+T18	outcome 1541 1558	vaginal discharge
+T19	outcome 1599 1619	urinary disturbances
+T20	outcome 1665 1674	headaches
+T21	outcome 1743 1763	Hypertriglyceridemia
+T22	outcome 1800 1821	thromboembolic events
+T23	outcome 1862 1903	cardiac arrhythmia or atrial fibrillation
+T15	cv-bin-abs 1321 1325	6.26
+T24	control-participants 1330 1334	1000
+T11	iv-bin-abs 1359 1363	1.50
+T12	intervention-participants 1368 1372	1000

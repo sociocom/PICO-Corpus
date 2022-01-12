@@ -1,0 +1,11 @@
+T2	total-participants 588 591	386
+T3	eligibility 592 616	women with breast cancer
+T4	control 701 711	usual care
+T1	intervention 86 98	decision aid
+T6	iv-bin-percent 1042 1045	58%
+T7	iv-bin-abs 1047 1049	35
+T8	intervention-participants 1050 1052	60
+T9	outcome 1089 1111	chose adjuvant therapy
+T10	cv-bin-percent 1125 1128	87%
+T11	cv-bin-abs 1130 1132	33
+T12	control-participants 1133 1135	38

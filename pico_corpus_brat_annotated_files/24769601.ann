@@ -1,0 +1,14 @@
+T1	intervention 16 36	couples intervention
+T2	ethinicity 123 129	Korean
+T4	ethinicity 232 247	Korean American
+T5	location 418 425	Chicago
+T6	total-participants 432 435	428
+T3	age 453 477	40 years of age or older
+T7	eligibility 478 522	who had not had a mammogram in the past year
+T8	eligibility 436 452	married KA women
+T9	control 654 678	attention control groups
+T10	intervention-participants 714 717	211
+T11	control-participants 776 779	217
+T15	outcome 1313 1331	mammography uptake
+T13	outcome 1484 1500	mammogram uptake
+T16	control 747 770	attention control group

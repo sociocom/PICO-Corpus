@@ -1,0 +1,16 @@
+T2	location 378 384	Canada
+T3	total-participants 399 404	4,690
+T4	eligibility 405 446	women with extensive mammographic density
+T5	control 497 513	comparison group
+T8	outcome-Measure 832 854	invasive breast cancer
+T14	outcome 933 944	at baseline
+T15	outcome 952 971	after randomization
+T16	iv-bin-abs 1050 1053	118
+T17	outcome 1054 1077	invasive breast cancers
+T18	cv-bin-abs 1108 1111	102
+T6	intervention 22 42	dietary intervention
+T1	outcome 1302 1325	breast cancer incidence
+T7	outcome 856 878	Percentage of calories
+T9	outcome 1335 1341	weight
+T10	outcome 1352 1371	carbohydrate intake
+T11	outcome 1582 1603	risk of breast cancer

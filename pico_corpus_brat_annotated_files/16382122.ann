@@ -1,0 +1,19 @@
+T3	eligibility 372 417	premenopausal women at risk for breast cancer
+T4	total-participants 469 472	235
+T8	control 597 604	placebo
+T16	outcome-Measure 1158 1170	IGF-I levels
+T17	outcome 1408 1428	optic nerve ischemia
+T18	outcome 1437 1459	deep venous thrombosis
+T20	outcome 1613 1627	breast cancers
+T7	outcome 987 999	IGF-I levels
+T1	intervention 89 123	low-dose tamoxifen and fenretinide
+T2	outcome 1510 1529	menopausal symptoms
+T5	outcome 1531 1552	endometrial thickness
+T6	outcome 1554 1560	polyps
+T9	outcome 1565 1578	ovarian cysts
+T10	outcome 1242 1253	dropped out
+T11	outcome 1282 1296	adverse events
+T12	outcome 1316 1329	other reasons
+T13	iv-bin-abs 1331 1334	One
+T14	iv-bin-abs 1404 1407	one
+T15	iv-bin-abs 1433 1436	one

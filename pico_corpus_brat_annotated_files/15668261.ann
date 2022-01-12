@@ -1,0 +1,18 @@
+T1	eligibility 354 427	patients with early breast cancer who did not receive axillary dissection
+T3	total-participants 448 451	435
+T4	age 461 474	over 45 years
+T5	control-participants 558 561	214
+T7	intervention-participants 616 619	221
+T10	outcome 700 725	overt axillary metastases
+T9	cv-bin-abs 752 757	three
+T11	cv-bin-percent 800 804	1.5%
+T12	iv-bin-abs 810 813	one
+T13	iv-bin-percent 831 835	0.5%
+T14	outcome 838 852	Expected cases
+T15	cv-bin-abs 858 860	43
+T16	iv-bin-abs 900 902	10
+T17	outcome 981 1009	5-year disease free survival
+T19	intervention 96 117	axillary radiotherapy
+T6	control 565 611	breast conservation without axillary treatment
+T2	outcome 920 947	Rates of distant metastases
+T8	outcome 952 966	local failures

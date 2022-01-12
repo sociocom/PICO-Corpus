@@ -1,0 +1,16 @@
+T3	eligibility 129 187	patients with breast cancer and non-small cell lung cancer
+T4	outcome 1260 1299	incidence rate of grade 3-4 neutropenia
+T5	control 684 691	rhG-CSF
+T6	iv-bin-percent 1389 1394	69.7%
+T7	iv-bin-percent 1396 1401	68.4%
+T8	cv-bin-percent 1407 1412	69.5%
+T9	outcome 1500 1537	incidence rate of febrile neutropenia
+T10	iv-bin-percent 1626 1630	6.1%
+T11	iv-bin-percent 1632 1636	6.4%
+T12	cv-bin-percent 1642 1646	5.5%
+T13	outcome 1722 1754	incidence rate of adverse events
+T14	iv-bin-percent 1845 1849	6.7%
+T15	iv-bin-percent 1851 1855	4.1%
+T16	cv-bin-percent 1861 1865	5.5%
+T1	intervention 66 77	PEG-rhG-CSF
+T2	outcome 2202 2243	adverse events and mild adverse reactions

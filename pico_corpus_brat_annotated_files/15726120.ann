@@ -1,0 +1,22 @@
+T1	intervention 0 29	Cisplatin plus oral etoposide
+T2	control 71 81	paclitaxel
+T3	eligibility 85 152	patients with advanced breast cancer pretreated with anthracyclines
+T4	ethinicity 186 193	Turkish
+T6	total-participants 447 450	201
+T7	intervention-participants 477 480	100
+T8	control-participants 492 495	101
+T9	outcome 862 875	response rate
+T10	iv-bin-percent 926 930	36.3
+T11	cv-bin-percent 934 939	22.2%
+T13	iv-cont-median 1004 1005	7
+T14	cv-cont-median 1009 1017	4 months
+T15	outcome 1036 1055	time to progression
+T16	iv-cont-median 1100 1103	5.5
+T17	cv-cont-median 1107 1117	3.9 months
+T19	iv-cont-median 1200 1202	14
+T20	cv-cont-median 1206 1216	9.5 months
+T21	outcome 1228 1244	Toxicity profile
+T23	iv-bin-abs 1273 1276	Two
+T22	outcome 1303 1334	lost due to febrile neutropenia
+T5	outcome 951 975	Median response duration
+T12	outcome 1129 1152	Median overall survival

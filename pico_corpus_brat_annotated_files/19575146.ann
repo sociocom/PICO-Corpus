@@ -1,0 +1,19 @@
+T1	intervention 18 61	gemcitabine in combination with vinorelbine
+T2	control 69 104	gemcitabine followed by vinorelbine
+T3	eligibility 109 133	metastatic breast cancer
+T4	intervention-participants 566 575	Forty-two
+T5	control-participants 628 630	40
+T6	outcome 913 936	composite response rate
+T8	iv-cont-median 777 778	4
+T9	cv-cont-median 821 822	6
+T10	iv-bin-percent 938 943	26.8%
+T11	cv-bin-percent 948 953	12.5%
+T12	outcome 980 1012	median time to treatment failure
+T13	iv-cont-median 1014 1017	3.6
+T14	cv-cont-median 1022 1032	4.4 months
+T15	outcome 1103 1126	Median overall survival
+T7	outcome 736 772	median number of chemotherapy cycles
+T16	iv-cont-median 1171 1182	10.6 months
+T17	cv-cont-median 1187 1197	8.9 months
+T18	outcome 1225 1235	Toxicities
+T19	outcome 1278 1293	Quality of life

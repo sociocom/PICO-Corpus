@@ -1,0 +1,19 @@
+T1	intervention 0 21	Manual lymph drainage
+T2	condition 91 102	lymphoedema
+T3	location 631 638	Belgium
+T4	eligibility 681 761	they received unilateral surgery with axillary node dissection for breast cancer
+T5	total-participants 807 810	160
+T6	intervention-participants 834 836	79
+T7	control-participants 867 869	81
+T8	control 875 888	control group
+T9	outcome-Measure 1424 1487	cumulative incidence of and the time to develop arm lymphoedema
+T10	outcome-Measure 1672 1683	lymphoedema
+T11	outcome-Measure 1728 1780	health-related quality of life using the SF-36 scale
+T12	outcome-Measure 1788 1818	patient reported questionnaire
+T13	total-participants 1872 1875	154
+T14	outcome 1946 1970	incidence of lymphoedema
+T15	iv-bin-abs 2000 2002	18
+T16	iv-bin-percent 2004 2007	24%
+T17	cv-bin-abs 2079 2081	15
+T18	cv-bin-percent 2083 2086	19%
+T19	outcome 2226 2259	time taken to develop lymphoedema

@@ -1,0 +1,16 @@
+T1	intervention 2 18	Restorative Yoga
+T2	ethinicity 36 52	African-American
+T4	eligibility 463 512	African-American breast cancer survivors (AA BCS)
+T5	total-participants 759 771	Thirty-three
+T6	intervention-participants 837 839	18
+T7	control 844 867	wait list control group
+T8	control-participants 873 875	15
+T10	outcome 1018 1035	Depression scores
+T11	outcome 1218 1261	sleep quality, fatigue, or perceived stress
+T12	outcome 1338 1347	adherence
+T13	outcome 1369 1383	Average rating
+T14	iv-cont-mean 1097 1101	4.78
+T15	cv-cont-mean 1149 1153	6.91
+T16	iv-bin-percent 1334 1337	61%
+T3	iv-cont-sd 1108 1112	3.56
+T9	cv-cont-sd 1160 1164	5.86

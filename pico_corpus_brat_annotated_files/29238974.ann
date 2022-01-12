@@ -1,0 +1,24 @@
+T1	intervention 32 98	neoadjuvant recombinant human endostatin, docetaxel and epirubicin
+T2	outcome-Measure 503 533	clinical/pathological response
+T3	outcome-Measure 564 604	adverse events and quality of life (QOL)
+T4	total-participants 615 618	803
+T5	eligibility 347 447	Patients to be treated with neoadjuvant docetaxel and epirubicin (DE) or DE plus rh-endostatin (DEE)
+T6	control-participants 683 686	402
+T7	intervention-participants 700 703	401
+T8	outcome 757 776	"complete response"
+T9	iv-bin-percent 789 794	14.2%
+T10	cv-bin-percent 827 831	6.7%
+T11	outcome 845 863	"partial response"
+T12	iv-bin-percent 876 881	76.8%
+T13	cv-bin-percent 889 894	71.1%
+T14	outcome 902 918	"stable disease"
+T15	iv-bin-percent 922 926	6.0%
+T16	cv-bin-percent 934 939	18.9%
+T17	outcome 941 962	"progressive disease"
+T18	iv-bin-percent 966 970	3.0%
+T19	cv-bin-percent 978 982	3.2%
+T20	outcome 1000 1026	rate of objective response
+T21	iv-bin-percent 1051 1056	91.0%
+T22	cv-bin-percent 1061 1066	77.9%
+T23	outcome 1255 1269	Adverse events
+T24	control 675 677	DE

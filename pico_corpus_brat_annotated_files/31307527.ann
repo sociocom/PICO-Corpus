@@ -1,0 +1,16 @@
+T1	intervention 10 27	exercise training
+T2	condition 31 45	cardiotoxicity
+T3	eligibility 1271 1339	women with BC undergoing anthracycline-containing chemotherapy (ACT)
+T4	total-participants 1341 1347	Ninety
+T5	control 1467 1480	control group
+T6	outcome-Measure 1842 1913	circulating N-terminal pro-brain natriuretic peptide (NT-proBNP) levels
+T7	outcome-Measure 1915 1964	resting left ventricular (LV) longitudinal strain
+T9	outcome-Measure 1970 1998	resting LV ejection fraction
+T8	outcome-Measure 2050 2072	resting blood pressure
+T10	outcome-Measure 2074 2097	resting heart rate (HR)
+T11	outcome-Measure 2099 2127	resting HR variability (HRV)
+T12	outcome-Measure 2129 2140	recovery HR
+T13	outcome-Measure 2142 2168	physical function outcomes
+T14	outcome-Measure 2170 2207	self-reported physical activity level
+T15	outcome-Measure 2209 2239	health-related quality of life
+T16	outcome-Measure 2245 2252	fatigue

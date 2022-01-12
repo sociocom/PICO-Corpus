@@ -1,0 +1,17 @@
+T2	eligibility 404 498	Axillary node-positive or high-risk node-negative women with HER2-positive early breast cancer
+T3	outcome-Measure 973 1007	3-year disease-free survival (DFS)
+T4	total-participants 1020 1023	481
+T5	intervention-participants 1075 1078	241
+T6	control-participants 1097 1100	240
+T7	outcome 1361 1377	disease relapses
+T8	iv-bin-abs 1336 1338	17
+T9	iv-bin-percent 1340 1344	7.1%
+T10	cv-bin-abs 1350 1352	28
+T11	cv-bin-percent 1354 1359	11.7%
+T12	outcome 1424 1434	3-year DFS
+T13	iv-bin-percent 1439 1444	95.7%
+T14	cv-bin-percent 1452 1457	93.3%
+T16	outcome 1604 1620	overall survival
+T17	outcome 1625 1641	cardiac toxicity
+T15	control 0 3	Six
+T1	intervention 11 88	12 months of adjuvant trastuzumab in combination with dose-dense chemotherapy

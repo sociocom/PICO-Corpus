@@ -1,0 +1,14 @@
+T1	intervention 0 11	Acupuncture
+T2	eligibility 310 366	Women with moderate BCRL lasting greater than six months
+T3	control 242 275	usual care wait-list control (WL)
+T4	total-participants 812 814	82
+T5	total-participants 825 827	73
+T6	intervention-participants 875 877	36
+T7	control-participants 885 887	37
+T8	outcome 1084 1112	arm circumference difference
+T9	outcome 1190 1213	bioimpedance difference
+T10	outcome 1321 1345	proportion of responders
+T11	iv-bin-percent 1347 1350	17%
+T12	cv-bin-percent 1361 1364	11%
+T13	outcome 1424 1438	adverse events
+T14	outcome 1494 1517	safe and well tolerated

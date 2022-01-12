@@ -1,0 +1,9 @@
+T1	intervention 177 195	skin care products
+T2	control 205 212	placebo
+T3	location 476 502	southeastern United States
+T4	total-participants 504 507	208
+T5	condition 242 282	radiation therapy-induced skin reactions
+T6	outcome 958 984	Increases in skin reaction
+T7	outcome 1224 1263	radiation therapy-induced skin reaction
+T8	outcome 931 956	preventing skin reactions
+T9	eligibility 508 583	women with breast cancer who were to receive whole breast radiation therapy

@@ -1,0 +1,18 @@
+T2	eligibility 464 481	patients with MBC
+T4	total-participants 886 889	118
+T5	intervention-participants 928 930	59
+T6	control-participants 994 996	59
+T7	outcome 1020 1033	response rate
+T8	iv-bin-percent 1038 1043	35.6%
+T9	cv-bin-percent 1123 1128	20.3%
+T10	outcome 1276 1286	median PFS
+T11	iv-cont-median 1288 1298	5.7 months
+T12	cv-cont-median 1302 1312	5.5 months
+T13	outcome 1325 1327	OS
+T14	iv-cont-median 1329 1340	18.3 months
+T15	cv-cont-median 1344 1355	18.6 months
+T16	outcome 1399 1420	overall toxicity rate
+T17	iv-bin-percent 1588 1593	88.1%
+T18	cv-bin-percent 1597 1602	55.9%
+T3	control 71 86	weekly schedule
+T1	intervention 35 63	docetaxel on an every-3-week

@@ -1,0 +1,5 @@
+T2	control 390 428	external beam radiation therapy (EBRT)
+T4	outcome 1073 1103	Excellent-Good cosmetic result
+T5	outcome 1234 1259	better breast-related QOL
+T6	outcome 1280 1332	Statistically and clinically significant differences
+T1	intervention 59 91	Intraoperative Radiation Therapy

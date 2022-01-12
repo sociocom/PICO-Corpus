@@ -1,0 +1,14 @@
+T1	intervention 0 19	Omega-3 fatty acids
+T2	condition 43 83	paclitaxel-induced peripheral neuropathy
+T3	eligibility 643 670	patients with breast cancer
+T4	control 821 828	placebo
+T5	iv-bin-abs 1021 1031	Twenty one
+T6	iv-bin-percent 1042 1045	70%
+T7	intervention-participants 1102 1104	30
+T8	outcome 1122 1124	PN
+T9	cv-bin-percent 1138 1143	40.7%
+T10	cv-bin-abs 1145 1147	11
+T11	control-participants 1183 1185	27
+T12	outcome 1225 1237	PN incidence
+T13	outcome 1388 1405	frequencies of PN
+T14	outcome 1638 1664	disease free survival rate

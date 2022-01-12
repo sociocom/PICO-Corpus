@@ -1,0 +1,22 @@
+T1	intervention 32 45	scalp cooling
+T2	condition 68 97	chemotherapy induced alopecia
+T3	eligibility 450 513	Non-metastatic breast cancer women undergoing (neo) adjuvant CT
+T4	control 611 616	no SC
+T6	total-participants 778 780	51
+T7	intervention-participants 813 815	34
+T8	control-participants 833 835	17
+T9	outcome 965 972	HP rate
+T10	iv-bin-percent 1033 1038	56.3%
+T11	cv-bin-percent 1042 1044	0%
+T13	outcome 1105 1115	at 6 weeks
+T14	iv-bin-percent 1117 1120	89%
+T15	cv-bin-percent 1124 1127	12%
+T16	outcome 1144 1152	12 weeks
+T17	iv-bin-percent 1154 1158	100%
+T18	cv-bin-percent 1162 1165	59%
+T19	outcome 1180 1210	Loss of hair at PEP evaluation
+T20	iv-bin-percent 1299 1302	45%
+T21	cv-bin-percent 1306 1309	82%
+T22	outcome 1334 1375	no grade 3-4 cold related adverse effects
+T12	outcome 1061 1063	HR
+T5	outcome-Measure 650 683	successful hair preservation (HP)

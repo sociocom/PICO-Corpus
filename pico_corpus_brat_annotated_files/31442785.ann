@@ -1,0 +1,13 @@
+T2	intervention 24 50	home-based walking program
+T3	condition 63 70	fatigue
+T4	eligibility 74 122	women with breast cancer undergoing chemotherapy
+T5	location 767 782	northern Taiwan
+T6	eligibility 783 941	if they were diagnosed with stages I-III breast cancer and experienced insomnia, fatigue, pain, or depressive symptoms after their first cycle of chemotherapy
+T7	total-participants 972 975	159
+T9	control 1080 1103	attention-control group
+T13	outcome 1660 1674	Fatigue levels
+T1	intervention-participants 1070 1072	81
+T8	control-participants 1109 1111	78
+T10	outcome 1817 1824	fatigue
+T14	outcome 2027 2034	fatigue
+T15	outcome 2165 2222	functional performance, sleep disturbance, and depression

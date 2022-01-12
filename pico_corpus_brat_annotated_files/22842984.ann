@@ -1,0 +1,23 @@
+T4	total-participants 564 567	305
+T5	intervention-participants 618 620	34
+T6	intervention-participants 631 633	20
+T7	intervention-participants 680 682	55
+T8	control-participants 740 743	196
+T2	control 721 734	control group
+T9	outcome 893 980	fibrosis, breast edema, retraction, ulceration, lymphedema, hyperpigmentation, and pain
+T10	outcome 1011 1025	telangiectases
+T11	outcome 1122 1130	fibrosis
+T12	iv-bin-percent 1156 1159	5.9
+T13	iv-bin-percent 1167 1171	37.5
+T14	iv-bin-percent 1179 1185	18.4 %
+T15	cv-bin-percent 1201 1207	38.2 %
+T16	outcome 1250 1264	telangiectases
+T17	iv-bin-percent 1293 1296	0 %
+T18	iv-bin-percent 1312 1318	17.5 %
+T19	iv-bin-percent 1341 1347	17.7 %
+T20	outcome 1376 1397	higher grade toxicity
+T23	outcome 1495 1506	recurrences
+T1	intervention 30 64	intraoperative radiotherapy (IORT)
+T3	outcome 1235 1245	at 3 years
+T21	iv-cont-median 1545 1554	40 months
+T22	cv-cont-median 1567 1576	42 months

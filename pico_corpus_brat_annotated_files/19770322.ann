@@ -1,0 +1,14 @@
+T1	intervention 0 24	Radioguided localization
+T2	control 602 619	wire localization
+T3	eligibility 111 176	patients undergoing conservative surgery and sentinel node biopsy
+T6	total-participants 937 940	134
+T7	control-participants 951 953	68
+T8	intervention-participants 994 996	66
+T10	iv-bin-percent 1364 1369	89.4%
+T11	cv-bin-percent 1431 1436	82.4%
+T12	outcome 1516 1537	excised tissue volume
+T13	outcome 1574 1594	lesion concentricity
+T14	outcome 1656 1684	sentinel node detection rate
+T15	iv-bin-percent 1689 1692	91%
+T16	cv-bin-percent 1727 1730	84%
+T9	outcome 1300 1323	Complete tumor excision

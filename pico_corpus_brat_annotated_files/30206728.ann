@@ -1,0 +1,21 @@
+T2	condition 76 106	anthracycline-induced alopecia
+T3	total-participants 658 661	102
+T4	eligibility 662 734	patients with early breast cancer treated with adjuvant FEC chemotherapy
+T5	outcome-Measure 852 919	need to wear a wig or other head covering to mask visible hair loss
+T6	cv-bin-abs 921 928	Sixteen
+T7	control-participants 936 938	48
+T8	cv-bin-percent 949 952	33%
+T10	outcome 999 1029	did not need any head covering
+T11	iv-bin-abs 1045 1047	21
+T12	intervention-participants 1055 1057	46
+T13	iv-bin-percent 1068 1071	45%
+T14	outcome 1130 1173	WHO grades 2-3 (moderate-complete) alopecia
+T15	cv-bin-abs 1263 1265	25
+T16	control-participants 1266 1268	51
+T17	cv-bin-percent 1270 1273	49%
+T18	iv-bin-abs 1286 1288	17
+T19	intervention-participants 1289 1291	51
+T20	iv-bin-percent 1293 1296	33%
+T21	outcome 1405 1431	stopped due to intolerance
+T1	intervention 27 54	post-infusion scalp cooling
+T22	control 778 810	post-infusion cooling time of 90

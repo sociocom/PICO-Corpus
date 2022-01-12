@@ -1,0 +1,20 @@
+T1	intervention 32 52	sentinel node biopsy
+T2	control 60 87	standard axillary treatment
+T3	eligibility 426 487	patients with clinically node-negative invasive breast cancer
+T6	total-participants 701 705	1031
+T7	intervention-participants 781 784	515
+T8	control-participants 820 823	516
+T9	outcome 1737 1779	quality of life and arm functioning scores
+T14	iv-bin-percent 1363 1365	5%
+T15	cv-bin-percent 1373 1376	13%
+T18	iv-bin-percent 1427 1430	11%
+T19	cv-bin-percent 1438 1441	31%
+T5	outcome 1937 1951	anxiety levels
+T11	outcome 1153 1167	any lymphedema
+T12	outcome 1172 1184	sensory loss
+T13	outcome 1278 1290	at 12 months
+T10	outcome 1458 1469	Drain usage
+T16	outcome 1471 1494	length of hospital stay
+T17	outcome 1500 1550	time to resumption of normal day-to-day activities
+T4	outcome-Measure 617 643	arm and shoulder morbidity
+T20	outcome-Measure 648 663	quality of life

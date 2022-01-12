@@ -1,0 +1,27 @@
+T1	intervention 61 91	adjuvant trastuzumab emtansine
+T2	control 99 110	trastuzumab
+T3	intervention-participants 1221 1224	743
+T4	control-participants 1247 1250	743
+T5	outcome 1566 1582	role functioning
+T6	iv-bin-percent 1584 1587	49%
+T7	cv-bin-percent 1591 1594	41%
+T8	outcome 1597 1610	appetite loss
+T9	iv-bin-percent 1612 1615	38%
+T10	cv-bin-percent 1619 1622	28%
+T11	outcome 1625 1637	constipation
+T12	iv-bin-percent 1639 1642	47%
+T13	cv-bin-percent 1646 1649	38%
+T14	outcome 1652 1659	fatigue
+T15	iv-bin-percent 1661 1664	66%
+T16	cv-bin-percent 1668 1671	60%
+T17	outcome 1674 1689	nausea/vomiting
+T18	iv-bin-percent 1691 1694	39%
+T19	cv-bin-percent 1698 1701	30%
+T20	outcome 1708 1737	systemic therapy side effects
+T21	iv-bin-percent 1739 1742	49%
+T22	cv-bin-percent 1746 1749	36%
+T23	outcome 1842 1858	role functioning
+T24	outcome 1801 1818	6-month follow-up
+T25	iv-bin-percent 1860 1863	23%
+T26	cv-bin-percent 1867 1870	16%
+T27	eligibility 547 729	Patients who received taxane- and trastuzumab-containing neoadjuvant therapy (with/without anthracyclines) and had residual invasive disease (breast and/or axillary nodes) at surgery

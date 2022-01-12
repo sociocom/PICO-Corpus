@@ -1,0 +1,23 @@
+T1	intervention 77 113	pectoral nerves (Pecs) block type II
+T2	total-participants 403 406	140
+T3	eligibility 407 523	breast cancer stage 1-3 patients undergoing mastectomy or tumorectomy with sentinel node or axillary node dissection
+T4	control 618 625	placebo
+T5	intervention-participants 611 613	70
+T6	control-participants 647 649	70
+T10	outcome 1057 1095	Intraoperative sufentanil requirements
+T11	outcome 1237 1241	pain
+T12	outcome 1377 1398	postoperative opioids
+T13	outcome 1492 1526	postsurgical opioid administration
+T14	outcome 1617 1626	satisfied
+T15	iv-cont-mean 1144 1147	8.0
+T21	iv-cont-sd 1148 1153	3.5μg
+T16	cv-cont-mean 1158 1161	7.8
+T22	cv-cont-sd 1162 1167	3.0μg
+T17	iv-cont-mean 1400 1404	9.16
+T23	iv-cont-sd 1405 1412	10.15mg
+T18	cv-cont-mean 1417 1422	14.97
+T24	cv-cont-sd 1423 1430	14.38mg
+T19	iv-cont-mean 1651 1654	9.6
+T25	iv-cont-sd 1655 1658	0.6
+T20	cv-cont-mean 1663 1666	9.1
+T26	cv-cont-sd 1667 1670	1.8

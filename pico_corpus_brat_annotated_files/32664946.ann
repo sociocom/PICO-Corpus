@@ -1,0 +1,7 @@
+T1	condition 61 85	cardiovascular morbidity
+T6	total-participants 1408 1419	One hundred
+T7	eligibility 1420 1477	women with early-stage BCa (40-75 years) scheduled for AC
+T9	intervention-participants 1546 1549	 50
+T10	control 1556 1580	usual care control group
+T11	control-participants 1586 1588	50
+T8	intervention 0 8	Exercise

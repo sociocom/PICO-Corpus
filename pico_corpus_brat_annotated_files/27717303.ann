@@ -1,0 +1,24 @@
+T1	intervention 0 10	Ribociclib
+T2	total-participants 526 529	668
+T6	control 842 864	placebo plus letrozole
+T7	outcome-Measure 914 939	progression-free survival
+T12	outcome 1498 1528	progression-free survival rate
+T13	outcome 1483 1492	18 months
+T14	iv-bin-percent 1533 1538	63.0%
+T15	cv-bin-percent 1612 1617	42.2%
+T16	outcome 1716 1737	overall response rate
+T17	iv-bin-percent 1742 1747	52.7%
+T18	cv-bin-percent 1752 1757	37.1%
+T19	outcome 1790 1817	grade 3 or 4 adverse events
+T20	outcome 1891 1902	neutropenia
+T21	iv-bin-percent 1904 1909	59.3%
+T22	cv-bin-percent 1938 1942	0.9%
+T23	outcome 1969 1979	leukopenia
+T24	iv-bin-percent 1981 1986	21.0%
+T25	cv-bin-percent 1991 1995	0.6%
+T26	outcome 2002 2052	rates of discontinuation because of adverse events
+T27	iv-bin-percent 2058 2062	7.5%
+T28	cv-bin-percent 2067 2071	2.1%
+T3	outcome-Measure 971 987	overall survival
+T4	outcome-Measure 989 1010	overall response rate
+T5	outcome-Measure 1016 1022	safety

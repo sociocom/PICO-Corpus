@@ -1,0 +1,17 @@
+T1	intervention 0 11	Trastuzumab
+T2	total-participants 670 674	1694
+T3	eligibility 43 70	HER2-positive breast cancer
+T5	intervention-participants 743 747	1694
+T6	control-participants 795 799	1693
+T7	control 818 829	observation
+T8	cv-bin-abs 1163 1166	220
+T9	iv-bin-abs 1123 1126	127
+T11	outcome 1473 1507	disease-free survival at two years
+T14	outcome 1534 1550	Overall survival
+T15	iv-bin-abs 1602 1604	29
+T16	cv-bin-abs 1633 1635	37
+T17	outcome 1655 1676	Severe cardiotoxicity
+T18	iv-bin-percent 1690 1701	0.5 percent
+T4	outcome 996 1002	events
+T10	outcome 1605 1611	deaths
+T12	outcome 1004 1106	recurrence of breast cancer, contralateral breast cancer, second nonbreast malignant disease, or death

@@ -1,0 +1,28 @@
+T1	intervention 12 43	tamoxifen following anastrozole
+T2	control 71 102	anastrozole following tamoxifen
+T3	total-participants 360 364	1021
+T4	eligibility 381 428	patients with hormone receptor-positive tumours
+T5	intervention-participants 797 800	511
+T6	total-participants 919 922	119
+T7	control-participants 1100 1103	510
+T8	outcome 849 879	received second-line tamoxifen
+T9	iv-bin-abs 837 840	137
+T10	iv-bin-percent 842 847	26.8%
+T11	iv-bin-abs 933 935	58
+T12	iv-bin-percent 937 942	48.7%
+T13	outcome 944 967	gained clinical benefit
+T14	iv-bin-abs 1048 1050	12
+T15	iv-bin-percent 1052 1057	10.1%
+T16	outcome 1066 1084	objective response
+T17	cv-bin-abs 1138 1141	134
+T18	cv-bin-percent 1143 1148	26.3%
+T19	outcome 1150 1182	received second-line anastrozole
+T20	cv-bin-abs 1232 1234	54
+T21	cv-bin-percent 1236 1241	56.8%
+T22	outcome 1243 1252	gained CB
+T23	cv-bin-abs 1257 1258	7
+T24	cv-bin-percent 1287 1291	7.4%
+T25	outcome 1300 1302	OR
+T26	outcome 496 521	time to progression (TTP)
+T27	iv-cont-median 559 563	10.7
+T28	cv-cont-median 571 581	6.4 months

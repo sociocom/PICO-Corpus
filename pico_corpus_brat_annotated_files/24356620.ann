@@ -1,0 +1,27 @@
+T1	intervention 70 95	adjuvant darbepoetin alfa
+T2	eligibility 231 271	node positive primary breast cancer (BC)
+T3	total-participants 273 309	One thousand two hundred thirty-four
+T4	control 384 394	without DA
+T5	intervention-participants 376 379	615
+T6	control-participants 405 408	619
+T7	outcome-Measure 612 637	event-free survival (EFS)
+T9	outcome 724 741	Venous thrombosis
+T10	iv-bin-percent 748 752	3.0%
+T11	cv-bin-percent 759 763	1.0%
+T12	outcome 818 836	pulmonary embolism
+T13	iv-bin-percent 838 842	0.3%
+T14	outcome 858 874	Median Hb levels
+T15	iv-cont-median 895 904	12.6 g/dl
+T16	cv-cont-median 928 937	11.7 g/dl
+T17	outcome 992 995	QoL
+T18	outcome 1096 1099	EFS
+T19	iv-bin-percent 1106 1111	89.3%
+T20	cv-bin-percent 1118 1123	87.5%
+T21	outcome 1146 1148	OS
+T22	iv-bin-percent 1155 1160	95.5%
+T23	cv-bin-percent 1167 1172	95.4%
+T24	outcome 940 958	Hb levels >15 g/dl
+T25	outcome 1050 1062	At 39 months
+T8	outcome-Measure 665 673	toxicity
+T26	outcome-Measure 675 696	quality of life (QoL)
+T27	outcome-Measure 701 722	overall survival (OS)

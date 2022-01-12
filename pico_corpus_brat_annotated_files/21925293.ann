@@ -1,0 +1,19 @@
+T1	intervention 0 44	Electrothermal bipolar vessel sealing system
+T2	total-participants 337 340	100
+T3	eligibility 367 400	Those needing axillary dissection
+T4	control 446 478	conventional axillary dissection
+T5	intervention-participants 485 487	50
+T9	iv-bin-percent 645 650	30.8%
+T10	cv-bin-percent 655 660	69.2%
+T14	outcome 889 933	rate of hematomas, reoperations or infection
+T15	outcome 987 1028	surgical time and length of hospital stay
+T11	outcome 674 701	quicker axillary dissection
+T12	outcome 737 767	fewer days of suction drainage
+T13	outcome 803 826	shorter hospitalization
+T6	iv-cont-mean 708 710	48
+T17	iv-cont-mean 769 772	4.3
+T19	iv-cont-mean 828 831	5.1
+T18	cv-cont-mean 777 785	5.7 days
+T20	cv-cont-mean 836 844	6.5 days
+T16	cv-cont-mean 715 723	63.2 min
+T7	outcome 593 623	less intraoperative blood loss

@@ -1,0 +1,19 @@
+T2	eligibility 583 685	Postmenopausal women with ER+ advanced breast cancer progressing on a nonsteroidal aromatase inhibitor
+T4	outcome-Measure 834 865	progression-free survival (PFS)
+T5	total-participants 995 1013	One hundred thirty
+T6	intervention-participants 1061 1063	64
+T7	control-participants 1079 1081	66
+T8	outcome 1146 1156	median PFS
+T9	iv-cont-median 1160 1170	4.3 months
+T10	cv-cont-median 1178 1188	2.3 months
+T13	outcome 1335 1358	Median overall survival
+T14	iv-cont-median 1404 1415	28.1 months
+T15	cv-cont-median 1431 1442	19.8 months
+T18	outcome 1495 1518	Fatigue and neutropenia
+T19	outcome 1564 1589	Treatment discontinuation
+T20	iv-bin-percent 1664 1667	11%
+T21	cv-bin-percent 1670 1672	2%
+T11	intervention 63 100	exemestane with or without entinostat
+T1	outcome 1542 1562	grade 3/4 toxicities
+T3	control 778 806	exemestane plus placebo (EP)
+T12	outcome 1601 1615	adverse events

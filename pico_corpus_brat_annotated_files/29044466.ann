@@ -1,0 +1,30 @@
+T1	intervention 0 15	Massage therapy
+T2	condition 26 48	cancer-related fatigue
+T4	control 379 401	waitlist control (WLC)
+T5	total-participants 543 545	66
+T6	eligibility 546 588	female stage 0-III breast cancer survivors
+T7	age 601 612	32-72 years
+T8	eligibility 614 729	who had received surgery plus radiation and/or chemotherapy/chemoprevention with CRF (Brief Fatigue Inventory > 25)
+T9	outcome-Measure 759 799	Multidimensional Fatigue Inventory (MFI)
+T10	total-participants 901 903	57
+T11	outcome 1027 1056	reduction in MFI total scores
+T12	intervention-participants 1079 1081	20
+T13	intervention-participants 1115 1117	20
+T15	outcome 1293 1353	mean (standard deviation) reduction in PROMIS Fatigue scores
+T19	iv-cont-mean 1060 1066	-16.50
+T20	iv-cont-mean 1090 1095	-8.06
+T21	cv-cont-mean 1138 1142	5.88
+T22	control-participants 1170 1172	17
+T14	outcome 1209 1244	mean baseline PROMIS Fatigue scores
+T16	iv-cont-sd 1068 1072	6.37
+T17	iv-cont-sd 1097 1101	6.50
+T18	cv-cont-sd 1144 1148	6.48
+T23	iv-cont-mean 1255 1260	22.25
+T24	iv-cont-mean 1266 1271	22.05
+T25	cv-cont-mean 1282 1287	23.24
+T26	iv-cont-mean 1358 1363	-5.49
+T27	iv-cont-sd 1365 1369	2.53
+T28	iv-cont-mean 1393 1398	-3.24
+T29	iv-cont-sd 1400 1404	2.57
+T30	cv-cont-mean 1424 1429	-0.06
+T31	cv-cont-sd 1431 1435	1.88

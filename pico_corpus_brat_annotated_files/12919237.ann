@@ -1,0 +1,34 @@
+T1	intervention 10 31	nurse case management
+T2	total-participants 301 326	Three hundred thirty-five
+T3	control-participants 334 337	166
+T4	intervention-participants 350 353	169
+T5	age 368 385	aged 65 and older
+T6	eligibility 52 82	older women with breast cancer
+T8	outcome-Measure 607 648	type and use of cancer-specific therapies
+T9	outcome-Measure 721 741	patient satisfaction
+T10	outcome-Measure 746 758	arm function
+T11	outcome 843 877	received breast-conserving surgery
+T12	iv-bin-percent 879 884	28.6%
+T13	cv-bin-percent 888 893	18.7%
+T14	outcome 907 924	radiation therapy
+T15	iv-bin-percent 926 931	36.0%
+T16	cv-bin-percent 935 940	19.0%
+T17	outcome 1047 1074	received adjuvant radiation
+T18	iv-bin-percent 1076 1081	78.3%
+T19	cv-bin-percent 1085 1090	44.8%
+T20	outcome 1104 1123	axillary dissection
+T21	iv-bin-percent 1125 1130	71.4%
+T22	cv-bin-percent 1134 1139	44.8%
+T23	outcome 1200 1252	likely to receive more breast reconstruction surgery
+T24	iv-bin-percent 1254 1258	9.3%
+T25	cv-bin-percent 1262 1266	2.6%
+T26	outcome 1342 1377	more likely to receive chemotherapy
+T27	control 338 345	control
+T28	iv-bin-percent 1379 1384	72.7%
+T29	cv-bin-percent 1388 1393	30.0%
+T30	outcome 1488 1507	normal arm function
+T31	iv-bin-percent 1509 1512	93%
+T32	cv-bin-percent 1516 1519	84%
+T33	outcome 1543 1605	likely to state that they had a real choice in their treatment
+T34	iv-bin-percent 1607 1612	82.2%
+T35	cv-bin-percent 1616 1621	69.9%

@@ -1,0 +1,28 @@
+T1	intervention 0 20	Eribulin monotherapy
+T3	total-participants 827 830	827
+T4	age 38 56	70 years and older
+T5	control-participants 886 889	253
+T6	control-participants 908 911	289
+T7	control-participants 930 933	206
+T8	intervention-participants 951 953	79
+T9	outcome 989 991	OS
+T10	cv-cont-median 993 1004	11.8 months
+T11	cv-cont-median 1006 1017	12.3 months
+T12	cv-cont-median 1019 1030	11.7 months
+T13	iv-cont-median 1036 1047	12.5 months
+T14	outcome 1073 1076	PFS
+T15	cv-cont-median 1078 1088	3.5 months
+T16	cv-cont-median 1090 1100	2.9 months
+T17	cv-cont-median 1102 1112	3.8 months
+T18	iv-cont-median 1118 1128	4.0 months
+T19	outcome 1154 1157	ORR
+T20	outcome 1208 1211	CBR
+T21	cv-cont-median 1159 1164	12.7%
+T22	cv-cont-median 1166 1171	12.5%
+T23	cv-cont-median 1173 1177	6.3%
+T24	iv-bin-percent 1183 1188	10.1%
+T25	cv-cont-median 1213 1218	20.2%
+T26	cv-cont-median 1220 1225	20.8%
+T27	cv-cont-median 1227 1232	20.4%
+T28	iv-bin-percent 1238 1243	21.5%
+T29	outcome 1388 1404	incidence of AEs

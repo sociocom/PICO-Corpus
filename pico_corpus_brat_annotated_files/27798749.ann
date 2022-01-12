@@ -1,0 +1,23 @@
+T1	intervention 40 71	pegylated liposomal doxorubicin
+T2	control 79 91	capecitabine
+T3	eligibility 428 508	first-line MBC patients who were ineligible for endocrine or trastuzumab therapy
+T4	outcome-Measure 792 825	time-to-disease progression (TTP)
+T5	total-participants 827 830	210
+T6	intervention-participants 861 864	105
+T7	control-participants 878 881	105
+T8	outcome 898 921	Adjuvant anthracyclines
+T9	iv-bin-percent 936 940	37 %
+T10	cv-bin-percent 951 955	36 %
+T11	outcome 1026 1029	TTP
+T14	outcome 1083 1093	Median TTP
+T15	iv-cont-median 1098 1108	6.0 months
+T16	outcome 1322 1338	overall survival
+T17	iv-cont-median 1348 1359	23.3 months
+T18	cv-cont-median 1364 1375	26.8 months
+T19	outcome 1381 1406	time-to-treatment failure
+T20	iv-cont-median 1416 1426	4.6 months
+T21	cv-cont-median 1431 1441	3.7 months
+T22	outcome 1594 1608	cardiac events
+T23	cv-bin-percent 1662 1664	18
+T24	iv-bin-percent 1669 1672	8 %
+T12	outcome 1226 1229	TTP

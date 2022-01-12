@@ -1,0 +1,14 @@
+T1	intervention 7 17	paclitaxel
+T2	eligibility 437 486	Patients with clinical stage I-IIIA breast cancer
+T4	total-participants 1019 1022	258
+T5	total-participants 1162 1165	258
+T6	total-participants 1176 1179	110
+T7	total-participants 1231 1234	148
+T8	intervention-participants 1323 1326	127
+T9	control-participants 1406 1409	131
+T10	outcome 1420 1437	Clinical response
+T11	outcome 1539 1547	pCR rate
+T12	iv-bin-percent 1549 1554	28.2%
+T13	cv-bin-percent 1614 1619	15.7%
+T14	outcome 1645 1670	breast conservation rates
+T15	control 727 741	standard doses

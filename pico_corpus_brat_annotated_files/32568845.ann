@@ -1,0 +1,20 @@
+T2	location 536 547	Switzerland
+T3	age 563 574	18 to 85 yr
+T4	eligibility 575 641	without metastases and scheduled for primary breast cancer surgery
+T5	outcome-Measure 812 851	circulating tumor cell counts over time
+T8	total-participants 1262 1265	210
+T9	intervention-participants 1323 1326	107
+T10	control-participants 1345 1348	103
+T1	outcome 1434 1473	circulating tumor cell counts over time
+T13	outcome 1849 1874	maximal tumor cell counts
+T7	control 0 10	Anesthesia
+T14	intervention 15 38	Circulating Tumor Cells
+T11	outcome 1559 1565	at 0 h
+T12	outcome 1578 1585	at 48 h
+T15	outcome 1602 1609	at 72 h
+T16	outcome 1643 1649	at 0 h
+T17	outcome 1662 1669	at 48 h
+T18	outcome 1686 1693	at 72 h
+T6	outcome-Measure 970 1007	maximal circulating tumor cells value
+T19	outcome-Measure 1009 1019	positivity
+T20	outcome-Measure 1090 1160	association between natural killer cell activity and tumor cell counts

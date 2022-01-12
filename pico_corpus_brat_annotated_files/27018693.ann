@@ -1,0 +1,22 @@
+T2	control 74 98	General Anesthesia Alone
+T3	eligibility 466 507	patients undergoing breast reconstruction
+T7	total-participants 870 872	74
+T8	intervention-participants 935 937	35
+T9	control-participants 965 967	39
+T13	iv-cont-mean 1269 1272	109
+T15	iv-cont-mean 1379 1382	3.0
+T16	cv-cont-mean 1390 1393	4.6
+T17	outcome 1371 1377	0 to 1
+T18	outcome 1406 1412	1 to 3
+T19	iv-cont-mean 1414 1417	2.0
+T20	cv-cont-mean 1425 1428	3.2
+T21	outcome 1445 1451	3 to 6
+T22	iv-cont-mean 1453 1456	1.9
+T23	cv-cont-mean 1464 1467	2.7
+T24	iv-cont-mean 1560 1563	0.7
+T25	cv-cont-mean 1571 1574	2.1
+T1	intervention 47 66	Paravertebral Block
+T10	cv-cont-mean 1280 1309	246 fentanyl equivalent units
+T11	outcome 1356 1370	pain scores at
+T12	outcome 1537 1558	antiemetic medication
+T4	outcome 1151 1194	opioid intraoperatively and postoperatively

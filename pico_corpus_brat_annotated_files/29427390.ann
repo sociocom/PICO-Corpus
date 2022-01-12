@@ -1,0 +1,13 @@
+T1	condition 14 35	acute radiodermatitis
+T2	intervention 39 57	photobiomodulation
+T3	total-participants 513 516	120
+T4	eligibility 517 583	BC patients that underwent an identical RT regimen post-lumpectomy
+T6	control 646 653	placebo
+T7	intervention-participants 666 668	60
+T12	outcome 1644 1666	RTOG grade 2 or higher
+T13	cv-bin-percent 1716 1719	30%
+T14	iv-bin-percent 1724 1728	6.7%
+T15	outcome 1911 1926	quality of life
+T5	outcome 1775 1797	objective RISRAS score
+T8	condition 394 402	acute RD
+T11	outcome 2081 2107	grade 2 acute RD or higher

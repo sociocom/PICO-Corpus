@@ -1,0 +1,16 @@
+T1	intervention 99 109	exemestane
+T2	location 375 381	Canada
+T3	outcome 188 228	reduced invasive breast cancer incidence
+T5	total-participants 242 247	4,560
+T6	control 331 338	placebo
+T7	outcome 1800 1812	discontinued
+T8	iv-bin-percent 1765 1768	32%
+T9	cv-bin-percent 1795 1798	28%
+T12	outcome 1524 1540	worsening of QOL
+T15	outcome 773 804	MENQOL questionnaire completion
+T16	outcome 867 912	Change scores for each MENQOL and SF-36 scale
+T4	outcome 1255 1295	women's self-reported vasomotor symptoms
+T10	outcome 1297 1312	sexual symptoms
+T11	outcome 1318 1322	pain
+T13	outcome 1594 1610	vasomotor domain
+T17	outcome 1635 1661	sexual domain and for pain

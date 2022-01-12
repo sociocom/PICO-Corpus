@@ -1,0 +1,8 @@
+T1	intervention 0 38	Cognitive Behavioral Stress Management
+T2	eligibility 43 82	Healthy Women at Risk for Breast Cancer
+T4	intervention-participants 521 523	82
+T5	control 530 556	wait-list comparison group
+T6	control-participants 562 564	76
+T9	outcome 808 824	perceived stress
+T3	outcome 748 781	posttreatment depressive symptoms
+T8	outcome 945 953	distress

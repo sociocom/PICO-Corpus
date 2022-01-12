@@ -1,0 +1,24 @@
+T1	intervention 92 122	opportunistic breast-screening
+T2	location 305 321	Bogotá, Colombia
+T4	age 595 606	50-69 years
+T5	eligibility 607 653	attending clinics for non-breast health issues
+T6	intervention-participants 930 935	7,436
+T7	intervention-participants 960 965	7,419
+T8	control-participants 1015 1020	8,419
+T9	control-participants 1034 1039	1,108
+T10	control 1060 1067	control
+T11	outcome 1122 1140	all breast cancers
+T12	outcome 1408 1441	breast conservation surgery (BCS)
+T13	iv-bin-abs 1350 1358	Eighteen
+T14	iv-bin-percent 1360 1365	69.2%
+T15	intervention-participants 1370 1372	26
+T16	cv-bin-abs 1449 1450	6
+T17	cv-bin-percent 1452 1457	42.5%
+T18	control-participants 1462 1464	14
+T19	iv-bin-abs 1507 1514	Fifteen
+T20	iv-bin-percent 1516 1521	68.2%
+T21	intervention-participants 1526 1528	22
+T22	cv-bin-abs 1595 1599	nine
+T23	outcome 1584 1587	BCS
+T24	cv-bin-percent 1601 1606	50.0%
+T25	control-participants 1611 1613	18

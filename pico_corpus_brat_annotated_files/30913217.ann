@@ -1,0 +1,21 @@
+T1	intervention 10 21	information
+T2	location 138 143	Spain
+T3	total-participants 772 775	400
+T4	age 709 720	49-50 years
+T6	control 944 960	standard leaflet
+T7	outcome-Measure 1115 1130	informed choice
+T8	outcome-Measure 1232 1251	decisional conflict
+T9	outcome-Measure 1253 1278	worry about breast cancer
+T10	outcome-Measure 1280 1296	time perspective
+T11	outcome-Measure 1298 1334	opinions about the DA or the leaflet
+T12	outcome-Measure 1340 1365	participation in the BCSP
+T13	outcome 1413 1436	made an informed choice
+T14	iv-bin-percent 1394 1399	23.2%
+T15	intervention-participants 1403 1406	203
+T16	cv-bin-percent 1454 1458	0.5%
+T17	control-participants 1462 1465	197
+T18	outcome 1506 1530	Attitudes and intentions
+T19	iv-bin-percent 1622 1627	82.8%
+T20	cv-bin-percent 1631 1636	82.2%
+T21	outcome 1650 1669	Decisional conflict
+T22	outcome 1753 1815	confidence in the decision, anxiety, and participation in BCSP

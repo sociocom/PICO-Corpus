@@ -1,0 +1,11 @@
+T1	total-participants 379 382	235
+T2	eligibility 383 418	patients with HER2-positive disease
+T3	intervention 438 479	neoadjuvant trastuzumab plus chemotherapy
+T5	control 598 628	neoadjuvant chemotherapy alone
+T6	total-participants 649 652	228
+T7	intervention-participants 689 692	115
+T8	control-participants 736 739	113
+T4	outcome 1461 1492	breast conserving surgery (BCS)
+T9	iv-bin-percent 1494 1497	23%
+T10	cv-bin-percent 1505 1508	13%
+T11	outcome-Measure 1357 1376	event-free survival

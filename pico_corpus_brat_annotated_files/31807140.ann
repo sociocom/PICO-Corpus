@@ -1,0 +1,15 @@
+T1	condition 14 24	lymphedema
+T2	intervention 29 53	axillary reverse mapping
+T3	ethinicity 225 233	Egyptian
+T4	total-participants 542 544	48
+T5	control 620 633	control group
+T6	intervention-participants 649 651	24
+T10	outcome 1274 1298	Lymph-node visualization
+T11	iv-bin-abs 1315 1317	20
+T12	iv-bin-percent 1332 1337	83.3%
+T13	outcome 1359 1389	Suspicious stained lymph nodes
+T14	iv-bin-abs 1477 1479	20
+T15	outcome 1512 1547	no stained lymph nodes were removed
+T16	outcome 1553 1576	incidence of lymphedema
+T17	cv-bin-percent 1602 1607	16.7%
+T18	iv-bin-percent 1650 1654	4.2%

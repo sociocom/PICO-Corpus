@@ -1,0 +1,17 @@
+T1	intervention 22 40	Mometasone Furoate
+T2	condition 67 93	Acute Radiation Dermatitis
+T3	control 275 295	Eucerin Original (E)
+T4	eligibility 456 540	Breast cancer patients undergoing chest wall with or without nodal radiation therapy
+T6	outcome-Measure 972 995	any grade ≥3 dermatitis
+T7	outcome-Measure 1022 1068	time to occurrence of maximum-grade dermatitis
+T8	outcome-Measure 1073 1103	patient-reported skin symptoms
+T9	total-participants 1252 1255	124
+T11	outcome 1659 1685	rate of moist desquamation
+T12	iv-bin-percent 1790 1795	43.8%
+T13	cv-bin-percent 1799 1804	66.7%
+T14	outcome 1840 1876	incidence of maximum skin toxicities
+T15	outcome 1899 1940	time to development of grade 3 dermatitis
+T16	outcome 2016 2046	patient-reported skin outcomes
+T17	iv-cont-mean 1942 1949	46 days
+T18	cv-cont-mean 1953 1962	35.5 days
+T5	outcome-Measure 837 878	development of provider-assessed grade ≥2

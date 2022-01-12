@@ -1,0 +1,6 @@
+T1	intervention 24 42	self-help workbook
+T2	intervention-participants 247 249	20
+T3	control 256 276	no-workbook controls
+T4	control-participants 282 284	20
+T5	outcome 460 474	venting coping
+T6	outcome 598 619	cognitive functioning

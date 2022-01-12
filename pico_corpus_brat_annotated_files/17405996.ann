@@ -1,0 +1,17 @@
+T1	intervention 0 31	Ovarian ablation or suppression
+T2	eligibility 551 702	pre- and perimenopausal patients with early-stage breast cancer who were receiving prolonged (5 years) tamoxifen treatment with or without chemotherapy
+T3	control 849 883	no ovarian ablation or suppression
+T6	total-participants 1060 1064	2144
+T7	intervention-participants 1066 1070	1063
+T8	control-participants 1104 1108	1081
+T9	intervention-participants 1189 1192	942
+T10	outcome 1341 1362	relapse-free survival
+T11	iv-bin-abs 1454 1457	290
+T12	cv-bin-abs 1472 1475	306
+T15	outcome 1552 1568	overall survival
+T16	iv-bin-abs 1676 1679	215
+T17	cv-bin-abs 1694 1697	230
+T5	outcome 1922 1943	relapse-free survival
+T13	outcome 1947 1963	overall survival
+T4	outcome-Measure 910 922	relapse-free
+T14	outcome-Measure 927 943	overall survival

@@ -1,0 +1,23 @@
+T1	intervention 19 28	letrozole
+T2	control 36 45	tamoxifen
+T4	total-participants 454 457	916
+T5	intervention-participants 538 541	458
+T6	control-participants 567 570	458
+T8	outcome 804 823	time to progression
+T9	iv-cont-median 833 836	9.4
+T10	cv-cont-median 839 849	6.0 months
+T11	outcome 876 901	time to treatment failure
+T12	iv-cont-median 911 912	9
+T13	cv-cont-median 915 925	5.7 months
+T14	outcome 952 983	overall objective response rate
+T15	iv-bin-percent 985 988	32%
+T16	cv-bin-percent 991 994	21%
+T17	outcome 1025 1049	overall clinical benefit
+T18	outcome 1051 1060	Median OS
+T19	iv-cont-median 1118 1120	34
+T20	cv-cont-median 1123 1132	30 months
+T22	iv-cont-median 1497 1506	16 months
+T23	cv-cont-median 1558 1566	9 months
+T3	eligibility 458 515	patients with hormone receptor-positive or unknown tumors
+T7	outcome 1393 1415	"time to chemotherapy"
+T21	outcome 1569 1586	Time to worsening

@@ -1,0 +1,22 @@
+T1	intervention 0 54	Intrathecal liposomal cytarabine plus systemic therapy
+T2	control 62 89	systemic chemotherapy alone
+T3	outcome-Measure 662 710	Progression-free survival related to LM (LM-PFS)
+T4	eligibility 377 515	Patients with newly diagnosed LM defined by tumor cells in the cerebrospinal fluid or combination of clinical and neuroimaging signs of LM
+T5	control-participants 737 749	Thirty-seven
+T6	intervention-participants 754 756	36
+T7	outcome 1259 1263	died
+T8	outcome 1265 1288	Median overall survival
+T9	cv-cont-median 1293 1303	4.0 months
+T10	iv-cont-median 1344 1354	7.3 months
+T13	outcome 1450 1472	Serious adverse events
+T14	cv-bin-abs 1490 1492	22
+T15	iv-bin-abs 1497 1499	30
+T16	outcome 1524 1539	Quality of life
+T17	outcome 1058 1071	median LM-PFS
+T18	cv-cont-median 1076 1086	2.2 months
+T19	iv-cont-median 1127 1137	3.8 months
+T22	outcome 919 937	Focal radiotherapy
+T23	cv-bin-abs 955 956	6
+T24	cv-bin-percent 958 961	16%
+T25	iv-bin-abs 967 968	3
+T26	iv-bin-percent 970 972	8%

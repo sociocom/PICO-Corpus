@@ -1,0 +1,16 @@
+T3	condition 66 86	Radiation Dermatitis
+T4	total-participants 398 400	62
+T5	control 439 464	general skin care regimen
+T6	eligibility 338 396	breast cancer patients who received hypofractionation PMRT
+T9	cv-bin-percent 756 758	42
+T10	cv-bin-percent 760 762	90
+T11	cv-bin-percent 768 771	90%
+T12	iv-bin-percent 800 802	16
+T13	iv-bin-percent 804 806	30
+T14	iv-bin-percent 812 815	71%
+T15	outcome 872 893	mean Skindex-16 score
+T1	intervention 12 43	Olive Oil and Calcium Hydroxide
+T2	outcome 679 689	At the 8th
+T8	outcome 691 695	13th
+T16	outcome 701 705	16th
+T17	outcome 724 742	grade 1 dermatitis

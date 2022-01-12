@@ -1,0 +1,18 @@
+T1	intervention 80 100	oxidized mannan-MUC1
+T3	total-participants 478 480	31
+T2	eligibility 481 549	patients with stage II breast cancer and with no evidence of disease
+T4	control 593 600	placebo
+T5	total-participants 695 707	Twenty-eight
+T7	outcome 991 1006	recurrence rate
+T8	cv-bin-percent 1045 1048	27%
+T9	cv-bin-abs 1050 1051	4
+T10	control-participants 1052 1054	15
+T11	iv-bin-abs 1166 1167	0
+T12	intervention-participants 1168 1170	16
+T14	iv-bin-abs 1282 1286	nine
+T15	intervention-participants 1294 1296	13
+T16	iv-bin-abs 1335 1339	four
+T17	intervention-participants 1347 1349	10
+T18	outcome 1354 1384	MUC1-specific T cell responses
+T19	cv-bin-abs 1386 1390	none
+T13	outcome 1301 1330	measurable antibodies to MUC1

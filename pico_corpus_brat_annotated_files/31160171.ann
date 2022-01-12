@@ -1,0 +1,30 @@
+T1	intervention 23 48	Ribociclib With Letrozole
+T2	location 52 54	US
+T4	control 763 785	placebo with letrozole
+T5	outcome-Measure 813 833	locally assessed PFS
+T6	total-participants 844 847	213
+T7	intervention-participants 906 909	100
+T8	control-participants 924 927	113
+T9	outcome 1193 1203	Median PFS
+T10	iv-cont-median 1208 1219	27.6 months
+T11	cv-cont-median 1240 1251	15.0 months
+T12	outcome 1333 1344	neutropenia
+T13	iv-bin-percent 1358 1363	72.0%
+T14	iv-bin-abs 1369 1371	72
+T15	cv-bin-percent 1383 1387	4.6%
+T16	cv-bin-abs 1393 1394	5
+T17	outcome 1398 1404	nausea
+T18	iv-bin-percent 1418 1423	69.0%
+T19	iv-bin-abs 1429 1431	69
+T20	cv-bin-percent 1443 1448	44.0%
+T21	cv-bin-abs 1454 1456	48
+T22	outcome 1464 1471	fatigue
+T23	iv-bin-percent 1485 1490	60.0%
+T24	iv-bin-abs 1496 1498	60
+T25	cv-bin-percent 1510 1515	50.5%
+T26	cv-bin-abs 1521 1523	55
+T27	outcome 1584 1603	febrile neutropenia
+T28	iv-bin-percent 1553 1557	2.0%
+T29	cv-bin-percent 1568 1570	0%
+T3	eligibility 566 653	Postmenopausal women with HR+/HER2- ABC without previous treatment for advanced disease
+T30	outcome 1680 1688	efficacy

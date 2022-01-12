@@ -1,0 +1,24 @@
+T1	intervention 12 41	neoadjuvant endocrine therapy
+T2	control 57 80	eoadjuvant chemotherapy
+T4	total-participants 1086 1089	187
+T5	control-participants 1133 1135	95
+T6	intervention-participants 1149 1151	92
+T7	outcome 1228 1265	complete response or partial response
+T8	cv-bin-percent 1299 1304	83.7%
+T9	iv-bin-percent 1313 1318	52.9%
+T10	outcome 1353 1362	callipers
+T11	cv-bin-percent 1368 1373	83.9%
+T12	iv-bin-percent 1382 1387	71.3%
+T13	outcome 1478 1481	pCR
+T14	cv-bin-abs 1418 1423	Three
+T15	cv-bin-percent 1438 1442	3.4%
+T16	iv-bin-abs 1448 1451	one
+T17	iv-bin-percent 1465 1469	1.2%
+T18	outcome 1524 1546	conversion rate of BCS
+T19	cv-bin-percent 1548 1553	13.8%
+T20	iv-bin-percent 1566 1571	11.5%
+T21	outcome 1689 1712	grade 3 or worse events
+T22	cv-bin-abs 1645 1653	Nineteen
+T23	iv-bin-abs 1727 1731	none
+T3	outcome-Measure 860 877	clinical response
+T24	outcome 1757 1775	clinical responses

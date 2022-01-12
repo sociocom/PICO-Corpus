@@ -1,0 +1,22 @@
+T1	intervention 0 10	Hydrosorb®
+T2	control 18 45	control (water based spray)
+T3	condition 67 94	radio-induced skin toxicity
+T4	eligibility 273 372	patients (pts) treated for early stage breast cancer (BC) with normo fractionated radiotherapy (RT)
+T5	outcome-Measure 481 504	local treatment failure
+T6	outcome-Measure 643 673	evaluation of skin colorimetry
+T7	outcome-Measure 675 679	pain
+T8	outcome-Measure 681 696	quality of life
+T9	total-participants 698 723	Two-hundred seventy-eight
+T10	total-participants 754 757	186
+T11	outcome 798 808	"failures"
+T12	iv-bin-abs 795 797	60
+T13	cv-bin-abs 836 838	62
+T15	iv-bin-abs 1116 1127	Forty-eight
+T16	outcome 1165 1171	VAS >2
+T17	cv-bin-abs 1179 1181	51
+T18	iv-bin-percent 1211 1214	34%
+T19	cv-bin-percent 1219 1222	38%
+T20	outcome 1274 1278	pain
+T14	outcome 975 1007	reduction of colorimetric levels
+T21	iv-cont-mean 1037 1038	4
+T22	cv-cont-mean 1062 1065	4.2

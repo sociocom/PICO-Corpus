@@ -1,0 +1,25 @@
+T1	intervention 0 16	Preoperative MRI
+T2	total-participants 676 679	440
+T3	age 721 729	56 years
+T4	location 742 749	Swedish
+T5	intervention-participants 878 881	220
+T6	control 886 899	no breast MRI
+T7	control-participants 905 908	220
+T8	outcome 1172 1227	change from suggested breast conservation to mastectomy
+T9	iv-bin-abs 1240 1242	23
+T10	intervention-participants 1246 1249	153
+T11	iv-bin-percent 1251 1255	15 %
+T12	outcome 1355 1379	change in treatment plan
+T13	iv-bin-abs 1383 1385	40
+T14	iv-bin-percent 1387 1391	18 %
+T15	outcome 1398 1421	breast reoperation rate
+T16	iv-bin-abs 1464 1466	11
+T17	intervention-participants 1470 1473	220
+T18	iv-bin-percent 1475 1478	5 %
+T19	cv-bin-abs 1487 1489	33
+T20	cv-bin-percent 1498 1502	15 %
+T21	control-participants 1493 1496	220
+T22	outcome 1542 1564	number of mastectomies
+T23	outcome 1566 1587	axillary reoperations
+T24	outcome 1597 1650	number of patients receiving neoadjuvant chemotherapy
+T25	outcome 1799 1825	altered the treatment plan

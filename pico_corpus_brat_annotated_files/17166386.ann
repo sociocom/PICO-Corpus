@@ -1,0 +1,48 @@
+T2	location 72 77	China
+T3	eligibility 82 104	advanced breast cancer
+T5	total-participants 796 798	67
+T7	intervention-participants 823 825	33
+T8	control-participants 846 848	34
+T9	outcome 920 943	complete remission (CR)
+T10	intervention-participants 874 876	31
+T11	iv-bin-abs 909 910	1
+T12	iv-bin-abs 945 946	9
+T13	outcome 956 978	partial remission (PR)
+T14	iv-bin-abs 980 982	11
+T15	outcome 987 1006	stable disease (SD)
+T16	iv-bin-abs 1012 1014	10
+T17	outcome 1019 1043	progressive disease (PD)
+T18	outcome 1049 1068	total response rate
+T19	iv-bin-percent 1073 1079	22.22%
+T20	cv-bin-abs 1092 1093	1
+T21	cv-bin-abs 1098 1099	5
+T22	cv-bin-abs 1104 1106	19
+T23	cv-bin-abs 1115 1116	9
+T24	cv-bin-percent 1166 1172	15.15%
+T25	outcome 1094 1096	CR
+T26	outcome 1100 1102	PR
+T27	outcome 1107 1109	SD
+T28	outcome 1117 1119	PD
+T29	outcome 1142 1161	total response rate
+T30	outcome 1314 1351	median progression-free survival time
+T31	iv-cont-median 1356 1366	6.2 months
+T32	outcome 1386 1406	1-year survival rate
+T33	iv-bin-percent 1411 1417	68.51%
+T34	outcome 1427 1447	2-year survival rate
+T35	iv-bin-percent 1452 1458	40.12%
+T36	outcome 1482 1519	median progression-free survival time
+T37	cv-cont-median 1524 1534	7.1 months
+T38	outcome 1556 1576	1-year survival rate
+T39	cv-bin-percent 1581 1587	65.23%
+T40	outcome 1597 1617	2-year survival rate
+T41	cv-bin-percent 1622 1628	39.71%
+T42	outcome 1753 1817	myelosuppression, transient transaminase elevation, and alopecia
+T43	outcome 1860 1884	severe allergic reaction
+T44	iv-bin-abs 1819 1822	One
+T45	cv-bin-abs 1901 1902	1
+T46	outcome 1934 1950	whole body edema
+T48	intervention 45 68	home-produced docetaxel
+T49	outcome 1733 1747	adverse events
+T1	control 546 559	control group
+T4	control 612 616	Aisu
+T47	intervention 598 608	Yiyoutasai

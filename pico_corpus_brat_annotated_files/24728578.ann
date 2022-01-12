@@ -1,0 +1,22 @@
+T1	intervention 36 130	paclitaxel with and without carboplatin followed by cyclophosphamide/epirubicin/5-fluorouracil
+T4	eligibility 568 623	Patients with stage II/IIIA HER2-negative breast cancer
+T2	outcome-Measure 942 950	pCR rate
+T3	total-participants 955 958	181
+T5	intervention-participants 978 980	89
+T6	control-participants 1022 1024	92
+T7	intervention-participants 1117 1119	88
+T8	control-participants 1147 1149	91
+T9	outcome 1217 1225	pCR rate
+T10	iv-bin-percent 1289 1293	31.8
+T11	cv-bin-percent 1298 1304	17.6 %
+T13	outcome 1382 1390	pCR rate
+T14	iv-bin-percent 1454 1458	61.2
+T15	iv-bin-abs 1460 1462	23
+T16	intervention-participants 1463 1465	37
+T17	cv-bin-percent 1471 1477	26.3 %
+T18	cv-bin-abs 1479 1481	10
+T19	control-participants 1482 1484	38
+T20	outcome 1499 1520	Grade 3-4 neutropenia
+T21	iv-bin-percent 1583 1587	65.9
+T22	cv-bin-percent 1592 1598	38.5 %
+T24	control 856 861	P-CEF

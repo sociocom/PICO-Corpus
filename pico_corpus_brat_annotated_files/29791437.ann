@@ -1,0 +1,38 @@
+T1	intervention 49 87	silver carboxymethylcellulose dressing
+T2	condition 91 115	surgical site infections
+T3	age 576 585	≥18 years
+T4	eligibility 587 665	diagnosed with breast cancer, undergoing breast conserving or ablative surgery
+T5	outcome-Measure 830 856	SSI following CDC criteria
+T6	total-participants 869 872	230
+T7	intervention-participants 897 900	106
+T8	control-participants 926 929	124
+T9	control 930 938	controls
+T10	iv-bin-abs 940 945	Seven
+T11	iv-bin-percent 956 960	6.6%
+T12	outcome 962 975	developed SSI
+T13	cv-bin-abs 1001 1003	16
+T14	cv-bin-percent 1014 1019	12.9%
+T15	outcome 1237 1245	SSI rate
+T16	iv-bin-abs 1250 1251	1
+T17	intervention-participants 1252 1254	56
+T18	iv-bin-percent 1256 1260	1.8%
+T19	cv-bin-abs 1287 1288	7
+T20	control-participants 1289 1291	65
+T21	cv-bin-percent 1293 1298	10.8%
+T22	outcome 1385 1405	patient satisfaction
+T23	outcome 1469 1501	dressing changes within 48 hours
+T24	outcome 1547 1560	re-operations
+T25	iv-bin-percent 1562 1564	0%
+T26	cv-bin-percent 1569 1573	3.2%
+T28	outcome 1763 1794	attributable costs of SSI model
+T31	iv-cont-median 1414 1415	8
+T32	cv-cont-median 1420 1421	7
+T35	iv-cont-mean 1649 1656	€265.42
+T36	cv-cont-mean 1672 1679	€470.65
+T37	iv-cont-mean 1712 1718	€59.12
+T38	cv-cont-mean 1734 1740	€67.55
+T29	iv-cont-sd 1663 1666	908
+T30	cv-cont-sd 1686 1690	1223
+T33	iv-cont-sd 1725 1728	129
+T34	cv-cont-sd 1747 1750	172
+T27	outcome 1597 1631	mean wound-related treatment costs

@@ -1,0 +1,22 @@
+T1	intervention 0 28	Trastuzumab plus anastrozole
+T2	control 36 53	anastrozole alone
+T3	eligibility 493 555	Postmenopausal women with HER2/hormone receptor-copositive MBC
+T4	outcome-Measure 748 779	progression-free survival (PFS)
+T5	intervention-participants 832 835	103
+T6	control-participants 884 887	104
+T7	outcome 1005 1008	PFS
+T10	iv-cont-median 1116 1119	4.8
+T11	cv-cont-median 1122 1132	2.4 months
+T12	outcome 1231 1241	median PFS
+T13	outcome 1158 1219	patients with centrally confirmed hormone receptor positivity
+T14	iv-cont-median 1246 1249	5.6
+T15	cv-cont-median 1254 1264	3.8 months
+T16	outcome 1363 1379	Overall survival
+T18	iv-bin-percent 1691 1694	23%
+T19	iv-bin-percent 1699 1701	5%
+T20	cv-bin-percent 1762 1765	15%
+T21	cv-bin-percent 1770 1772	1%
+T22	iv-bin-abs 1818 1821	one
+T23	outcome 1901 1925	congestive heart failure
+T8	outcome 1104 1114	median PFS
+T9	outcome 1645 1686	Incidence of grade 3 and 4 adverse events

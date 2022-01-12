@@ -1,0 +1,45 @@
+T4	total-participants 565 569	3864
+T5	eligibility 570 634	healthy, postmenopausal women at increased risk of breast cancer
+T6	control 702 709	placebo
+T7	total-participants 711 715	1410
+T8	outcome-Measure 1413 1518	effect of risedronate versus placebo for osteopenic women in stratum II randomly allocated to anastrozole
+T11	total-participants 1868 1871	150
+T13	intervention-participants 2075 2077	77
+T14	control-participants 2183 2185	73
+T17	outcome 2756 2775	at the lumbar spine
+T18	outcome 2837 2846	total hip
+T19	intervention-participants 2987 2989	46
+T21	outcome 3069 3081	at the spine
+T22	outcome 3182 3191	total hip
+T24	cv-bin-abs 3458 3460	94
+T25	iv-bin-abs 3473 3476	114
+T26	outcome 3447 3456	stratum I
+T27	outcome 3490 3500	stratum II
+T28	cv-bin-abs 3502 3504	39
+T29	iv-bin-abs 3522 3524	25
+T30	iv-bin-abs 3546 3548	34
+T31	iv-bin-abs 3574 3576	34
+T32	outcome 3602 3613	stratum III
+T33	iv-bin-abs 3615 3617	21
+T34	iv-bin-abs 3639 3641	17
+T35	outcome 3698 3709	hot flushes
+T36	outcome 3711 3719	alopecia
+T37	outcome 3721 3735	abdominal pain
+T38	outcome 3741 3750	back pain
+T23	iv-cont-mean 2122 2126	1·1%
+T39	cv-cont-mean 2154 2159	-2·6%
+T40	iv-cont-mean 2324 2329	-0·7%
+T41	cv-cont-mean 2351 2356	-3·5%
+T42	iv-cont-mean 2777 2782	-4·0%
+T43	cv-cont-mean 2801 2806	-1·2%
+T44	iv-cont-mean 2848 2853	-4·0%
+T45	cv-cont-mean 2872 2877	-1·8%
+T46	iv-cont-mean 3050 3054	1·2%
+T47	cv-cont-mean 3098 3102	3·9%
+T48	iv-cont-mean 3201 3205	0·3%
+T49	cv-cont-mean 3287 3291	1·5%
+T1	intervention 77 104	anastrozole and risedronate
+T2	outcome 2044 2066	3 year mean BMD change
+T3	outcome 2253 2275	3 year mean BMD change
+T9	outcome 3034 3046	BMD increase
+T10	outcome-Measure 1559 1598	effect of anastrozole (1 mg/day) on BMD

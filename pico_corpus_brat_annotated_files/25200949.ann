@@ -1,0 +1,9 @@
+T1	ethinicity 76 92	Chinese American
+T2	total-participants 227 230	300
+T3	eligibility 136 220	Chinese American immigrant women, nonadherent with mammography in the past 12 months
+T9	outcome 887 903	knowledge scores
+T10	outcome 1053 1094	perceived susceptibility to breast cancer
+T11	outcome 1229 1274	concerns about modesty related to mammography
+T12	outcome 1404 1422	perceived barriers
+T13	intervention 846 861	education group
+T14	control 922 935	control group

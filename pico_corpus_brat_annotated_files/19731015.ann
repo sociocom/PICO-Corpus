@@ -1,0 +1,12 @@
+T1	outcome 1051 1062	5-years DFS
+T2	outcome 956 965	5-year OS
+T3	total-participants 415 420	2,887
+T5	eligibility 71 180	node-positive breast cancer patients treated with docetaxel  and doxorubicin-containing adjuvant chemotherapy
+T7	intervention-participants 860 863	547
+T8	control-participants 909 914	2,340
+T9	cv-bin-percent 970 975	87.5%
+T10	iv-bin-percent 994 999	82.9%
+T11	cv-bin-percent 1067 1072	75.9%
+T12	iv-bin-percent 1090 1095	70.0%
+T14	intervention 884 889	obese
+T15	control 935 944	non-obese

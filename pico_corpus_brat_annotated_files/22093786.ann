@@ -1,0 +1,24 @@
+T1	intervention 99 108	docetaxel
+T2	control 116 178	paclitaxel plus pirarubicin hydrochloride and cyclophosphamide
+T3	total-participants 392 394	97
+T4	intervention-participants 464 466	49
+T5	control-participants 519 521	48
+T6	eligibility 342 379	locally advanced breast cancer (LABC)
+T7	outcome 613 621	clinical
+T8	outcome 626 663	pathological complete remission rates
+T9	iv-bin-percent 687 692	28.6%
+T10	iv-bin-percent 697 702	26.5%
+T11	cv-bin-percent 780 785	10.4%
+T12	cv-bin-percent 790 794	8.3%
+T13	outcome 813 862	pathological negative rate of regional lymph node
+T14	iv-bin-percent 943 948	40.6%
+T15	cv-bin-percent 953 958	12.9%
+T16	outcome 970 1010	grade III-IV blood system toxic reaction
+T17	iv-bin-percent 1024 1029	71.4%
+T18	outcome 1037 1066	grade II-IV liver dysfunction
+T19	iv-bin-percent 1070 1075	53.1%
+T20	outcome 1086 1091	edema
+T21	iv-bin-percent 1095 1100	24.5%
+T22	cv-bin-percent 1182 1187	46.9%
+T23	cv-bin-percent 1189 1194	27.1%
+T24	cv-bin-percent 1197 1201	4.2%

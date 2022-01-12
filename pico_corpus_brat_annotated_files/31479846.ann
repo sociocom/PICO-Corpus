@@ -1,0 +1,11 @@
+T1	intervention 10 23	yoga exercise
+T2	condition 113 123	lymphedema
+T3	total-participants 379 381	40
+T4	eligibility 382 425	women with breast cancer related lymphedema
+T5	control 473 487	control groups
+T8	outcome 967 1002	role functioning of quality of life
+T9	outcome 1115 1168	physical and emotional functioning of quality of life
+T10	outcome 1185 1255	changing trend in physical, role, emotional, and cognitive functioning
+T11	outcome 1298 1349	fatigue, pain, insomnia, and financial difficulties
+T6	condition 31 73	quality of life and upper extremity volume
+T7	outcome 1411 1423	edema volume

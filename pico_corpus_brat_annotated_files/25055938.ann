@@ -1,0 +1,20 @@
+T1	intervention 0 36	Tamoxifen plus tegafur-uracil (TUFT)
+T2	control 44 110	tamoxifen plus Adriamycin (doxorubicin) and cyclophosphamide (ACT)
+T3	eligibility 531 618	pathologically node-positive (n = 1-9) preMBC with curative resection, in stages I-IIIA
+T4	location 203 208	Japan
+T5	outcome-Measure 920 941	overall survival (OS)
+T6	outcome-Measure 970 1000	recurrence-free survival (RFS)
+T7	total-participants 1012 1015	169
+T8	intervention-participants 1048 1050	87
+T9	control-participants 1060 1062	82
+T11	outcome 1116 1118	OS
+T14	outcome 1181 1184	RFS
+T17	outcome 1274 1283	5-year OS
+T18	iv-bin-percent 1288 1294	79.7 %
+T19	cv-bin-percent 1326 1330	83 %
+T20	outcome 1361 1371	5-year RFS
+T21	iv-bin-percent 1376 1382	66.1 %
+T22	cv-bin-percent 1414 1420	70.6 %
+T23	outcome 1506 1524	grade 3 leucopenia
+T24	iv-bin-percent 1526 1529	0 %
+T25	cv-bin-percent 1545 1548	4 %

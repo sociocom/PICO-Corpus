@@ -1,0 +1,15 @@
+T1	intervention 117 124	low-fat
+T2	control 129 155	reduced carbohydrate diets
+T3	condition 48 58	overweight
+T4	eligibility 603 652	overweight postmenopausal breast cancer survivors
+T5	total-participants 669 671	40
+T7	outcome 1018 1029	Weight loss
+T8	outcome 1197 1224	total/HDL cholesterol ratio
+T9	outcome 1242 1280	reductions in HbA1c, insulin, and HOMA
+T10	outcome 1282 1302	Triglycerides levels
+T13	iv-cont-mean 987 989	24
+T14	cv-cont-mean 994 1002	76 g/day
+T15	outcome 933 971	Dietary intake of fat and carbohydrate
+T12	outcome 1114 1131	loss of lean mass
+T11	cv-cont-mean 1371 1376	-31.1
+T16	cv-cont-sd 1379 1383	36.6

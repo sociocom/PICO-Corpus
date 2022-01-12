@@ -1,0 +1,18 @@
+T1	intervention 22 49	telephone-based weight loss
+T4	eligibility 670 775	Women receiving adjuvant letrozole for T1-3N0-3M0 breast cancer with a body mass index (BMI) ≥ 24 kg/m(2)
+T5	outcome-Measure 948 969	disease-free survival
+T6	total-participants 997 1000	338
+T7	outcome 1055 1071	Mean weight loss
+T8	iv-cont-mean 1166 1170	5.3%
+T9	cv-cont-mean 1173 1177	0.7%
+T10	outcome 1178 1189	at 6 months
+T11	iv-cont-mean 1210 1214	3.6%
+T12	cv-cont-mean 1217 1221	0.4%
+T13	outcome 1222 1234	at 24 months
+T14	outcome 1474 1514	Hospitalization rates and medical events
+T15	iv-cont-mean 1150 1153	4.3
+T16	cv-cont-mean 1156 1162	0.6 kg
+T17	iv-cont-mean 1194 1197	3.1
+T18	cv-cont-mean 1200 1206	0.3 kg
+T2	outcome 1349 1360	Weight loss
+T3	control 387 419	general health information alone

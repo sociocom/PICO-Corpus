@@ -1,0 +1,8 @@
+T1	intervention 0 20	Topical atorvastatin
+T2	condition 42 55	skin toxicity
+T3	eligibility 59 113	patients receiving radiation therapy for breast cancer
+T4	total-participants 406 413	Seventy
+T5	control 485 497	placebo gels
+T8	outcome 826 878	radiation-induced breast swelling, itching, and pain
+T9	outcome 968 998	redness caused by radiotherapy
+T10	outcome 1134 1165	itching, breast edema, and pain

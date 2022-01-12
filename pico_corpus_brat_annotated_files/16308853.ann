@@ -1,0 +1,17 @@
+T2	eligibility 411 489	Women with early breast cancer (less than 3 cm) and no palpable axillary nodes
+T3	age 512 531	older than 70 years
+T4	intervention 36 44	blue dye
+T5	total-participants 787 790	123
+T6	intervention-participants 885 887	57
+T7	control-participants 898 900	61
+T8	outcome 986 1012	success rate of SLN biopsy
+T9	cv-bin-percent 1072 1075	100
+T10	iv-bin-percent 1083 1094	86 per cent
+T11	outcome 1112 1144	accuracy and false-negative rate
+T12	cv-bin-percent 1168 1180	100 per cent
+T13	iv-bin-percent 1209 1220	98 per cent
+T14	outcome 1235 1254	false-negative rate
+T15	outcome 1159 1167	accuracy
+T16	cv-bin-percent 1255 1256	0
+T17	iv-bin-percent 1264 1274	5 per cent
+T18	control 50 74	combined dye and isotope

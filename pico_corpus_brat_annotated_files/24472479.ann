@@ -1,0 +1,13 @@
+T1	eligibility 588 643	Older women with invasive, non-metastatic breast cancer
+T2	age 242 252	≥ 65 years
+T3	intervention-participants 647 650	150
+T4	control-participants 656 659	530
+T5	outcome 1013 1035	Anthracycline regimens
+T6	outcome 1205 1228	global QoL at 24 months
+T7	outcome 1429 1462	improvement in emotional function
+T8	outcome 1541 1587	reductions in therapy side effects and fatigue
+T9	iv-cont-mean 1170 1181	13.7 points
+T10	cv-cont-mean 1316 1326	7.0 points
+T11	intervention 126 147	standard chemotherapy
+T12	control 186 205	observational study
+T13	outcome 1674 1690	QoL trajectories

@@ -1,0 +1,10 @@
+T1	intervention 0 27	Dose-intensified epirubicin
+T2	control 35 76	standard-dose epirubicin/cyclophosphamide
+T3	eligibility 96 155	breast cancer patients with 10 or more positive lymph nodes
+T4	outcome 767 805	5-year event-free survival (EFS) rates
+T5	iv-bin-percent 811 816	47.7%
+T6	intervention-participants 485 488	202
+T7	control-participants 669 672	209
+T8	cv-bin-percent 873 878	45.9%
+T9	outcome 951 954	EFS
+T12	outcome 1034 1050	overall survival

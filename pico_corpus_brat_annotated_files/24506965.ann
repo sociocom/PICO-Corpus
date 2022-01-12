@@ -1,0 +1,44 @@
+T3	condition 75 89	cardiotoxicity
+T4	total-participants 356 361	Forty
+T5	control 517 530	control group
+T6	intervention-participants 503 505	20
+T7	control-participants 556 558	20
+T14	outcome 1103 1107	LVEF
+T15	outcome 1211 1226	LVEDD and LVESD
+T16	outcome 1373 1377	LVEF
+T20	outcome 1814 1857	rate of ST segment and T wave abnormalities
+T21	cv-bin-percent 1862 1867	80.0%
+T23	cv-bin-percent 1957 1962	25.0%
+T25	cv-bin-percent 2013 2018	10.0%
+T26	outcome 2019 2051	after two cycles of chemotherapy
+T28	cv-bin-percent 2133 2138	55.0%
+T29	cv-bin-percent 2140 2145	45.0%
+T30	cv-bin-percent 2150 2156	45.0%,
+T31	outcome 2330 2369	rate of abnormal expression of troponin
+T32	cv-bin-percent 2374 2379	45.0%
+T33	iv-bin-percent 2432 2437	10.0%
+T34	iv-bin-percent 2252 2257	20.0%
+T35	iv-bin-percent 2271 2276	10.0%
+T36	iv-bin-percent 2294 2299	10.0%
+T27	outcome 2082 2093	QRS voltage
+T37	outcome 2095 2105	arrhythmia
+T38	outcome 2110 2127	abnormal troponin
+T1	intervention 22 67	low-dose carvedilol combined with candesartan
+T2	cv-cont-mean 1384 1389	57.00
+T43	cv-cont-sd 1392 1396	5.13
+T8	cv-cont-mean 1404 1409	45.95
+T44	cv-cont-sd 1412 1416	3.68
+T39	iv-cont-mean 1490 1495	67.00
+T45	iv-cont-sd 1498 1502	5.13
+T40	iv-cont-mean 1510 1515	57.50
+T46	iv-cont-sd 1518 1522	2.57
+T41	cv-cont-mean 1634 1639	50.00
+T47	cv-cont-sd 1642 1647	10.48
+T42	cv-cont-mean 1657 1662	35.01
+T48	cv-cont-sd 1665 1669	2.99
+T9	outcome 1612 1617	LVEDD
+T10	outcome 1622 1627	LVESD
+T11	outcome 1330 1371	After four and six cycles of chemotherapy
+T12	outcome 1578 1610	After six cycles of chemotherapy
+T13	outcome 1889 1921	after six cycles of chemotherapy
+T17	outcome 1963 1996	after four cycles of chemotherapy

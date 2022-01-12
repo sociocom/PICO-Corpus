@@ -1,0 +1,17 @@
+T3	eligibility 403 515	Patients with human epidermal growth factor receptor 2-normal, chemotherapy-naïve metastatic breast cancer (MBC)
+T4	total-participants 850 853	123
+T5	total-participants 875 878	122
+T6	outcome 1001 1025	Grade 3 or 4 neutropenia
+T1	intervention 60 71	ixabepilone
+T7	control 75 102	paclitaxel plus bevacizumab
+T8	iv-bin-percent 1052 1056	60 %
+T9	iv-bin-percent 1071 1075	16 %
+T10	cv-bin-percent 1083 1087	22 %
+T12	iv-bin-percent 1159 1161	48
+T13	iv-bin-percent 1163 1165	71
+T14	cv-bin-percent 1171 1175	63 %
+T15	outcome 1212 1244	Median progression-free survival
+T16	iv-cont-median 1271 1281	9.6 months
+T17	iv-cont-median 1292 1303	11.9 months
+T18	cv-cont-median 1318 1329	13.5 months
+T2	outcome 1151 1154	ORR

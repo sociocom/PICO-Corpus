@@ -1,0 +1,23 @@
+T1	intervention 49 81	adjuvant dose-dense chemotherapy
+T3	eligibility 264 310	women with node-positive primary breast cancer
+T4	total-participants 335 338	216
+T6	intervention-participants 427 430	108
+T7	control-participants 749 752	108
+T9	outcome 972 988	relapsed or died
+T10	iv-bin-abs 994 996	33
+T11	iv-bin-abs 1007 1009	15
+T12	cv-bin-abs 1023 1025	38
+T13	cv-bin-abs 1036 1038	22
+T14	outcome 1142 1164	Four-year rates of DFS
+T15	outcome 1169 1171	OS
+T16	iv-bin-percent 1177 1179	64
+T17	cv-bin-percent 1184 1187	85%
+T18	iv-bin-percent 1200 1202	58
+T19	cv-bin-percent 1207 1210	75%
+T8	outcome 1336 1350	adverse events
+T20	outcome 1316 1330	dose reduction
+T21	outcome 1299 1314	discontinuation
+T22	outcome 1277 1297	Rates of cycle delay
+T23	outcome 1087 1114	disease-free survival (DFS)
+T24	outcome 1119 1140	overall survival (OS)
+T5	control 355 394	conventional-schedule (CS) chemotherapy

@@ -1,0 +1,23 @@
+T1	intervention 0 28	Aprepitant plus palonosetron
+T2	outcome 1253 1274	24th to the 48th hour
+T3	outcome 1280 1297	incidence of PONV
+T4	iv-bin-percent 1302 1307	8.33%
+T5	cv-bin-percent 1323 1329	13.95%
+T6	outcome 1157 1171	first 24 hours
+T7	outcome 1177 1194	incidence of PONV
+T8	iv-bin-percent 1199 1205	27.08%
+T9	cv-bin-percent 1225 1231	20.93%
+T10	outcome 1064 1083	2nd to the 6th hour
+T11	outcome 1089 1106	incidence of PONV
+T12	iv-bin-percent 1111 1116	8.33%
+T13	cv-bin-percent 1132 1137	9.30%
+T14	total-participants 870 881	One hundred
+T15	total-participants 923 925	91
+T16	intervention-participants 941 943	48
+T17	control-participants 959 961	43
+T18	outcome-Measure 700 732	incidence of nausea and vomiting
+T19	outcome-Measure 771 834	use of rescue antiemetics during a 48-hour postoperative period
+T20	eligibility 280 355	High-risk patients (Apfel score 3 or 4) scheduled for unilateral mastectomy
+T21	control 505 517	oral placebo
+T22	condition 51 84	postoperative nausea and vomiting
+T23	outcome 1397 1401	PONV

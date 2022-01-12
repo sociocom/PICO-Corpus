@@ -1,0 +1,9 @@
+T1	condition 14 46	post-mastectomy neuropathic pain
+T2	intervention 52 61	memantine
+T3	total-participants 688 690	40
+T4	eligibility 691 737	women with breast cancer undergoing mastectomy
+T5	location 764 788	Clermont-Ferrand, France
+T6	intervention-participants 821 823	20
+T7	control 828 835	placebo
+T8	control-participants 841 843	20
+T10	outcome-Measure 1057 1071	pain intensity

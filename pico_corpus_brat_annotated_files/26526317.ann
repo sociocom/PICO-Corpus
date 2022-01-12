@@ -1,0 +1,7 @@
+T1	intervention 0 17	Stress management
+T2	eligibility 705 759	among healthy stressed women at risk for breast cancer
+T3	intervention-participants 1015 1025	Forty-four
+T4	control-participants 1061 1063	47
+T5	control 1071 1087	comparison group
+T6	outcome 1306 1309	ICV
+T7	condition 26 62	intraindividual cortisol variability

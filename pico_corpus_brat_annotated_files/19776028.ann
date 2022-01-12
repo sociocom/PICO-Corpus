@@ -1,0 +1,10 @@
+T1	intervention 10 31	anaesthetic technique
+T2	eligibility 35 99	oestrogen receptor-negative breast cancer cell function in vitro
+T3	intervention 840 884	propofol/paravertebral anaesthesia-analgesia
+T4	intervention-participants 912 914	11
+T5	control 919 950	sevoflurane general anaesthesia
+T6	control-participants 996 998	11
+T8	outcome 1240 1251	Pain scores
+T9	outcome 1358 1399	proliferation of MDA-MB-231 cells treated
+T12	outcome 1609 1660	change in MDA-MB-231 cell migration after treatment
+T10	outcome 1263 1275	at 1 and 2 h

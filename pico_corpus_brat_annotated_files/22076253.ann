@@ -1,0 +1,11 @@
+T1	intervention 64 73	letrozole
+T2	control 77 84	placebo
+T4	eligibility 671 712	post-menopausal BRCA1/2 mutation carriers
+T5	total-participants 834 837	113
+T6	total-participants 922 927	1,505
+T7	total-participants 1228 1256	Five hundred and thirty-four
+T3	outcome 1477 1508	Uptake of drug prevention trial
+T8	outcome 1614 1636	potential side effects
+T9	outcome 1638 1672	probability to receive the placebo
+T10	outcome 1677 1714	lack of support from their physicians
+T11	outcome 1967 1973	uptake

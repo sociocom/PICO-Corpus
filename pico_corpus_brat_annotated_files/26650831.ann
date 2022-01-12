@@ -1,0 +1,21 @@
+T1	intervention 0 10	Ultrasound
+T2	control 34 60	magnetic resonance imaging
+T3	eligibility 495 531	Patients with invasive breast cancer
+T5	total-participants 601 604	182
+T6	control-participants 663 666	155
+T7	intervention-participants 675 678	123
+T8	outcome 730 774	residual tumour size with <10-mm discordance
+T9	cv-bin-percent 778 781	54%
+T10	outcome 795 813	overestimated size
+T11	cv-bin-percent 817 820	28%
+T12	outcome 825 844	underestimated size
+T13	cv-bin-percent 848 851	18%
+T14	iv-bin-percent 883 886	63%
+T15	iv-bin-percent 888 891	20%
+T16	iv-bin-percent 896 900	17%,
+T17	outcome 919 944	negative predictive value
+T18	cv-bin-percent 1011 1014	26%
+T19	iv-bin-percent 1019 1022	33%
+T20	cv-cont-median 1124 1127	63%
+T21	iv-cont-median 1150 1153	49%
+T22	outcome 1042 1082	median deviation in clinical tumour size

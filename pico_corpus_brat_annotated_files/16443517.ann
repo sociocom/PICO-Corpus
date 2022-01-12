@@ -1,0 +1,17 @@
+T1	outcome 1582 1608	5-year event-free survival
+T2	outcome 1660 1683	5-year overall survival
+T3	outcome 1285 1295	event free
+T4	total-participants 1018 1021	425
+T5	control 877 892	observation arm
+T6	intervention 19 58	high-dose combination alkylating agents
+T7	eligibility 340 416	women with hormone-insensitive or hormone-resistant metastatic breast cancer
+T8	cv-bin-abs 1264 1265	5
+T9	cv-bin-percent 1267 1270	10%
+T10	control-participants 1275 1277	51
+T11	iv-bin-abs 1311 1313	13
+T12	iv-bin-percent 1315 1318	26%
+T13	intervention-participants 1323 1325	49
+T14	outcome 1464 1480	overall survival
+T17	outcome 1065 1091	median event-free survival
+T18	cv-cont-median 1144 1154	3.8 months
+T19	iv-cont-median 1170 1180	9.7 months

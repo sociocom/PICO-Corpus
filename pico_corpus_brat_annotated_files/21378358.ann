@@ -1,0 +1,26 @@
+T2	total-participants 585 607	One hundred and twelve
+T3	age 626 634	56 years
+T4	eligibility 655 740	with BC underwent SLNB using a combined radioisotope and isosulfan blue dye technique
+T1	intervention 0 63	Axillary node sampling in conjunction with sentinel node biopsy
+T5	control-participants 845 847	55
+T7	intervention-participants 884 886	57
+T8	outcome 929 943	SN involvement
+T9	cv-bin-abs 978 980	14
+T10	cv-bin-percent 982 987	25.5%
+T11	iv-bin-abs 1000 1002	18
+T12	iv-bin-percent 1004 1009	31.6%
+T13	outcome 1046 1071	axillary node involvement
+T14	cv-bin-abs 1102 1103	5
+T15	iv-bin-abs 1115 1116	2
+T16	outcome 1123 1134	sensitivity
+T17	outcome 1139 1147	accuracy
+T18	cv-bin-percent 1153 1158	73.7%
+T19	iv-bin-percent 1163 1168	90.0%
+T20	cv-bin-percent 1184 1189	90.9%
+T21	iv-bin-percent 1194 1199	94.7%
+T22	outcome 1343 1370	amount of axillary drainage
+T23	cv-cont-mean 1397 1401	47.5
+T25	cv-cont-sd 1404 1408	11.3
+T24	iv-cont-mean 1413 1417	49.6
+T26	iv-cont-sd 1420 1427	12.2 ml
+T6	control 833 843	SLNB alone

@@ -1,0 +1,12 @@
+T1	intervention 50 87	granulocyte colony-stimulating factor
+T2	eligibility 1248 1309	Adult patients receiving adjuvant or neoadjuvant chemotherapy
+T3	total-participants 1698 1701	407
+T6	control 1783 1796	standard care
+T7	outcome 2059 2061	NE
+T9	cv-bin-percent 2204 2207	50%
+T10	iv-bin-percent 2253 2256	75%
+T11	outcome 2320 2355	reduction in post-randomisation NEs
+T12	cv-bin-percent 2357 2362	65.7%
+T13	iv-bin-percent 2379 2384	18.2%
+T4	outcome 2179 2182	RDI
+T8	outcome 2119 2148	relative dose intensity (RDI)

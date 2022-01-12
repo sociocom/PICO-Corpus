@@ -1,0 +1,16 @@
+T1	intervention 64 77	pegfilgrastim
+T2	condition 100 119	febrile neutropenia
+T3	eligibility 123 195	breast cancer patients receiving docetaxel/cyclophosphamide chemotherapy
+T4	total-participants 709 712	351
+T5	intervention-participants 720 723	177
+T6	control-participants 755 758	174
+T7	control 766 773	placebo
+T8	age 781 804	between 20 and 69 years
+T9	total-participants 1018 1021	346
+T10	intervention-participants 1084 1087	173
+T11	control-participants 1105 1108	173
+T12	outcome 1115 1130	incidence of FN
+T13	iv-bin-percent 1209 1212	1.2
+T14	cv-bin-percent 1217 1223	68.8 %
+T15	outcome 1314 1352	hospitalization and antibiotics for FN
+T16	outcome 1359 1373	adverse events

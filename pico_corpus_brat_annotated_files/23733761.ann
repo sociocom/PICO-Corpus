@@ -1,0 +1,20 @@
+T3	eligibility 439 511	Patients who had received no more than one previous chemotherapy regimen
+T4	intervention 91 115	cetuximab with cisplatin
+T5	control 123 138	cisplatin alone
+T6	intervention-participants 1045 1048	115
+T7	control-participants 1097 1099	58
+T9	iv-bin-percent 1237 1240	20%
+T10	cv-bin-percent 1294 1297	10%
+T13	outcome 1432 1435	PFS
+T14	iv-cont-median 1475 1478	3.7
+T15	cv-cont-median 1481 1491	1.5 months
+T18	outcome 1565 1574	median OS
+T19	iv-cont-median 1579 1583	12.9
+T20	cv-cont-median 1591 1601	9.4 months
+T23	outcome 1686 1726	acne-like rash, neutropenia, and fatigue
+T1	outcome 1229 1232	ORR
+T8	outcome 1652 1676	grade 3/4 adverse events
+T2	outcome-Measure 781 808	overall response rate (ORR)
+T11	outcome-Measure 848 879	progression-free survival (PFS)
+T12	outcome-Measure 881 902	overall survival (OS)
+T16	outcome-Measure 908 923	safety profiles

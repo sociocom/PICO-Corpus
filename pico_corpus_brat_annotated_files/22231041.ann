@@ -1,0 +1,20 @@
+T4	control 565 579	no triptorelin
+T9	total-participants 964 966	49
+T2	eligibility 465 508	Premenopausal women age 44 years or younger
+T3	age 1003 1011	39 years
+T10	total-participants 1037 1039	47
+T11	outcome 1256 1276	Menstruation resumed
+T13	control-participants 1292 1294	21
+T15	intervention-participants 1344 1346	26
+T16	cv-bin-abs 1574 1577	Two
+T17	outcome 1655 1699	spontaneous pregnancies with term deliveries
+T12	cv-bin-abs 1280 1282	19
+T19	cv-bin-percent 1284 1287	90%
+T14	iv-bin-abs 1332 1334	23
+T20	iv-bin-percent 1336 1339	88%
+T8	intervention 23 73	gonadotropin-releasing hormone agonist triptorelin
+T1	outcome 1382 1397	Menses returned
+T21	iv-cont-median 1416 1426	5.8 months
+T22	cv-cont-median 1510 1520	5.0 months
+T23	condition 82 114	preservation of ovarian function
+T18	outcome 1701 1725	FSH and inhibin B levels

@@ -1,0 +1,22 @@
+T1	intervention 75 84	Celecoxib
+T2	intervention 92 102	Exemestane
+T3	outcome-Measure 422 437	change in Ki-67
+T4	outcome-Measure 468 504	modulation of circulating biomarkers
+T5	intervention-participants 650 652	50
+T6	intervention-participants 684 686	50
+T7	control 692 699	placebo
+T8	control-participants 705 707	25
+T9	outcome 868 886	reduction in Ki-67
+T10	iv-bin-percent 864 867	10%
+T11	iv-bin-percent 955 958	15%
+T12	outcome 968 995	reduction in PgR expression
+T13	outcome 1088 1110	increased testosterone
+T14	outcome 1156 1170	decreased SHBG
+T15	outcome 1222 1257	decreased total and HDL cholesterol
+T16	outcome 1328 1341	Triglycerides
+T17	iv-cont-median 1126 1136	0.21 ng/mL
+T18	iv-cont-median 1186 1198	-14.6 nmol/L
+T19	iv-cont-median 1261 1270	-10 mg/dL
+T20	iv-cont-median 1287 1295	-7 mg/dL
+T21	iv-cont-median 1385 1395	-0.5 mg/dL
+T22	iv-cont-median 1417 1425	-8 mg/dL

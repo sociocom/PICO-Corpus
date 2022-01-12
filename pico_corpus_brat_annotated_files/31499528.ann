@@ -1,0 +1,13 @@
+T2	location 495 499	U.S.
+T3	total-participants 518 522	9939
+T4	age 534 548	50 to 79 years
+T5	eligibility 549 602	with prior hysterectomy and known oophorectomy status
+T6	intervention 604 637	Conjugated equine estrogens (CEE)
+T7	control 654 661	placebo
+T10	outcome 2039 2054	adverse effects
+T11	outcome 1484 1516	reduction in all-cause mortality
+T12	outcome 1197 1215	net adverse effect
+T1	outcome-Measure 729 751	invasive breast cancer
+T8	outcome-Measure 689 724	Incidence of coronary heart disease
+T9	outcome-Measure 788 807	all-cause mortality
+T13	outcome-Measure 815 829	"global index"

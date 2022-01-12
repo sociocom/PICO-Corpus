@@ -1,0 +1,28 @@
+T1	intervention 0 11	Anastrozole
+T2	control 19 28	tamoxifen
+T5	outcome-Measure 1290 1304	all recurrence
+T7	total-participants 1746 1750	2980
+T8	intervention-participants 1856 1860	1449
+T9	control-participants 1885 1889	1489
+T10	outcome 1955 1980	breast cancer recurrences
+T11	outcome 2048 2066	overall recurrence
+T12	iv-bin-abs 2068 2070	67
+T13	cv-bin-abs 2102 2104	77
+T14	outcome 2287 2293	deaths
+T15	iv-bin-abs 2309 2311	33
+T16	cv-bin-abs 2331 2333	36
+T17	outcome 2487 2500	adverse event
+T18	iv-bin-abs 2534 2538	1323
+T19	iv-bin-percent 2546 2549	91%
+T20	cv-bin-abs 2566 2570	1379
+T21	cv-bin-percent 2578 2581	93%
+T22	outcome 2646 2655	fractures
+T23	outcome 2657 2679	musculoskeletal events
+T24	outcome 2681 2702	hypercholesterolaemia
+T25	outcome 2708 2715	strokes
+T26	outcome 2742 2754	muscle spasm
+T27	outcome 2756 2791	gynaecological cancers and symptoms
+T28	outcome 2793 2811	vasomotor symptoms
+T29	outcome 2817 2837	deep vein thromboses
+T3	eligibility 767 848	women who had been diagnosed with locally excised, hormone-receptor-positive DCIS
+T4	outcome 2863 2871	efficacy

@@ -1,0 +1,19 @@
+T1	intervention 16 27	fibrin glue
+T2	condition 36 52	seroma formation
+T3	total-participants 137 140	159
+T4	total-participants 376 394	Hundred fifty-nine
+T5	eligibility 395 493	breast cancer patients about to undergo quadrantectomy or mastectomy plus axillary lymphadenectomy
+T6	intervention-participants 656 658	80
+T7	control 679 715	placement of closed suction drainage
+T8	control-participants 733 735	79
+T10	outcome 929 957	number of seroma aspirations
+T9	iv-cont-mean 864 867	4.5
+T12	iv-cont-sd 872 880	1.3 days
+T13	cv-cont-mean 896 899	5.1
+T16	cv-cont-sd 904 912	1.6 days
+T14	iv-cont-mean 959 962	6.3
+T17	iv-cont-sd 967 970	1.1
+T15	cv-cont-mean 986 989	6.7
+T18	cv-cont-sd 994 997	1.2
+T11	outcome 1120 1153	volume of total axillary drainage
+T19	outcome 1161 1180	total seroma volume

@@ -1,0 +1,28 @@
+T1	intervention 19 45	epirubicin plus paclitaxel
+T2	control 60 92	epirubicin plus cyclophosphamide
+T3	location 150 164	United Kingdom
+T4	eligibility 397 474	Patients previously untreated with chemotherapy (except for adjuvant therapy)
+T5	outcome-Measure 719 744	progression-free survival
+T8	total-participants 849 852	705
+T9	intervention-participants 863 866	353
+T10	control-participants 883 886	352
+T11	outcome 1049 1073	Objective response rates
+T12	iv-bin-percent 1079 1082	65%
+T13	cv-bin-percent 1104 1107	55%
+T14	outcome 1185 1189	died
+T15	outcome 1191 1228	Median progression-free survival time
+T16	iv-cont-median 1233 1243	7.0 months
+T17	cv-cont-median 1265 1275	7.1 months
+T20	outcome 1351 1379	median overall survival time
+T21	iv-cont-median 1384 1393	13 months
+T22	cv-cont-median 1415 1424	14 months
+T25	outcome 1544 1567	grade 3 and 4 mucositis
+T26	iv-bin-percent 1569 1571	6%
+T27	cv-bin-percent 1574 1576	2%
+T28	outcome 1607 1634	grade 3 and 4 neurotoxicity
+T29	iv-bin-percent 1636 1638	5%
+T30	cv-bin-percent 1641 1643	1%
+T7	outcome 1683 1729	progression-free survival and overall survival
+T6	outcome-Measure 778 794	overall survival
+T18	outcome-Measure 796 810	response rates
+T19	outcome-Measure 816 824	toxicity

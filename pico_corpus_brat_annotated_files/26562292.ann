@@ -1,0 +1,22 @@
+T1	intervention 0 40	Risk Model-Guided Antiemetic Prophylaxis
+T2	control 44 62	Physician's Choice
+T3	total-participants 543 546	324
+T4	eligibility 547 669	patients with early-stage breast cancer undergoing chemotherapy (cyclophosphamide and an anthracycline) for the first time
+T5	location 708 714	Ottawa
+T7	intervention-participants 810 813	154
+T8	control-participants 842 845	170
+T10	outcome 1698 1707	no nausea
+T11	iv-bin-percent 1709 1714	53.7%
+T12	cv-bin-percent 1740 1745	41.6%
+T13	outcome 1783 1794	no vomiting
+T14	iv-bin-percent 1796 1801	91.8%
+T15	cv-bin-percent 1827 1832	82.2%
+T16	outcome 1623 1642	In the acute period
+T17	outcome 1967 1976	no nausea
+T18	iv-bin-percent 1978 1983	39.6%
+T19	cv-bin-percent 2009 2014	30.7%
+T20	outcome 2051 2062	no vomiting
+T21	iv-bin-percent 2064 2069	87.1%
+T22	cv-bin-percent 2095 2100	78.0%
+T23	outcome 2134 2155	in the delayed period
+T6	outcome-Measure 1341 1376	control of both nausea and vomiting

@@ -1,0 +1,17 @@
+T1	intervention 119 128	denosumab
+T2	control 136 151	zoledronic acid
+T4	outcome 987 990	SRE
+T5	iv-bin-percent 992 995	31%
+T6	cv-bin-percent 1000 1003	36%
+T8	iv-bin-percent 1062 1065	12%
+T9	iv-bin-abs 1071 1074	123
+T10	cv-bin-percent 1098 1101	16%
+T11	cv-bin-abs 1107 1110	162
+T3	condition 0 46	Bone-related complications and quality of life
+T7	outcome 1021 1057	incidence of first radiation to bone
+T15	outcome 1453 1473	improvement in HRQoL
+T16	iv-bin-percent 1399 1410	Ten percent
+T17	intervention-participants 547 552	1,026
+T18	control-participants 620 625	1,020
+T12	outcome 1158 1189	time to first radiation to bone
+T13	outcome 1301 1349	time to first SRE or hypercalcemia of malignancy

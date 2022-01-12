@@ -1,0 +1,17 @@
+T2	age 400 411	40-74 years
+T3	eligibility 412 450	with no personal breast cancer history
+T4	control 519 532	control group
+T5	intervention 12 24	primary care
+T6	intervention-participants 1174 1177	580
+T7	control-participants 1195 1198	655
+T8	age 1258 1266	56 years
+T9	cv-bin-percent 1291 1294	73%
+T10	iv-bin-percent 1311 1314	71%
+T11	outcome 1337 1381	correctly perceived their breast cancer risk
+T12	cv-bin-percent 1386 1389	22%
+T13	iv-bin-percent 1406 1409	24%
+T14	outcome 1442 1471	concerned about breast cancer
+T15	outcome 1507 1516	knowledge
+T17	iv-bin-percent 1584 1587	24%
+T18	cv-bin-percent 1592 1595	16%
+T16	outcome 1731 1748	greater knowledge

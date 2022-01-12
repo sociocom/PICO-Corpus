@@ -1,0 +1,26 @@
+T1	intervention 32 53	neratinib monotherapy
+T2	control 61 88	lapatinib plus capecitabine
+T3	eligibility 263 409	patients with human epidermal growth factor receptor-2-positive (HER2+), locally advanced/metastatic breast cancer and prior trastuzumab treatment
+T4	intervention-participants 464 467	117
+T5	control-participants 579 582	116
+T6	outcome-Measure 653 684	progression-free survival (PFS)
+T7	outcome 690 705	non-inferiority
+T10	outcome 875 885	Median PFS
+T11	iv-cont-median 904 914	4.5 months
+T12	cv-cont-median 922 932	6.8 months
+T13	outcome 969 992	median overall survival
+T14	iv-cont-median 997 1008	19.7 months
+T15	cv-cont-median 1016 1027	23.6 months
+T16	outcome 1029 1052	Objective response rate
+T17	iv-bin-percent 1065 1068	29%
+T18	cv-bin-percent 1105 1108	41%
+T19	outcome 1123 1144	clinical benefit rate
+T20	iv-bin-percent 1146 1149	44%
+T21	cv-bin-percent 1157 1160	64%
+T22	outcome 1277 1286	diarrhoea
+T23	iv-bin-percent 1377 1380	85%
+T24	cv-bin-percent 1417 1420	68%
+T25	outcome 1438 1447	grade 3/4
+T26	iv-bin-percent 1449 1452	28%
+T27	cv-bin-percent 1460 1463	10%
+T8	outcome 1624 1637	skin toxicity

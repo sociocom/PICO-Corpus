@@ -1,0 +1,31 @@
+T1	intervention 96 106	filgrastim
+T2	condition 134 153	febrile neutropenia
+T3	eligibility 578 629	Early breast cancer patients receiving chemotherapy
+T4	outcome-Measure 972 1004	patient and physician engagement
+T5	outcome-Measure 1168 1196	first occurrence rates of FN
+T6	outcome-Measure 1198 1234	treatment-related hospital admission
+T7	outcome-Measure 1239 1290	chemotherapy dose reductions/delays/discontinuation
+T9	total-participants 1322 1325	142
+T10	total-participants 1401 1410	Seventeen
+T11	total-participants 1485 1488	142
+T12	outcome 1546 1594	Aggregate incidences of a first event by patient
+T13	outcome 1600 1602	FN
+T14	outcome 1618 1651	treatment-related hospitalization
+T15	outcome 1667 1695	chemotherapy discontinuation
+T16	outcome 1711 1730	chemotherapy delays
+T17	outcome 1750 1777	chemotherapy dose reduction
+T18	iv-bin-abs 1604 1605	8
+T19	total-participants 1606 1609	142
+T20	iv-bin-percent 1611 1615	5.6%
+T21	iv-bin-abs 1653 1654	6
+T22	total-participants 1655 1658	142
+T23	iv-bin-percent 1660 1664	4.2%
+T24	iv-bin-abs 1697 1698	7
+T25	total-participants 1699 1702	142
+T26	iv-bin-percent 1704 1708	4.9%
+T27	iv-bin-abs 1732 1733	5
+T28	total-participants 1734 1737	142
+T29	iv-bin-percent 1739 1743	3.5%
+T30	iv-bin-abs 1779 1781	18
+T31	total-participants 1782 1785	142
+T32	iv-bin-percent 1787 1792	12.7%

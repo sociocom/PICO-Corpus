@@ -1,0 +1,14 @@
+T1	intervention 20 41	Calendula officinalis
+T2	condition 59 87	radiation-induced dermatitis
+T4	eligibility 369 412	women undergoing breast cancer radiotherapy
+T5	total-participants 425 428	271
+T6	total-participants 453 455	82
+T8	total-participants 757 759	81
+T9	intervention-participants 792 794	40
+T10	control-participants 810 812	41
+T12	iv-bin-percent 938 941	53%
+T13	cv-bin-percent 958 961	62%
+T3	control 241 268	standard of care (Sorbolene
+T16	outcome 1050 1072	complete case analysis
+T11	outcome 877 914	radiation-induced dermatitis grade 2+
+T7	outcome-Measure 497 561	prevalence of acute radiation-induced dermatitis (RTOG grade 2+)

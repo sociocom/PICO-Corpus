@@ -1,0 +1,15 @@
+T1	intervention 17 49	Remote-based Weight Loss Program
+T2	eligibility 502 618	Women with stage 0-III breast cancer, who completed local therapy and chemotherapy, with a body mass index ≥25 kg/m2
+T4	control 686 708	self-directed approach
+T5	outcome-Measure 753 817	number of women who achieved at least 5% weight loss at 6 months
+T7	total-participants 1101 1103	96
+T8	total-participants 1129 1131	87
+T9	intervention-participants 1173 1175	45
+T10	control-participants 1196 1198	42
+T11	outcome 1270 1308	lost ≥5% of their baseline body weight
+T12	iv-bin-percent 1230 1233	51%
+T13	cv-bin-percent 1324 1327	12%
+T14	outcome 1217 1228	At 6 months
+T16	iv-bin-percent 1454 1457	51%
+T17	cv-bin-percent 1461 1464	17%
+T15	outcome 1440 1452	at 12 months

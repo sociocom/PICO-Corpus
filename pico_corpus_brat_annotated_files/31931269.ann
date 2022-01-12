@@ -1,0 +1,18 @@
+T1	intervention 51 82	peripherally inserted catheters
+T2	control 90 114	implanted port catheters
+T3	eligibility 147 180	patients with early breast cancer
+T4	outcome-Measure 646 794	identify which device has a lower probability of catheter-related significant adverse events (CR-SAEs) within the 35 weeks after device implantation
+T7	total-participants 916 919	256
+T8	total-participants 948 951	253
+T9	outcome 1014 1021	CR-SAEs
+T10	outcome 1107 1144	probability that a CR-SAE would occur
+T11	iv-bin-percent 1149 1153	7.8%
+T12	iv-bin-abs 1155 1157	10
+T13	cv-bin-percent 1184 1189	16.6%
+T14	cv-bin-abs 1191 1193	21
+T15	outcome 1332 1347	risk of CR-SAEs
+T6	outcome 1461 1464	QoL
+T16	outcome 1507 1517	discomfort
+T17	outcome 1678 1685	CR-SAEs
+T5	outcome-Measure 836 857	quality of life (QoL)
+T18	outcome-Measure 862 882	patient satisfaction

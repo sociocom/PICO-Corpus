@@ -1,0 +1,26 @@
+T1	intervention 51 87	targeted intraoperative radiotherapy
+T2	control 95 120	whole breast radiotherapy
+T3	total-participants 398 420	Two hundred and thirty
+T4	eligibility 421 457	women with stage I-III breast cancer
+T5	age 464 478	31 to 84 years
+T6	total-participants 537 539	87
+T7	intervention-participants 785 787	90
+T8	control-participants 925 927	53
+T10	outcome 1152 1173	mean follow-up period
+T11	iv-cont-mean 1201 1203	32
+T12	cv-cont-mean 1211 1220	39 months
+T13	outcome 1311 1315	pain
+T14	iv-cont-mean 1317 1328	21.3 points
+T15	outcome 1331 1337	breast
+T16	iv-cont-mean 1339 1349	7.0 points
+T17	outcome 1355 1358	arm
+T18	iv-cont-mean 1360 1371	15.1 points
+T19	outcome 1394 1410	role functioning
+T20	iv-cont-mean 1412 1423	78.7 points
+T21	cv-cont-mean 1453 1457	40.9
+T22	cv-cont-mean 1459 1463	19.0
+T23	cv-cont-mean 1465 1469	32.8
+T24	cv-cont-mean 1475 1486	60.5 points
+T25	outcome 1558 1573	breast symptoms
+T26	iv-cont-mean 1683 1686	7.0
+T27	cv-cont-mean 1694 1705	29.7 points

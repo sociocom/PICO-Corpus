@@ -1,0 +1,16 @@
+T1	intervention 0 42	Mindfulness-based cognitive therapy (MBCT)
+T2	control 75 92	wait-list control
+T3	eligibility 334 365	women treated for breast cancer
+T4	total-participants 378 381	129
+T5	outcome-Measure 478 542	minimal clinically important difference (MCID) on pain intensity
+T6	outcome 1187 1205	average total cost
+T7	iv-cont-mean 1242 1247	1706€
+T8	cv-cont-mean 1262 1267	2436€
+T12	iv-bin-abs 1355 1357	19
+T13	intervention-participants 1358 1360	36
+T14	iv-bin-percent 1362 1367	52.8%
+T15	cv-bin-abs 1398 1400	14
+T16	control-participants 1401 1403	48
+T17	cv-bin-percent 1405 1410	29.2%
+T10	condition 97 112	persistent pain
+T9	outcome 1412 1446	achieved an MCID in pain intensity

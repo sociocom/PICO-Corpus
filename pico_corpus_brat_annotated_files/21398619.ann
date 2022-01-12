@@ -1,0 +1,38 @@
+T2	eligibility 536 564	patients with localized DCIS
+T5	control-participants 620 623	403
+T6	intervention-participants 687 690	410
+T8	control 855 867	LRT+ placebo
+T9	control-participants 872 875	900
+T10	intervention 880 895	LRT + tamoxifen
+T11	intervention-participants 912 915	899
+T12	outcome-Measure 937 954	I-IBTR, DCIS-IBTR
+T13	outcome-Measure 956 990	contralateral breast cancers (CBC)
+T14	outcome-Measure 992 1035	overall and breast cancer-specific survival
+T15	outcome-Measure 1041 1062	survival after I-IBTR
+T16	total-participants 1120 1123	813
+T17	total-participants 1173 1177	1799
+T18	outcome 1196 1207	IBTR events
+T20	iv-bin-percent 1264 1267	52%
+T22	iv-bin-percent 1437 1440	32%
+T23	outcome 1543 1581	15-year cumulative incidence of I-IBTR
+T24	cv-bin-percent 1586 1591	19.4%
+T25	iv-bin-percent 1600 1604	8.9%
+T26	cv-bin-percent 1621 1626	10.0%
+T27	iv-bin-percent 1657 1661	8.5%
+T28	outcome 1681 1745	15-year cumulative incidence of all contralateral breast cancers
+T29	cv-bin-percent 1750 1755	10.3%
+T30	iv-bin-percent 1764 1769	10.2%
+T31	cv-bin-percent 1786 1791	10.8%
+T32	iv-bin-percent 1822 1826	7.3%
+T33	outcome 1879 1893	mortality risk
+T34	outcome 2002 2008	deaths
+T35	outcome 2105 2156	15-year cumulative incidence of breast cancer death
+T36	cv-bin-percent 2161 2165	3.1%
+T37	iv-bin-percent 2174 2178	4.7%
+T38	cv-bin-percent 2195 2199	2.7%
+T39	iv-bin-percent 2230 2234	2.3%
+T1	intervention 74 84	lumpectomy
+T3	control 595 610	lumpectomy only
+T4	intervention 641 676	lumpectomy followed by radiotherapy
+T7	outcome 1246 1260	reduced I-IBTR
+T19	outcome 1419 1433	reduced I-IBTR

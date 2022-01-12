@@ -1,0 +1,15 @@
+T1	intervention 0 20	Telephone counseling
+T3	location 114 121	Germany
+T4	control 658 671	control group
+T2	total-participants 935 939	5477
+T6	age 951 962	50-69 years
+T7	outcome 1441 1456	attendance rate
+T8	iv-bin-percent 1507 1512	29.7%
+T9	cv-bin-percent 1516 1521	26.1%
+T10	outcome 1607 1617	attendance
+T11	iv-bin-percent 1635 1640	35.5%
+T12	cv-bin-percent 1644 1649	29.7%
+T13	total-participants 1680 1683	278
+T14	outcome 1824 1855	undergone screening mammography
+T15	outcome 1772 1797	influenced their decision
+T16	outcome 1969 1978	screening

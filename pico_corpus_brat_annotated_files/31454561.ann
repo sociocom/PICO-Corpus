@@ -1,0 +1,13 @@
+T1	intervention 0 43	Mobile health and supervised rehabilitation
+T2	control 51 70	mobile health alone
+T3	total-participants 769 771	80
+T4	eligibility 772 898	survivors of breast cancer diagnosed at stage I-IIIA, who completed adjuvant therapy and were overweight or obese at diagnosis
+T5	intervention-participants 1010 1012	40
+T6	control-participants 1072 1074	40
+T7	outcome-Measure 1217 1220	QoL
+T8	outcome-Measure 1281 1326	upper-limb functionality and body composition
+T9	outcome 1479 1489	global QoL
+T10	outcome 1738 1787	reliable clinical improvement on global QoL at T2
+T11	iv-bin-percent 1865 1870	57.5%
+T12	cv-bin-percent 1874 1879	26.3%
+T13	outcome 1906 1955	subjective and objective upper-limb functionality

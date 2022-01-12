@@ -1,0 +1,23 @@
+T1	intervention 0 12	Levofloxacin
+T2	control 68 77	ofloxacin
+T4	total-participants 409 412	199
+T5	eligibility 425 495	patients hospitalized in our department for treatment of breast cancer
+T6	total-participants 556 559	181
+T7	iv-bin-abs 585 589	Four
+T8	iv-bin-percent 591 593	4%
+T9	intervention-participants 602 604	99
+T10	outcome 644 660	wound infections
+T11	cv-bin-abs 669 670	5
+T12	cv-bin-percent 672 674	6%
+T13	control-participants 683 685	82
+T14	outcome 723 757	median times needed for wound care
+T15	iv-cont-median 796 798	13
+T16	cv-cont-median 842 844	11
+T17	outcome 919 940	Staphylococcus aureus
+T18	iv-bin-abs 902 907	three
+T19	cv-bin-abs 987 990	two
+T3	iv-cont-q1 800 801	9
+T20	iv-cont-q3 803 805	16
+T21	cv-cont-q1 846 847	9
+T22	cv-cont-q3 849 851	16
+T23	outcome 1291 1299	toxicity

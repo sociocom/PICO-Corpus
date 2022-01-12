@@ -1,0 +1,26 @@
+T2	total-participants 499 502	235
+T3	eligibility 503 538	women with metastatic breast cancer
+T4	intervention 557 643	high-dose epirubicin 150 mg/m2 and cyclophosphamide 1500 mg/m2 with filgrastim support
+T6	intervention-participants 865 868	118
+T7	control-participants 955 958	117
+T8	outcome 1033 1060	time to disease progression
+T9	iv-cont-median 1062 1065	5.7
+T10	cv-cont-median 1070 1080	5.8 months
+T11	outcome 1095 1111	overall survival
+T12	iv-cont-median 1113 1117	14.5
+T13	cv-cont-median 1122 1133	16.5 months
+T14	outcome 1214 1229	quality of life
+T15	outcome 1341 1366	Objective tumour response
+T16	iv-bin-abs 1383 1385	33
+T17	iv-bin-percent 1387 1390	28%
+T18	cv-bin-abs 1404 1406	42
+T19	cv-bin-percent 1417 1420	36%
+T20	outcome 1450 1471	haematologic toxicity
+T1	outcome-Measure 803 822	time to progression
+T21	outcome-Measure 824 840	overall survival
+T22	outcome-Measure 845 860	quality of life
+T5	control 774 778	SDEC
+T23	location 1646 1656	Australian
+T24	outcome 1514 1533	disease progression
+T25	outcome 1535 1543	survival
+T26	outcome 1547 1562	quality of life

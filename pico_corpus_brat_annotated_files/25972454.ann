@@ -1,0 +1,13 @@
+T1	intervention 61 72	armodafinil
+T2	condition 77 108	brain radiation-induced fatigue
+T3	eligibility 634 665	participants receiving brain RT
+T5	total-participants 832 834	54
+T6	outcome 924 944	grade 4-5 toxicities
+T7	outcome 954 987	incidence of grade 2-3 toxicities
+T8	outcome 1066 1072	nausea
+T9	outcome 1080 1089	headaches
+T10	outcome 1101 1109	insomnia
+T11	outcome 1172 1196	end-RT or 4 week post-RT
+T12	outcome 1621 1635	well tolerated
+T4	outcome 1753 1760	fatigue
+T13	outcome 1054 1061	anxiety

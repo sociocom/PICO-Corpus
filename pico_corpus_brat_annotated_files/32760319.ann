@@ -1,0 +1,10 @@
+T1	intervention 25 56	Acute Aerobic Exercise Duration
+T2	eligibility 82 109	Patients With Breast Cancer
+T3	total-participants 308 310	48
+T4	age 312 332	Mage = 56.02 ± 10.99
+T5	intervention-participants 512 514	15
+T6	intervention-participants 525 527	16
+T7	intervention-participants 541 543	17
+T8	outcome 1386 1430	performed significantly faster after walking
+T9	outcome 1178 1211	declines in cognitive functioning
+T10	outcome 932 954	spatial working memory

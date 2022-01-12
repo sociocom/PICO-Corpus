@@ -1,0 +1,27 @@
+T14	total-participants 1204 1213	Sixty-two
+T15	total-participants 1244 1246	50
+T16	intervention-participants 1264 1266	27
+T17	control-participants 1287 1289	23
+T18	age 1322 1338	48 (range 31-75)
+T21	iv-bin-percent 1446 1451	29.6%
+T22	cv-bin-percent 1459 1464	47.8%
+T23	outcome 1483 1486	pCR
+T24	iv-bin-percent 1492 1497	25.9%
+T25	cv-bin-percent 1505 1510	30.4%
+T26	outcome 1691 1697	anemia
+T27	outcome 1699 1710	neutropenia
+T28	outcome 1712 1729	rash/desquamation
+T29	outcome 1735 1743	vomiting
+T30	cv-bin-abs 1768 1771	one
+T31	outcome 1780 1799	grade 3 pneumonitis
+T32	outcome 1819 1842	No grade 3/4 stomatitis
+T1	intervention 49 105	neoadjuvant chemotherapy with paclitaxel followed by FEC
+T2	control 117 173	combination of paclitaxel and everolimus followed by FEC
+T3	eligibility 578 604	patients with primary TNBC
+T8	outcome 1609 1619	12-week RR
+T4	control 1299 1305	TR-FEC
+T6	outcome 1898 1912	well tolerated
+T5	outcome-Measure 1107 1150	12-week clinical response rate (12-week RR)
+T7	outcome-Measure 1152 1188	pathological complete response (pCR)
+T9	outcome-Measure 1194 1202	toxicity
+T10	outcome 1412 1426	Twelve-week RR

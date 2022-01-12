@@ -1,0 +1,13 @@
+T1	eligibility 98 145	breast cancer patients with early-stage disease
+T7	control 355 418	mastectomy and doxorubicin-based chemotherapy without radiation
+T2	intervention 30 60	doxorubicin-based chemotherapy
+T3	intervention 65 79	postmastectomy
+T6	total-participants 542 545	470
+T9	outcome 907 933	prognostic factors for LRR
+T10	outcome 1060 1072	rates of LRR
+T4	outcome 1474 1491	predictors of LRR
+T5	outcome 1574 1588	positive nodes
+T11	outcome 1597 1607	tumor size
+T12	outcome 1609 1638	lymphovascular space invasion
+T13	outcome 1644 1683	estrogen receptor (ER)-negative disease
+T14	outcome 1151 1168	10-year LRR rates

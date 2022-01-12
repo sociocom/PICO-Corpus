@@ -1,0 +1,20 @@
+T1	intervention 28 67	SB3 (a proposed trastuzumab biosimilar)
+T2	control 72 93	trastuzumab reference
+T3	eligibility 437 540	patients with early or locally advanced human epidermal growth factor receptor 2-positive breast cancer
+T5	total-participants 1105 1108	875
+T6	total-participants 1130 1133	764
+T7	intervention-participants 1144 1147	380
+T8	control-participants 1158 1161	384
+T9	outcome 1279 1325	incidence of treatment-emergent adverse events
+T10	iv-bin-percent 1362 1367	97.5%
+T11	cv-bin-percent 1374 1379	96.1%
+T12	outcome 1442 1480	overall incidence of antidrug antibody
+T13	iv-bin-abs 1515 1516	3
+T14	outcome 1533 1536	EFS
+T17	outcome 1646 1668	EFS rates at 12 months
+T18	iv-bin-percent 1672 1677	93.7%
+T19	cv-bin-percent 1690 1695	93.4%
+T4	outcome-Measure 1002 1008	safety
+T15	outcome-Measure 1010 1024	immunogenicity
+T16	outcome-Measure 1026 1051	event-free survival (EFS)
+T20	outcome-Measure 1056 1073	overall survival 

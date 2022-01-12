@@ -1,0 +1,18 @@
+T1	intervention 0 32	Elevated plasma endoglin (CD105)
+T2	outcome 1088 1104	overall survival
+T3	iv-cont-median 1113 1116	645
+T4	cv-cont-median 1121 1129	947 days
+T5	outcome 836 857	clinical benefit rate
+T6	iv-bin-percent 878 880	15
+T7	cv-bin-percent 885 888	42%
+T9	control-participants 528 530	50
+T10	intervention-participants 331 334	224
+T11	eligibility 335 368	metastatic breast cancer patients
+T12	control-participants 428 430	50
+T13	outcome 921 924	TTP
+T14	outcome 640 655	plasma endoglin
+T15	outcome 706 751	Elevated plasma endoglin levels were detected
+T16	iv-bin-abs 755 757	26
+T17	intervention-participants 761 764	224
+T18	iv-bin-percent 775 780	11.6%
+T8	control 431 447	control subjects

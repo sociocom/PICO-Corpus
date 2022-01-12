@@ -1,0 +1,17 @@
+T1	intervention 17 46	intraventricular chemotherapy
+T2	eligibility 171 234	patients with leptomeningeal metastasis (LM) from breast cancer
+T3	intervention-participants 312 314	17
+T4	control 322 356	non-intrathecal (non-IT) treatment
+T5	control-participants 360 362	18
+T6	outcome 496 537	neurological improvement or stabilisation
+T7	iv-bin-percent 541 544	59%
+T8	cv-bin-percent 562 565	67%
+T9	outcome 592 618	median time to progression
+T10	iv-cont-median 622 630	23 weeks
+T11	cv-cont-median 640 648	24 weeks
+T12	outcome 659 674	Median survival
+T13	iv-cont-median 694 704	18.3 weeks
+T14	cv-cont-median 709 719	30.3 weeks
+T15	outcome 823 849	Neurological complications
+T16	iv-bin-percent 875 878	47%
+T17	cv-bin-percent 887 889	6%

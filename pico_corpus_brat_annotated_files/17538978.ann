@@ -1,0 +1,28 @@
+T1	intervention 36 53	endocrine therapy
+T2	control 61 73	chemotherapy
+T3	eligibility 624 695	postmenopausal women with ER-positive and/or PgR-positive breast cancer
+T5	intervention-participants 787 789	61
+T7	control-participants 820 823	60)
+T10	outcome 1109 1136	Clinical objective response
+T4	iv-bin-percent 1141 1144	64%
+T6	outcome 1205 1237	Median time to clinical response
+T11	iv-cont-median 1242 1244	57
+T12	cv-cont-median 1249 1256	51 days
+T13	outcome 1347 1364	complete response
+T14	iv-bin-percent 1366 1368	3%
+T15	cv-bin-percent 1372 1374	6%
+T16	outcome 1380 1399	disease progression
+T17	iv-bin-percent 1401 1403	9%
+T18	cv-bin-percent 1407 1409	9%
+T19	outcome 1512 1546	Rates of breast-conserving surgery
+T20	iv-bin-percent 1592 1595	33%
+T21	cv-bin-percent 1599 1602	24%
+T22	outcome 1667 1675	alopecia
+T23	cv-bin-percent 1677 1680	79%
+T24	outcome 1683 1704	grade 3/4 neutropenia
+T25	cv-bin-percent 1706 1709	33%
+T26	outcome 1716 1734	grade 2 neuropathy
+T27	cv-bin-percent 1736 1739	30%
+T8	outcome 1785 1791	deaths
+T28	outcome 1766 1780	well tolerated
+T9	outcome-Measure 939 965	overall objective response

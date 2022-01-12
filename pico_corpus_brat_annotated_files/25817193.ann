@@ -1,0 +1,11 @@
+T3	total-participants 552 556	4690
+T4	eligibility 557 662	women with extensive mammographic density followed for an average of 10 years for breast cancer incidence
+T6	outcome 1070 1106	High-density lipoprotein-cholesterol
+T7	outcome 1129 1134	apoA1
+T8	outcome 1275 1284	non-HDL-C
+T9	outcome 1505 1546	Total cholesterol and triglyceride levels
+T10	outcome 1184 1202	breast cancer risk
+T1	intervention 0 12	Serum lipids
+T2	intervention-participants 722 725	279
+T11	control-participants 767 770	558
+T12	control 779 795	control subjects

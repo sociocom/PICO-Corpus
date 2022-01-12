@@ -1,0 +1,6 @@
+T1	condition 35 49	oral mucositis
+T4	eligibility 362 428	postmenopausal estrogen receptor-positive metastatic breast cancer
+T5	control 490 497	control
+T7	outcome-Measure 1019 1060	incidence of all grades of oral mucositis
+T8	total-participants 1080 1083	200
+T2	intervention 14 23	oral care

@@ -1,0 +1,23 @@
+T1	intervention 55 74	adjuvant clodronate
+T3	total-participants 262 265	299
+T4	eligibility 266 312	women with primary node positive breast cancer
+T5	intervention-participants 363 366	149
+T6	control 371 379	controls
+T7	control-participants 381 384	150
+T9	outcome 475 490	bone metastases
+T10	iv-bin-abs 565 567	44
+T11	iv-bin-percent 569 572	32%
+T12	cv-bin-abs 578 580	42
+T13	cv-bin-percent 582 585	29%
+T14	outcome 616 653	frequency of non-skeletal recurrences
+T15	iv-bin-abs 724 726	69
+T16	iv-bin-percent 728 731	50%
+T17	cv-bin-abs 763 765	51
+T18	cv-bin-percent 767 770	36%
+T19	outcome 783 819	Ten-year disease-free survival (DFS)
+T20	iv-bin-percent 874 877	45%
+T21	cv-bin-percent 882 885	58%
+T22	outcome 938 974	oestrogen receptor negative patients
+T23	iv-bin-percent 976 979	25%
+T24	cv-bin-percent 984 987	58%
+T25	outcome 1028 1044	overall survival

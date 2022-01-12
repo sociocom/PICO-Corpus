@@ -1,0 +1,17 @@
+T1	intervention 0 9	Nebivolol
+T2	condition 20 54	doxorubicin-induced cardiotoxicity
+T3	total-participants 258 260	60
+T4	age 277 290	52.6±13 years
+T5	eligibility 292 373	with HER2 negative breast cancer, scheduled to undergo treatment with doxorubicin
+T6	intervention-participants 450 452	30
+T7	control 536 549	control group
+T8	control-participants 553 555	30
+T10	outcome 933 983	baseline clinical and echocardiographic parameters
+T11	outcome 1061 1065	died
+T12	outcome 1105 1113	withdrew
+T14	outcome 1289 1326	Tissue Doppler imaging (TDI) detected
+T15	outcome 1523 1564	alteration of the ventricular deformation
+T16	outcome 1663 1716	alterations in the LV systolic and diastolic function
+T9	outcome 1178 1217	left ventricular (LV) ejection fraction
+T13	outcome 1219 1238	shortening fraction
+T17	outcome 1244 1256	LV diameters

@@ -1,0 +1,21 @@
+T1	intervention 30 39	sunitinib
+T2	control 47 59	capecitabine
+T3	outcome 1657 1680	relative dose intensity
+T4	iv-bin-percent 1725 1727	73
+T5	cv-bin-percent 1732 1735	95%
+T6	outcome 1586 1623	temporary discontinuations due to AEs
+T7	iv-bin-percent 1640 1642	66
+T8	cv-bin-percent 1647 1650	51%
+T9	outcome 1153 1176	Median overall survival
+T10	iv-cont-median 1178 1182	15.3
+T11	cv-cont-median 1187 1198	24.6 months
+T14	outcome 1235 1259	objective response rates
+T15	iv-bin-percent 1261 1263	11
+T16	cv-bin-percent 1268 1271	16%
+T19	outcome 1011 1014	PFS
+T20	iv-cont-median 1068 1071	2.8
+T21	cv-cont-median 1076 1086	4.2 months
+T24	intervention-participants 722 725	238
+T25	control-participants 760 763	244
+T26	eligibility 406 490	Patients with HER2-negative ABC that recurred after anthracycline and taxane therapy
+T27	age 595 604	>65 years

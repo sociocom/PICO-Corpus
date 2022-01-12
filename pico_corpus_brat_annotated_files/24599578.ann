@@ -1,0 +1,16 @@
+T1	intervention 49 57	exercise
+T2	condition 75 96	psychosocial distress
+T3	eligibility 100 146	breast cancer patients undergoing chemotherapy
+T4	location 401 407	Canada
+T5	total-participants 423 426	301
+T6	eligibility 427 478	patients with breast cancer initiating chemotherapy
+T7	intervention-participants 605 607	96
+T8	intervention-participants 675 678	101
+T9	intervention-participants 766 769	104
+T10	outcome-Measure 797 807	depression
+T14	outcome 1230 1258	managing depressive symptoms
+T15	outcome 1342 1359	depression levels
+T12	outcome 1631 1650	depressive symptoms
+T11	outcome-Measure 963 970	anxiety
+T13	outcome-Measure 972 988	perceived stress
+T16	outcome-Measure 994 1005	self-esteem

@@ -1,0 +1,16 @@
+T1	intervention 23 29	RGB-02
+T2	condition 69 101	chemotherapy-induced neutropenia
+T3	eligibility 635 685	breast cancer patients receiving cytotoxic regimen
+T4	total-participants 687 710	Two hundred thirty-nine
+T5	intervention-participants 778 781	121
+T6	control 791 808	reference product
+T7	control-participants 814 817	118
+T10	outcome-Measure 1173 1205	incidence of febrile neutropenia
+T11	outcome-Measure 1207 1227	time to ANC recovery
+T12	outcome-Measure 1229 1248	depth of ANC nadir,
+T13	outcome-Measure 1253 1268	safety outcomes
+T15	outcome 1681 1696	Safety profiles
+T16	iv-cont-mean 1325 1328	1.7
+T17	cv-cont-mean 1342 1350	1.6 days
+T8	outcome 1274 1320	mean duration of severe neutropenia in Cycle 1
+T9	outcome-Measure 1002 1063	duration of severe neutropenia (ANC < 0.5 × 109/L) in Cycle 1

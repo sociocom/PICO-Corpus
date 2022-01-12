@@ -1,0 +1,16 @@
+T1	intervention 0 14	Soy isoflavone
+T2	total-participants 344 370	One hundred and twenty-six
+T3	control 574 581	placebo
+T8	total-participants 917 929	Ninety-eight
+T9	intervention-participants 980 982	49
+T10	control-participants 1087 1089	49
+T11	outcome 1002 1029	median Ki-67 labeling index
+T12	outcome 1165 1190	Menopausal stratification
+T13	outcome 1275 1295	Ki-67 labeling index
+T14	outcome 1366 1400	cytologic atypia or NAF parameters
+T15	outcome 1442 1470	expression of 14 of 28 genes
+T16	outcome 1561 1584	Plasma genistein values
+T17	iv-cont-median 1034 1038	1.18
+T18	iv-cont-median 1052 1056	1.12
+T19	cv-cont-median 1115 1119	0.97
+T20	cv-cont-median 1124 1128	0.92

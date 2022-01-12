@@ -1,0 +1,9 @@
+T1	intervention 10 25	oral clodronate
+T2	intervention-participants 529 532	419
+T3	control 537 544	placebo
+T4	control-participants 548 551	432
+T8	outcome 798 866	levels of serum N-terminal pro-peptide of type I procollagen (PINP)-
+T5	condition 29 79	bone mass, bone turnover and subsequent metastases
+T6	outcome 581 590	spine BMD
+T7	outcome 678 691	total hip BMD
+T9	eligibility 421 453	women with primary breast cancer

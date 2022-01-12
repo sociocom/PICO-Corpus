@@ -1,0 +1,20 @@
+T2	outcome-Measure 687 714	disease-free survival (DFS)
+T1	intervention 0 10	Sequential
+T3	control 18 40	concurrent trastuzumab
+T4	eligibility 259 356	resected stages I to III invasive human epidermal growth factor receptor 2-positive breast cancer
+T5	intervention 376 408	doxorubicin and cyclophosphamide
+T6	intervention 492 530	paclitaxel plus sequential trastuzumab
+T7	control 563 601	paclitaxel plus concurrent trastuzumab
+T8	intervention-participants 741 746	1,087
+T9	intervention-participants 763 768	1,097
+T10	outcome 825 835	5-year DFS
+T11	iv-bin-percent 845 850	71.8%
+T12	iv-bin-percent 855 860	80.1%
+T13	outcome 876 879	DFS
+T14	outcome 1143 1153	5-year DFS
+T15	intervention-participants 1063 1066	954
+T16	control-participants 1083 1086	949
+T17	iv-bin-percent 1163 1168	80.1%
+T18	cv-bin-percent 1173 1178	84.4%
+T19	outcome 1219 1222	DFS
+T20	outcome 1465 1468	DFS

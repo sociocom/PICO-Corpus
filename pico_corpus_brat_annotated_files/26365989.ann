@@ -1,0 +1,10 @@
+T1	intervention 0 18	Mediterranean Diet
+T2	control 455 496	advice to follow a low-fat diet (control)
+T3	location 648 653	Spain
+T5	total-participants 674 678	4282
+T6	age 690 704	60 to 80 years
+T7	eligibility 709 744	at high cardiovascular disease risk
+T9	total-participants 1145 1149	4152
+T10	outcome 1218 1249	incident cases of breast cancer
+T11	outcome 1444 1480	multivariable-adjusted hazard ratios
+T12	outcome 1683 1726	yearly cumulative updated dietary exposures

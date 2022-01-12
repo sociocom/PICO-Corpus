@@ -1,0 +1,13 @@
+T1	intervention 0 44	Ultrasound guided erector spinae plane block
+T2	total-participants 317 322	Fifty
+T3	age 341 351	aged 25-65
+T4	eligibility 356 400	scheduled for elective breast cancer surgery
+T5	control 479 486	control
+T8	outcome 951 994	Morphine consumption at postoperative hours
+T9	outcome 1087 1113	Total morphine consumption
+T10	outcome 1285 1295	NRS scores
+T12	outcome 1131 1138	at 24 h
+T11	iv-cont-mean 1170 1175	5.76 
+T14	iv-cont-sd 1177 1183	3.8 mg
+T13	cv-cont-mean 1187 1191	16.6
+T15	cv-cont-sd 1194 1201	6.92 mg

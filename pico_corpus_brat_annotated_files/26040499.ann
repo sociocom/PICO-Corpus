@@ -1,0 +1,27 @@
+T1	intervention 9 18	denosumab
+T4	location 888 895	Austria
+T5	location 900 906	Sweden
+T6	outcome-Measure 1350 1400	time from randomisation to first clinical fracture
+T8	total-participants 1865 1869	3425
+T9	total-participants 1926 1930	3420
+T10	intervention-participants 1984 1988	1711
+T11	control-participants 2004 2008	1709
+T12	outcome 2134 2165	time to first clinical fracture
+T13	outcome 2239 2258	number of fractures
+T14	iv-bin-abs 2283 2285	92
+T15	cv-bin-abs 2314 2317	176
+T16	outcome 2634 2661	incidence of adverse events
+T17	iv-bin-abs 2793 2797	1366
+T18	iv-bin-percent 2806 2809	80%
+T19	cv-bin-abs 2834 2838	1334
+T20	cv-bin-percent 2847 2850	79%
+T21	outcome 2962 2972	arthralgia
+T22	outcome 2983 3019	aromatase-inhibitor related symptoms
+T23	outcome 3281 3285	died
+T25	outcome 2865 2898	numbers of serious adverse events
+T26	iv-bin-abs 2900 2903	521
+T27	cv-bin-abs 2907 2910	511
+T28	iv-bin-percent 2912 2915	30%
+T7	outcome 3199 3223	osteonecrosis of the jaw
+T24	eligibility 618 738	postmenopausal patients with early hormone receptor-positive breast cancer receiving treatment with aromatase inhibitors
+T2	control 1993 2000	placebo

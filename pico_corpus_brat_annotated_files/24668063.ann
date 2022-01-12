@@ -1,0 +1,12 @@
+T1	intervention 13 34	essential oil mixture
+T2	condition 38 52	skin reactions
+T3	eligibility 56 103	women undergoing radiotherapy for breast cancer
+T5	total-participants 302 304	24
+T11	outcome 780 784	skin
+T12	outcome 821 824	QOL
+T13	outcome 854 874	patient satisfaction
+T14	outcome 948 970	skin protectant effect
+T4	control 333 346	standard care
+T8	outcome 678 682	skin
+T9	outcome 684 687	QOL
+T10	outcome 692 712	patient satisfaction

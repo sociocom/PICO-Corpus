@@ -1,0 +1,10 @@
+T1	intervention 0 19	Axillary dissection
+T2	control 27 49	no axillary dissection
+T3	eligibility 53 119	elderly patients with breast cancer and no palpable axillary nodes
+T5	total-participants 656 659	671
+T6	age 687 697	≥ 70 years
+T8	eligibility 699 756	with operable breast cancer and a clinically clear axilla
+T10	outcome 1089 1112	breast cancer mortality
+T11	iv-bin-percent 1268 1272	5.8%
+T12	iv-bin-percent 1285 1289	3.7%
+T4	outcome 1185 1222	15-year incidence of axillary disease

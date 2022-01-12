@@ -1,0 +1,20 @@
+T1	intervention 17 38	biosimilar filgrastim
+T2	control 43 90	original granulocyte colony-stimulating factors
+T3	eligibility 371 482	breast cancer patients receiving docetaxel/doxorubicin/cyclophosphamide (TAC) as adjuvant/neoadjuvant treatment
+T5	outcome-Measure 720 732	FN incidence
+T7	total-participants 952 954	98
+T8	outcome 1106 1118	FN incidence
+T9	cv-bin-percent 1147 1151	3.7%
+T10	iv-bin-percent 1165 1169	3.3%
+T11	outcome 1248 1289	moderate and severe neutropenia incidence
+T12	cv-bin-percent 1291 1294	4.7
+T13	iv-bin-percent 1299 1303	6.3%
+T14	outcome 1318 1354	neutropenia-related hospitalizations
+T15	cv-bin-percent 1356 1359	3.3
+T16	iv-bin-percent 1364 1368	3.6%
+T17	outcome 1438 1450	FN incidence
+T19	iv-cont-mean 1598 1601	4.9
+T20	cv-cont-mean 1606 1619	5.7 μg/kg/day
+T21	iv-cont-mean 1621 1622	5
+T22	cv-cont-mean 1627 1633	7 days
+T4	outcome 1535 1554	dosage and duration

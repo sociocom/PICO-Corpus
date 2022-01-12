@@ -1,0 +1,9 @@
+T1	intervention 38 46	exercise
+T4	total-participants 769 782	Seventy-seven
+T5	intervention-participants 877 879	40
+T6	control 912 922	late group
+T7	control-participants 925 927	37
+T8	outcome 1339 1355	seroma formation
+T9	outcome 1434 1456	presence of dehiscence
+T2	condition 60 91	seroma formation and dehiscence
+T3	eligibility 357 390	women after breast cancer surgery

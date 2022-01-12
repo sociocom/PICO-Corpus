@@ -1,0 +1,9 @@
+T1	intervention 90 100	lamivudine
+T2	condition 109 139	hepatitis B virus reactivation
+T3	intervention-participants 1645 1647	21
+T4	control-participants 1733 1735	21
+T5	control 1754 1794	not treated with prophylactic lamivudine
+T6	outcome 1885 1914	incidence of HBV reactivation
+T7	iv-bin-percent 1916 1917	0
+T8	cv-bin-percent 1922 1927	28.6%
+T9	eligibility 143 200	hepatitis B s-antigen seropositive breast cancer patients

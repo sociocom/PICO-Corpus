@@ -1,0 +1,33 @@
+T1	intervention 29 50	trastuzumab emtansine
+T2	control 58 84	trastuzumab plus docetaxel
+T3	total-participants 587 590	137
+T4	eligibility 592 658	with HER2-positive MBC or recurrent locally advanced breast cancer
+T5	control-participants 721 723	70
+T6	intervention-participants 739 741	67
+T9	outcome 1073 1083	Median PFS
+T10	cv-cont-median 1088 1098	9.2 months
+T11	iv-cont-median 1111 1122	14.2 months
+T14	outcome 1178 1194	median follow-up
+T15	iv-cont-median 1213 1222	14 months
+T17	cv-bin-percent 1245 1250	58.0%
+T18	iv-bin-percent 1288 1293	64.2%
+T19	outcome 1353 1367	safety profile
+T20	outcome 1390 1414	grade ≥ 3 adverse events
+T21	iv-bin-percent 1421 1426	46.4%
+T22	cv-bin-percent 1429 1434	90.9%
+T23	outcome 1452 1478	treatment discontinuations
+T24	iv-bin-percent 1480 1484	7.2%
+T25	cv-bin-percent 1487 1492	34.8%
+T26	outcome 1511 1522	serious AEs
+T27	iv-bin-percent 1524 1529	20.3%
+T28	cv-bin-percent 1532 1537	25.8%
+T29	outcome 1552 1554	OS
+T31	iv-cont-median 1635 1644	23 months
+T8	outcome 1237 1240	ORR
+T7	outcome-Measure 865 896	progression-free survival (PFS)
+T12	outcome-Measure 901 907	safety
+T13	outcome-Measure 943 964	overall survival (OS)
+T16	outcome-Measure 966 995	objective response rate (ORR)
+T30	outcome-Measure 997 1027	duration of objective response
+T32	outcome-Measure 1029 1050	clinical benefit rate
+T33	outcome-Measure 1056 1071	quality of life

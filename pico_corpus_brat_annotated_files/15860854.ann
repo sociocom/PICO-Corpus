@@ -1,0 +1,19 @@
+T1	intervention 30 55	doxorubicin and docetaxel
+T2	control 63 95	doxorubicin and cyclophosphamide
+T3	eligibility 368 420	women with primary or locally advanced breast cancer
+T4	total-participants 923 926	363
+T5	intervention-participants 970 973	180
+T6	control-participants 986 989	183
+T7	outcome 994 1020	complete clinical response
+T8	iv-bin-percent 1037 1040	17%
+T9	cv-bin-percent 1045 1048	20%
+T10	outcome 1109 1163	Overall (complete and partial) clinical response rates
+T11	iv-bin-percent 1183 1186	61%
+T12	cv-bin-percent 1191 1194	70%
+T13	outcome 1281 1304	complete response rates
+T14	iv-bin-percent 1328 1331	24%
+T15	cv-bin-percent 1341 1344	21%
+T16	iv-bin-percent 1433 1436	61%
+T17	cv-bin-percent 1446 1449	66%
+T18	outcome 1365 1423	number of patients with positive axillary nodes at surgery
+T19	outcome 1563 1581	number of relapses

@@ -1,0 +1,15 @@
+T1	intervention 0 13	Betamethasone
+T2	condition 31 64	postoperative nausea and vomiting
+T3	total-participants 369 371	80
+T4	eligibility 372 450	ASA physical status 1 and 2 women scheduled for elective breast cancer surgery
+T5	intervention-participants 550 552	37
+T6	control 571 578	control
+T7	control-participants 580 582	38
+T9	outcome 999 1026	cumulative incidence of PON
+T10	iv-bin-percent 1031 1034	57%
+T11	cv-bin-percent 1053 1056	68%
+T12	outcome 1084 1127	overall incidence of postoperative vomiting
+T13	iv-bin-percent 1138 1141	18%
+T14	cv-bin-percent 1146 1149	20%
+T15	outcome 1183 1201	Postoperative pain
+T17	outcome 867 906	incidence of postoperative nausea (PON)

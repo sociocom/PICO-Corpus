@@ -1,0 +1,13 @@
+T2	condition 58 75	Postsurgical Pain
+T3	location 585 602	Republic of Korea
+T5	total-participants 654 657	184
+T6	control 740 747	control
+T7	outcome-Measure 1260 1303	incidence of PPSP at 3 months after surgery
+T8	total-participants 1324 1327	168
+T9	outcome 1356 1395	number of patients who experienced pain
+T10	cv-bin-percent 1455 1460	86.9%
+T11	iv-bin-percent 1485 1490	69.0%
+T12	outcome 1554 1567	NRSr and NRSd
+T4	eligibility 658 702	patients scheduled for breast cancer surgery
+T1	intervention 11 43	Intraoperative Low-Dose Ketamine
+T13	outcome 1775 1791	severity of PPSP

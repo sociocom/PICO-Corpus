@@ -1,0 +1,25 @@
+T2	location 110 116	german
+T3	eligibility 455 547	Patients with HER-2-positive breast cancer that progresses during treatment with trastuzumab
+T4	outcome-Measure 785 804	time to progression
+T6	control-participants 827 829	78
+T7	intervention 874 903	capecitabine plus trastuzumab
+T1	control 842 854	capecitabine
+T5	intervention-participants 859 861	78
+T8	outcome 916 922	events
+T9	cv-bin-abs 905 915	Sixty-five
+T10	outcome 930 936	deaths
+T11	cv-bin-abs 927 929	38
+T12	iv-bin-abs 967 969	62
+T13	outcome 984 990	deaths
+T14	iv-bin-abs 981 983	33
+T15	outcome 1076 1103	Median times to progression
+T16	iv-cont-median 1109 1119	5.6 months
+T17	cv-cont-median 1150 1160	8.2 months
+T20	outcome 1298 1320	Overall survival rates
+T21	iv-cont-median 1326 1337	20.4 months
+T22	cv-cont-median 1391 1402	25.5 months
+T23	outcome 1481 1503	Overall response rates
+T24	cv-bin-percent 1509 1514	27.0%
+T25	iv-bin-percent 1537 1542	48.1%
+T18	intervention 0 11	Trastuzumab
+T19	outcome 1690 1698	toxicity

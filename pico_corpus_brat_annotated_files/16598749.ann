@@ -1,0 +1,22 @@
+T1	intervention 14 25	anastrozole
+T2	control 33 42	tamoxifen
+T4	intervention-participants 712 715	228
+T5	control-participants 735 738	223
+T7	outcome 806 825	Objective responses
+T8	iv-bin-percent 868 873	39.5%
+T9	cv-bin-percent 878 883	35.4%
+T10	outcome 911 934	ultrasound measurements
+T11	iv-bin-percent 941 946	50.0%
+T12	cv-bin-percent 951 956	46.2%
+T13	outcome 984 1004	caliper measurements
+T14	outcome 1052 1068	feasible surgery
+T15	iv-bin-percent 1108 1113	43.0%
+T16	cv-bin-percent 1152 1157	30.8%
+T19	outcome 1239 1255	feasible surgery
+T20	outcome 1459 1473	adverse events
+T21	iv-bin-percent 1491 1496	20.2%
+T22	cv-bin-percent 1501 1506	18.1%
+T3	eligibility 632 685	Patients with hormone receptor-positive breast cancer
+T6	outcome 1593 1621	effective and well-tolerated
+T17	outcome 1286 1297	at 3 months
+T18	outcome 1090 1104	after 3 months

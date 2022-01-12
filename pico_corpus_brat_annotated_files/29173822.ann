@@ -1,0 +1,8 @@
+T2	condition 124 156	breast cancer-related lymphedema
+T4	total-participants 408 410	52
+T5	intervention-participants 487 489	25
+T6	control 496 509	control group
+T7	control-participants 515 517	27
+T12	outcome 883 912	upper extremity circumference
+T13	outcome 1024 1066	Lymphedema-related symptom severity scores
+T1	intervention 47 102	physical activity program and simple lymphatic drainage

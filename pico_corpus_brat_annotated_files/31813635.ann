@@ -1,0 +1,33 @@
+T1	intervention 0 52	External beam accelerated partial breast irradiation
+T2	control 60 84	whole breast irradiation
+T3	eligibility 120 187	women with ductal carcinoma in situ and node-negative breast cancer
+T4	location 698 731	Canada, Australia and New Zealand
+T5	age 744 761	40 years or older
+T6	eligibility 762 859	with ductal carcinoma in situ or node-negative breast cancer treated by breast conserving surgery
+T7	outcome-Measure 1212 1255	ipsilateral breast tumour recurrence (IBTR)
+T9	total-participants 1699 1703	2135
+T10	intervention-participants 1711 1715	1070
+T11	control-participants 1759 1763	1065
+T12	outcome 2346 2377	8-year cumulative rates of IBTR
+T13	iv-bin-percent 2383 2387	3·0%
+T14	cv-bin-percent 2427 2431	2·8%
+T16	outcome 2556 2580	Acute radiation toxicity
+T18	intervention-participants 2700 2704	1070
+T20	control-participants 2759 2763	1065
+T21	outcome 2785 2808	Late radiation toxicity
+T23	intervention-participants 2901 2905	1070
+T25	control-participants 2960 2964	1065
+T26	outcome 2986 3002	Adverse cosmesis
+T27	outcome 3125 3135	at 3 years
+T28	outcome 3183 3190	5 years
+T29	outcome 3215 3222	7 years
+T17	iv-bin-abs 2687 2690	300
+T30	iv-bin-percent 2692 2695	28%
+T19	cv-bin-abs 2746 2749	484
+T31	cv-bin-percent 2751 2754	45%
+T22	iv-bin-abs 2888 2891	346
+T32	iv-bin-percent 2893 2896	32%
+T24	cv-bin-abs 2947 2950	142
+T33	cv-bin-percent 2952 2955	13%
+T8	outcome 2485 2487	HR
+T15	outcome 3341 3355	acute toxicity

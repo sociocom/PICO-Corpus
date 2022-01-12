@@ -1,0 +1,23 @@
+T1	intervention 74 81	DA-3031
+T2	control 127 137	filgrastim
+T3	eligibility 141 194	patients receiving TAC chemotherapy for breast cancer
+T4	total-participants 457 469	Seventy-four
+T5	eligibility 470 597	patients with breast cancer who were receiving combination chemotherapy with docetaxel, doxorubicin, and cyclophosphamide (TAC)
+T7	outcome 1181 1218	nadir absolute neutrophil count (ANC)
+T8	outcome 1317 1337	time to ANC recovery
+T9	outcome 1453 1464	Serious AEs
+T10	cv-bin-abs 1477 1480	six
+T12	cv-bin-percent 1482 1488	15.8 %
+T11	iv-bin-abs 1527 1530	ten
+T13	iv-bin-percent 1532 1538	27.8 %
+T15	iv-cont-mean 1235 1245	161.75/mm3
+T6	cv-cont-mean 1220 1230	154.34/mm3
+T14	cv-cont-mean 1339 1344	10.03
+T16	cv-cont-sd 1347 1351	0.75
+T17	iv-cont-mean 1356 1360	9.83
+T18	iv-cont-sd 1363 1372	1.56 days
+T19	outcome 850 902	mean duration of grade 4 (G4) neutropenia in cycle 1
+T20	cv-cont-mean 907 911	2.08
+T21	cv-cont-sd 914 923	0.85 days
+T22	iv-cont-mean 953 957	2.28
+T23	iv-cont-sd 960 969	1.14 days

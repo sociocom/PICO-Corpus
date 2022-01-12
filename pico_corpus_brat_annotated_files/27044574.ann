@@ -1,0 +1,14 @@
+T1	intervention 24 39	quilting suture
+T2	control 47 67	conventional closure
+T3	condition 104 110	seroma
+T4	eligibility 658 688	patients undergoing mastectomy
+T5	eligibility 757 821	women undergoing mastectomy with or without axillary involvement
+T6	total-participants 1081 1084	320
+T8	outcome-Measure 1355 1418	seroma regardless of whether or not it requires an intervention
+T9	outcome-Measure 1420 1443	surgical site infection
+T10	outcome-Measure 1445 1455	pain score
+T11	outcome-Measure 1457 1472	cosmetic result
+T12	outcome-Measure 1474 1499	patient's quality of life
+T13	outcome-Measure 1501 1506	costs
+T14	outcome-Measure 1511 1529	cost-effectiveness
+T7	outcome-Measure 1231 1290	seroma requiring either aspiration or surgical intervention

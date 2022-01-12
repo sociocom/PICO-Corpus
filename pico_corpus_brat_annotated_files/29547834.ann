@@ -1,0 +1,18 @@
+T1	intervention 22 109	tailored toxicity-based dosage of fluorouracil-epirubicin-cyclophosphamide chemotherapy
+T2	eligibility 497 529	Patients with early breast cance
+T3	outcome-Measure 993 1029	distant disease-free survival (DDFS)
+T5	total-participants 1050 1054	1535
+T6	total-participants 1074 1078	1052
+T7	intervention-participants 1125 1128	524
+T8	control-participants 1151 1154	528
+T9	outcome 1321 1333	10-year DDFS
+T10	iv-bin-percent 1335 1338	79%
+T11	cv-bin-percent 1343 1346	77%
+T14	outcome 1384 1386	OS
+T15	iv-bin-percent 1388 1391	82%
+T16	cv-bin-percent 1396 1399	78%
+T19	outcome 1515 1519	DDFS
+T20	iv-bin-percent 1520 1523	79%
+T21	iv-bin-percent 1531 1534	82%
+T22	outcome 1528 1530	OS
+T4	control 871 885	6 standard FEC

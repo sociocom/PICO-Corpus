@@ -1,0 +1,21 @@
+T1	intervention 30 39	docetaxel
+T2	control 54 64	paclitaxel
+T3	eligibility 204 315	patients with advanced breast cancer that had progressed after an anthracycline-containing chemotherapy regimen
+T4	total-participants 331 334	449
+T5	intervention-participants 402 405	225
+T6	control-participants 436 439	224
+T7	outcome 583 606	median overall survival
+T8	iv-cont-median 612 616	15.4
+T9	cv-cont-median 619 630	12.7 months
+T13	iv-cont-median 729 739	5.7 months
+T14	cv-cont-median 742 752	3.6 months
+T17	outcome 866 887	overall response rate
+T18	iv-bin-percent 894 897	32%
+T19	cv-bin-percent 900 903	25%
+T10	outcome 1269 1271	OS
+T11	outcome 1276 1279	TTP
+T15	outcome 1281 1284	ORR
+T16	outcome 1311 1352	Hematologic and nonhematologic toxicities
+T12	outcome 696 722	median time to progression
+T20	outcome 1030 1071	hematologic and nonhematologic toxicities
+T21	outcome 889 892	ORR

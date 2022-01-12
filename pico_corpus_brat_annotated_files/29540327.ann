@@ -1,0 +1,27 @@
+T1	intervention 0 10	Carvedilol
+T2	condition 29 64	Chemotherapy-Related Cardiotoxicity
+T3	total-participants 369 372	200
+T4	eligibility 373 509	patients with HER2-negative breast cancer tumor status and normal left ventricular ejection fraction (LVEF) referred for ANT (240 mg/m2)
+T5	control 535 542	placebo
+T6	outcome-Measure 599 649	prevention of a ≥10% reduction in LVEF at 6 months
+T8	outcome 767 783	Primary endpoint
+T9	iv-bin-abs 796 798	14
+T10	iv-bin-percent 809 814	14.5%
+T11	cv-bin-abs 844 846	13
+T12	cv-bin-percent 857 862	13.5%
+T13	outcome 914 959	changes of LVEF or B-type natriuretic peptide
+T15	outcome 1144 1178	incidence of diastolic dysfunction
+T7	outcome-Measure 675 710	effects of carvedilol on troponin I
+T18	outcome-Measure 712 738	B-type natriuretic peptide
+T19	outcome-Measure 744 765	diastolic dysfunction
+T14	outcome 1038 1055	troponin I levels
+T16	outcome 1286 1311	LV end-diastolic diameter
+T17	outcome 1592 1619	incidence of cardiotoxicity
+T20	iv-cont-mean 1368 1372	44.1
+T21	iv-cont-sd 1375 1382	3.64 mm
+T22	iv-cont-mean 1386 1390	45.2
+T23	iv-cont-sd 1393 1399	3.2 mm
+T24	cv-cont-mean 1404 1408	44.9
+T25	cv-cont-sd 1411 1417	3.6 mm
+T26	cv-cont-mean 1421 1425	46.4
+T27	cv-cont-sd 1428 1434	4.0 mm

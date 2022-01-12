@@ -1,0 +1,21 @@
+T3	eligibility 563 611	patients with bone metastases from breast cancer
+T4	total-participants 617 622	2,046
+T6	total-participants 667 672	1,901
+T8	total-participants 702 707	1,597
+T13	outcome 858 870	no/mild pain
+T14	iv-bin-percent 872 876	53 %
+T15	iv-bin-abs 878 883	1,386
+T16	intervention-participants 884 889	2,620
+T17	cv-bin-percent 902 906	50 %
+T18	cv-bin-abs 908 913	1,297
+T19	control-participants 914 919	2,578
+T20	outcome 957 986	onset of moderate/severe pain
+T21	outcome 1140 1165	overall pain interference
+T22	outcome 1347 1377	health-related quality of life
+T23	iv-cont-median 1010 1013	6.5
+T24	cv-cont-median 1017 1027	4.7 months
+T27	iv-cont-median 1189 1193	10.3
+T28	cv-cont-median 1197 1207	7.7 months
+T25	condition 0 39	Pain and health-related quality of life
+T26	intervention 167 176	denosumab
+T29	control 181 196	zoledronic acid

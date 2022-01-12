@@ -1,0 +1,22 @@
+T1	intervention 0 15	Zoledronic acid
+T2	ethinicity 86 94	Japanese
+T3	eligibility 95 140	women with bone metastases from breast cancer
+T4	total-participants 329 332	228
+T5	intervention-participants 394 397	114
+T6	control 402 409	placebo
+T7	control-participants 415 418	114
+T9	outcome-Measure 509 548	skeletal-related event (SRE) rate ratio
+T11	outcome 1524 1562	grade 3 or 4 serum creatinine increase
+T12	outcome 1445 1459	safety profile
+T13	outcome 1211 1228	time-to-first SRE
+T14	outcome 1303 1315	risk of SREs
+T15	outcome 1035 1065	patients with at least one SRE
+T16	iv-bin-percent 1135 1140	29.8%
+T17	cv-bin-percent 1143 1148	49.6%
+T18	outcome 975 986	rate of SRE
+T19	condition 38 60	skeletal complications
+T10	outcome-Measure 707 751	percentage of patients with at least one SRE
+T20	outcome-Measure 753 770	time-to-first SRE
+T21	outcome-Measure 776 813	Andersen-Gill multiple-event analysis
+T8	cv-cont-median 1251 1259	364 days
+T22	iv-cont-median 1237 1248	not reached

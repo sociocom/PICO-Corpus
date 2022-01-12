@@ -1,0 +1,22 @@
+T2	eligibility 317 398	patients with metastatic breast cancer pretreated with taxanes and anthracyclines
+T3	total-participants 424 426	72
+T1	intervention 23 35	capecitabine
+T4	control 40 51	vinorelbine
+T5	outcome 627 636	Responses
+T6	iv-bin-abs 650 651	2
+T7	intervention-participants 652 654	23
+T8	iv-bin-percent 691 695	8.7%
+T9	cv-bin-abs 718 719	3
+T10	control-participants 720 722	24
+T11	cv-bin-percent 758 763	12.5%
+T12	outcome 783 815	Median progression-free survival
+T13	iv-cont-median 820 823	2.8
+T14	cv-cont-median 828 838	2.6 months
+T15	outcome 844 867	median overall survival
+T16	iv-cont-median 872 875	9.3
+T17	cv-cont-median 880 891	11.0 months
+T18	outcome 964 984	hematologic toxicity
+T20	outcome 986 999	neurotoxicity
+T21	outcome 1005 1020	nausea/vomiting
+T19	outcome 1047 1055	diarrhea
+T22	outcome 1060 1078	hand-foot syndrome

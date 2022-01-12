@@ -1,0 +1,13 @@
+T1	intervention 38 55	physical activity
+T2	ethinicity 123 139	African-American
+T4	control 711 718	control
+T5	total-participants 772 775	213
+T6	eligibility 776 857	obese, metabolically unhealthy, postmenopausal AAW at high risk for breast cancer
+T7	outcome 1051 1086	improvement in health change scores
+T9	iv-cont-mean 1092 1096	13.6
+T10	cv-cont-mean 1143 1146	0.7
+T3	condition 80 95	quality of life
+T8	outcome 1601 1620	HRQoL change scores
+T11	outcome 1241 1260	HRQoL change scores
+T12	iv-cont-sd 1103 1106	3.1
+T13	cv-cont-sd 1153 1156	4.4

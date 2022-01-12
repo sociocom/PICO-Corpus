@@ -1,0 +1,12 @@
+T1	intervention 0 27	Lapatinib plus capecitabine
+T2	total-participants 837 840	399
+T3	intervention-participants 946 949	207
+T4	control-participants 954 957	201
+T5	eligibility 520 654	Women with HER-2(+) MBC who progressed after regimens that included, but were not limited to, anthracyclines, taxanes, and trastuzumab
+T6	control 737 761	capecitabine monotherapy
+T7	outcome 1151 1180	median overall survival times
+T8	iv-cont-median 1186 1195	75.0 week
+T9	cv-cont-median 1225 1235	64.7 weeks
+T11	outcome 1569 1583	adverse events
+T10	iv-bin-percent 1428 1431	20%
+T12	outcome 1432 1452	lower risk for death

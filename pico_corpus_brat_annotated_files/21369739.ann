@@ -1,0 +1,17 @@
+T1	condition 23 37	arm lymphedema
+T2	total-participants 262 264	49
+T4	intervention 113 173	lymphatic microsurgical preventive healing approach (LYMPHA)
+T5	intervention-participants 388 400	Twenty-three
+T6	control-participants 480 482	23
+T7	total-participants 350 352	46
+T8	control 496 543	no preventive surgical approach (control group)
+T9	intervention-participants 852 854	21
+T10	control-participants 875 877	20
+T11	outcome 939 949	Lymphedema
+T12	iv-bin-abs 962 963	1
+T13	iv-bin-percent 1019 1024	4.34%
+T14	outcome 1049 1059	lymphedema
+T15	cv-bin-abs 1072 1073	7
+T16	cv-bin-percent 1084 1090	30.43%
+T17	outcome 1141 1151	arm volume
+T18	outcome 1381 1395	volume changes

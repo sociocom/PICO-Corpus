@@ -1,0 +1,14 @@
+T1	intervention 69 98	trastuzumab emtansine (T-DM1)
+T2	control 106 132	capecitabine and lapatinib
+T3	outcome-Measure 615 640	time to symptom worsening
+T4	iv-bin-abs 1143 1146	450
+T5	intervention-participants 1150 1153	495
+T7	cv-bin-abs 1220 1223	445
+T8	control-participants 1227 1230	496
+T9	outcome 1280 1305	Time to symptom worsening
+T10	iv-cont-median 1379 1389	7.1 months
+T11	cv-cont-median 1397 1407	4.6 months
+T14	outcome 1503 1549	clinically significant improvement in symptoms
+T15	iv-bin-percent 1475 1480	55.3%
+T16	cv-bin-percent 1571 1576	49.4%
+T6	outcome 1199 1212	TOI-PFB score

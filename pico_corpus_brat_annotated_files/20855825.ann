@@ -1,0 +1,29 @@
+T1	control 49 67	fulvestrant 250 mg
+T2	intervention 73 91	fulvestrant 500 mg
+T4	outcome 1570 1573	QOL
+T5	outcome 1336 1340	DoCB
+T6	outcome 1345 1347	OS
+T3	eligibility 283 416	postmenopausal women with estrogen receptor-positive advanced breast cancer who experienced progression after prior endocrine therapy
+T7	outcome-Measure 760 791	progression-free survival (PFS)
+T9	outcome 964 967	PFS
+T10	intervention-participants 1021 1024	362
+T11	control-participants 1043 1046	374
+T14	outcome 1165 1188	Objective response rate
+T15	iv-bin-percent 1236 1240	9.1%
+T16	cv-bin-percent 1243 1248	10.2%
+T17	outcome 1265 1268	CBR
+T18	iv-bin-percent 1273 1278	45.6%
+T19	cv-bin-percent 1306 1311	39.6%
+T20	iv-cont-median 1353 1357	16.6
+T21	cv-cont-median 1362 1373	25.1 months
+T22	outcome 1419 1423	DoCB
+T23	outcome 1428 1430	OS
+T24	cv-cont-median 1436 1440	13.9
+T25	cv-cont-median 1445 1456	22.8 months
+T12	outcome 1516 1530	well tolerated
+T13	outcome 1554 1568	adverse events
+T8	outcome-Measure 823 846	objective response rate
+T26	outcome-Measure 848 875	clinical benefit rate (CBR)
+T27	outcome-Measure 877 912	duration of clinical benefit (DoCB)
+T28	outcome-Measure 914 935	overall survival (OS)
+T29	outcome-Measure 941 962	quality of life (QOL)

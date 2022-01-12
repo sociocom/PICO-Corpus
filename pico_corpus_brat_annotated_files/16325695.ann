@@ -1,0 +1,14 @@
+T1	intervention 36 98	high-dose chemotherapy plus peripheral-blood stem-cell support
+T2	control 106 142	dose-dense conventional chemotherapy
+T3	outcome-Measure 1114 1133	event-free survival
+T4	eligibility 604 646	Patients with at least nine positive nodes
+T6	total-participants 1199 1202	403
+T7	intervention-participants 1227 1230	201
+T8	control-participants 1272 1275	202
+T11	iv-bin-percent 1443 1446	60%
+T12	cv-bin-percent 1502 1505	44%
+T13	outcome 1566 1582	overall survival
+T14	iv-bin-percent 1587 1590	75%
+T15	cv-bin-percent 1606 1609	70%
+T16	outcome 1638 1665	no treatment-related deaths
+T9	outcome 1382 1408	4-year event-free survival

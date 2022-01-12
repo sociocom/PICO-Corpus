@@ -1,0 +1,16 @@
+T2	outcome 1486 1489	DFS
+T3	outcome 1505 1507	OS
+T4	outcome 1291 1349	number of patients with positive axillary nodes at surgery
+T5	outcome 1204 1232	complete pathologic response
+T6	intervention 70 102	doxorubicin and cyclophosphamide
+T7	control 108 133	doxorubicin and docetaxel
+T8	eligibility 459 618	patients with histologic-proven breast cancer with primary tumours > or = 3 cm, inflammatory or locally advanced disease, and no evidence of distant metastases
+T11	total-participants 1140 1143	363
+T12	intervention-participants 1180 1183	181
+T13	control-participants 1196 1199	182
+T14	iv-bin-percent 1249 1252	16%
+T15	cv-bin-percent 1264 1267	12%
+T16	iv-bin-percent 1362 1365	61%
+T17	cv-bin-percent 1373 1376	66%
+T19	outcome 1610 1626	clinical benefit
+T1	outcome 1520 1526	Deaths

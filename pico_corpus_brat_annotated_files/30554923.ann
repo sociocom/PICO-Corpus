@@ -1,0 +1,30 @@
+T1	intervention 55 87	interval and continuous exercise
+T2	total-participants 252 261	Seventeen
+T3	age 293 306	62.9±7.8years
+T4	eligibility 262 285	female cancer survivors
+T5	control 443 460	wait-list control
+T6	intervention-participants 385 386	6
+T7	intervention-participants 436 437	5
+T8	control-participants 469 470	6
+T9	outcome-Measure 575 624	cognitive function assessments utilising CogState
+T11	total-participants 860 862	17
+T12	outcome 938 947	adherence
+T16	outcome 1342 1349	VO2peak
+T13	iv-cont-mean 978 982	78.7
+T20	iv-cont-sd 983 988	13.2%
+T14	iv-cont-mean 992 996	79.4
+T21	iv-cont-sd 997 1002	12.0%
+T10	outcome-Measure 650 700	resting middle cerebral artery blood flow velocity
+T17	outcome-Measure 702 728	cerebrovascular reactivity
+T18	outcome-Measure 733 758	aerobic fitness (VO2peak)
+T15	outcome 1208 1223	episodic memory
+T19	outcome 1225 1239	working memory
+T22	outcome 1241 1259	executive function
+T23	outcome 1261 1280	cerebral blood flow
+T24	outcome 1285 1311	cerebrovascular reactivity
+T25	iv-cont-mean 1353 1358	19.3%
+T26	iv-cont-mean 1398 1402	5.6%
+T27	cv-cont-mean 1450 1454	2.6%
+T28	outcome 1569 1590	cognitive performance
+T29	outcome 1592 1616	cerebrovascular function
+T30	outcome 1621 1636	aerobic fitness

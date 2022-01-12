@@ -1,0 +1,9 @@
+T1	intervention 0 34	Smartphone-Enabled Health Coaching
+T2	total-participants 977 980	107
+T3	location 1151 1166	Toronto, Canada
+T4	control 1069 1083	control groups
+T5	age 1200 1214	18 to 74 years
+T6	eligibility 1216 1476	stratified by age (55 years and older/younger than 55 years) and adjuvant hormone therapy (AHT) exposure (AHT vs no AHT) following breast cancer treatment with no metastases or recurrence who report less than 60 minutes of preplanned physical activity per week
+T8	outcome-Measure 2206 2229	peak oxygen consumption
+T9	outcome-Measure 2267 2297	health-related quality of life
+T10	outcome-Measure 2302 2325	anthropometric measures

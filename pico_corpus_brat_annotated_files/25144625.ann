@@ -1,0 +1,10 @@
+T1	intervention 71 79	exercise
+T2	eligibility 335 381	Breast cancer patients initiating chemotherapy
+T3	total-participants 385 388	301
+T6	outcome 849 860	bodily pain
+T7	outcome 888 906	endocrine symptoms
+T8	outcome 934 960	taxane/neuropathy symptoms
+T9	outcome 988 1003	aerobic fitness
+T10	outcome 1031 1048	muscular strength
+T11	outcome 1080 1088	fat mass
+T5	control 461 474	standard dose

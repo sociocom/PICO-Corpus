@@ -1,0 +1,20 @@
+T2	control 32 51	taxane chemotherapy
+T3	eligibility 428 546	patients had HER2-overexpressing, metastatic breast cancer and had received no prior chemotherapy for advanced disease
+T4	total-participants 807 809	81
+T5	intervention-participants 840 842	41
+T6	control-participants 881 883	40
+T1	intervention 17 28	vinorelbine
+T7	outcome 914 928	Response rates
+T8	iv-bin-percent 934 937	51%
+T9	cv-bin-percent 942 945	40%
+T10	outcome 1061 1095	median time to disease progression
+T11	iv-cont-median 1100 1110	8.5 months
+T12	cv-cont-median 1115 1125	6.0 months
+T13	outcome 1393 1415	anemia and neutropenia
+T14	iv-bin-abs 1425 1426	2
+T15	outcome 1439 1453	cardiotoxicity
+T17	outcome 1253 1267	well tolerated
+T18	outcome 1715 1749	rates of efficacy and tolerability
+T16	outcome 1501 1522	dermatologic toxicity
+T19	outcome 1524 1532	myalgias
+T20	outcome 1538 1553	fluid retention

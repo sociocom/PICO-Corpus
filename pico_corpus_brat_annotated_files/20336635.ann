@@ -1,0 +1,9 @@
+T1	intervention 0 15	Hormone therapy
+T2	intervention-participants 511 514	278
+T3	control-participants 608 612	2224
+T4	iv-bin-percent 930 948	Fifty-six per cent
+T5	cv-bin-percent 962 965	68%
+T6	outcome 987 993	HT use
+T7	outcome 1072 1077	death
+T8	control 613 621	controls
+T9	eligibility 362 403	postmenopausal hormone therapy (HT) users

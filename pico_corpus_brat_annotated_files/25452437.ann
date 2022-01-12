@@ -1,0 +1,17 @@
+T2	total-participants 264 267	121
+T1	intervention 11 25	exercise trial
+T3	control 799 809	usual care
+T4	intervention-participants 1208 1210	61
+T5	outcome 1212 1220	attended
+T6	iv-bin-percent 1221 1224	70%
+T7	outcome 1362 1379	joint pain scores
+T9	outcome 1294 1318	increased their exercise
+T10	iv-cont-mean 1322 1325	159
+T12	iv-cont-sd 1333 1336	136
+T11	iv-cont-mean 1393 1403	1.6 points
+T8	cv-cont-mean 1474 1483	0.2-point
+T13	outcome 1551 1581	Pain severity and interference
+T14	outcome 1594 1620	DASH and WOMAC pain scores
+T15	outcome-Measure 896 959	Disabilities of the Arm, Shoulder and Hand (DASH) questionnaire
+T16	outcome-Measure 820 890	Western Ontario and McMaster Universities Osteoarthritis (WOMAC) index
+T17	outcome-Measure 815 818	BPI

@@ -1,0 +1,35 @@
+T1	intervention 35 62	13 G vacuum-assisted biopsy
+T2	control 67 103	conventional 14 G core needle biopsy
+T3	eligibility 460 553	women with abnormal appearing axillary lymph nodes and radiologically malignant breast masses
+T4	location 666 668	UK
+T5	outcome-Measure 699 716	study uptake rate
+T6	outcome-Measure 721 783	patient willingness to undergo a repeat procedure if necessary
+T8	outcome-Measure 805 845	immediate and post-procedure pain scores
+T9	outcome-Measure 847 863	diagnostic yield
+T10	outcome-Measure 865 878	complications
+T11	outcome-Measure 884 907	surgical histopathology
+T12	total-participants 923 934	Ninety-five
+T13	total-participants 958 960	81
+T14	control-participants 1000 1005	Forty
+T15	intervention-participants 1021 1023	40
+T16	age 1072 1080	57 years
+T17	outcome 1217 1235	Median pain scores
+T18	outcome 1371 1389	undergo repeat CNB
+T19	cv-bin-abs 1447 1449	38
+T20	control-participants 1450 1452	39
+T21	iv-bin-abs 1460 1462	33
+T22	intervention-participants 1463 1465	39
+T23	outcome 1501 1510	haematoma
+T24	iv-bin-abs 1476 1479	Two
+T26	cv-bin-abs 1522 1525	One
+T27	iv-bin-abs 1534 1537	six
+T28	outcome 1593 1604	sensitivity
+T29	cv-bin-percent 1620 1623	79%
+T30	iv-bin-percent 1628 1631	78%
+T31	outcome 1633 1645	Study uptake
+T25	outcome 1543 1574	failed to yield adequate tissue
+T7	cv-cont-median 1276 1277	1
+T32	cv-cont-median 1285 1286	1
+T33	iv-cont-median 1302 1303	1
+T34	iv-cont-median 1311 1312	2
+T35	outcome-Measure 785 803	Procedure duration

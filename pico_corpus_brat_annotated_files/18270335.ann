@@ -1,0 +1,13 @@
+T1	outcome 1126 1150	Non-breast cancer deaths
+T2	location 428 434	Canada
+T3	total-participants 458 462	5170
+T4	age 500 502	62
+T5	eligibility 531 612	who were disease free after approximately 5 years of adjuvant tamoxifen treatment
+T7	intervention-participants 665 669	2583
+T8	control 680 687	placebo
+T9	control-participants 689 693	2587
+T12	outcome 996 1002	deaths
+T10	intervention 62 88	adjuvant endocrine therapy
+T13	outcome 1327 1349	cardiovascular disease
+T14	outcome 1453 1465	osteoporosis
+T15	outcome 1583 1619	risk of breast cancer-specific death

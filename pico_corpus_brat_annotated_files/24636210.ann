@@ -1,0 +1,38 @@
+T1	intervention 20 30	exemestane
+T2	control 38 49	anastrozole
+T3	eligibility 78 117	women with early breast cancer (MA.27B)
+T6	total-participants 1680 1683	300
+T7	intervention-participants 1746 1749	147
+T8	control-participants 1772 1775	153
+T9	total-participants 1794 1797	197
+T10	intervention-participants 1849 1852	101
+T11	control-participants 1865 1867	96
+T12	outcome 1940 1999	mean change of bone mineral density in the spine at 2 years
+T13	outcome 2180 2200	mean loss in the hip
+T14	outcome 2347 2399	mean change of spine bone mineral density at 2 years
+T15	outcome 2729 2748	fragility fractures
+T17	iv-bin-abs 2725 2728	two
+T18	iv-bin-abs 2753 2756	two
+T19	outcome 2809 2828	fragility fractures
+T20	cv-bin-abs 2803 2808	three
+T16	outcome 2757 2772	other fractures
+T21	cv-bin-abs 2833 2837	five
+T22	outcome 2838 2853	other fractures
+T23	iv-bin-abs 2931 2934	one
+T24	outcome 2941 2959	fragility fracture
+T25	iv-bin-abs 2964 2968	four
+T26	outcome 2973 2988	other fractures
+T27	cv-bin-abs 3027 3031	five
+T28	outcome 3032 3051	fragility fractures
+T29	cv-bin-abs 3056 3059	one
+T30	outcome 3060 3074	other fracture
+T31	iv-cont-mean 2097 2103	-0·92%
+T32	cv-cont-mean 2129 2135	-2·39%
+T33	iv-cont-mean 2205 2211	-1·93%
+T34	cv-cont-mean 2243 2249	-2·71%
+T35	iv-cont-mean 2486 2491	2·11%
+T36	cv-cont-mean 2517 2522	3·72%
+T37	outcome 2562 2586	hip bone mineral density
+T38	iv-cont-mean 2588 2593	2·09%
+T39	cv-cont-mean 2619 2623	0·0%
+T4	outcome-Measure 1330 1392	percent change of BMD at 2 years in lumbar spine and total hip

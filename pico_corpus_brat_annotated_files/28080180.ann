@@ -1,0 +1,6 @@
+T1	intervention 117 126	tamoxifen
+T2	total-participants 294 298	4128
+T3	eligibility 299 434	postmenopausal patients with early stage breast cancer who were alive and free of breast cancer recurrence after two years of tamoxifen
+T4	outcome 571 611	incidence of contralateral breast cancer
+T5	outcome 913 944	incidence of endometrial cancer
+T8	outcome 662 673	lung cancer

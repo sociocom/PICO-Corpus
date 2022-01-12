@@ -1,0 +1,31 @@
+T4	intervention-participants 477 479	55
+T5	control 485 490	50 mg
+T6	control-participants 496 498	57
+T7	outcome-Measure 716 735	tumor response rate
+T8	outcome-Measure 772 799	clinical benefit rate (CBR)
+T9	outcome-Measure 801 826	time to progression (TTP)
+T10	outcome-Measure 832 840	toxicity
+T12	iv-bin-percent 989 994	26.1%
+T13	cv-bin-percent 997 1001	8.0%
+T14	outcome 1018 1021	TTP
+T15	iv-cont-median 1023 1026	8.3
+T16	cv-cont-median 1029 1039	3.2 months
+T17	outcome 1073 1086	response rate
+T18	iv-bin-percent 1129 1134	10.3%
+T19	total-participants 842 852	Forty-nine
+T20	total-participants 874 876	63
+T23	outcome 1149 1152	TTP
+T24	iv-cont-mean 1154 1157	2.7
+T25	cv-cont-mean 1162 1172	2.8 months
+T26	outcome 1197 1200	CBR
+T27	iv-bin-percent 1270 1275	39.1%
+T28	cv-bin-percent 1278 1283	20.0%
+T30	outcome 1289 1300	TR patients
+T31	iv-bin-percent 1302 1307	13.8%
+T32	cv-bin-percent 1310 1315	10.3%
+T33	outcome 1406 1415	no deaths
+T1	intervention 63 73	arzoxifene
+T2	eligibility 503 550	women with advanced or metastatic breast cancer
+T3	outcome 1349 1372	Dose-dependent toxicity
+T11	outcome 938 940	RR
+T34	outcome 1571 1581	Toxicities

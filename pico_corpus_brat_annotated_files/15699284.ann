@@ -1,0 +1,12 @@
+T1	intervention 10 19	tamoxifen
+T2	condition 23 51	venous thromboembolic events
+T3	total-participants 490 494	5408
+T4	eligibility 495 516	hysterectomized women
+T5	control 559 566	placebo
+T8	cv-bin-abs 591 593	28
+T9	outcome 594 598	VTEs
+T10	iv-bin-abs 614 616	44
+T12	cv-bin-abs 1178 1179	1
+T13	iv-bin-abs 1203 1205	13
+T14	outcome 1227 1240	developed VTE
+T11	outcome 863 874	risk of VTE

@@ -1,0 +1,14 @@
+T1	intervention 54 103	antibacterial absorbable (Polyglactin 910) suture
+T2	control 116 135	Chinese silk suture
+T3	eligibility 486 533	Patients undergoing modified radical mastectomy
+T5	outcome-Measure 961 1016	surgeon-assessed modified Hollander Scale (mHCS) scores
+T6	total-participants 1131 1134	101
+T7	intervention-participants 1227 1229	51
+T8	control-participants 1259 1261	50
+T9	outcome 1264 1296	Mean VAS cosmetic outcome scores
+T10	iv-cont-mean 1323 1327	67.2
+T11	cv-cont-mean 1364 1368	45.4
+T12	outcome 1395 1434	Mean mHCS cosmetic outcome total scores
+T13	iv-cont-mean 1479 1482	5.7
+T14	cv-cont-mean 1507 1510	5.0
+T4	outcome-Measure 810 827	Cosmetic outcomes

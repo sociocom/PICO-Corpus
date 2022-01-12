@@ -1,0 +1,25 @@
+T1	intervention 0 16	Pectoral I Block
+T2	condition 34 57	Postoperative Analgesia
+T3	total-participants 459 483	One hundred twenty-eight
+T4	eligibility 484 539	patients scheduled for unilateral breast cancer surgery
+T5	intervention 280 315	first pectoral nerve block (Pecs I)
+T7	outcome-Measure 948 980	postoperative opioid consumption
+T9	intervention-participants 1120 1122	62
+T10	control-participants 1156 1158	65
+T11	outcome 1207 1210	NRS
+T13	intervention-participants 1392 1394	29
+T14	outcome 1439 1475	Morphine consumption during recovery
+T16	iv-cont-median 1124 1127	3.0
+T17	cv-cont-median 1160 1163	3.0
+T18	iv-cont-median 1396 1399	3.0
+T19	cv-cont-median 1413 1416	4.0
+T20	iv-cont-median 1492 1498	1.5 mg
+T21	cv-cont-median 1515 1521	3.0 mg
+T22	outcome 1561 1583	major surgery subgroup
+T23	iv-cont-median 1585 1591	1.5 mg
+T24	cv-cont-median 1608 1614	6.0 mg
+T6	outcome-Measure 766 784	patient pain score
+T8	outcome 1074 1077	NRS
+T12	outcome 1642 1667	Intraoperative sufentanil
+T15	outcome 1672 1703	cumulative morphine consumption
+T25	outcome 1783 1796	complications

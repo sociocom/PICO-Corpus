@@ -1,0 +1,9 @@
+T1	intervention 14 25	Palbociclib
+T2	control 780 795	letrozole alone
+T5	intervention-participants 879 881	66
+T6	control-participants 934 936	99
+T7	outcome-Measure 1027 1058	progression-free survival (PFS)
+T8	outcome 1096 1099	PFS
+T11	total-participants 621 624	165
+T12	eligibility 366 461	postmenopausal women with estrogen receptor (ER)-positive, HER2-negative advanced breast cancer
+T3	outcome 1311 1327	clinical benefit

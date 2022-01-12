@@ -1,0 +1,17 @@
+T1	intervention 0 39	Technology- and Phone-Based Weight Loss
+T2	eligibility 67 103	Women at Elevated Breast Cancer Risk
+T3	intervention-participants 487 489	36
+T4	control 496 506	usual care
+T5	control-participants 514 516	18
+T6	eligibility 537 598	women with a BMI ≥ 27.5 kg/m2 and elevated breast cancer risk
+T7	location 686 706	California San Diego
+T11	location 1170 1183	San Diego, CA
+T13	total-participants 1241 1243	54
+T14	age 1263 1282	59.5 (SD=5.6) years
+T15	outcome 1394 1424	lost significantly more weight
+T18	iv-cont-mean 1426 1432	4.4 kg
+T19	cv-cont-mean 1436 1442	0.8 kg
+T8	outcome 1351 1362	At 6 months
+T12	outcome 1481 1496	starting weight
+T16	iv-cont-mean 1498 1502	5.3%
+T17	cv-cont-mean 1506 1510	1.0%

@@ -1,0 +1,10 @@
+T1	intervention 0 42	Thoracic paravertebral regional anesthesia
+T2	condition 47 58	pain relief
+T3	eligibility 62 97	patients with breast cancer surgery
+T4	total-participants 262 264	72
+T5	control 362 375	control group
+T6	intervention-participants 398 400	36
+T14	outcome 1013 1049	mean consumption of analgesic agents
+T17	outcome 857 860	DBP
+T18	outcome 1261 1275	adverse events
+T7	outcome 1176 1185	HR or VAS

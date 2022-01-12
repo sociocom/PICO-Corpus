@@ -1,0 +1,26 @@
+T1	intervention 0 14	Weight lifting
+T2	condition 59 69	lymphedema
+T3	control 347 368	no exercise (control)
+T4	location 528 540	Philadelphia
+T5	total-participants 562 565	154
+T6	eligibility 566 718	breast cancer survivors 1 to 5 years postunilateral breast cancer, with at least 2 lymph nodes removed and without clinical signs of BCRL at study entry
+T10	total-participants 1226 1229	134
+T12	iv-bin-percent 1347 1350	11%
+T13	iv-bin-abs 1352 1353	8
+T14	intervention-participants 1357 1359	72
+T15	cv-bin-percent 1406 1409	17%
+T16	cv-bin-abs 1411 1413	13
+T17	control-participants 1417 1419	75
+T18	outcome 1640 1659	incident BCRL onset
+T19	iv-bin-percent 1664 1666	7%
+T20	iv-bin-abs 1668 1669	3
+T21	intervention-participants 1673 1675	45
+T22	cv-bin-percent 1722 1725	22%
+T23	cv-bin-abs 1727 1729	11
+T24	control-participants 1733 1735	49
+T25	outcome 1825 1853	Clinician-defined BCRL onset
+T26	iv-bin-abs 1866 1867	1
+T27	cv-bin-abs 1919 1920	3
+T28	iv-bin-percent 1949 1953	1.5%
+T29	cv-bin-percent 1957 1961	4.4%
+T11	outcome 1323 1342	incident BCRL onset

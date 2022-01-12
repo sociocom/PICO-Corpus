@@ -1,0 +1,8 @@
+T1	intervention 4 20	polyacrylic acid
+T2	total-participants 393 395	52
+T3	eligibility 396 496	women with breast cancer who were being treated with tamoxifen and who complained of vaginal dryness
+T4	intervention-participants 685 687	25
+T5	control-participants 730 732	27
+T6	control 748 763	lubricant group
+T8	outcome 970 1000	decrease in sexual dysfunction
+T7	outcome 906 910	FSFI

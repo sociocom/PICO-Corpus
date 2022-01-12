@@ -1,0 +1,18 @@
+T1	intervention 67 75	flaxseed
+T2	condition 97 108	hot flashes
+T3	eligibility 413 463	Postmenopausal women with or without breast cancer
+T4	control 556 567	placebo bar
+T5	outcome-Measure 748 842	intraparticipant difference in hot flash activity between baseline and the last treatment week
+T6	total-participants 981 984	188
+T8	iv-cont-mean 1057 1060	4.9
+T9	cv-cont-mean 1087 1090	3.5
+T10	outcome 1195 1229	reduction in their hot flash score
+T11	outcome 1299 1315	grade 1 pruritus
+T12	cv-bin-percent 1361 1363	8%
+T13	iv-bin-percent 1367 1369	1%
+T14	outcome 1393 1413	abdominal distension
+T15	outcome 1415 1425	flatulence
+T16	outcome 1427 1435	diarrhea
+T17	outcome 1441 1447	nausea
+T18	outcome 1449 1501	Adherence and ability to detect treatment assignment
+T7	outcome 1024 1044	mean hot flash score

@@ -1,0 +1,12 @@
+T2	control 485 492	placebo
+T4	outcome-Measure 649 679	12-month overall survival (OS)
+T5	total-participants 916 919	939
+T6	eligibility 65 147	nonanemic patients with metastatic breast cancer receiving first-line chemotherapy
+T7	intervention-participants 957 960	469
+T8	control-participants 975 978	470
+T9	outcome 1101 1112	12-month OS
+T10	iv-bin-percent 1117 1120	70%
+T11	cv-bin-percent 1153 1156	76%
+T3	outcome 1191 1213	Optimal tumor response
+T12	outcome 1218 1245	time to disease progression
+T13	intervention 42 54	epoetin alfa

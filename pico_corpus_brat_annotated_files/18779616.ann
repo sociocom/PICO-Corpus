@@ -1,0 +1,24 @@
+T1	intervention 33 65	oral adjuvant clodronate therapy
+T2	total-participants 406 429	Two hundred sixty-eight
+T3	eligibility 430 491	pre- and postmenopausal, node-positive breast cancer patients
+T4	control 569 583	control groups
+T7	outcome 1115 1134	spinal osteoporosis
+T8	iv-bin-abs 1136 1141	three
+T9	intervention-participants 1145 1147	41
+T10	cv-bin-abs 1177 1179	11
+T11	control-participants 1183 1185	48
+T12	total-participants 913 924	Eighty-nine
+T13	outcome 1251 1267	hip osteoporosis
+T14	iv-bin-abs 1269 1274	seven
+T15	intervention-participants 1278 1280	41
+T16	cv-bin-abs 1310 1315	seven
+T17	control-participants 1319 1321	48
+T18	outcome 1365 1396	osteoporosis-free survival rate
+T19	iv-bin-percent 1401 1406	92.7%
+T20	cv-bin-percent 1436 1441	77.0%
+T21	outcome 1505 1534	frequency of hip osteoporosis
+T22	iv-bin-percent 1536 1541	85.4%
+T23	cv-bin-percent 1544 1549	82.9%
+T5	condition 98 110	osteoporosis
+T6	outcome 1570 1573	BMD
+T25	outcome 1771 1809	incidence of lumbar spine osteoporosis

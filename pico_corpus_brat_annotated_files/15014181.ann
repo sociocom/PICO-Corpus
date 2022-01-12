@@ -1,0 +1,24 @@
+T1	intervention 22 32	exemestane
+T3	total-participants 636 640	4742
+T4	eligibility 82 129	postmenopausal women with primary breast cancer
+T5	intervention-participants 660 664	2362
+T6	control-participants 717 721	2380
+T9	iv-bin-abs 901 904	183
+T10	cv-bin-abs 933 936	266
+T13	outcome 1163 1180	reduction in risk
+T15	outcome 1234 1255	disease-free survival
+T17	outcome 1352 1368	Overall survival
+T18	iv-bin-abs 1425 1427	93
+T19	cv-bin-abs 1473 1476	106
+T20	outcome 1547 1574	Contralateral breast cancer
+T21	cv-bin-abs 1587 1589	20
+T22	iv-bin-abs 1626 1627	9
+T11	outcome-Measure 606 627	disease-free survival
+T2	control 745 754	tamoxifen
+T7	outcome 1428 1434	deaths
+T12	iv-bin-percent 1152 1162	32 percent
+T14	iv-bin-percent 1259 1270	4.7 percent
+T8	outcome 815 845	local or metastatic recurrence
+T16	outcome 847 874	contralateral breast cancer
+T23	outcome 879 884	death
+T24	outcome 1501 1521	Severe toxic effects

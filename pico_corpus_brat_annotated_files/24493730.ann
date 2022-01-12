@@ -1,0 +1,18 @@
+T2	eligibility 64 85	stage I breast cancer
+T4	total-participants 320 344	Three hundred eighty-one
+T5	eligibility 345 375	women with pT1N0 breast cancer
+T6	control 439 489	without (non-XRT group) postoperative radiotherapy
+T11	iv-bin-percent 719 724	30.9%
+T12	cv-bin-percent 746 751	45.1%
+T13	outcome 941 945	died
+T14	iv-bin-percent 905 910	50.4%
+T15	cv-bin-percent 960 965	54.0%
+T17	iv-bin-percent 1132 1137	27.1%
+T18	cv-bin-percent 1159 1164	24.9%
+T20	iv-bin-percent 1318 1323	24.8%
+T21	cv-bin-percent 1345 1350	36.1%
+T1	intervention 0 59	Sector resection with or without postoperative radiotherapy
+T10	outcome 1051 1080	contralateral cancer or death
+T3	outcome 645 687	probability of a first breast cancer event
+T16	outcome 1258 1301	cumulative incidence of first breast cancer
+T19	outcome 700 714	after 20 years

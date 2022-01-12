@@ -1,0 +1,15 @@
+T2	condition 134 160	chronic postoperative pain
+T3	total-participants 551 554	236
+T4	control 648 655	placebo
+T9	outcome 1150 1168	postoperative pain
+T10	outcome 1313 1338	incidence of chronic pain
+T11	iv-bin-percent 1343 1346	33%
+T12	cv-bin-percent 1351 1354	27%
+T14	outcome 1573 1586	complications
+T1	intervention 35 92	wound and intercostal space infiltration with ropivacaine
+T6	outcome 1437 1457	brief pain inventory
+T7	outcome 1459 1475	neuropathic pain
+T8	outcome 1481 1488	anxiety
+T5	outcome-Measure 770 780	Acute pain
+T13	outcome-Measure 782 803	analgesic consumption
+T15	outcome-Measure 805 824	nausea and vomiting

@@ -1,0 +1,22 @@
+T1	intervention 43 77	transdermal 4-hydroxytamoxifen gel
+T2	control 90 99	tamoxifen
+T4	total-participants 482 494	Twenty-seven
+T6	outcome-Measure 820 849	Ki67 labeling in DCIS lesions
+T11	outcome 1026 1052	Posttherapy Ki67 decreased
+T12	iv-cont-mean 1056 1060	3.4%
+T13	cv-cont-mean 1078 1082	5.1%
+T14	outcome 1148 1165	Mean plasma 4-OHT
+T15	outcome 1249 1299	mean breast adipose tissue concentrations of 4-OHT
+T17	outcome 1494 1517	plasma IGFI with oral-T
+T18	outcome 1556 1567	hot flashes
+T19	iv-cont-mean 1170 1173	0.2
+T20	cv-cont-mean 1178 1187	1.1 ng/mL
+T21	iv-cont-mean 1305 1313	5.8 ng/g
+T22	cv-cont-mean 1337 1345	5.4 ng/g
+T3	eligibility 495 524	pre- and postmenopausal women
+T5	outcome-Measure 896 932	insulin-like growth factor-1 (IGFI),
+T7	outcome-Measure 933 968	sex hormone-binding globulin (SHBG)
+T8	outcome-Measure 974 1008	coagulation protein concentrations
+T9	outcome 1412 1423	plasma SHBG
+T10	outcome 1425 1436	factor VIII
+T16	outcome 1442 1463	von Willebrand factor

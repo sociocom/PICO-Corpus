@@ -1,0 +1,14 @@
+T2	eligibility 267 318	women at high risk for development of breast cancer
+T3	control 819 826	placebo
+T4	outcome-Measure 928 960	improvement in cytologic pattern
+T5	total-participants 965 968	119
+T8	outcome 1096 1118	total urine polyamines
+T1	intervention 55 84	alpha-difluoromethylornithine
+T13	outcome 1168 1210	reduction in the spermidine:spermine ratio
+T9	outcome 1239 1260	cytologic improvement
+T10	outcome 1378 1409	breast molecular marker changes
+T14	outcome 1524 1551	mammographic breast density
+T15	outcome 1553 1587	serum insulin-like growth factor I
+T16	outcome 1641 1655	adverse events
+T17	outcome 1657 1680	quality of life indices
+T18	outcome 1685 1714	subsequent cancer development

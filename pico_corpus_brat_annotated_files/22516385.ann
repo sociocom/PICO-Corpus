@@ -1,0 +1,7 @@
+T1	intervention 37 66	aluminum-based antiperspirant
+T2	location 337 350	North America
+T3	eligibility 126 218	women receiving external beam radiotherapy for treatment of Stage 0, I, and II breast cancer
+T4	total-participants 884 887	198
+T5	control 970 1009	control group (standard care-wash only)
+T7	outcome 1687 1700	skin reaction
+T8	outcome 1737 1752	quality of life

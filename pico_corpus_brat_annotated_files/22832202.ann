@@ -1,0 +1,20 @@
+T3	total-participants 386 388	96
+T4	intervention-participants 438 440	45
+T5	control 445 452	placebo
+T6	control-participants 461 463	51
+T9	location 683 690	Finland
+T10	outcome 882 908	discontinued the treatment
+T11	iv-bin-percent 935 938	44%
+T12	cv-bin-percent 946 949	22%
+T13	outcome 1071 1092	endometrial thickness
+T14	outcome 1317 1370	referrals to hospitals due to gynaecological findings
+T15	outcome 1551 1571	discontinuation rate
+T16	iv-cont-median 976 978	15
+T18	iv-cont-median 1160 1163	4.3
+T19	cv-cont-median 1171 1176	2.0mm
+T17	cv-cont-median 986 995	30 months
+T7	intervention 139 148	tamoxifen
+T8	control 152 159	placebo
+T1	condition 52 98	endometrial safety and gynaecological symptoms
+T2	outcome 1476 1494	hysterectomy rates
+T20	outcome 1504 1531	serious adverse event rates

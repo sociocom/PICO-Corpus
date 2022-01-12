@@ -1,0 +1,12 @@
+T1	intervention 20 29	denosumab
+T3	control 813 820	placebo
+T4	control-participants 826 829	125
+T5	intervention-participants 868 871	127
+T6	outcome 1562 1614	incidence of treatment-emergent adverse events (AEs)
+T7	outcome 1496 1517	Bone turnover markers
+T10	outcome 1380 1383	BMD
+T11	outcome 1403 1494	at the total hip, total body, femoral neck, and the predominantly cortical one-third radius
+T12	outcome 1104 1123	At 12 and 24 months
+T13	outcome 1125 1141	lumbar spine BMD
+T14	outcome-Measure 1016 1102	percentage change from baseline at month 12 in lumbar spine bone mineral density (BMD)
+T2	eligibility 531 645	women with hormone receptor-positive nonmetastatic breast cancer treated with adjuvant aromatase inhibitor therapy

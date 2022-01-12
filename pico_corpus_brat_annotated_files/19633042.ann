@@ -1,0 +1,22 @@
+T1	intervention 44 56	adecatumumab
+T2	eligibility 111 149	patients with metastatic breast cancer
+T3	total-participants 451 454	109
+T4	outcome 1278 1284	chills
+T5	outcome 1296 1302	nausea
+T6	iv-bin-percent 1286 1289	59%
+T7	cv-bin-percent 1290 1293	20%
+T8	iv-bin-percent 1304 1307	55%
+T9	cv-bin-percent 1308 1311	18%
+T10	outcome 1314 1321	fatigue
+T11	iv-bin-percent 1323 1326	39%
+T12	cv-bin-percent 1327 1330	23%
+T13	outcome 1336 1344	diarrhea
+T14	iv-bin-percent 1346 1349	43%
+T15	cv-bin-percent 1350 1352	7%
+T16	outcome 1128 1155	new metastases up to week 6
+T17	iv-bin-abs 1041 1046	Three
+T18	intervention-participants 1050 1052	18
+T19	cv-bin-abs 1171 1173	14
+T20	control-participants 1177 1179	29
+T21	outcome 855 872	tumor progression
+T22	outcome 1237 1251	adverse events

@@ -1,0 +1,21 @@
+T2	outcome 1445 1473	Axillary nodes were positive
+T3	iv-bin-percent 1478 1481	14%
+T4	cv-bin-percent 1503 1505	2%
+T5	outcome 1257 1259	OS
+T6	outcome 1264 1267	EFS
+T7	iv-bin-percent 1317 1320	98%
+T8	cv-bin-percent 1325 1328	94%
+T9	iv-bin-percent 1333 1336	96%
+T10	cv-bin-percent 1341 1344	90%
+T11	total-participants 1164 1167	625
+T12	control-participants 1178 1181	297
+T13	intervention-participants 1192 1195	310
+T14	outcome-Measure 951 972	overall survival (OS)
+T17	age 653 663	≥ 50 years
+T18	eligibility 664 743	with early breast cancer (tumor ≤ 10 mm) and clinically-negative axillary nodes
+T19	control 799 814	without (no-Ax)
+T16	intervention 89 107	axillary clearance
+T1	outcome 1360 1370	Recurrence
+T20	outcome 1559 1581	Functional impairments
+T15	outcome-Measure 999 1024	event-free survival (EFS)
+T21	outcome-Measure 1029 1048	functional outcomes

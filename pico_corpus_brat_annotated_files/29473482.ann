@@ -1,0 +1,13 @@
+T1	intervention 0 51	Prospective surveillance and targeted physiotherapy
+T2	condition 56 69	arm morbidity
+T3	eligibility 423 464	Women scheduled for breast cancer surgery
+T4	intervention-participants 522 524	21
+T5	control 219 234	education (EDU)
+T6	control-participants 539 541	20
+T8	outcome 1294 1307	arm morbidity
+T9	iv-bin-abs 1271 1273	10
+T10	cv-bin-abs 1283 1284	8
+T11	outcome 1457 1466	retention
+T12	iv-bin-percent 1453 1456	90%
+T7	outcome 1234 1246	At 12 months
+T13	outcome 1477 1489	program cost

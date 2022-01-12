@@ -1,0 +1,25 @@
+T1	total-participants 372 410	Eight-thousand four-hundred twenty-two
+T4	intervention 538 549	medial site
+T5	intervention-participants 551 556	1,622
+T6	control 566 599	lateral, central, and other sites
+T7	control-participants 601 606	6,800
+T8	outcome 767 788	disease-free survival
+T10	iv-bin-percent 808 811	46%
+T11	cv-bin-percent 814 817	48%
+T14	outcome 864 880	overall survival
+T15	outcome 882 892	10-year OS
+T16	iv-bin-percent 893 896	59%
+T17	cv-bin-percent 899 902	61%
+T22	outcome 1046 1049	DFS
+T25	outcome 1090 1092	OS
+T26	outcome 1115 1130	risk of relapse
+T27	outcome 1327 1338	10-year DFS
+T28	iv-bin-percent 1343 1346	61%
+T29	cv-bin-percent 1349 1352	67%
+T30	outcome 1358 1360	OS
+T31	iv-bin-percent 1365 1368	73%
+T32	cv-bin-percent 1371 1374	80%
+T35	outcome 1469 1472	DFS
+T38	outcome 1523 1525	OS
+T2	intervention 0 21	Site of primary tumor
+T3	outcome 790 806	DFS; 10-year DFS

@@ -1,0 +1,18 @@
+T1	intervention 15 63	Transforming Growth Factor β Polymorphism C-509T
+T2	eligibility 102 141	Patients With Early-Stage Breast Cancer
+T3	condition 69 95	Radiation-Induced Fibrosis
+T4	total-participants 808 811	287
+T5	age 818 835	40 years or older
+T6	eligibility 836 933	with pathologically confirmed stage 0 to IIA breast cancer treated with breast-conserving surgery
+T9	outcome-Measure 1294 1327	grade 2 or higher breast fibrosis
+T10	total-participants 1489 1492	287
+T11	total-participants 1602 1605	174
+T12	outcome 1710 1743	Grade 2 or higher breast fibrosis
+T13	iv-bin-abs 1759 1761	12
+T14	intervention-participants 1765 1767	87
+T15	iv-bin-percent 1790 1795	13.8%
+T16	cv-bin-abs 1811 1812	3
+T17	control-participants 1816 1818	80
+T18	cv-bin-percent 1856 1860	3.8%
+T7	outcome 2153 2173	breast fibrosis risk
+T8	control 709 740	conventionally fractionated WBI

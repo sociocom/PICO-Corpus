@@ -1,0 +1,24 @@
+T2	control 565 575	no therapy
+T3	eligibility 587 704	patients with HER-2-negative metastatic breast cancer who achieved an objective response to taxane-based chemotherapy
+T5	iv-bin-abs 834 836	10
+T6	intervention-participants 840 842	36
+T7	iv-bin-percent 853 856	28%
+T8	cv-bin-abs 871 872	4
+T9	control-participants 876 878	19
+T10	cv-bin-percent 889 892	21%
+T11	outcome 908 918	median PFS
+T12	iv-cont-median 923 926	2.8
+T13	cv-cont-median 931 941	3.1 months
+T14	outcome 1254 1276	Grades III-IV toxicity
+T15	iv-bin-percent 1289 1292	69%
+T16	outcome 1315 1322	fatigue
+T17	iv-bin-percent 1323 1326	31%
+T18	outcome 1328 1348	musculoskeletal pain
+T19	iv-bin-percent 1349 1352	11%
+T20	outcome 1354 1382	neutropenia and thrombopenia
+T21	outcome 1383 1385	8%
+T22	cv-bin-percent 1391 1394	11%
+T23	intervention 49 86	antiangiogenic therapy with sunitinib
+T1	outcome 1113 1136	required dose reduction
+T4	outcome 771 817	progression-free survival (PFS) > or =5 months
+T27	outcome 1211 1226	dose reductions

@@ -1,0 +1,19 @@
+T1	intervention 60 69	letrozole
+T2	control 169 176	placebo
+T4	outcome 1171 1190	annual rate of CLBC
+T5	iv-bin-percent 1195 1200	0.28%
+T6	cv-bin-percent 1219 1224	0.46%
+T9	outcome 1113 1139	Four-year overall survival
+T10	iv-bin-percent 1144 1149	95.1%
+T11	outcome 1034 1052	4-year distant DFS
+T12	iv-bin-percent 1057 1062	96.3%
+T13	cv-bin-percent 1067 1072	94.9%
+T16	outcome 819 832	Four-year DFS
+T17	iv-bin-percent 837 842	94.3%
+T18	cv-bin-percent 859 864	91.4%
+T21	outcome 725 768	recurrences or contralateral breast cancers
+T22	iv-bin-abs 778 781	164
+T23	cv-bin-abs 796 799	235
+T24	total-participants 534 538	5187
+T25	control-participants 617 621	1579
+T26	eligibility 103 122	early breast cancer

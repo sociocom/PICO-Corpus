@@ -1,0 +1,8 @@
+T1	intervention 1 10	Parecoxib
+T2	total-participants 328 330	40
+T3	eligibility 331 395	breast cancer patients undergone the modified radical mastectomy
+T4	intervention-participants 444 446	20
+T5	control 454 467	control group
+T6	control-participants 471 473	20
+T9	outcome 912 915	NLR
+T10	outcome 1136 1139	NLR

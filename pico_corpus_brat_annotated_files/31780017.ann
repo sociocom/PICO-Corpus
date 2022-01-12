@@ -1,0 +1,19 @@
+T1	intervention 0 17	Nigella sativa L.
+T2	condition 36 62	acute radiation dermatitis
+T3	total-participants 331 340	Sixty-two
+T4	eligibility 341 392	breast cancer patients undergoing radiotherapy (RT)
+T5	control 446 453	placebo
+T9	outcome 1198 1230	occurrence of moist desquamation
+T10	outcome 1334 1362	mean score of the worst pain
+T11	outcome 1584 1603	effect on the SRQOL
+T8	outcome 883 914	incidence time of grade 2 and 3
+T12	iv-cont-mean 1111 1113	35
+T13	cv-cont-mean 1118 1125	29 days
+T14	iv-cont-mean 1140 1142	42
+T15	cv-cont-mean 1147 1154	40 days
+T16	iv-cont-mean 1303 1305	37
+T17	cv-cont-mean 1310 1317	33 days
+T7	iv-cont-mean 1483 1487	2.5 
+T18	iv-cont-sd 1489 1492	0.5
+T19	cv-cont-mean 1497 1500	1.2
+T20	cv-cont-sd 1503 1506	0.3

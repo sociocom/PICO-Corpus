@@ -1,0 +1,26 @@
+T1	intervention 50 56	EP2006
+T2	control 87 107	reference filgrastim
+T3	condition 183 201	severe neutropenia
+T5	eligibility 525 656	patients with breast cancer receiving (neo)adjuvant myelosuppressive chemotherapy (TAC; docetaxel + doxorubicin + cyclophosphamide)
+T6	total-participants 815 818	218
+T7	intervention-participants 1477 1480	109
+T8	control-participants 1514 1516	52
+T9	outcome 1618 1633	incidence of FN
+T11	cv-bin-percent 1638 1640	0%
+T12	iv-bin-percent 1660 1664	3.4%
+T14	outcome 1799 1809	Infections
+T15	iv-bin-percent 1822 1826	9.3%
+T16	cv-bin-percent 1845 1849	9.9%
+T17	outcome 1863 1888	Hospitalisation due to FN
+T18	iv-bin-abs 1898 1901	one
+T19	outcome 1933 1947	Adverse events
+T20	iv-bin-percent 1987 1992	42.1%
+T21	cv-bin-percent 2011 2016	39.2%
+T22	outcome 2043 2086	Musculoskeletal/connective tissue disorders
+T23	iv-bin-percent 2121 2126	35.5%
+T24	cv-bin-percent 2145 2150	39.2%
+T25	outcome 2222 2245	neutralising antibodies
+T26	outcome 2187 2196	bone pain
+T27	iv-bin-percent 2198 2203	30.8%
+T28	cv-bin-percent 2211 2216	33.3%
+T4	iv-bin-abs 1670 1671	3

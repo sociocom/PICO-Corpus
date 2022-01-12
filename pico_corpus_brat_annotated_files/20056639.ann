@@ -1,0 +1,15 @@
+T3	ethinicity 104 120	African American
+T1	intervention 22 66	lay health advisor and computer intervention
+T2	total-participants 406 409	181
+T4	age 465 479	41 to 75 years
+T5	eligibility 513 597	with no breast cancer history, and with no screening mammogram in the past 15 months
+T6	outcome-Measure 849 877	Self-reported screening data
+T7	control 643 659	comparison group
+T8	outcome 1113 1132	increased screening
+T9	iv-bin-percent 1136 1139	51%
+T10	iv-bin-abs 1141 1143	45
+T11	intervention-participants 1147 1149	89
+T12	cv-bin-percent 1165 1168	18%
+T13	cv-bin-abs 1170 1172	16
+T14	control-participants 1176 1178	90
+T15	outcome 1205 1216	at 6 months

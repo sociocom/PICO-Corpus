@@ -1,0 +1,15 @@
+T1	eligibility 427 466	patients with early stage breast cancer
+T3	outcome 686 689	SLN
+T4	iv-bin-abs 708 710	61
+T5	intervention-participants 714 716	66
+T6	iv-bin-percent 718 723	92.4%
+T7	cv-bin-abs 759 761	57
+T8	control-participants 765 767	60
+T9	cv-bin-percent 769 772	95%
+T10	outcome 817 844	mean number of SLNs removed
+T14	intervention 26 80	peritumoral and subareolar injection of blue dye alone
+T2	iv-cont-mean 878 883	1.64 
+T11	iv-cont-sd 885 888	0.6
+T12	cv-cont-mean 909 913	2.23
+T15	cv-cont-sd 916 919	0.7
+T13	control 514 526	PT injection

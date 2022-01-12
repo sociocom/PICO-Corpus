@@ -1,0 +1,26 @@
+T2	intervention 43 71	trastuzumab adjuvant therapy
+T3	control 189 216	non-trastuzumab observation
+T4	ethinicity 220 227	Chinese
+T1	eligibility 228 275	patients with HER2-positive early breast cancer
+T5	outcome-Measure 652 673	disease-free survival
+T8	total-participants 1032 1035	122
+T9	intervention-participants 1170 1172	68
+T10	control-participants 1195 1197	54
+T11	outcome 1223 1251	disease-free survival events
+T12	iv-bin-abs 1207 1212	Three
+T13	cv-bin-abs 1217 1222	eight
+T14	outcome 1322 1358	Two-year disease-free survival rates
+T15	iv-bin-percent 1364 1369	92.9%
+T16	cv-bin-percent 1374 1379	81.4%
+T17	outcome 1407 1438	2-year recurrence-free survival
+T18	outcome 1443 1473	distant disease-free survivals
+T19	iv-bin-percent 1479 1484	98.1%
+T20	cv-bin-percent 1488 1493	81.4%
+T21	iv-bin-percent 1511 1516	98.1%
+T22	cv-bin-percent 1520 1525	83.3%
+T23	outcome 1608 1622	safety profile
+T24	outcome 1624 1645	Severe cardiotoxicity
+T6	outcome-Measure 705 729	recurrence-free survival
+T7	outcome-Measure 731 760	distant disease-free survival
+T25	outcome-Measure 762 778	overall survival
+T26	outcome-Measure 783 797	cardiac safety

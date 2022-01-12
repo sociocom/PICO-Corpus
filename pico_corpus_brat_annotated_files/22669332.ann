@@ -1,0 +1,12 @@
+T3	eligibility 493 549	Postmenopausal women at increased risk for breast cancer
+T4	control 597 612	no intervention
+T6	outcome-Measure 709 736	Reduction in breast density
+T7	total-participants 971 973	46
+T9	outcome 1280 1299	serum triglycerides
+T10	outcome 1314 1356	high-density lipoprotein (HDL) cholesterol
+T11	outcome 1410 1421	serum IGF-1
+T12	outcome 1504 1520	IGF-1 or IGFBP-3
+T1	intervention 18 52	omega-3 fatty acids and Raloxifene
+T2	outcome 1038 1052	well tolerated
+T5	outcome 1068 1078	compliance
+T8	outcome 1159 1214	serum n-3FA and n-3FA/Omega-6 fatty acids (n-6FA) ratio

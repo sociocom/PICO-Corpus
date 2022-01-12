@@ -1,0 +1,26 @@
+T1	intervention 56 64	afatinib
+T2	control 72 83	trastuzumab
+T3	control 91 100	lapatinib
+T4	outcome-Measure 975 998	objective response rate
+T5	eligibility 666 754	Treatment-naive, HER2-positive BC patients with stage IIIA, B, C or inflammatory disease
+T6	total-participants 1138 1140	29
+T7	intervention-participants 1183 1185	10
+T8	control-participants 1203 1204	8
+T9	control-participants 1227 1229	11
+T10	outcome 1232 1250	Objective response
+T11	iv-bin-abs 1263 1264	8
+T12	cv-bin-abs 1276 1277	6
+T13	cv-bin-abs 1294 1295	4
+T14	outcome 1346 1376	stable disease (best response)
+T15	iv-bin-abs 1378 1379	1
+T16	iv-bin-abs 1395 1396	1
+T17	outcome 1429 1448	progressive disease
+T18	outcome 1495 1522	drug-related adverse events
+T19	iv-bin-abs 1454 1456	10
+T20	cv-bin-abs 1588 1589	6
+T21	control-participants 1593 1594	8
+T22	cv-bin-abs 1630 1631	5
+T23	control-participants 1635 1637	11
+T24	outcome 1533 1579	diarrhea, dermatitis acneiform, and paronychia
+T25	outcome 1607 1624	diarrhea and rash
+T26	outcome 1668 1691	vomiting and arthralgia

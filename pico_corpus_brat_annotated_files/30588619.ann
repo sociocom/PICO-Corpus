@@ -1,0 +1,17 @@
+T1	intervention 12 23	anastrozole
+T2	age 645 656	45-57 years
+T3	eligibility 296 363	Patients with chemotherapy-induced ovarian function failure (CIOFF)
+T4	eligibility 194 294	postmenopausal women with hormone receptor-positive early breast cancer after 2-3 years of tamoxifen
+T5	total-participants 825 828	395
+T6	total-participants 868 871	261
+T8	outcome 1296 1312	experiencing OFR
+T9	outcome 1351 1383	distant recurrence-free survival
+T10	outcome 1448 1464	overall survival
+T11	iv-bin-abs 1318 1320	39
+T12	outcome 1545 1548	HRs
+T13	outcome 1656 1704	5-year rate for distant recurrence-free survival
+T14	outcome 1775 1798	5-year overall survival
+T15	iv-bin-percent 1709 1714	76.9%
+T16	cv-bin-percent 1738 1743	92.1%
+T17	iv-bin-percent 1799 1804	80.8%
+T18	cv-bin-percent 1809 1814	94.4%

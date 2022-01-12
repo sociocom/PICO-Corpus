@@ -1,0 +1,17 @@
+T1	intervention 5 36	preoperative core needle biopsy
+T2	control 654 680	placebo infusion of saline
+T3	intervention-participants 646 649	144
+T4	control-participants 686 689	148
+T8	outcome 1354 1358	SSIs
+T9	iv-bin-abs 1388 1389	1
+T10	cv-bin-abs 1419 1420	4
+T11	outcome 1158 1189	incidence of postoperative SSIs
+T12	iv-bin-percent 1194 1198	5.6%
+T13	iv-bin-abs 1200 1201	8
+T14	intervention-participants 1202 1205	144
+T15	cv-bin-percent 1238 1242	8.8%
+T16	cv-bin-abs 1244 1246	13
+T17	control-participants 1247 1250	148
+T6	outcome 1423 1468	Body mass index, smoking, or previous illness
+T7	outcome 1547 1563	incidence of SSI
+T18	outcome 1025 1041	incidence of SSI

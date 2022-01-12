@@ -1,0 +1,11 @@
+T3	total-participants 415 418	319
+T4	eligibility 419 440	young sedentary women
+T8	outcome 629 647	Exercise adherence
+T9	outcome 661 674	dropout rates
+T10	control 696 710	control groups
+T11	iv-bin-percent 716 721	21.7%
+T12	cv-bin-percent 726 731	14.5%
+T13	outcome 777 823	change from baseline in IGFBP-3 concentrations
+T14	outcome 825 839	IGFBP-3 levels
+T1	intervention 13 21	exercise
+T2	outcome 1010 1032	effect on IGF proteins

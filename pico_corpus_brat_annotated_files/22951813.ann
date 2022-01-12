@@ -1,0 +1,18 @@
+T1	intervention 206 215	denosumab
+T2	control 223 243	zoledronic acid (ZA)
+T4	eligibility 255 311	patients with advanced breast cancer and bone metastases
+T5	total-participants 604 608	2046
+T6	outcome 836 849	pain severity
+T8	outcome 1268 1303	time to increased pain interference
+T9	outcome 1402 1426	time to pain improvement
+T10	outcome 1445 1480	time to decreased pain interference
+T11	outcome 1576 1589	analgesic use
+T12	iv-cont-mean 1024 1034	8.5 months
+T13	cv-cont-mean 1040 1050	7.4 months
+T14	iv-cont-mean 1209 1219	9.7 months
+T15	cv-cont-mean 1223 1233	5.8 months
+T16	iv-cont-mean 1358 1369	16.0 months
+T17	cv-cont-mean 1375 1386	14.9 months
+T18	condition 0 4	Pain
+T3	outcome 964 986	time to pain worsening
+T7	outcome 1127 1162	progression to moderate/severe pain

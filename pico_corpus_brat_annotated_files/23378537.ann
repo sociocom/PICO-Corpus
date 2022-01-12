@@ -1,0 +1,15 @@
+T4	total-participants 779 821	Four thousand eight hundred and forty-four
+T1	control 869 885	standard therapy
+T7	outcome 956 966	compliance
+T8	outcome 1018 1035	persistence rates
+T9	cv-bin-percent 978 983	88.5%
+T10	iv-bin-percent 984 989	88.8%
+T12	cv-bin-percent 1047 1052	40.5%
+T13	iv-bin-percent 1053 1058	43.0%
+T2	intervention 115 147	standardized information program
+T5	outcome 1137 1147	compliance
+T6	outcome 1197 1251	patients with missing documentation or follow-up visit
+T11	outcome 1306 1380	patients with early (≤ 292 days) 12-month follow-up documentation excluded
+T14	outcome 1409 1443	patients reaching ≥ 80% compliance
+T3	outcome-Measure 634 644	compliance
+T15	outcome-Measure 700 711	persistence

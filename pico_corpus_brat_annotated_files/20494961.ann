@@ -1,0 +1,29 @@
+T1	intervention 23 34	fulvestrant
+T2	ethinicity 53 61	Japanese
+T3	eligibility 62 95	women with advanced breast cancer
+T6	total-participants 853 876	Hundred and forty-three
+T7	age 898 906	61 years
+T8	intervention 917 931	fulvestrant AD
+T9	intervention 957 959	HD
+T10	intervention 942 944	LD
+T11	intervention-participants 937 939	45
+T12	intervention-participants 950 952	51
+T13	intervention-participants 965 967	47
+T15	iv-bin-percent 1008 1013	11.1%
+T16	iv-bin-percent 1015 1020	17.6%
+T17	iv-bin-percent 1025 1030	10.6%
+T18	outcome 1103 1114	TTP and CBR
+T19	outcome 1149 1159	median TTP
+T20	iv-cont-median 1161 1164	6.0
+T21	iv-cont-median 1166 1169	7.5
+T22	iv-cont-median 1174 1184	6.0 months
+T23	outcome 1200 1203	CBR
+T24	iv-bin-percent 1205 1210	42.2%
+T25	iv-bin-percent 1212 1217	54.9%
+T26	iv-bin-percent 1222 1227	46.8%
+T4	outcome 970 973	ORR
+T14	outcome-Measure 507 536	objective response rate (ORR)
+T5	outcome-Measure 575 600	time to progression (TTP)
+T27	outcome-Measure 602 629	clinical benefit rate (CBR)
+T28	outcome-Measure 631 642	PK profiles
+T29	outcome-Measure 647 659	tolerability

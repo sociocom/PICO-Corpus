@@ -1,0 +1,19 @@
+T1	intervention 230 267	axillary lymph node dissection (ALND)
+T2	control 272 304	axillary radiation therapy (ART)
+T3	eligibility 308 371	early breast cancer patients with tumor-positive sentinel nodes
+T4	total-participants 674 679	2,000
+T5	total-participants 965 970	2,000
+T6	outcome 1269 1286	Endocrine therapy
+T7	iv-bin-percent 1307 1310	78%
+T8	iv-bin-abs 1312 1315	235
+T9	intervention-participants 1319 1322	300
+T10	cv-bin-percent 1363 1366	76%
+T11	cv-bin-abs 1368 1371	203
+T12	control-participants 1375 1378	266
+T13	iv-bin-percent 1177 1180	58%
+T14	iv-bin-abs 1182 1185	175
+T15	intervention-participants 1189 1192	300
+T16	cv-bin-percent 1198 1201	61%
+T17	cv-bin-abs 1203 1206	162
+T18	control-participants 1210 1213	266
+T19	outcome 1246 1267	received chemotherapy

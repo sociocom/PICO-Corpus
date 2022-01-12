@@ -1,0 +1,11 @@
+T1	intervention 9 22	web-based app
+T2	total-participants 744 754	Forty-four
+T3	eligibility 755 817	women with early-stage breast cancer and a new AI prescription
+T4	control 896 920	App (no reminders) group
+T6	outcome 1040 1061	weekly app usage rate
+T7	iv-bin-percent 1063 1065	74
+T8	cv-bin-percent 1070 1073	38%
+T9	outcome 1129 1141	AI adherence
+T10	iv-bin-percent 1154 1157	100
+T11	cv-bin-percent 1162 1165	72%
+T12	outcome 1178 1201	Symptom burden increase

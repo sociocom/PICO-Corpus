@@ -1,0 +1,23 @@
+T1	intervention 12 33	higher radiation dose
+T2	outcome 1482 1502	Survival at 10 years
+T3	iv-bin-percent 1507 1510	82%
+T4	outcome 1317 1332	Severe fibrosis
+T5	outcome 1414 1426	10-year rate
+T6	iv-bin-percent 1430 1434	4.4%
+T7	cv-bin-percent 1442 1446	1.6%
+T8	outcome 1261 1291	number of salvage mastectomies
+T9	outcome 1116 1151	absolute risk reduction at 10 years
+T13	outcome 700 716	Local recurrence
+T14	cv-bin-abs 764 767	278
+T15	iv-bin-abs 798 801	165
+T16	outcome 826 834	10 years
+T17	outcome 840 880	cumulative incidence of local recurrence
+T18	cv-bin-percent 885 890	10.2%
+T19	iv-bin-percent 898 902	6.2%
+T20	age 690 698	55 years
+T21	total-participants 417 422	5,318
+T22	eligibility 423 516	patients with microscopically complete excision followed by whole-breast irradiation of 50 Gy
+T23	intervention-participants 581 586	2,661
+T24	control 600 613	no boost dose
+T25	control-participants 615 620	2,657
+T10	outcome 987 1003	local recurrence

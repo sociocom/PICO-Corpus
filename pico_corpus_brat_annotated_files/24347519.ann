@@ -1,0 +1,20 @@
+T1	outcome-Measure 720 751	pCR rate at the time of surgery
+T2	total-participants 753 776	Five hundred thirty-six
+T3	control-participants 811 814	266
+T4	intervention-participants 826 829	270
+T5	intervention 0 53	Epirubicin and docetaxel with or without capecitabine
+T6	intervention-participants 886 888	44
+T7	control-participants 900 902	49
+T8	outcome 905 913	pCR rate
+T9	iv-bin-percent 952 957	23.0%
+T10	cv-bin-percent 965 970	15.4%
+T11	iv-bin-percent 1042 1047	38.6%
+T12	cv-bin-percent 1059 1064	26.5%
+T15	iv-bin-abs 1454 1456	35
+T16	cv-bin-abs 1464 1466	18
+T17	eligibility 406 455	Patients with invasive breast cancer (except T4d)
+T18	control 805 807	ED
+T19	control 893 896	not
+T13	outcome 1079 1113	Rates of axillary node involvement
+T20	outcome 1129 1148	breast conservation
+T14	outcome 1420 1452	number of serious adverse events

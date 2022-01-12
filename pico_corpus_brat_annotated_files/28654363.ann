@@ -1,0 +1,22 @@
+T1	intervention 0 15	Low-Fat Dietary
+T3	total-participants 663 669	48,835
+T4	eligibility 670 745	postmenopausal women with normal mammograms and without prior breast cancer
+T6	location 770 772	US
+T7	intervention-participants 941 947	19,541
+T8	control 957 967	usual diet
+T9	control-participants 989 995	29,294
+T11	iv-bin-abs 1273 1275	27
+T12	iv-bin-percent 1284 1290	0.016%
+T13	cv-bin-abs 1303 1305	61
+T14	cv-bin-percent 1314 1320	0.024%
+T15	outcome 1413 1439	deaths after breast cancer
+T16	iv-bin-abs 1478 1480	40
+T17	iv-bin-percent 1489 1495	0.025%
+T18	cv-bin-abs 1508 1510	94
+T19	cv-bin-percent 1519 1525	0.038%
+T20	outcome 1675 1701	deaths after breast cancer
+T10	outcome 1165 1209	deaths occurred as a result of breast cancer
+T22	iv-bin-abs 1735 1738	234
+T23	iv-bin-percent 1747 1753	0.085%
+T24	cv-bin-abs 1766 1769	443
+T25	cv-bin-percent 1778 1783	0.11%

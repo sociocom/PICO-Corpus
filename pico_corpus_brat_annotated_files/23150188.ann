@@ -1,0 +1,12 @@
+T1	intervention 11 24	Ginkgo biloba
+T2	condition 47 89	chemotherapy-related cognitive dysfunction
+T3	eligibility 561 653	Previously chemotherapy naïve women about to receive adjuvant chemotherapy for breast cancer
+T4	control 712 719	placebo
+T5	outcome-Measure 926 966	High Sensitivity Cognitive Screen (HSCS)
+T6	outcome-Measure 1003 1035	Trail Making Tests (TMT) A and B
+T10	total-participants 1610 1635	One hundred and sixty-six
+T11	outcome 1693 1711	differences in AUC
+T12	outcome 1864 1889	differences in TMT A or B
+T13	outcome 1909 1938	Perceived cognitive functions
+T14	outcome 2114 2159	self-reported cognition and cognitive testing
+T15	outcome 2193 2203	toxicities

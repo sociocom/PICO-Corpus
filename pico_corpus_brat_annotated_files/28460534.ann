@@ -1,0 +1,7 @@
+T1	intervention 48 93	Mindfulness-Based Stress Reduction (MBSR[BC])
+T2	control 359 374	usual care (UC)
+T3	total-participants 481 484	322
+T4	eligibility 137 171	Recovering Breast Cancer Survivors
+T6	outcome 1034 1047	nondetectable
+T7	outcome 1234 1247	TNFα and IL-6
+T8	outcome 1397 1410	sTNFR1 levels

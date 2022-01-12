@@ -1,0 +1,16 @@
+T1	intervention 26 59	doxorubicin plus cyclophosphamide
+T2	control 65 96	docetaxel plus cyclophosphamide
+T3	outcome-Measure 466 493	disease-free survival (DFS)
+T6	total-participants 668 673	1,016
+T7	intervention-participants 785 788	510
+T8	control-participants 833 836	506
+T9	outcome 1229 1237	DFS rate
+T10	iv-bin-percent 1290 1293	86%
+T11	cv-bin-percent 1296 1299	80%
+T14	outcome 1374 1396	Overall survival rates
+T15	iv-bin-percent 1416 1419	90%
+T16	cv-bin-percent 1424 1427	87%
+T19	outcome 1490 1541	myalgia, arthralgia, edema, and febrile neutropenia
+T20	outcome 1571 1590	nausea and vomiting
+T4	eligibility 530 629	stage I to III operable invasive breast cancer with complete surgical excision of the primary tumor
+T5	outcome 1641 1665	congestive heart failure

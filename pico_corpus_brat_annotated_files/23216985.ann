@@ -1,0 +1,8 @@
+T5	outcome-Measure 1029 1090	change in prevalence of atypical cells and cell proliferation
+T7	total-participants 1254 1257	150
+T8	control 1601 1608	placebo
+T9	outcome 2138 2164	DL is a feasible procedure
+T10	outcome 2170 2197	treatment is well tolerated
+T11	outcome 2253 2267	liver toxicity
+T2	eligibility 1258 1517	women with a history of estrogen receptor negative ductal intraepithelial neoplasia or lobular intraepithelial neoplasia or atypical hyperplasia, or unaffected subjects carrying a mutation of BRCA1 or with a probability of mutation >10% (according to BRCAPRO)
+T6	intervention 0 20	Breast ductal lavage

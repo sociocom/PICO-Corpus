@@ -1,0 +1,12 @@
+T1	intervention 128 138	exemestane
+T2	control 142 159	megestrol acetate
+T3	eligibility 342 380	patients with metastatic breast cancer
+T4	total-participants 415 418	769
+T5	total-participants 803 805	53
+T6	intervention-participants 816 818	24
+T7	control-participants 841 843	29
+T10	outcome 1005 1030	suppression of E2 and E1S
+T15	outcome 1162 1177	IGF-1 increased
+T16	outcome 1250 1265	Estrogen levels
+T8	outcome 900 904	ICTP
+T9	outcome 909 912	BAP

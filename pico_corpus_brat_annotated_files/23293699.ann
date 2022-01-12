@@ -1,0 +1,23 @@
+T1	intervention 35 73	Sequential Irinotecan and Flavopiridol
+T2	eligibility 453 505	Patients with advanced HCC naïve to systemic therapy
+T3	outcome-Measure 702 762	improvement in progression-free survival at 4 months (PFS-4)
+T4	total-participants 848 850	16
+T5	outcome 1016 1021	PFS-4
+T7	outcome 1122 1127	SD >1
+T8	iv-bin-abs 1116 1117	1
+T9	iv-bin-abs 1137 1138	9
+T10	outcome 1143 1162	disease progression
+T12	outcome 1372 1382	mutant p53
+T13	total-participants 1339 1340	9
+T14	iv-bin-abs 1366 1367	5
+T15	iv-bin-abs 1387 1388	4
+T16	outcome 1393 1406	wild-type p53
+T6	age 906 914	64 years
+T11	outcome 1164 1179	Grade 3 fatigue
+T17	outcome 1181 1192	dehydration
+T18	outcome 1194 1202	diarrhea
+T19	outcome 1204 1237	neutropenia with or without fever
+T20	outcome 1239 1250	lymphopenia
+T21	outcome 1252 1258	anemia
+T22	outcome 1260 1278	hyperbilirubinemia
+T23	outcome 1284 1297	transaminitis

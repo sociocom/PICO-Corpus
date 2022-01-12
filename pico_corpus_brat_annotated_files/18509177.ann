@@ -1,0 +1,16 @@
+T1	outcome 1328 1336	toxicity
+T2	outcome 1256 1279	TTF or overall response
+T3	outcome 1154 1169	hazard of death
+T6	outcome 899 905	deaths
+T7	cv-bin-abs 907 910	166
+T8	iv-bin-abs 933 936	613
+T9	outcome 946 955	median OS
+T10	cv-cont-median 960 971	14.3 months
+T11	iv-cont-median 998 1010	18.75 months
+T16	intervention 478 483	white
+T17	control-participants 494 497	195
+T18	intervention-participants 474 477	787
+T19	control 498 514	African American
+T20	eligibility 521 559	patients with metastatic breast cancer
+T4	intervention 0 18	Racial differences
+T5	outcome 1426 1441	hazard of death

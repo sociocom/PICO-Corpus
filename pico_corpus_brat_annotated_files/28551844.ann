@@ -1,0 +1,10 @@
+T1	intervention 17 28	minocycline
+T2	condition 51 83	paclitaxel-associated neuropathy
+T3	eligibility 464 491	Patients with breast cancer
+T5	control 685 692	placebo
+T8	total-participants 945 955	Forty-seve
+T6	outcome 1321 1339	average pain score
+T7	outcome 1386 1409	no increased toxicities
+T4	outcome 1478 1485	fatigue
+T9	outcome-Measure 1631 1638	fatigue
+T10	outcome-Measure 1612 1617	P-APS

@@ -1,0 +1,22 @@
+T2	intervention 47 75	pectoral fascia preservation
+T3	total-participants 545 548	247
+T4	eligibility 549 618	patients with breast cancer who underwent modified radical mastectomy
+T5	location 627 634	Swedish
+T7	control 745 752	removal
+T8	control-participants 758 761	122
+T12	iv-bin-abs 1024 1026	18
+T13	outcome 1041 1062	chest-wall recurrence
+T14	cv-bin-abs 1146 1148	10
+T16	iv-bin-percent 1408 1410	13
+T17	iv-bin-percent 1415 1418	15%
+T18	cv-bin-percent 1492 1493	8
+T19	cv-bin-percent 1498 1500	9%
+T9	intervention-participants 788 791	125
+T1	outcome 821 852	breast-cancer-specific survival
+T6	outcome 853 864	at 10 years
+T10	outcome 950 1011	chest-wall recurrence rate or breast-cancer-specific survival
+T11	outcome 1343 1381	cumulative chest-wall recurrence rates
+T15	outcome 1382 1386	at 5
+T20	outcome 1391 1402	at 10 years
+T21	outcome 1588 1614	chest wall recurrence rate
+T22	outcome 1623 1654	breast-cancer-specific survival

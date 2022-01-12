@@ -1,0 +1,22 @@
+T2	iv-bin-abs 1225 1227	22
+T4	ethinicity 256 266	Australian
+T5	total-participants 285 296	Eighty-five
+T6	intervention-participants 357 359	43
+T8	control-participants 430 432	42
+T9	control 445 459	usual activity
+T10	outcome-Measure 481 525	Depression Anxiety Stress Scale (DASS) scale
+T12	outcome 916 938	DASS Depression scores
+T13	outcome 984 997	PIPP Mobility
+T14	outcome 1013 1026	Participation
+T15	outcome 1050 1071	CARES-SF Global score
+T16	intervention-participants 1228 1230	42
+T17	iv-bin-percent 1232 1237	52.4%
+T18	cv-bin-abs 1242 1244	12
+T19	control-participants 1245 1247	37
+T20	cv-bin-percent 1249 1254	32.4%
+T21	outcome 1314 1323	FIM scale
+T1	outcome 1182 1223	improvement in the DASS Depression scores
+T3	intervention 0 32	Multidisciplinary rehabilitation
+T7	outcome-Measure 593 632	Perceived Impact Problem Profile (PIPP)
+T11	outcome-Measure 637 698	Cancer Rehabilitation Evaluation System Short-Form (CARES-SF)
+T22	outcome-Measure 704 756	Functional Independence Measure (FIM) motor subscale

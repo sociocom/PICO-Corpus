@@ -1,0 +1,10 @@
+T1	intervention 130 175	Cognitive behavioral stress management (CBSM)
+T2	eligibility 680 717	Women with stage 0-IIIb breast cancer
+T4	control 846 875	psychoeducation control group
+T5	total-participants 944 946	51
+T6	intervention-participants 1014 1016	28
+T7	control-participants 1028 1030	23
+T11	outcome 1376 1417	6-12 month change in CTRA gene expression
+T12	outcome 1502 1513	Average DFS
+T3	outcome 1559 1563	CTRA
+T13	outcome 1800 1813	long-term DFS

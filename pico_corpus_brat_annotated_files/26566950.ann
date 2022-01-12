@@ -1,0 +1,25 @@
+T2	location 135 143	Scotland
+T4	eligibility 414 489	participants receiving a reminder letter for a missed screening appointment
+T5	control 541 568	No telephone call (control)
+T6	outcome-Measure 715 736	making an appointment
+T7	outcome-Measure 741 767	attending breast screening
+T8	total-participants 772 775	856
+T9	outcome 907 926	made an appointment
+T10	cv-bin-percent 937 941	8.8%
+T11	iv-bin-percent 948 953	20.3%
+T12	iv-bin-percent 965 970	14.1%
+T13	iv-bin-percent 985 990	16.8%
+T14	outcome 1022 1047	attended breast screening
+T15	cv-bin-percent 1058 1062	6.9%
+T16	iv-bin-percent 1069 1074	16.5%
+T17	iv-bin-percent 1086 1091	11.3%
+T18	iv-bin-percent 1106 1111	13.1%
+T19	total-participants 1230 1233	247
+T20	iv-bin-percent 1348 1351	17%
+T21	cv-bin-percent 1359 1362	10%
+T22	iv-bin-percent 1401 1404	13%
+T23	cv-bin-percent 1412 1414	7%
+T24	outcome 1444 1455	appointment
+T25	outcome 1342 1346	make
+T26	outcome 1393 1399	attend
+T1	intervention 39 61	telephone intervention

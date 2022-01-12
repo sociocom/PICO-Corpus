@@ -1,0 +1,28 @@
+T1	intervention 38 50	hypnotherapy
+T2	control 58 68	gabapentin
+T3	total-participants 472 474	15
+T4	eligibility 475 601	women with a personal history of breast cancer or an increased risk of breast cancer who reported at least one daily hot flash
+T8	total-participants 911 913	27
+T9	total-participants 940 942	15
+T10	control-participants 1003 1004	8
+T11	intervention-participants 1019 1020	7
+T13	cv-cont-median 1092 1095	4.5
+T14	iv-cont-median 1122 1123	5
+T15	outcome 1149 1160	HFSS scores
+T16	cv-cont-median 1166 1169	7.5
+T17	iv-cont-median 1196 1198	10
+T12	outcome 1040 1087	median number of daily hot flashes at enrolment
+T18	outcome 1243 1277	median number of daily hot flashes
+T19	outcome 1361 1372	median HFSS
+T5	condition 90 101	hot flashes
+T7	outcome-Measure 858 909	Hot Flash Related Daily Interference Scale (HFRDIS)
+T20	outcome 1452 1474	HFRDIS scores improved
+T21	outcome 1224 1237	After 8 weeks
+T22	cv-cont-median 1293 1298	33.3%
+T23	iv-cont-median 1328 1331	80%
+T24	cv-cont-median 1388 1393	33.3%
+T25	iv-cont-median 1423 1426	85%
+T26	cv-cont-mean 1478 1483	51.6%
+T27	iv-cont-median 1515 1520	55.2%
+T6	outcome-Measure 762 789	number of daily hot flashes
+T28	outcome-Measure 794 825	hot flash severity score (HFSS)

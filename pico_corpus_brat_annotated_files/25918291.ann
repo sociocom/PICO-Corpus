@@ -1,0 +1,11 @@
+T3	control 446 461	usual care (UC)
+T4	eligibility 618 677	patients undergoing adjuvant chemotherapy for breast cancer
+T5	total-participants 766 769	230
+T11	outcome 1347 1363	physical fatigue
+T12	outcome 1523 1552	chemotherapy dose adjustments
+T1	intervention 10 91	Low-Intensity Physical Activity and Moderate- to High-Intensity Physical Exercise
+T2	outcome 1068 1093	cardiorespiratory fitness
+T6	outcome 1113 1133	physical functioning
+T7	outcome 1151 1170	nausea and vomiting
+T8	outcome 1214 1218	pain
+T9	outcome 1316 1331	muscle strength

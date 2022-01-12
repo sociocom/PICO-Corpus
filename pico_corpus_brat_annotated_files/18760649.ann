@@ -1,0 +1,16 @@
+T1	intervention 18 28	boost dose
+T2	control-participants 426 467	Five thousand five hundred and sixty-nine
+T4	intervention-participants 602 606	5318
+T6	outcome 843 883	cumulative incidence of local recurrence
+T7	cv-bin-percent 888 893	10.2%
+T8	iv-bin-percent 901 905	6.2%
+T9	iv-bin-percent 963 968	17.5%
+T10	iv-bin-percent 976 981	10.8%
+T11	outcome 1430 1462	10-year rate for severe fibrosis
+T12	cv-bin-percent 1466 1470	1.6%
+T13	iv-bin-percent 1483 1487	3.3%
+T14	iv-bin-percent 1501 1505	4.4%
+T15	iv-bin-percent 1522 1527	14.4%
+T5	outcome 1200 1232	cumulative risk of local relapse
+T16	outcome 1110 1121	recurrences
+T3	eligibility 385 424	patients with early stage breast cancer

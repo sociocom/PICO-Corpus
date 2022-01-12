@@ -1,0 +1,35 @@
+T1	intervention 92 153	Pectoral Nerves Interfascial Plane (Pectoral Nerves II) Block
+T2	control 159 180	Surgical Infiltration
+T3	total-participants 428 431	104
+T4	eligibility 432 473	female patients undergoing breast surgery
+T7	total-participants 1447 1464	One hundred eight
+T9	outcome 1648 1677	Baseline QoR-15 global scores
+T10	outcome 1797 1824	24-hour QoR-15 global score
+T11	outcome 2096 2100	pain
+T12	outcome 2114 2130	physical comfort
+T13	outcome 2145 2166	physical independence
+T14	outcome 2180 2201	psychological support
+T15	outcome 2215 2223	emotions
+T16	outcome 2251 2280	BPI pain subscale at 24 hours
+T17	outcome 2442 2470	BPI global score at 24 hours
+T18	iv-cont-median 1714 1717	135
+T19	cv-cont-median 1751 1754	139
+T20	iv-cont-median 1860 1863	131
+T21	cv-cont-median 1897 1900	123
+T22	iv-cont-median 2358 2359	7
+T23	cv-cont-median 2390 2392	10
+T24	iv-cont-median 2508 2510	20
+T25	cv-cont-median 2541 2543	23
+T26	outcome 2593 2604	at 3 months
+T27	iv-cont-median 2609 2610	0
+T28	cv-cont-median 2623 2624	0
+T5	outcome-Measure 899 911	global score
+T6	outcome-Measure 1113 1117	pain
+T8	iv-cont-q1 1719 1722	129
+T29	iv-cont-q3 1724 1727	143
+T30	cv-cont-q1 1756 1759	127
+T31	cv-cont-q3 1761 1764	143
+T32	iv-cont-q1 1865 1868	116
+T33	iv-cont-q3 1870 1873	140
+T34	cv-cont-q1 1902 1905	117
+T35	cv-cont-q3 1907 1910	143

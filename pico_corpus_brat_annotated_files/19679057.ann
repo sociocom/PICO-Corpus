@@ -1,0 +1,14 @@
+T1	intervention 12 24	HER2 testing
+T2	location 427 438	Connecticut
+T3	intervention 462 484	Black/African American
+T4	intervention-participants 501 504	644
+T5	control-participants 532 535	720
+T6	control 540 545	White
+T9	outcome 886 892	tested
+T10	iv-bin-percent 927 932	69.5%
+T11	cv-bin-percent 937 942	61.9%
+T7	outcome 1220 1229	ER status
+T12	outcome 1250 1261	tumor grade
+T13	outcome 1281 1291	tumor size
+T14	outcome 1315 1332	lymph node status
+T15	eligibility 546 613	women diagnosed in 2000-2003 with primary invasive breast carcinoma

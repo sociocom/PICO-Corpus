@@ -1,0 +1,6 @@
+T3	age 1540 1551	20-59 years
+T4	eligibility 1519 1534	sedentary women
+T5	eligibility 1552 1733	who have received breast surgery in the past 2-13 months after the diagnosis of invasive breast cancer (stages I-IIa) and have never received chemotherapy except for hormone therapy
+T6	control 1459 1477	treatment as usual
+T9	outcome-Measure 1763 1791	change in peak oxygen uptake
+T1	intervention 21 82	high-intensity interval training and behavioural modification

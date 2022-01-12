@@ -1,0 +1,10 @@
+T1	intervention 38 82	preoperative plus perioperative chemotherapy
+T3	eligibility 272 354	patients treated with preoperative chemotherapy for locally advanced breast cancer
+T4	total-participants 889 900	Fifty-eight
+T5	intervention-participants 1026 1028	29
+T2	control 1045 1052	control
+T6	control-participants 1054 1056	29
+T7	outcome 1072 1090	median Ki-67 index
+T10	outcome 1228 1267	rate of pathological complete remission
+T11	iv-bin-percent 1272 1275	41%
+T12	outcome 1336 1378	disease-free survival and overall survival

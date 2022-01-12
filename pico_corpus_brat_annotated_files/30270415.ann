@@ -1,0 +1,12 @@
+T1	intervention 63 89	photobiomodulation therapy
+T2	condition 111 137	acute radiation dermatitis
+T3	total-participants 413 416	120
+T4	eligibility 417 508	breast cancer patients who underwent an identical radiotherapy (RT) regimen post-lumpectomy
+T5	control 662 669	placebo
+T6	outcome 926 957	incidence of moist desquamation
+T7	cv-bin-percent 1039 1041	30
+T8	iv-bin-percent 1046 1048	7%
+T9	outcome 1179 1211	transepidermal water loss (TEWL)
+T10	outcome 1213 1221	erythema
+T11	outcome 1227 1241	melanin values
+T12	outcome 1390 1408	moist desquamation

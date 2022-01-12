@@ -1,0 +1,45 @@
+T1	intervention 0 28	Fulvestrant plus palbociclib
+T2	control 36 60	fulvestrant plus placebo
+T3	outcome-Measure 1919 1944	progression-free survival
+T4	age 927 944	18 years or older
+T5	eligibility 945 1065	with hormone-receptor-positive, HER2-negative metastatic breast cancer that had progressed on previous endocrine therapy
+T7	total-participants 2265 2268	521
+T8	intervention-participants 2302 2305	347
+T9	control-participants 2342 2345	174
+T10	outcome 2471 2503	progression-free-survival events
+T11	iv-bin-abs 2518 2521	145
+T12	cv-bin-abs 2568 2571	114
+T13	outcome 2659 2691	Median progression-free survival
+T14	iv-cont-median 2696 2706	9·5 months
+T15	cv-cont-median 2771 2781	4·6 months
+T18	outcome 2879 2906	Grade 3 or 4 adverse events
+T19	iv-bin-abs 2919 2922	251
+T20	iv-bin-percent 2924 2927	73%
+T21	intervention-participants 2932 2935	345
+T22	cv-bin-abs 2991 2993	38
+T23	cv-bin-percent 2995 2998	22%
+T24	control-participants 3003 3006	172
+T25	outcome 3104 3115	neutropenia
+T26	iv-bin-abs 3117 3120	223
+T27	iv-bin-percent 3122 3125	65%
+T28	cv-bin-abs 3173 3176	one
+T29	cv-bin-percent 3178 3180	1%
+T30	outcome 3222 3229	anaemia
+T31	iv-bin-abs 3231 3234	ten
+T32	iv-bin-percent 3236 3238	3%
+T33	cv-bin-abs 3244 3249	three
+T34	cv-bin-percent 3251 3253	2%
+T35	outcome 3261 3271	leucopenia
+T36	iv-bin-abs 3273 3275	95
+T37	iv-bin-percent 3277 3280	28%
+T38	cv-bin-abs 3286 3289	two
+T39	cv-bin-percent 3291 3293	1%
+T40	outcome 3297 3319	Serious adverse events
+T41	outcome 3071 3098	grade 3 or 4 adverse events
+T42	iv-bin-abs 3350 3352	44
+T43	iv-bin-percent 3363 3366	13%
+T44	intervention-participants 3371 3374	345
+T45	cv-bin-abs 3421 3423	30
+T46	cv-bin-percent 3425 3428	17%
+T47	control-participants 3433 3436	172
+T48	outcome 3485 3500	PIK3CA mutation

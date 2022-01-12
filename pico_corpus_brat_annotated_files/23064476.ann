@@ -1,0 +1,14 @@
+T3	ethinicity 72 78	Korean
+T4	condition 609 629	AI-induced bone loss
+T6	total-participants 823 825	98
+T8	control 1007 1014	placebo
+T12	outcome 1176 1201	increase in C-telopeptide
+T1	intervention 23 68	alendronate and calcitriol agent (Maxmarvil®)
+T2	eligibility 79 154	postmenopausal women with early breast cancer receiving aromatase inhibitor
+T5	outcome 1120 1130	lumbar BMD
+T7	outcome 1202 1216	after 24 weeks
+T9	iv-cont-mean 1302 1306	35.2
+T11	iv-cont-sd 1309 1314	17.5%
+T13	cv-cont-mean 1319 1324	109.8
+T14	cv-cont-sd 1327 1332	28.6%
+T15	outcome 1090 1100	At week 24

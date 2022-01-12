@@ -1,0 +1,11 @@
+T1	intervention 88 106	Acetyl-L-Carnitine
+T2	condition 121 170	Chemotherapy-induced peripheral neuropathy (CIPN)
+T3	control 489 496	placebo
+T5	eligibility 513 582	women undergoing adjuvant taxane-based chemotherapy for breast cancer
+T4	total-participants 983 1000	Four-hundred nine
+T7	outcome 1115 1138	reduction in NTX scores
+T8	outcome 1483 1508	five-point (10%) decrease
+T9	iv-bin-percent 1422 1427	39.5%
+T10	cv-bin-percent 1447 1452	34.4%
+T11	outcome 1551 1570	104-week NTX scores
+T6	outcome 1814 1818	CIPN

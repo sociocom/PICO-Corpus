@@ -1,0 +1,16 @@
+T1	intervention 62 75	Mebo Ointment
+T2	control 81 94	Biafine Cream
+T3	condition 117 133	Acute Dermatitis
+T4	eligibility 734 804	Female breast cancer patients who needed a course of radiation therapy
+T6	total-participants 1231 1234	161
+T7	age 1313 1324	50.19±12.57
+T8	age 1329 1340	51.73±11.23
+T10	outcome 1739 1764	grades 2 and 3 dermatitis
+T12	cv-bin-percent 1907 1912	14.1%
+T13	iv-bin-percent 1928 1932	2.9%
+T15	cv-bin-percent 1967 1972	11.5%
+T16	iv-bin-percent 1977 1981	1.4%
+T17	outcome 2004 2019	for severe pain
+T14	outcome 1950 1962	for pruritus
+T11	outcome 1800 1828	incidence of severe pruritus
+T18	outcome 1833 1855	severe local skin pain

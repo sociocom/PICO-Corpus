@@ -1,0 +1,14 @@
+T1	intervention 13 28	zoledronic acid
+T2	eligibility 454 500	Patients with EBC and DTC-positive bone marrow
+T3	total-participants 522 524	96
+T4	control 582 613	adjuvant systemic therapy alone
+T6	iv-bin-percent 820 823	67%
+T7	cv-bin-percent 831 834	35%
+T9	outcome 862 872	DTC counts
+T8	outcome 733 762	likely to become DTC-negative
+T11	iv-cont-mean 896 899	0.5
+T13	iv-cont-sd 902 910	0.8 DTCs
+T12	cv-cont-mean 935 938	0.9
+T14	cv-cont-sd 941 949	0.8 DTCs
+T10	outcome 1003 1017	well tolerated
+T15	outcome 1047 1066	elimination of DTCs

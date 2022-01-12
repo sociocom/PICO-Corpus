@@ -1,0 +1,6 @@
+T1	intervention 0 17	Topical silymarin
+T2	condition 51 72	acute radiodermatitis
+T3	control 652 659	placebo
+T4	total-participants 692 697	Forty
+T8	outcome 1253 1283	scores increased significantly
+T5	outcome 1115 1147	median NCI-CTCAE and RTOG scores

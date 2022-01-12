@@ -1,0 +1,42 @@
+T1	intervention 11 26	shugan liangxue
+T2	total-participants 330 332	73
+T4	eligibility 333 355	breast cancer patients
+T5	eligibility 405 462	who were treated with tamoxifen, and revealed hot flashes
+T6	intervention-participants 511 513	37
+T7	control-participants 559 561	36
+T8	control 596 603	placebo
+T9	total-participants 893 895	66
+T10	intervention-participants 906 908	33
+T11	control-participants 934 936	33
+T12	outcome 996 1019	hot flashes disappeared
+T13	iv-bin-abs 1023 1024	5
+T14	iv-bin-abs 1035 1040	15.2%
+T15	outcome 1043 1051	relieved
+T16	iv-bin-abs 1055 1057	14
+T17	iv-bin-percent 1059 1064	42.4%
+T18	outcome 1070 1079	unchanged
+T19	iv-bin-abs 1083 1085	14
+T20	iv-bin-percent 1087 1092	42.4%
+T21	outcome 1126 1137	disappeared
+T22	cv-bin-abs 1141 1145	none
+T23	outcome 1147 1155	relieved
+T24	cv-bin-abs 1159 1161	10
+T25	cv-bin-percent 1163 1168	30.3%
+T26	outcome 1174 1183	unchanged
+T27	cv-bin-abs 1187 1189	23
+T28	cv-bin-percent 1191 1196	69.7%
+T29	outcome 1279 1297	condition of sleep
+T30	outcome 1306 1314	improved
+T31	iv-bin-abs 1318 1320	21
+T32	iv-bin-percent 1322 1327	63.6%
+T33	outcome 1333 1342	unchanged
+T34	iv-bin-abs 1346 1348	12
+T35	iv-bin-percent 1350 1355	36.4%
+T36	outcome 1389 1407	condition of sleep
+T37	outcome 1433 1441	improved
+T38	outcome 1460 1469	unchanged
+T39	cv-bin-abs 1445 1447	13
+T40	cv-bin-percent 1449 1454	39.4%
+T41	cv-bin-abs 1473 1475	20
+T42	cv-bin-percent 1477 1482	60.6%
+T3	condition 50 61	hot flashes

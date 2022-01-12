@@ -1,0 +1,17 @@
+T1	intervention 22 49	Palbociclib and Fulvestrant
+T3	iv-cont-median 1897 1908	17.6 months
+T4	cv-cont-median 1964 1974	8.8 months
+T7	outcome 1519 1542	median overall survival
+T8	iv-cont-median 1547 1558	39.7 months
+T9	cv-cont-median 1623 1634	29.7 months
+T12	total-participants 978 981	521
+T13	outcome 1024 1047	median overall survival
+T14	iv-cont-median 1052 1063	34.9 months
+T15	cv-cont-median 1150 1161	28.0 months
+T19	eligibility 440 582	patients with hormone-receptor-positive, HER2-negative advanced breast cancer who had progression or relapse during previous endocrine therapy
+T20	control 626 650	placebo plus fulvestrant
+T21	intervention 594 622	palbociclib plus fulvestrant
+T2	outcome 1850 1892	median time to the receipt of chemotherapy
+T5	outcome 2321 2337	overall survival
+T6	outcome 1773 1810	median duration of subsequent therapy
+T10	outcome 2069 2082	afety signals

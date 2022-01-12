@@ -1,0 +1,22 @@
+T1	intervention 15 42	low-thrombin fibrin sealant
+T2	eligibility 669 731	patients undergoing axillary node dissection for breast cancer
+T3	total-participants 774 779	Sixty
+T5	intervention-participants 860 866	Thirty
+T6	control-participants 936 938	30
+T7	control 939 953	drainage alone
+T12	outcome 1314 1333	Incidence of seroma
+T13	outcome 1453 1482	predictor of seroma formation
+T14	outcome 1695 1705	lymphedema
+T15	iv-bin-percent 1722 1726	6.7%
+T16	cv-bin-percent 1730 1733	10%
+T20	iv-bin-percent 1639 1641	0%
+T21	cv-bin-percent 1645 1650	55.6%
+T4	condition 46 118	wound serous drainage, seroma formation and length of postoperative stay
+T17	outcome 1569 1575	seroma
+T10	outcome 1160 1172	serum output
+T11	outcome 1263 1300	length of postoperative hospital stay
+T18	iv-cont-mean 1211 1215	94.3
+T19	iv-cont-sd 1218 1222	22.4
+T22	cv-cont-mean 1226 1229	176
+T23	cv-cont-sd 1232 1239	24.6 ml
+T24	outcome 1783 1798	amount of fluid

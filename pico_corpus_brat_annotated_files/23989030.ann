@@ -1,0 +1,15 @@
+T1	intervention 11 23	Nia exercise
+T4	eligibility 250 303	women with breast cancer undergoing radiation therapy
+T5	location 381 394	United States
+T6	total-participants 396 398	41
+T7	eligibility 399 470	women with stage I, II, or III breast cancer starting radiation therapy
+T8	intervention-participants 472 474	22
+T9	control-participants 518 520	19
+T2	outcome 1013 1020	fatigue
+T10	outcome 785 816	Controlling for baseline scores
+T15	outcome 818 834	change over time
+T16	outcome 1116 1119	QOL
+T17	outcome 1121 1137	aerobic capacity
+T18	outcome 1142 1162	shoulder flexibility
+T3	control 528 544	usual care group
+T12	outcome 1295 1302	fatigue

@@ -1,0 +1,10 @@
+T1	intervention 0 11	Pamidronate
+T2	condition 33 63	chemotherapy-induced bone loss
+T4	control 561 568	placebo
+T5	total-participants 572 574	40
+T6	eligibility 575 629	premenopausal women with newly diagnosed breast cancer
+T9	outcome 943 962	at the lumbar spine
+T11	outcome 1009 1028	at the lumbar spine
+T12	outcome 1038 1054	at the total hip
+T7	outcome 866 900	percent change in BMD at 12 months
+T10	outcome 1095 1133	Biochemical markers of bone remodeling

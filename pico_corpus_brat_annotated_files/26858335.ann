@@ -1,0 +1,27 @@
+T1	intervention 58 70	Epoetin Alfa
+T2	control 78 99	Best Standard of Care
+T4	eligibility 372 480	Women with hemoglobin ≤ 11.0 g/dL, receiving first- or second-line chemotherapy for metastatic breast cancer
+T5	outcome-Measure 601 632	progression-free survival (PFS)
+T6	outcome-Measure 664 680	overall survival
+T7	outcome-Measure 682 707	time to tumor progression
+T8	outcome-Measure 709 730	overall response rate
+T9	outcome-Measure 732 748	RBC transfusions
+T10	outcome-Measure 754 780	thrombotic vascular events
+T11	total-participants 785 790	2,098
+T12	outcome 819 829	median PFS
+T13	outcome 1037 1047	Median PFS
+T14	outcome 1225 1267	Median overall survival at clinical cutoff
+T15	outcome 1398 1430	median time to tumor progression
+T16	outcome 1502 1523	overall response rate
+T17	iv-bin-percent 1528 1531	50%
+T18	cv-bin-percent 1539 1542	51%
+T19	outcome 1588 1604	RBC transfusions
+T20	iv-bin-percent 1610 1614	5.8%
+T21	cv-bin-percent 1622 1627	11.4%
+T22	outcome 1644 1670	thrombotic vascular events
+T23	iv-bin-percent 1676 1680	2.8%
+T24	cv-bin-percent 1688 1692	1.4%
+T25	iv-cont-median 1287 1298	17.2 months
+T26	cv-cont-median 1314 1325	17.4 months
+T29	iv-cont-median 1435 1445	7.5 months
+T3	iv-cont-median 1099 1109	7.6 months

@@ -1,0 +1,19 @@
+T1	intervention 12 18	ginger
+T2	condition 38 78	chemotherapy-induced nausea and vomiting
+T3	eligibility 82 150	breast cancer patients receiving adriamycin-cyclophosphamide regimen
+T4	eligibility 438 563	breast cancer patients receiving AC who experienced moderate to severe nausea or vomiting during the first chemotherapy cycle
+T5	control 628 635	placebo
+T8	outcome-Measure 955 980	reduction in nausea score
+T9	total-participants 982 993	Thirty-four
+T10	total-participants 1108 1120	Thirty-three
+T6	outcome 1370 1383	nausea scores
+T11	outcome 1232 1245	nausea scores
+T12	iv-cont-mean 1292 1297	35.36
+T14	iv-cont-sd 1299 1304	±4.43
+T15	cv-cont-mean 1310 1315	32.17
+T16	cv-cont-sd 1317 1322	±3.71
+T17	outcome 1057 1069	nausea score
+T13	outcome 1513 1544	vomiting incidence and severity
+T18	outcome 1546 1567	rescue medication use
+T19	outcome 1569 1592	chemotherapy compliance
+T20	outcome 1598 1612	adverse events

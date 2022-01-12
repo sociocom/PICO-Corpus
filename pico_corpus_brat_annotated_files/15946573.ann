@@ -1,0 +1,17 @@
+T3	total-participants 232 243	Forty-eight
+T4	eligibility 244 298	patients with breast cancer with multi-bone metastases
+T2	control-participants 339 341	15
+T6	control-participants 384 386	15
+T1	intervention-participants 431 433	18
+T7	outcome 504 528	overall pain relief rate
+T8	cv-bin-percent 533 538	73.3%
+T9	cv-bin-percent 540 545	80.0%
+T10	iv-bin-percent 547 553	100.0%
+T11	control 360 372	(188)Re-HEDP
+T12	control 405 416	pamidronate
+T5	outcome 580 612	response rate of bone metastasis
+T14	cv-bin-percent 617 622	40.0%
+T15	cv-bin-percent 624 629	33.3%
+T16	iv-bin-percent 631 636	66.7%
+T17	outcome 676 694	therapeutic effect
+T18	intervention 41 67	188Re-HEDP and pamidronate

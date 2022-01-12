@@ -1,0 +1,8 @@
+T1	condition 14 56	chemotherapy-induced peripheral neuropathy
+T2	intervention 62 79	classical massage
+T3	eligibility 83 126	breast cancer patients receiving paclitaxel
+T4	total-participants 449 451	40
+T9	outcome 883 910	peripheral neuropathic pain
+T10	outcome 978 1023	sensory and motor sub-scale scores of the QOL
+T11	outcome 1119 1173	Sensory action potential amplitude of the median nerve
+T5	control 550 568	control group (CG)

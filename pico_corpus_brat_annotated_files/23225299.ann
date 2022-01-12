@@ -1,0 +1,8 @@
+T1	intervention 0 8	Exercise
+T2	condition 20 44	hip bone mineral density
+T3	age 869 879	≥ 50 years
+T4	eligibility 902 946	post-menopausal, post-adjuvant treatment BCS
+T5	total-participants 952 955	106
+T6	control 1030 1045	control program
+T9	outcome 1537 1576	skeletal response to loading at the hip
+T7	outcome 1344 1357	total hip BMD

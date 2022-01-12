@@ -1,0 +1,25 @@
+T1	intervention 12 33	topical lotion, CG428
+T2	eligibility 532 564	Breast cancer patients with PCIA
+T4	location 512 530	Seoul, South Korea
+T6	control 848 855	placebo
+T8	total-participants 1074 1076	35
+T9	intervention-participants 1123 1125	18
+T10	control-participants 1143 1145	17
+T11	age 1227 1246	52.1 vs. 41.6 years
+T12	outcome 1264 1298	mean hair density (SD) at baseline
+T15	outcome 1435 1449	hair thickness
+T18	outcome 1516 1528	hair density
+T19	outcome 1506 1514	6 months
+T20	iv-cont-mean 1546 1550	34.7
+T21	cv-cont-mean 1555 1560	24.9%
+T22	outcome 1674 1688	hair thickness
+T23	iv-cont-mean 1694 1698	19.8
+T24	cv-cont-mean 1703 1708	35.6%
+T3	iv-cont-mean 1303 1307	97.6
+T5	iv-cont-sd 1309 1312	6.4
+T13	cv-cont-mean 1318 1323	126.8
+T14	cv-cont-sd 1325 1329	30.3
+T16	iv-cont-mean 1455 1459	49.9
+T25	iv-cont-sd 1461 1465	12.7
+T17	cv-cont-mean 1471 1475	48.1
+T26	cv-cont-sd 1477 1480	8.4

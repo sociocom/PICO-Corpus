@@ -1,0 +1,18 @@
+T1	intervention 10 19	melatonin
+T3	location 747 766	Copenhagen, Denmark
+T4	age 775 786	30-75 years
+T6	control 965 972	placebo
+T7	outcome-Measure 1015 1047	incidence of depressive symptoms
+T8	outcome-Measure 1093 1149	area under the curve (AUC) for the subjective parameters
+T9	total-participants 1151 1153	54
+T10	intervention-participants 1197 1199	28
+T11	control-participants 1217 1219	26
+T12	outcome 1309 1347	risk of developing depressive symptoms
+T13	iv-bin-abs 1406 1407	3
+T14	iv-bin-percent 1409 1413	11 %
+T15	intervention-participants 1418 1420	27
+T16	cv-bin-abs 1425 1426	9
+T17	cv-bin-percent 1428 1432	45 %
+T18	control-participants 1437 1439	20
+T2	condition 23 54	depressive symptoms and anxiety
+T5	eligibility 424 448	women with breast cancer

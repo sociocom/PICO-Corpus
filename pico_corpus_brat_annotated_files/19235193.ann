@@ -1,0 +1,27 @@
+T1	intervention 31 65	mindfulness-based stress reduction
+T3	total-participants 488 490	84
+T2	eligibility 491 525	female BC survivors (Stages 0-III)
+T4	intervention-participants 877 879	41
+T5	control 887 897	usual care
+T6	control-participants 901 903	43
+T10	outcome 1319 1326	anxiety
+T11	outcome 1347 1365	fear of recurrence
+T12	outcome 1403 1416	higher energy
+T13	outcome 1433 1453	physical functioning
+T14	outcome 1474 1499	physical role functioning
+T15	iv-cont-mean 1306 1309	6.3
+T16	cv-cont-mean 1313 1316	9.6
+T17	iv-cont-mean 1328 1332	28.3
+T18	cv-cont-mean 1336 1340	33.0
+T19	iv-cont-mean 1367 1370	9.3
+T20	cv-cont-mean 1374 1378	11.6
+T21	iv-cont-mean 1418 1422	53.5
+T22	cv-cont-mean 1426 1430	49.2
+T23	iv-cont-mean 1455 1459	50.1
+T24	cv-cont-mean 1463 1467	47.0
+T25	iv-cont-mean 1501 1505	49.1
+T26	cv-cont-mean 1509 1513	42.8
+T7	outcome 1279 1304	mean levels of depression
+T9	outcome 1631 1662	energy and physical functioning
+T8	outcome-Measure 973 1101	validated measures of psychological status (depression, anxiety, perceived stress, fear of recurrence, optimism, social support)
+T27	outcome-Measure 1106 1161	psychological and physical subscales of quality of life

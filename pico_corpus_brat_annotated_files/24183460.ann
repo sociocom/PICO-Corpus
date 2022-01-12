@@ -1,0 +1,23 @@
+T1	intervention 41 105	6 cycles of 5-fluorouracil-epirubicine-cyclophosphamide (FEC100)
+T2	control 113 150	4 FEC 100 followed by 4 Taxol (FEC-T)
+T3	eligibility 154 190	node positive breast cancer patients
+T4	outcome-Measure 520 541	disease free survival
+T7	total-participants 694 697	837
+T8	intervention-participants 753 756	417
+T9	control-participants 847 850	420
+T10	total-participants 862 874	One thousand
+T11	outcome 999 1026	disease-free survival (DFS)
+T12	outcome 1068 1089	overall survival (OS)
+T17	outcome 1118 1131	Nine-year DFS
+T18	iv-bin-percent 1137 1142	62.9%
+T19	cv-bin-percent 1150 1155	62.5%
+T20	outcome 1198 1210	Nine-year OS
+T21	iv-bin-percent 1216 1221	73.9%
+T22	cv-bin-percent 1229 1232	77%
+T23	outcome 1345 1365	grade 3-4 toxicities
+T24	iv-bin-percent 1393 1396	63%
+T25	cv-bin-percent 1404 1407	58%
+T5	outcome-Measure 569 585	overall survival
+T6	outcome-Measure 587 617	local recurrence free interval
+T13	outcome-Measure 619 643	metastases free interval
+T14	outcome-Measure 648 654	safety

@@ -1,0 +1,16 @@
+T1	intervention 58 66	Olaparib
+T3	eligibility 761 872	enrolled patients with a germline BRCAm and HER2-negative mBC who had received ≤2 lines of chemotherapy for mBC
+T2	outcome-Measure 993 995	OS
+T4	outcome-Measure 1000 1006	safety
+T5	intervention-participants 1045 1048	205
+T7	control-participants 1090 1092	97
+T8	outcome 1123 1132	median OS
+T10	outcome 1355 1381	prior chemotherapy for mBC
+T11	outcome 1475 1490	receptor status
+T12	outcome 1571 1585	prior platinum
+T13	outcome 1631 1645	Adverse events
+T14	outcome 1774 1807	rate of treatment discontinuation
+T9	control 74 96	chemotherapy treatment
+T6	iv-cont-median 1137 1148	19.3 months
+T15	cv-cont-median 1170 1181	17.1 months
+T16	outcome 1843 1849	anemia

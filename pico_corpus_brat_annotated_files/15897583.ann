@@ -1,0 +1,17 @@
+T1	intervention 0 16	Dietary flaxseed
+T2	eligibility 386 444	postmenopausal patients with newly diagnosed breast cancer
+T3	intervention-participants 536 538	19
+T4	control 545 562	control (placebo)
+T5	control-participants 575 577	13
+T7	outcome 960 980	Mean treatment times
+T8	cv-cont-mean 986 988	39
+T9	iv-cont-mean 993 1000	32 days
+T10	outcome 1051 1085	Reductions in Ki-67 labeling index
+T11	outcome 1112 1130	c-erbB2 expression
+T12	outcome 1169 1178	apoptosis
+T16	outcome 1417 1446	mean urinary lignan excretion
+T13	outcome 1289 1321	caloric and macronutrient intake
+T6	outcome-Measure 706 726	Ki-67 labeling index
+T14	outcome-Measure 748 757	apoptosis
+T15	outcome-Measure 759 777	c-erbB2 expression
+T17	outcome-Measure 783 824	estrogen and progesterone receptor levels

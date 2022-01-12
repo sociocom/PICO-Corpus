@@ -1,0 +1,23 @@
+T1	intervention 21 32	Balugrastim
+T2	control 40 53	Pegfilgrastim
+T4	total-participants 357 360	256
+T6	outcome-Measure 678 694	DSN (cycles 2-4)
+T7	outcome-Measure 696 733	absolute neutrophil count (ANC) nadir
+T8	outcome-Measure 735 760	febrile neutropenia rates
+T9	outcome-Measure 766 799	time to ANC recovery (cycles 1-4)
+T13	outcome 861 877	Mean cycle 1 DSN
+T14	outcome 1174 1205	time to ANC recovery in cycle 1
+T15	outcome 1287 1314	Median terminal elimination
+T16	outcome 1422 1439	Antibody response
+T17	outcome 1570 1590	reducing cycle 1 DSN
+T18	iv-cont-mean 882 889	1.0 day
+T19	iv-cont-mean 917 920	1.3
+T20	cv-cont-mean 952 955	1.2
+T21	iv-cont-mean 1229 1237	2.0 days
+T22	iv-cont-mean 1261 1264	2.1
+T23	cv-cont-mean 1281 1284	2.6
+T24	iv-cont-median 1330 1338	37 hours
+T25	iv-cont-median 1366 1368	36
+T26	cv-cont-median 1400 1402	45
+T3	eligibility 329 351	Breast cancer patients
+T5	outcome-Measure 599 635	duration of severe neutropenia (DSN)

@@ -1,0 +1,32 @@
+T4	intervention-participants 959 962	284
+T5	control 967 974	placebo
+T6	control-participants 980 983	287
+T7	outcome 1002 1015	grade 3/4 AEs
+T8	outcome 1036 1049	hyperglycemia
+T9	outcome 1051 1058	grade 3
+T10	outcome 1067 1074	grade 4
+T11	outcome 1083 1087	rash
+T12	outcome 1089 1096	grade 3
+T13	outcome 1109 1117	diarrhea
+T14	outcome 1119 1126	grade 3
+T15	outcome 1135 1176	Median time to onset of grade ≥3 toxicity
+T16	outcome 1449 1458	incidence
+T18	iv-bin-percent 1471 1476	26.7%
+T19	cv-bin-percent 1484 1489	64.1%
+T20	outcome 1495 1511	severity of rash
+T21	iv-bin-percent 1522 1527	11.6%
+T22	cv-bin-percent 1535 1540	22.7%
+T23	outcome 1577 1613	Discontinuations due to grade ≥3 AEs
+T24	iv-bin-percent 1675 1679	7.9%
+T25	cv-bin-percent 1687 1692	18.1%
+T26	outcome 1790 1822	Median progression-free survival
+T27	iv-cont-median 1842 1846	12.5
+T28	iv-cont-median 1851 1861	9.6 months
+T29	cv-cont-median 1953 1963	5.8 months
+T1	intervention 98 139	PI3K inhibitor alpelisib plus fulvestrant
+T2	outcome 1248 1252	rash
+T3	outcome 1269 1277	diarrhea
+T17	outcome 1460 1469	any grade
+T30	outcome 1513 1520	grade 3
+T31	outcome 1978 2000	Hyperglycemia and rash
+T32	outcome 2228 2245	severe toxicities

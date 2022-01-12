@@ -1,0 +1,11 @@
+T1	intervention 0 9	Tamoxifen
+T2	control 219 226	placebo
+T3	eligibility 230 278	women who are at increased risk of breast cancer
+T4	total-participants 284 287	488
+T9	outcome 1181 1199	vasomotor symptoms
+T11	outcome 971 989	changes in anxiety
+T12	outcome 991 995	mood
+T13	outcome 1001 1019	sexual functioning
+T10	outcome 1262 1272	low energy
+T14	outcome 1274 1292	breast sensitivity
+T15	outcome 1298 1313	visual blurring

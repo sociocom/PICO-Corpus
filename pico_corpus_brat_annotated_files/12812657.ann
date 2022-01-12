@@ -1,0 +1,22 @@
+T1	intervention 53 63	exemestane
+T3	total-participants 324 327	195
+T5	total-participants 489 492	191
+T6	intervention-participants 549 551	96
+T7	control 656 669	control group
+T8	control-participants 675 677	95
+T9	outcome 976 990	effective rate
+T10	iv-bin-percent 995 1000	44.8%
+T11	cv-bin-percent 1024 1029	45.3%
+T12	outcome 1068 1086	level of estradiol
+T17	outcome 1582 1588	thirst
+T18	outcome 1590 1599	giddiness
+T19	outcome 1605 1611	nausea
+T2	eligibility 328 390	patients with postmenopausal advanced metastatic breast cancer
+T4	iv-cont-mean 1091 1095	5.17
+T13	iv-cont-sd 1100 1117	6.68 x 10(4) pg/L
+T14	cv-cont-mean 1122 1126	4.19
+T20	cv-cont-sd 1131 1148	3.06 x 10(4) pg/L
+T16	iv-cont-mean 1208 1212	3.08
+T21	iv-cont-sd 1217 1234	2.80 x 10(4) pg/L
+T22	cv-cont-mean 1239 1243	2.76
+T23	cv-cont-sd 1248 1265	1.98 x 10(4) pg/L

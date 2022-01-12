@@ -1,0 +1,17 @@
+T1	intervention 14 25	fulvestrant
+T2	control 33 42	tamoxifen
+T4	intervention-participants 812 815	313
+T5	control-participants 862 865	274
+T7	outcome 1121 1140	time to progression
+T8	iv-cont-median 1159 1169	6.8 months
+T9	cv-cont-median 1174 1184	8.3 months
+T12	outcome 1363 1373	median TTP
+T14	iv-cont-median 1378 1388	8.2 months
+T15	cv-cont-median 1409 1419	8.3 months
+T18	outcome 1490 1513	objective response rate
+T19	iv-bin-percent 1545 1550	31.6%
+T20	cv-bin-percent 1572 1577	33.9%
+T22	iv-bin-percent 1598 1603	33.2%
+T23	cv-bin-percent 1608 1613	31.1%
+T3	eligibility 605 702	patients with metastatic/locally advanced breast cancer previously untreated for advanced disease
+T10	outcome 1699 1713	well tolerated

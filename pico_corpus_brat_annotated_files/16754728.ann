@@ -1,0 +1,37 @@
+T1	intervention 68 77	tamoxifen
+T2	control 81 91	raloxifene
+T3	eligibility 681 711	high-risk postmenopausal women
+T5	total-participants 757 763	19,747
+T6	location 813 826	North America
+T11	intervention-participants 1670 1673	973
+T12	control-participants 1695 1699	1010
+T13	total-participants 1232 1236	1983
+T14	outcome 1716 1731	Sexual function
+T15	control-participants 1914 1918	9769
+T17	intervention-participants 2021 2025	9743
+T18	outcome 2053 2077	musculoskeletal problems
+T19	outcome 2104 2115	dyspareunia
+T20	outcome 2144 2155	weight gain
+T21	iv-cont-mean 2079 2083	1.15
+T22	cv-cont-mean 2087 2091	1.10
+T23	iv-cont-mean 2117 2121	0.78
+T24	cv-cont-mean 2125 2129	0.68
+T25	iv-cont-mean 2157 2161	0.82
+T26	cv-cont-mean 2165 2169	0.76
+T28	outcome 2299 2317	vasomotor symptoms
+T29	outcome 2342 2352	leg cramps
+T30	outcome 2381 2405	bladder control symptoms
+T31	iv-cont-mean 2276 2280	0.29
+T32	cv-cont-mean 2284 2288	0.19
+T33	iv-cont-mean 2319 2323	0.96
+T34	cv-cont-mean 2327 2331	0.85
+T35	iv-cont-mean 2354 2358	1.10
+T36	cv-cont-mean 2362 2366	0.91
+T37	iv-cont-mean 2407 2411	0.88
+T38	cv-cont-mean 2415 2419	0.73
+T39	outcome 2512 2588	patient-reported outcomes for physical health, mental health, and depression
+T4	outcome 1960 1981	mean symptom severity
+T10	outcome 2635 2650	sexual function
+T16	outcome 2226 2274	mean symptom severity for gynecological problems
+T7	outcome-Measure 1442 1462	SF-36 physical (PCS)
+T8	outcome-Measure 1467 1499	mental (MCS) component summaries

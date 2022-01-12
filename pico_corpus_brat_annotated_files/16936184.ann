@@ -1,0 +1,24 @@
+T1	intervention 64 73	letrozole
+T2	eligibility 508 559	postmenopausal women with early stage breast cancer
+T4	ethinicity 703 712	Caucasian
+T5	intervention-participants 761 764	352
+T6	control-participants 785 789	4708
+T7	outcome 860 863	DFS
+T8	iv-bin-percent 865 870	91.6%
+T9	cv-bin-percent 878 883	92.4%
+T16	outcome 1133 1157	incidence of hot flashes
+T17	iv-bin-percent 1159 1162	49%
+T18	cv-bin-percent 1170 1173	58%
+T19	outcome 1186 1193	fatigue
+T20	iv-bin-percent 1195 1198	29%
+T21	cv-bin-percent 1206 1209	39%
+T22	outcome 1227 1236	arthritis
+T23	iv-bin-percent 1238 1240	2%
+T24	cv-bin-percent 1248 1250	7%
+T25	outcome 1304 1314	QOL scores
+T12	outcome 1379 1392	mental health
+T13	outcome 1439 1450	bodily pain
+T14	outcome 1510 1513	DFS
+T10	outcome 971 974	DFS
+T26	intervention 747 755	Minority
+T27	control 770 779	Caucasian

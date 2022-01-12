@@ -1,0 +1,13 @@
+T1	intervention 0 11	Amisulpride
+T4	control 812 819	placebo
+T5	eligibility 541 662	Chemotherapy-naïve patients receiving cisplatin ≥ 70 mg/m2 or an anthracycline-cyclophosphamide regimen for breast cancer
+T6	outcome-Measure 949 971	complete response (CR)
+T7	total-participants 1042 1064	Three hundred eighteen
+T8	outcome 1103 1121	CR rate (24-120 h)
+T9	cv-bin-percent 1126 1129	20%
+T10	iv-bin-percent 1147 1150	46%
+T11	outcome 1262 1296	Emesis, nausea and 0-120-h CR rate
+T12	outcome 1466 1487	delayed phase CR rate
+T13	cv-bin-percent 1492 1495	44%
+T14	iv-bin-percent 1509 1512	75%
+T2	condition 21 40	nausea and vomiting

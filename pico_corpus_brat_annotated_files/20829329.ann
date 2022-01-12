@@ -1,0 +1,17 @@
+T1	total-participants 751 780	Two hundred and seventy-three
+T2	intervention 24 96	paclitaxel, fluorouracil, doxorubicin, and cyclophosphamide chemotherapy
+T4	intervention-participants 886 889	138
+T5	control 895 898	FAC
+T6	intervention 875 880	T/FAC
+T7	control-participants 908 911	135
+T8	outcome 1089 1098	pCR rates
+T9	iv-bin-percent 1104 1107	19%
+T10	cv-bin-percent 1112 1114	9%
+T12	iv-bin-percent 1250 1253	38%
+T13	outcome 1302 1327	negative predictive value
+T14	iv-bin-percent 1332 1335	88%
+T15	outcome 1362 1422	area under the receiver operating characteristic curve (AUC)
+T19	outcome 1454 1457	PPV
+T20	cv-bin-percent 1462 1464	9%
+T21	outcome 1489 1492	AUC
+T11	outcome 1189 1220	positive predictive value (PPV)

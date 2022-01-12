@@ -1,0 +1,9 @@
+T1	intervention 0 11	Palbociclib
+T3	outcome 923 961	median progression-free survival (PFS)
+T4	control 754 769	letrozole alone
+T6	iv-cont-median 966 977	20.2 months
+T7	cv-cont-median 1005 1016	10.2 months
+T10	outcome 1635 1682	median PFS at the time of a preplanned analysis
+T11	iv-cont-median 1687 1697	9.2 months
+T12	cv-cont-median 1741 1751	3.8 months
+T2	control 1583 1607	fulvestrant plus placebo

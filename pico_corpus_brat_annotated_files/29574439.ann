@@ -1,0 +1,12 @@
+T1	condition 51 68	shoulder problems
+T2	eligibility 72 112	women undergoing breast cancer treatment
+T3	intervention 31 39	exercise
+T4	total-participants 819 822	350
+T5	location 851 853	UK
+T6	control 1133 1148	usual care only
+T7	outcome-Measure 1449 1467	upper arm function
+T8	outcome-Measure 1610 1624	DASH subscales
+T9	outcome-Measure 1626 1648	acute and chronic pain
+T10	outcome-Measure 1650 1663	complications
+T11	outcome-Measure 1665 1695	health-related quality of life
+T12	outcome-Measure 1700 1723	healthcare resource use

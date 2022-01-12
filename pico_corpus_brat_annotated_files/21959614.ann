@@ -1,0 +1,8 @@
+T1	intervention 56 93	preemptive analgesia with bupivacaine
+T2	condition 418 443	post-operative acute pain
+T3	control 653 660	placebo
+T7	total-participants 959 962	112
+T8	outcome 1208 1243	fentanyl consumption during surgery
+T9	outcome 1263 1352	morphine (delivered by means of a PCA) consumption between the 4-12th postoperative hours
+T10	outcome 1388 1402	pain intensity
+T11	outcome 1435 1474	at the 4th and 12th hours after surgery

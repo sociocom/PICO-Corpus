@@ -1,0 +1,15 @@
+T1	intervention 37 59	HER2/neu (E75) vaccine
+T2	location 130 133	U.S
+T3	eligibility 394 458	node-positive (NP) and node-negative (NN) breast cancer patients
+T7	total-participants 909 935	One hundred and eighty-six
+T8	intervention-participants 1073 1076	101
+T9	control-participants 1103 1105	85
+T10	control 1138 1146	controls
+T11	outcome 1277 1292	recurrence rate
+T12	iv-bin-percent 1296 1300	5.6%
+T13	cv-bin-percent 1338 1343	14.2%
+T14	outcome 1457 1481	difference in recurrence
+T15	iv-bin-percent 1531 1535	8.3%
+T16	cv-bin-percent 1543 1548	14.8%
+T17	outcome 1632 1650	safe and effective
+T18	outcome 1785 1812	recurrences in disease-free

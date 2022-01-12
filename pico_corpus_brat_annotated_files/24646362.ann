@@ -1,0 +1,18 @@
+T2	eligibility 499 568	women with stage I-III breast cancer who completed adjuvant treatment
+T3	intervention-participants 607 609	16
+T4	intervention-participants 624 626	11
+T5	intervention-participants 644 645	3
+T6	control 671 678	placebo
+T7	control-participants 684 686	10
+T14	total-participants 1020 1022	40
+T15	total-participants 1047 1049	34
+T16	intervention-participants 1051 1053	26
+T17	control-participants 1062 1067	eight
+T18	outcome 1224 1245	mean serum HGF levels
+T19	outcome 1385 1395	serum VEGF
+T20	outcome 1563 1580	serum cholesterol
+T1	intervention 13 44	green tea extract, Polyphenon E
+T8	outcome-Measure 807 903	growth factor [serum hepatocyte growth factor (HGF), vascular endothelial growth factor (VEGF)],
+T9	outcome-Measure 904 944	lipid (serum cholesterol, triglycerides)
+T10	outcome-Measure 946 962	oxidative damage
+T11	outcome-Measure 967 990	inflammatory biomarkers

@@ -1,0 +1,20 @@
+T1	intervention 0 26	Sentinel lymph node biopsy
+T3	total-participants 707 710	842
+T4	eligibility 711 762	patients with node negative, invasive breast cancer
+T5	outcome 1114 1117	SNs
+T6	outcome 1437 1484	accurately predicted axillary lymph node status
+T7	iv-bin-abs 1488 1490	68
+T8	intervention-participants 1494 1496	71
+T9	iv-bin-percent 1507 1512	95.8%
+T10	outcome 1270 1301	confirmed the SN to be negative
+T11	iv-bin-abs 1305 1307	37
+T12	intervention-participants 1311 1313	40
+T13	iv-bin-abs 1332 1337	three
+T14	outcome 1356 1389	positive non-sentinel lymph nodes
+T15	iv-bin-abs 1185 1195	Thirty-one
+T16	outcome 1211 1222	positive SN
+T17	iv-bin-abs 1224 1226	40
+T18	outcome 1229 1240	negative SN
+T19	iv-bin-abs 1137 1139	71
+T20	intervention-participants 1143 1145	75
+T21	iv-bin-percent 1177 1182	94.7%

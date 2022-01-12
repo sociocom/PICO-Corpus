@@ -1,0 +1,22 @@
+T1	intervention 94 114	docetaxel-epirubicin
+T2	control 119 161	5-fluorouracil-epirubicin-cyclophosphamide
+T3	location 235 241	Mexico
+T4	eligibility 535 601	patients with locally advanced breast cancer (stages IIB and IIIA)
+T5	total-participants 864 873	Forty one
+T6	control-participants 960 962	21
+T7	intervention-participants 988 990	20
+T8	outcome 1011 1044	Dimensional pathological response
+T9	outcome 1193 1223	complete pathological response
+T10	cv-bin-abs 1110 1114	Five
+T11	iv-bin-abs 1149 1152	ten
+T12	outcome 1273 1283	leucopenia
+T13	outcome 1285 1296	neutropenia
+T14	outcome 1301 1306	fever
+T15	outcome 1368 1384	general survival
+T16	outcome 1342 1363	disease-free survival
+T17	outcome 1319 1340	number of lymph nodes
+T18	outcome 1308 1317	Morbidity
+T19	outcome 1441 1450	mortality
+T20	outcome 1577 1607	complete pathological response
+T21	outcome 1660 1681	pathological response
+T22	control 628 686	5-fluorouracil-epirubicin-cyclophosphamide (control group)

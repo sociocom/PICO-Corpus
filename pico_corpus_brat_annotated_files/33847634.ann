@@ -1,0 +1,16 @@
+T1	intervention 42 78	indocyanine green and methylene blue
+T2	total-participants 337 340	415
+T3	eligibility 341 403	patients who underwent SLNB and axillary lymph node dissection
+T4	control-participants 527 530	218
+T5	control 557 572	MB method alone
+T6	intervention-participants 461 464	197
+T7	outcome 653 699	detection rate and false negative rate of SLNs
+T8	outcome 788 810	detection rate of SLNs
+T9	iv-bin-percent 815 820	96.9%
+T10	cv-bin-percent 876 881	89.7%
+T11	outcome 927 961	average number of SLNs per patient
+T12	iv-cont-mean 966 969	3.0
+T13	cv-cont-mean 1016 1019	2.1
+T14	outcome 1084 1103	false negative rate
+T15	iv-bin-percent 1157 1161	7.3%
+T16	cv-bin-percent 1166 1171	10.5%

@@ -1,0 +1,29 @@
+T2	eligibility 512 548	women with stage I-III breast cancer
+T3	total-participants 786 790	6018
+T4	outcome 801 816	developed BRONJ
+T5	outcome 818 827	Infection
+T6	outcome 855 875	Median time to BRONJ
+T7	outcome 957 962	BRONJ
+T8	iv-bin-abs 1004 1006	28
+T9	intervention-participants 1007 1011	2231
+T10	iv-bin-percent 1013 1018	1.26%
+T15	iv-bin-abs 1028 1029	8
+T16	intervention-participants 1030 1034	2235
+T17	iv-bin-percent 1036 1041	0.36%
+T18	iv-bin-abs 1051 1053	12
+T19	intervention-participants 1054 1058	1552
+T20	iv-bin-percent 1060 1065	0.77%
+T21	outcome 1234 1262	BRONJ occurred spontaneously
+T22	iv-cont-median 898 907	2.0 years
+T23	iv-cont-median 920 929	3.4 years
+T24	outcome 1076 1091	dental calculus
+T27	outcome 1103 1113	gingivitis
+T28	outcome 1125 1160	moderate/severe periodontal disease
+T29	outcome 1176 1196	periodontitis > 4 mm
+T11	condition 43 67	osteonecrosis of the jaw
+T13	outcome 1297 1314	dental extraction
+T14	outcome 1330 1349	periodontal disease
+T25	outcome 1365 1379	denture trauma
+T26	outcome 1398 1412	dental surgery
+T30	outcome 1426 1443	Spontaneous BRONJ
+T1	intervention 107 131	adjuvant bisphosphonates

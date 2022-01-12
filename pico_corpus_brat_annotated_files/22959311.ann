@@ -1,0 +1,14 @@
+T1	intervention 86 115	bipolar vessel sealing system
+T2	control 123 145	conventional technique
+T3	total-participants 279 282	116
+T4	eligibility 283 307	women with breast cancer
+T5	control-participants 389 391	58
+T6	intervention-participants 476 478	58
+T7	outcome 500 556	total volume of fluid collected by drain and aspirations
+T8	outcome 671 730	total volume of lymph collected by percutaneous aspirations
+T9	outcome 832 851	incidence of seroma
+T10	outcome 896 922	axillary drain was removed
+T11	iv-cont-median 561 564	305
+T12	cv-cont-median 601 604	335
+T13	iv-cont-median 735 740	207.5
+T14	cv-cont-median 777 780	505

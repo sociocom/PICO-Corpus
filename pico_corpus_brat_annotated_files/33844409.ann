@@ -1,0 +1,16 @@
+T2	eligibility 557 629	Women who had ROLLIS or HWL guided excision for impalpable breast cancer
+T3	total-participants 1021 1024	123
+T1	intervention 80 141	radioguided occult lesion localization using iodine-125 seeds
+T4	control 154 175	hookwire localization
+T5	intervention-participants 1039 1041	66
+T6	control-participants 1053 1055	57
+T7	outcome 1246 1291	experienced either a good or excellent result
+T8	iv-bin-abs 1370 1372	53
+T9	iv-bin-percent 1374 1377	82%
+T10	cv-bin-abs 1410 1412	42
+T11	cv-bin-percent 1414 1417	74%
+T12	outcome 1574 1598	frequency of re-excision
+T13	iv-bin-abs 1624 1625	3
+T14	iv-bin-percent 1627 1631	4.5%
+T15	cv-bin-abs 1655 1656	8
+T16	cv-bin-percent 1658 1661	14%

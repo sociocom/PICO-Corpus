@@ -1,0 +1,20 @@
+T1	intervention 14 27	dexamethasone
+T3	eligibility 85 137	breast cancer patients with neoadjuvant chemotherapy
+T4	total-participants 350 353	280
+T5	age 362 373	18-60 years
+T6	eligibility 375 466	breast cancer patients undergoing modified radical mastectomy with neoadjuvent chemotherapy
+T7	control 539 560	without dexamethasone
+T8	control-participants 573 576	140
+T10	outcome 1528 1545	incidence of PONV
+T11	iv-bin-percent 1665 1670	11.4%
+T12	cv-bin-percent 1675 1680	20.7%
+T13	outcome 1760 1777	incidence of PONV
+T14	iv-bin-percent 1780 1784	1.4%
+T15	cv-bin-percent 1787 1791	6.4%
+T18	outcome 1814 1848	late postoperative period (2-24 h)
+T19	iv-bin-percent 1902 1907	10.7%
+T20	cv-bin-percent 1912 1917	17.9%
+T21	outcome 1963 1991	TIVA and volatile anesthesia
+T2	condition 35 81	incidence of postoperative nausea and vomiting
+T16	outcome 1699 1733	early postoperative period (0-2 h)
+T17	outcome 1635 1663	24-hour postoperative period

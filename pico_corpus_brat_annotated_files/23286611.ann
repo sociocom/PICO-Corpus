@@ -1,0 +1,18 @@
+T1	intervention 95 131	health information technology system
+T2	age 292 306	42 to 69 years
+T3	eligibility 788 817	women overdue for a mammogram
+T4	outcome-Measure 998 1039	mammography completion rates over 3 years
+T5	total-participants 1047 1053	32,688
+T6	total-participants 1070 1074	9795
+T7	intervention-participants 1109 1113	4487
+T8	control-participants 1128 1132	5308
+T9	control 1133 1140	control
+T10	ethinicity 1206 1218	non-Hispanic
+T11	outcome 1308 1324	completion rates
+T12	iv-bin-percent 1429 1434	51.7%
+T13	cv-bin-percent 1438 1443	45.8%
+T14	total-participants 1354 1358	6697
+T15	total-participants 1497 1501	3098
+T18	outcome 1513 1529	completion rates
+T19	iv-bin-percent 1549 1554	53.8%
+T20	cv-bin-percent 1562 1567	48.7%

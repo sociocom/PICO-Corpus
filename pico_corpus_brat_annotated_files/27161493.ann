@@ -1,0 +1,14 @@
+T1	intervention 22 51	aerobic and strength training
+T2	total-participants 297 299	20
+T3	age 315 329	45.6 ± 2.7 yrs
+T4	eligibility 331 483	surgically treated for breast cancer that had completed all cancer therapies at least 6 months before and with no contraindications to physical activity
+T5	control 562 575	control group
+T6	control-participants 581 583	10
+T7	intervention-participants 552 554	10
+T9	outcome 1009 1015	VO2max
+T11	outcome 1025 1058	strength of upper and lower limbs
+T13	outcome 1100 1119	fat mass percentage
+T12	outcome 1217 1238	FACIT-F Trial outcome
+T14	outcome 1245 1263	FACT-G total score
+T15	outcome 1270 1289	FACIT-F total score
+T16	outcome 1314 1335	quality of life (QOL)

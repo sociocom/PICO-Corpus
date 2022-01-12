@@ -1,0 +1,24 @@
+T1	intervention 31 41	toremifene
+T2	control 63 73	exemestane
+T3	eligibility 146 222	postmenopausal women with hormone receptor-positive metastatic breast cancer
+T4	outcome-Measure 684 711	clinical benefit rate (CBR)
+T6	total-participants 865 867	91
+T7	intervention-participants 946 948	46
+T8	control-participants 962 964	45
+T10	outcome 1402 1405	CBR
+T11	intervention-participants 1369 1371	46
+T12	control-participants 1386 1388	45
+T13	iv-bin-percent 1407 1412	41.3%
+T14	cv-bin-percent 1417 1422	26.7%
+T16	iv-bin-percent 1440 1445	10.8%
+T17	cv-bin-percent 1450 1454	2.2%
+T18	outcome 1472 1474	OS
+T21	outcome 1511 1514	PFS
+T24	outcome 1772 1786	adverse events
+T25	iv-bin-abs 1814 1815	3
+T26	intervention-participants 1819 1821	43
+T9	outcome 1435 1438	ORR
+T5	outcome-Measure 743 772	objective response rate (ORR)
+T15	outcome-Measure 774 805	progression-free survival (PFS)
+T19	outcome-Measure 807 828	overall survival (OS)
+T20	outcome-Measure 833 841	toxicity

@@ -1,0 +1,9 @@
+T1	intervention 34 51	CDK4/6 inhibitors
+T2	eligibility 1265 1319	patients with HR+/HER2-negative advanced breast cancer
+T3	outcome-Measure 1779 1841	time from randomization to second objective progression (PFS2)
+T4	control 1520 1530	strategy B
+T6	outcome 2073 2077	PFS2
+T5	outcome-Measure 1871 1887	overall survival
+T7	outcome-Measure 1889 1895	safety
+T8	outcome-Measure 1897 1912	quality of life
+T9	outcome-Measure 1918 1936	cost-effectiveness

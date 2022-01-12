@@ -1,0 +1,14 @@
+T1	intervention 38 46	Exercise
+T3	intervention-participants 369 371	97
+T5	control-participants 422 424	48
+T6	outcome-Measure 630 677	serum high-sensitive C-reactive protein (hsCRP)
+T7	outcome-Measure 679 682	IL6
+T8	outcome-Measure 684 695	adiponectin
+T9	outcome-Measure 701 707	leptin
+T10	outcome 823 828	hsCRP
+T11	outcome 1057 1063	Leptin
+T12	outcome 1334 1353	IL6 and adiponectin
+T14	outcome 1496 1518	serum hsCRP and leptin
+T13	condition 10 21	Weight Loss
+T15	control 403 416	control group
+T4	intervention-participants 395 397	98

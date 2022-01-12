@@ -1,0 +1,23 @@
+T2	eligibility 431 483	Consecutive patients with T1-3 primary breast cancer
+T3	control 556 575	SLNB with ICG alone
+T4	control-participants 581 583	62
+T6	intervention-participants 634 636	65
+T7	outcome 766 789	SLN identification rate
+T8	cv-bin-percent 819 824	95.2%
+T9	iv-bin-percent 851 856	98.5%
+T10	outcome 893 919	average nodes were removed
+T13	outcome 992 1027	average time for detecting each SLN
+T16	outcome 1182 1209	Recurrence of axillary node
+T17	cv-bin-abs 1226 1229	one
+T18	cv-bin-percent 1239 1243	1.6%
+T19	iv-bin-abs 1265 1268	not
+T5	iv-cont-mean 944 948	3.8 
+T11	iv-cont-sd 950 953	1.5
+T12	cv-cont-mean 961 964	2.7
+T20	cv-cont-sd 967 970	1.2
+T14	iv-cont-mean 1055 1059	3.91
+T21	iv-cont-sd 1062 1066	1.87
+T15	cv-cont-mean 1074 1079	5.65 
+T22	cv-cont-sd 1081 1089	2.95 min
+T23	outcome 1146 1180	adverse reactions or complications
+T1	intervention 42 72	blue dye for indocyanine green

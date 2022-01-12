@@ -1,0 +1,14 @@
+T5	outcome 1388 1393	death
+T9	outcome 1083 1085	OS
+T10	iv-bin-percent 1097 1101	100%
+T11	iv-bin-percent 1106 1109	95%
+T12	intervention-participants 1117 1119	61
+T13	total-participants 469 471	97
+T15	cv-bin-percent 1170 1173	70%
+T16	cv-bin-percent 1178 1181	69%
+T17	control-participants 1189 1191	36
+T18	control 1206 1227	high RAD51 expression
+T19	intervention 1134 1154	low RAD51 expression
+T1	intervention 0 26	DNA repair gene expression
+T2	outcome 1305 1316	risk of LRR
+T3	outcome 1491 1504	LRR-FS and OS

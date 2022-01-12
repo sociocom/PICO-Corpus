@@ -1,0 +1,19 @@
+T1	intervention 22 39	physical activity
+T2	eligibility 367 408	Individuals with metastatic breast cancer
+T3	control 486 509	wait-list control group
+T5	total-participants 870 873	101
+T6	intervention-participants 904 906	48
+T7	control-participants 937 939	53
+T8	age 1002 1010	49 years
+T9	outcome 1185 1200	Study attrition
+T10	iv-bin-abs 1237 1239	14
+T11	cv-bin-abs 1256 1257	8
+T12	outcome 1392 1407	weekly exercise
+T13	iv-cont-mean 1409 1421	62.4 minutes
+T14	cv-cont-mean 1425 1437	46.0 minutes
+T15	outcome 1452 1472	physical functioning
+T16	iv-cont-mean 1489 1493	4.79
+T17	cv-cont-mean 1497 1501	0.93
+T18	outcome 1516 1541	Bruce Ramp Treadmill test
+T19	iv-cont-mean 1543 1555	0.61 minutes
+T20	cv-cont-mean 1559 1571	0.37 minutes

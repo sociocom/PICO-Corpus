@@ -1,0 +1,17 @@
+T1	intervention 15 42	Mind Subtraction Meditation
+T2	location 162 173	South Korea
+T3	control 540 571	self-management education (SME)
+T6	ethinicity 655 667	South Korean
+T7	eligibility 668 713	female breast cancer survivors (stages I-III)
+T8	intervention-participants 785 787	22
+T9	control-participants 808 810	24
+T13	outcome 993 1000	anxiety
+T14	outcome 1017 1033	perceived stress
+T16	outcome 1092 1114	satisfaction with life
+T17	outcome 1127 1146	posttraumatic growt
+T18	outcome 1164 1180	quality of sleep
+T4	condition 71 127	Psychological and Spiritual Well-being and Sleep Quality
+T5	outcome 970 980	depression
+T12	outcome 1064 1079	quality of life
+T15	outcome 1338 1374	psychological and spiritual distress
+T19	outcome 1395 1420	quality of life and sleep

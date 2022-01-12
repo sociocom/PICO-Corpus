@@ -1,0 +1,19 @@
+T1	condition 66 85	wound complications
+T4	total-participants 338 344	Ninety
+T5	eligibility 345 396	patients undergoing mastectomy for breast carcinoma
+T6	control 446 464	routine wound care
+T8	outcome 834 864	rate of ischaemia and necrosis
+T9	iv-cont-median 967 971	6·80
+T10	cv-cont-median 979 984	23·38
+T11	iv-cont-median 1001 1005	3·76
+T12	cv-cont-median 1013 1018	23·38
+T14	iv-cont-median 1203 1207	1·82
+T15	iv-cont-median 1215 1219	6·92
+T16	outcome 1250 1274	volume of wound drainage
+T17	outcome 1329 1357	incidence of adverse effects
+T18	outcome 1452 1465	complications
+T19	intervention 29 55	Chinese herbal medications
+T20	outcome 948 966	median wound score
+T13	outcome 1136 1148	wound scores
+T21	outcome 1094 1113	postoperative day 8
+T2	intervention 243 278	anisodamine and Salvia miltiorrhiza

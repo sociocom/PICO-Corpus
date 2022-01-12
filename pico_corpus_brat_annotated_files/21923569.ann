@@ -1,0 +1,11 @@
+T4	eligibility 560 598	Newly diagnosed breast cancer patients
+T6	total-participants 696 699	382
+T7	intervention-participants 719 722	191
+T8	control-participants 725 728	191
+T9	control 779 792	control group
+T10	control 843 870	standard follow-up routines
+T12	outcome 1238 1255	anxiety over time
+T13	outcome 1272 1282	depression
+T5	intervention 33 59	support group intervention
+T1	condition 102 124	anxiety and depression
+T2	outcome 1158 1201	clinical symptoms of depression and anxiety

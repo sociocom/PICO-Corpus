@@ -1,0 +1,29 @@
+T1	intervention 0 16	Preoperative MRI
+T2	eligibility 235 286	patients with nonpalpable suspicious breast lesions
+T3	control 513 533	routine medical care
+T4	outcome-Measure 727 809	rate of additional surgical procedures (re-excisions and conversion to mastectomy)
+T5	total-participants 856 881	Four hundred and eighteen
+T6	intervention-participants 908 911	207
+T7	control-participants 948 951	211
+T8	outcome 1019 1036	malignant lesions
+T9	iv-bin-abs 1000 1002	74
+T10	cv-bin-abs 1050 1052	75
+T11	outcome 1114 1158	primary breast conserving surgery (BCS) rate
+T12	iv-bin-percent 1187 1190	68%
+T13	cv-bin-percent 1215 1218	66%
+T14	outcome 1245 1267	number of re-excisions
+T15	iv-bin-abs 1366 1368	18
+T16	intervention-participants 1369 1371	53
+T17	iv-bin-percent 1373 1376	34%
+T18	cv-bin-abs 1411 1412	6
+T19	control-participants 1413 1415	50
+T20	cv-bin-percent 1417 1420	12%
+T21	outcome 1458 1493	number of conversions to mastectomy
+T22	outcome 1552 1595	rate of an additional surgical intervention
+T23	iv-bin-abs 1670 1672	24
+T24	intervention-participants 1673 1675	53
+T25	iv-bin-percent 1677 1680	45%
+T26	cv-bin-abs 1706 1708	14
+T27	control-participants 1709 1711	50
+T28	cv-bin-percent 1713 1716	28%
+T29	outcome 1881 1897	re-excision rate

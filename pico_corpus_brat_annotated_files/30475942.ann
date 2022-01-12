@@ -1,0 +1,10 @@
+T1	intervention 0 24	Prophylactic irradiation
+T2	outcome-Measure 1225 1252	contralateral breast cancer
+T4	total-participants 1289 1292	162
+T5	control-participants 1317 1327	Eighty-one
+T6	control 1434 1445	control arm
+T7	intervention-participants 1451 1453	81
+T8	outcome 1591 1618	contralateral breast cancer
+T9	iv-bin-abs 1569 1571	10
+T10	cv-bin-abs 1681 1682	2
+T11	eligibility 1106 1159	BRCA carrier patients treated for early breast cancer

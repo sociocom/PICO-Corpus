@@ -1,0 +1,20 @@
+T1	intervention 38 47	Lidocaine
+T2	condition 51 80	Postoperative Persistent Pain
+T3	control 785 798	normal saline
+T5	total-participants 937 960	One hundred forty-eight
+T7	outcome 1120 1145	Pain (yes/no) at 6 months
+T8	cv-bin-percent 1184 1187	29%
+T9	iv-bin-percent 1203 1206	13%
+T10	outcome 1336 1365	persistent postoperative pain
+T11	iv-bin-abs 1253 1254	3
+T12	iv-bin-percent 1265 1267	5%
+T13	cv-bin-abs 1284 1285	2
+T14	cv-bin-percent 1296 1298	3%
+T6	outcome 1036 1055	quality of recovery
+T15	outcome 1057 1068	pain burden
+T16	outcome 1073 1091	opioid consumption
+T17	outcome 1448 1478	incidence of postsurgical pain
+T18	outcome 1606 1623	incidence of pain
+T19	outcome 1645 1663	pain with activity
+T20	outcome 1665 1679	pain qualities
+T21	outcome 1689 1729	physical or emotional impact of the pain

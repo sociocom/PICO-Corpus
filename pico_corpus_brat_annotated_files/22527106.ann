@@ -1,0 +1,13 @@
+T1	intervention 90 113	patient support program
+T2	control 933 957	standard treatment group
+T3	control-participants 1033 1036	262
+T4	intervention-participants 1096 1099	241
+T6	cv-cont-mean 1210 1214	95.9
+T7	iv-cont-mean 1219 1224	95.8%
+T8	outcome 1348 1387	mean times to treatment discontinuation
+T9	cv-cont-mean 1393 1403	231.2 days
+T10	iv-cont-mean 1440 1450	227.8 days
+T5	outcome 1175 1204	mean 1-year persistence rates
+T11	outcome 1664 1689	treatment discontinuation
+T12	outcome 1871 1887	persistence rate
+T13	outcome-Measure 838 865	rates of 1-year persistence

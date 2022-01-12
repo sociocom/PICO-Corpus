@@ -1,0 +1,14 @@
+T1	control 53 74	neoadjuvant letrozole
+T2	intervention 79 109	zoledronic acid with letrozole
+T3	eligibility 292 322	primary breast cancer patients
+T4	control-participants 489 491	79
+T5	intervention-participants 592 594	89
+T7	outcome-Measure 631 653	clinical response rate
+T8	total-participants 895 898	131
+T9	control-participants 909 911	66
+T10	intervention-participants 917 919	65
+T11	outcome 932 972	Clinical responses (complete or partial)
+T12	cv-bin-percent 986 991	54.5%
+T13	iv-bin-percent 1047 1052	69.2%
+T16	outcome 1223 1245	clinical response rate
+T6	outcome 1147 1149	OR

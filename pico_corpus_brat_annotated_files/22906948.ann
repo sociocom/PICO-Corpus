@@ -1,0 +1,15 @@
+T1	intervention 0 11	Acupuncture
+T3	total-participants 478 480	94
+T4	intervention-participants 503 505	31
+T5	intervention-participants 523 525	29
+T6	control-participants 551 553	34
+T7	iv-bin-abs 598 600	16
+T8	iv-bin-percent 611 614	52%
+T10	iv-bin-abs 678 683	seven
+T11	iv-bin-percent 694 697	24%
+T12	condition 21 42	menopausal discomfort
+T9	outcome 642 663	effect on hot flashes
+T2	control 558 570	no treatment
+T13	outcome 865 880	positive effect
+T14	outcome 1060 1072	side effects
+T15	outcome 1029 1055	levels of plasma estradiol

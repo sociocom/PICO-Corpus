@@ -1,0 +1,13 @@
+T1	intervention 15 52	poloxamer and sodium alginate mixture
+T2	condition 70 85	range of motion
+T3	outcome-Measure 773 855	shoulder ROM at baseline (T0) and 3 (T1), 6 (T2), and 12 months (T3) after surgery
+T5	total-participants 1098 1100	83
+T6	control 1188 1201	control group
+T7	intervention-participants 1233 1235	37
+T8	control-participants 1323 1325	46
+T9	outcome 1665 1682	No adverse effect
+T10	outcome 1384 1408	ROM for shoulder flexion
+T11	eligibility 1101 1125	women with breast cancer
+T4	outcome-Measure 893 948	Disabilities of the Arm, Shoulder, and Hand score(DASH)
+T12	outcome-Measure 950 979	pain associated with movement
+T13	outcome-Measure 1034 1044	lymphedema

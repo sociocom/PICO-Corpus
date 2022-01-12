@@ -1,0 +1,16 @@
+T1	intervention 45 64	omega 3 fatty acids
+T2	condition 83 131	aromatase inhibitor-induced musculoskeletal pain
+T3	control 556 563	placebo
+T5	eligibility 580 639	postmenopausal breast cancer patients starting adjuvant AIs
+T6	outcome-Measure 664 690	adherence and tolerability
+T7	outcome-Measure 720 755	inflammatory cytokines and symptoms
+T8	total-participants 912 922	Forty-four
+T9	total-participants 955 957	35
+T10	outcome 979 988	Adherence
+T11	outcome 1125 1143	grade 1 flatulence
+T12	iv-bin-percent 1145 1148	55%
+T14	outcome 1169 1177	belching
+T15	iv-bin-percent 1179 1182	45%
+T16	outcome 1200 1234	Mean pain severity scores (BPI-SF)
+T17	outcome 1290 1330	Quality of life, based on FACT-ES scores
+T18	outcome 1533 1549	RBC n - 3 levels

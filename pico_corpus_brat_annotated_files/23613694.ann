@@ -1,0 +1,33 @@
+T1	intervention 32 48	N-Acetylcysteine
+T2	condition 81 117	Anthracycline-Induced Cardiomyopathy
+T3	total-participants 285 288	103
+T4	eligibility 381 519	patients first diagnosed with breast cancer or lymphoma, who require chemotherapy, including anthracycline like adriamycine or epirubicine
+T5	intervention-participants 566 568	50
+T6	control 715 728	control group
+T7	control-participants 732 734	53
+T8	outcome-Measure 761 814	decrease in left ventricular ejection fraction (LVEF)
+T9	outcome 963 978	primary outcome
+T10	iv-bin-abs 1042 1043	3
+T11	intervention-participants 1044 1046	47
+T12	iv-bin-percent 1048 1052	6.4%
+T13	cv-bin-abs 1058 1059	1
+T14	control-participants 1060 1062	52
+T15	cv-bin-percent 1064 1068	1.9%
+T16	outcome 1085 1094	mean LVEF
+T17	outcome 1262 1278	mean LVEF change
+T18	outcome 1371 1415	Left ventricular (LV) end systolic dimension
+T19	outcome 1529 1555	LV end diastolic dimension
+T21	outcome 1703 1733	Cumulative 12-month event rate
+T22	iv-bin-percent 1738 1740	6%
+T23	cv-bin-percent 1745 1749	3.8%
+T26	iv-cont-mean 1318 1324	-3.64%
+T27	cv-cont-mean 1336 1342	-2.78%
+T24	iv-cont-mean 1454 1458	3.08
+T25	iv-cont-sd 1459 1466	4.56 mm
+T28	cv-cont-mean 1484 1488	1.47
+T29	cv-cont-sd 1489 1496	1.83 mm
+T30	iv-cont-mean 1149 1154	60.8%
+T31	cv-cont-mean 1198 1203	61.3%
+T20	outcome 1621 1627	Peak E
+T32	outcome 1629 1651	A and E/A ratio change
+T33	outcome 1656 1671	cardiac enzymes

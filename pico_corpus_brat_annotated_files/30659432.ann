@@ -1,0 +1,12 @@
+T1	intervention 24 63	palbociclib, ribociclib and abemaciclib
+T2	eligibility 571 587	advanced ER + BC
+T4	total-participants 1086 1090	3743
+T5	outcome 1124 1127	PFS
+T6	outcome 1132 1135	ORR
+T7	outcome 1220 1235	G3-4 toxicities
+T8	outcome 1271 1279	diarrhea
+T9	outcome 1613 1632	risk of anemia G3-4
+T10	outcome 1637 1650	diarrhea G3-4
+T3	outcome-Measure 919 950	progression-free survival (PFS)
+T11	outcome-Measure 952 979	overall response rate (ORR)
+T12	outcome-Measure 984 999	G3-4 toxicities

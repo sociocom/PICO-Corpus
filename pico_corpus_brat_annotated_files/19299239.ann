@@ -1,0 +1,24 @@
+T1	intervention 23 33	exemestane
+T2	control 41 52	anastrozole
+T3	eligibility 429 522	Postmenopausal women with advanced breast cancer and > or = 1 visceral (liver or lung) lesion
+T5	outcome-Measure 650 688	objective response in visceral lesions
+T7	total-participants 906 909	130
+T8	total-participants 938 941	128
+T9	control-participants 952 954	64
+T10	intervention-participants 968 970	64
+T11	outcome 1163 1199	Objective response in visceral sites
+T12	iv-bin-percent 1218 1221	15%
+T13	outcome 1238 1272	Clinical benefit in visceral sites
+T14	cv-bin-percent 1277 1280	32%
+T15	iv-bin-percent 1326 1329	38%
+T16	outcome 1371 1386	Median survival
+T17	cv-cont-median 1391 1402	33.3 months
+T18	iv-cont-median 1407 1418	30.5 months
+T19	outcome 1538 1570	treatment-related adverse events
+T20	cv-bin-percent 1608 1611	41%
+T21	iv-bin-percent 1635 1638	31%
+T4	outcome 1672 1686	well tolerated
+T22	outcome 1759 1767	Efficacy
+T6	outcome-Measure 782 798	clinical benefit
+T23	outcome-Measure 857 873	overall survival
+T24	outcome-Measure 879 893	adverse events

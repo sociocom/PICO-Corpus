@@ -1,0 +1,14 @@
+T1	intervention 0 18	Omega-3 fatty acid
+T2	condition 61 99	aromatase inhibitor-related arthralgia
+T3	eligibility 596 650	Post-menopausal women with stage I-III BC taking an AI
+T5	control 692 699	placebo
+T8	total-participants 914 917	249
+T10	outcome 1067 1100	BPI worst pain scores at 24 weeks
+T12	iv-cont-mean 1124 1128	4.36
+T13	cv-cont-mean 1133 1137	5.70
+T14	outcome 1001 1015	obese patients
+T15	outcome 1164 1182	non-obese patients
+T16	iv-cont-mean 1254 1258	5.27
+T17	cv-cont-mean 1263 1267	4.58
+T4	outcome 1349 1365	BPI average pain
+T6	outcome 1370 1394	pain interference scores

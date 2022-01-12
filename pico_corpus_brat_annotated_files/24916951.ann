@@ -1,0 +1,13 @@
+T1	intervention 46 54	exercise
+T2	total-participants 318 327	Forty-six
+T3	eligibility 328 381	postmenopausal BCS (≤Stage II, off primary treatment)
+T5	control 436 449	control group
+T15	outcome 1223 1246	PSQI daytime somnolence
+T16	outcome 1272 1293	accelerometer latency
+T17	outcome 1425 1443	Daytime somnolence
+T18	outcome 1536 1547	interleukin
+T19	outcome 1608 1615	fatigue
+T4	condition 66 79	sleep quality
+T14	outcome 1070 1089	PSQI sleep duration
+T20	outcome 1373 1398	PSQI sleep duration score
+T21	outcome 1402 1423	accelerometer latency

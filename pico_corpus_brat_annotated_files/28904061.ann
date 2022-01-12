@@ -1,0 +1,12 @@
+T1	intervention 33 50	Green Tea Extract
+T3	total-participants 526 531	1,075
+T4	total-participants 865 868	932
+T5	intervention-participants 881 884	462
+T6	control-participants 896 899	470
+T7	control 903 910	placebo
+T11	iv-bin-percent 1103 1108	4.40%
+T12	cv-bin-percent 1145 1150	1.02%
+T2	eligibility 532 560	healthy postmenopausal women
+T8	outcome 1096 1099	PMD
+T9	outcome 1297 1306	MD change
+T10	outcome 1554 1559	PMD i

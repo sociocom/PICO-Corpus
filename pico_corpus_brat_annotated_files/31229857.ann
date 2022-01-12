@@ -1,0 +1,27 @@
+T1	intervention 0 13	Anthracycline
+T2	location 103 111	Kanagawa
+T3	ethinicity 495 503	Japanese
+T4	total-participants 643 646	103
+T6	intervention-participants 704 706	53
+T7	control-participants 726 728	50
+T8	outcome-Measure 768 804	pathological complete response (pCR)
+T10	total-participants 988 991	103
+T11	total-participants 1002 1004	97
+T12	intervention-participants 1033 1035	50
+T13	control-participants 1051 1053	47
+T14	outcome 1069 1077	pCR rate
+T15	iv-bin-percent 1101 1104	36%
+T16	cv-bin-percent 1121 1126	25.5%
+T17	outcome 1348 1356	pCR rate
+T18	outcome 1314 1342	Among patients with basal BC
+T19	outcome 1435 1491	Among patients with triple-negative breast cancer (TNBC)
+T20	iv-bin-percent 1394 1399	42.9%
+T21	cv-bin-percent 1416 1421	13.6%
+T22	outcome 1497 1500	DFS
+T23	outcome 1505 1507	OS
+T5	outcome-Measure 835 841	safety
+T9	outcome-Measure 843 868	breast-conserving surgery
+T24	outcome-Measure 870 897	disease-free survival (DFS)
+T25	outcome-Measure 902 923	overall survival (OS)
+T26	outcome 1194 1199	safer
+T27	control 738 742	TC6.

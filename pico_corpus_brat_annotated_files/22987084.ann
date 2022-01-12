@@ -1,0 +1,14 @@
+T1	intervention 96 183	doxorubicin and cyclophosphamide followed by paclitaxel (ACP) with ACP plus trastuzumab
+T2	total-participants 805 810	1,830
+T3	outcome 1242 1260	cardiac event (CE)
+T4	iv-bin-abs 1177 1179	37
+T5	iv-bin-percent 1181 1185	4.0%
+T6	intervention-participants 1190 1193	944
+T7	cv-bin-abs 1268 1270	10
+T8	cv-bin-percent 1272 1276	1.3%
+T9	control-participants 1281 1284	743
+T10	outcome 1318 1339	cardiac-related death
+T11	iv-bin-abs 1314 1317	One
+T12	control 1301 1308	control
+T13	eligibility 208 300	patients with node-positive, human epidermal growth factor receptor 2-positive breast cancer
+T14	outcome 1741 1744	CEs

@@ -1,0 +1,11 @@
+T1	intervention 29 52	stellate-ganglion block
+T3	total-participants 667 677	Ninety-six
+T4	eligibility 678 760	patients who underwent radical breast cancer surgery requiring general anaesthesia
+T5	control 814 827	control group
+T6	outcome-Measure 962 989	postoperative sleep profile
+T7	total-participants 1208 1210	91
+T8	age 1238 1265	45 years; range 24-51 years
+T10	outcome 1440 1444	rSO2
+T2	condition 56 101	sleep and regional cerebral oxygen saturation
+T9	outcome 1299 1316	duration of sleep
+T11	outcome-Measure 1109 1128	intraoperative rSO2

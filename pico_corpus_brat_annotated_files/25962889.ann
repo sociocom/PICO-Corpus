@@ -1,0 +1,11 @@
+T1	ethinicity 28 44	African-American
+T3	eligibility 631 683	African-American women at high risk of breast cancer
+T4	total-participants 685 702	Two hundred-forty
+T5	eligibility 703 783	inactive women with metabolic syndrome and absolute risk of breast cancer ≥ 1.40
+T6	control 920 933	control group
+T12	intervention 3 17	exercise trial
+T2	outcome-Measure 1108 1144	anthropometric indicators of obesity
+T7	outcome-Measure 1146 1175	metabolic syndrome components
+T8	outcome-Measure 1181 1194	inflammatory,
+T9	outcome-Measure 1195 1210	insulin-pathway
+T10	outcome-Measure 1216 1257	hormonal biomarkers of breast cancer risk

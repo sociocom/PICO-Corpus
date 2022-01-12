@@ -1,0 +1,13 @@
+T1	eligibility 772 886	Postmenopausal women with hormone-sensitive early breast cancer who had completed 2 years' adjuvant oral tamoxifen
+T2	intervention 944 955	anastrozole
+T3	intervention-participants 959 963	1618
+T4	control 980 989	tamoxifen
+T5	control-participants 993 997	1606
+T6	outcome-Measure 1075 1094	event-free survival
+T7	total-participants 1218 1222	3224
+T9	outcome 1326 1343	risk for an event
+T10	iv-bin-abs 1407 1409	67
+T11	cv-bin-abs 1437 1440	110
+T14	outcome 1578 1587	fractures
+T15	outcome 1622 1632	thromboses
+T8	outcome 1532 1546	well tolerated

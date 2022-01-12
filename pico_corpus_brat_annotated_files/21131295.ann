@@ -1,0 +1,7 @@
+T1	intervention 48 73	ultrasonography screening
+T2	age 101 111	aged 40-49
+T3	intervention-participants 781 787	50,000
+T4	control-participants 857 863	50,000
+T6	outcome-Measure 1035 1062	sensitivity and specificity
+T7	outcome-Measure 1098 1129	rate of advanced breast cancers
+T5	control 878 910	mammography only (control group)

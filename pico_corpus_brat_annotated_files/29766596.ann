@@ -1,0 +1,11 @@
+T1	intervention 123 164	mobile app-delivered mindfulness training
+T2	control 306 327	waitlist control (WC)
+T3	total-participants 588 591	112
+T4	eligibility 539 582	Women diagnosed with breast cancer ≤5 years
+T5	intervention-participants 621 623	57
+T6	control-participants 636 638	55
+T8	outcome 1371 1402	completed all study assessments
+T9	outcome 1136 1161	dispositional mindfulness
+T10	outcome 963 966	QOL
+T7	outcome-Measure 422 447	dispositional mindfulness
+T11	outcome-Measure 208 216	efficacy

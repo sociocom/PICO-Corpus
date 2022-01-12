@@ -1,0 +1,25 @@
+T1	intervention 51 78	fulvestrant plus vandetanib
+T2	eligibility 665 762	Postmenopausal patients with bone predominant, hormone-receptor-positive metastatic breast cancer
+T4	outcome-Measure 911 924	uNTx response
+T6	intervention-participants 1008 1017	Sixty-one
+T7	control-participants 1052 1054	68
+T8	total-participants 1069 1072	127
+T9	outcome 1097 1110	uNTx response
+T10	iv-bin-percent 1123 1127	66 %
+T11	cv-bin-percent 1139 1143	54 %
+T12	outcome 1209 1212	PFS
+T13	outcome 1247 1249	OS
+T18	outcome 1326 1348	clinical benefit rates
+T19	iv-bin-percent 1354 1356	41
+T20	cv-bin-percent 1361 1365	43 %
+T21	outcome 1392 1414	Serious adverse events
+T22	iv-bin-percent 1429 1434	3.3 %
+T23	cv-bin-percent 1449 1454	5.9 %
+T24	outcome 1526 1529	PFS
+T25	outcome 1569 1571	OS
+T5	outcome-Measure 956 959	PFS
+T14	outcome-Measure 961 963	OS
+T15	outcome-Measure 965 980	RECIST response
+T16	outcome-Measure 982 993	pain scores
+T17	outcome-Measure 998 1006	toxicity
+T3	control 871 883	placebo (FP)

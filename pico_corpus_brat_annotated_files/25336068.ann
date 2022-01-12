@@ -1,0 +1,8 @@
+T1	intervention 0 4	Yoga
+T2	eligibility 707 757	Posttreatment stage 0-IIIA breast cancer survivors
+T3	total-participants 763 766	200
+T5	control 840 863	wait list control group
+T7	outcome 1040 1060	Cognitive complaints
+T8	outcome 1228 1259	Cognitive Problems Scale scores
+T9	outcome 1576 1615	cognitive problems at 3-month follow-up
+T4	outcome 1365 1385	cognitive complaints

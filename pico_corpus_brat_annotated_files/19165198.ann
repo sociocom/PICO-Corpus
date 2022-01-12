@@ -1,0 +1,22 @@
+T4	control 176 184	standard
+T5	total-participants 1028 1031	126
+T6	control-participants 1055 1057	42
+T7	intervention-participants 1076 1078	42
+T8	intervention-participants 1100 1102	19
+T9	outcome 1168 1196	rade 3/4 day one neutropenia
+T10	cv-bin-abs 1221 1222	6
+T11	control-participants 1223 1225	61
+T12	cv-bin-percent 1227 1230	10%
+T13	iv-bin-abs 1257 1258	0
+T14	intervention-participants 1259 1261	65
+T15	outcome 1304 1322	neutropenic sepsis
+T16	iv-bin-abs 1382 1384	12
+T17	intervention-participants 1385 1387	84
+T18	iv-bin-percent 1389 1392	14%
+T19	iv-bin-abs 1428 1429	1
+T20	intervention-participants 1430 1432	42
+T21	iv-bin-percent 1434 1436	2%
+T22	outcome 1456 1490	left ventricular ejection fraction
+T1	intervention 37 162	doxorubicin and cyclophosphamide (AC) or epirubicin and cyclophosphamide (EC) given 2 weekly with pegfilgrastim (accelerated)
+T2	intervention-participants 1124 1126	23
+T3	eligibility 190 220	women with early breast cancer

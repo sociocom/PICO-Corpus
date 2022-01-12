@@ -1,0 +1,6 @@
+T1	intervention 26 34	Exercise
+T3	eligibility 794 816	Breast cancer patients
+T4	control 893 917	relaxation control group
+T5	total-participants 969 971	19
+T6	outcome 1230 1260	higher differential expression
+T7	outcome 1484 1507	gene expression profile

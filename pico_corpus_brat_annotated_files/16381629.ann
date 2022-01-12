@@ -1,0 +1,22 @@
+T1	intervention 103 119	darbepoetin alfa
+T2	control 152 164	epoetin alfa
+T3	eligibility 451 508	anemic patients with breast cancer receiving chemotherapy
+T4	intervention-participants 608 610	72
+T5	control-participants 649 651	69
+T9	iv-cont-mean 1016 1024	1.9 g/dL
+T10	cv-cont-mean 1050 1058	1.7 g/dL
+T11	outcome 1077 1100	Hematopoietic responses
+T12	iv-bin-percent 1213 1216	88%
+T13	cv-bin-percent 1242 1245	81%
+T15	iv-bin-percent 1342 1344	6%
+T16	cv-bin-percent 1386 1389	16%
+T17	iv-bin-abs 1440 1442	67
+T18	iv-bin-percent 1480 1483	93%
+T19	cv-bin-percent 1522 1525	90%
+T20	cv-bin-abs 1486 1488	61
+T21	outcome 1528 1577	exhibited a clinically meaningful target Hb level
+T6	condition 13 40	chemotherapy-induced anemia
+T22	outcome 1612 1618	safety
+T8	outcome 948 985	Mean changes in hemoglobin (Hb) level
+T14	outcome 1284 1336	patients who received a transfusion during treatment
+T7	outcome-Measure 674 698	Clinical and hematologic

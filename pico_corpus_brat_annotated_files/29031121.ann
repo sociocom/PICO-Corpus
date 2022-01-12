@@ -1,0 +1,11 @@
+T1	eligibility 32 93	women undergoing genetic testing for hereditary breast cancer
+T2	intervention 399 421	web-based decision aid
+T3	total-participants 815 817	64
+T4	eligibility 768 809	Women at hereditary risk of breast cancer
+T5	location 882 892	Australian
+T8	total-participants 1247 1249	60
+T11	outcome 1549 1578	satisfaction with information
+T12	outcome 1678 1713	user acceptability and satisfaction
+T6	control 1198 1218	Control - usual care
+T7	outcome 1472 1497	lower decisional conflict
+T9	outcome 1515 1532	greater knowledge

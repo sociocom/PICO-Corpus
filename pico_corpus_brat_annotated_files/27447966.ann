@@ -1,0 +1,22 @@
+T1	intervention 68 95	carboplatin plus paclitaxel
+T2	control 110 136	epirubicin plus paclitaxel
+T3	total-participants 483 485	91
+T4	intervention-participants 529 531	47
+T5	control-participants 545 547	44
+T6	outcome 623 646	objective response rate
+T7	iv-bin-percent 681 686	89.4%
+T8	cv-bin-percent 691 696	79.5%
+T9	outcome 714 722	pCR rate
+T10	iv-bin-percent 763 768	38.6%
+T11	cv-bin-percent 773 778	14.0%
+T13	outcome 835 845	5-year RFS
+T14	iv-bin-percent 851 856	77.6%
+T15	cv-bin-percent 861 866	56.2%
+T16	outcome 944 946	OS
+T17	outcome 1039 1055	thrombocytopenia
+T18	eligibility 1083 1114	Patients with stage II/III TNBC
+T19	outcome-Measure 1376 1410	pathologic complete response (pCR)
+T12	outcome 1672 1688	pCR rate and RFS
+T20	outcome-Measure 1445 1472	relapse-free survival (RFS)
+T21	outcome-Measure 1474 1495	overall survival (OS)
+T22	outcome-Measure 1500 1506	safety

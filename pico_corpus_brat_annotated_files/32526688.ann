@@ -1,0 +1,8 @@
+T1	intervention 32 47	psychoeducation
+T2	location 406 418	Qazvin, Iran
+T3	eligibility 331 371	Adult women diagnosed with breast cancer
+T4	intervention-participants 493 495	40
+T5	control 502 515	control group
+T6	control-participants 520 523	 40
+T8	outcome 1541 1591	sexual satisfaction scores at each follow-up month
+T7	outcome 1387 1413	sexual satisfaction scores

@@ -1,0 +1,54 @@
+T1	intervention 4 83	cyclin-dependent kinase 4/6 inhibitor palbociclib in combination with letrozole
+T2	control 91 106	letrozole alone
+T3	outcome-Measure 1676 1701	progression-free survival
+T5	total-participants 2215 2218	165
+T6	intervention-participants 2229 2231	84
+T7	control-participants 2266 2268	81
+T8	outcome 2327 2352	progression-free survival
+T9	iv-cont-median 2371 2382	29.6 months
+T10	cv-cont-median 2447 2458	27.9 months
+T11	outcome 2500 2532	progression-free survival events
+T12	iv-bin-abs 2497 2499	41
+T13	cv-bin-abs 2590 2592	59
+T14	outcome 2849 2881	median progression-free survival
+T15	iv-cont-median 2886 2896	5.7 months
+T16	cv-cont-median 2936 2947	26.1 months
+T17	outcome 2617 2649	Median progression-free survival
+T18	iv-cont-median 2654 2665	10.2 months
+T19	cv-cont-median 2712 2723	20.2 months
+T24	outcome 3075 3107	median progression-free survival
+T25	iv-cont-median 3112 3123	11.1 months
+T26	cv-cont-median 3163 3174	18.1 months
+T29	outcome 3273 3294	Grade 3-4 neutropenia
+T30	iv-bin-abs 3311 3313	45
+T31	iv-bin-percent 3315 3318	54%
+T32	intervention-participants 3323 3325	83
+T33	cv-bin-percent 3387 3389	1%
+T34	cv-bin-abs 3382 3385	one
+T35	control-participants 3394 3396	77
+T36	outcome 3430 3440	leucopenia
+T37	iv-bin-abs 3444 3446	16
+T38	iv-bin-percent 3448 3451	19%
+T39	cv-bin-abs 3460 3464	none
+T40	outcome 3470 3477	fatigue
+T41	iv-bin-abs 3481 3485	four
+T42	iv-bin-percent 3487 3489	4%
+T43	cv-bin-abs 3498 3501	one
+T44	cv-bin-percent 3503 3505	1%
+T45	outcome 3717 3770	febrile neutropenia or neutropenia-related infections
+T46	outcome 3897 3909	discontinued
+T47	iv-bin-abs 3803 3805	11
+T48	iv-bin-percent 3807 3810	13%
+T49	cv-bin-abs 3865 3868	two
+T50	cv-bin-percent 3870 3872	2%
+T51	eligibility 610 690	patients with advanced, oestrogen receptor-positive, HER2-negative breast cancer
+T4	outcome 3508 3530	Serious adverse events
+T20	outcome 3615 3633	pulmonary embolism
+T21	iv-bin-abs 3635 3640	three
+T22	iv-bin-percent 3642 3644	4%
+T23	outcome 3657 3666	back pain
+T27	outcome 3683 3692	diarrhoea
+T28	iv-bin-abs 3668 3671	two
+T52	iv-bin-percent 3673 3675	2%
+T53	iv-bin-abs 3694 3697	two
+T54	iv-bin-percent 3699 3701	2%

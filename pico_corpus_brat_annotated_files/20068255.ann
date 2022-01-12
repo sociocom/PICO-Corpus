@@ -1,0 +1,14 @@
+T1	intervention 23 36	physiotherapy
+T2	condition 48 59	lymphoedema
+T3	location 356 369	Madrid, Spain
+T4	total-participants 371 374	120
+T6	control 749 762	control group
+T7	total-participants 967 970	116
+T8	outcome 1034 1055	secondary lymphoedema
+T9	cv-bin-abs 1063 1065	14
+T10	cv-bin-percent 1088 1091	25%
+T11	iv-bin-abs 1097 1101	four
+T12	iv-bin-percent 1129 1131	7%
+T13	outcome 1289 1345	secondary lymphoedema being diagnosed four times earlier
+T16	outcome 1138 1148	difference
+T5	eligibility 375 442	women who had breast surgery involving dissection of axillary lymph

@@ -1,0 +1,32 @@
+T1	intervention 48 84	light emitting diode photomodulation
+T3	total-participants 820 822	18
+T4	outcome 841 858	grade 0 reactions
+T6	outcome 876 893	grade 1 reactions
+T8	outcome 910 927	grade 2 reactions
+T9	iv-bin-abs 825 827	no
+T10	iv-bin-abs 933 937	none
+T11	outcome 944 960	grade 3 reaction
+T12	control 610 625	sham treatments
+T13	control-participants 993 995	15
+T15	outcome 1023 1039	grade 0 reaction
+T17	outcome 1058 1075	grade 1 reactions
+T19	outcome 1091 1108	grade 2 reactions
+T21	outcome 1131 1147	grade 3 reaction
+T2	condition 107 127	radiation dermatitis
+T5	iv-bin-abs 860 863	six
+T25	iv-bin-percent 865 870	33.3%
+T7	iv-bin-abs 895 897	12
+T26	iv-bin-percent 899 904	66.7%
+T14	cv-bin-abs 998 1001	one
+T27	cv-bin-percent 1003 1007	6.6%
+T16	cv-bin-abs 1041 1045	four
+T28	cv-bin-percent 1047 1052	26.7%
+T18	cv-bin-abs 1077 1078	9
+T29	cv-bin-percent 1080 1085	60.0%
+T20	cv-bin-abs 1114 1117	one
+T30	cv-bin-percent 1119 1123	6.7%
+T22	iv-bin-abs 1149 1152	Two
+T31	iv-bin-percent 1154 1159	11.1%
+T23	cv-bin-abs 1201 1204	one
+T24	outcome 1240 1259	interrupt treatment
+T32	cv-bin-percent 1206 1210	6.7%

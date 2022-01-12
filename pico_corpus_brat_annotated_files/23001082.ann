@@ -1,0 +1,15 @@
+T1	intervention 12 35	prophylactic antibiotic
+T2	eligibility 587 695	Overweight or obese women with clinically early-stage breast cancer who had been assigned to undergo surgery
+T4	outcome-Measure 1050 1064	SSI incidences
+T6	total-participants 1130 1133	369
+T7	intervention-participants 1189 1192	187
+T8	control-participants 1228 1231	182
+T9	outcome 1380 1388	SSI rate
+T10	iv-bin-percent 1390 1394	4.8%
+T11	cv-bin-percent 1467 1472	13.7%
+T12	outcome 1557 1578	mean SSI-related cost
+T5	condition 211 240	surgical site infection (SSI)
+T13	cv-cont-mean 1579 1589	(20.26 USD
+T14	iv-cont-mean 1674 1682	8.48 USD
+T15	outcome 1522 1538	adverse reaction
+T3	control 1262 1275	control group

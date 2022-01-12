@@ -1,0 +1,8 @@
+T1	intervention 52 71	Omega-3 Fatty Acids
+T3	total-participants 594 597	266
+T4	eligibility 598 709	healthy postmenopausal women (50% normal weight, 30% overweight, 20% obese) with high breast density (BD; ≥25%)
+T5	control 829 850	no treatment, control
+T8	outcome-Measure 975 987	change in BD
+T9	outcome 1294 1316	increase in plasma DHA
+T10	outcome 1339 1374	decrease in absolute breast density
+T2	condition 13 48	Obesity on Breast Density Reduction

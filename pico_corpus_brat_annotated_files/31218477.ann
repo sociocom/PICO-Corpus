@@ -1,0 +1,14 @@
+T2	condition 91 129	aromatase inhibitor-induced arthralgia
+T3	eligibility 473 533	post-menopausal women who were beginning adjuvant AI therapy
+T6	outcome-Measure 722 740	development of AIA
+T7	total-participants 775 778	184
+T8	total-participants 832 834	93
+T11	outcome 1064 1077	developed AIA
+T12	iv-bin-abs 1046 1048	25
+T13	iv-bin-percent 1059 1062	54%
+T14	cv-bin-abs 1091 1093	27
+T15	cv-bin-percent 1104 1107	57%
+T9	outcome 916 938	serum vitamin D levels
+T1	intervention 31 40	high-dose
+T4	control 48 72	standard-dose vitamin D3
+T5	outcome 1284 1299	AIA development

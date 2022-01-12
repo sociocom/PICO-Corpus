@@ -1,0 +1,19 @@
+T1	intervention 73 109	adjuvant chemotherapy plus goserelin
+T2	control 131 144	therapy alone
+T3	eligibility 149 204	premenopausal patients with node-negative breast cancer
+T5	total-participants 536 540	1063
+T6	intervention-participants 610 613	346
+T7	control-participants 719 722	360
+T8	intervention-participants 799 802	357
+T10	outcome 1075 1102	disease-free survival (DFS)
+T12	iv-bin-percent 1174 1177	68%
+T13	cv-bin-percent 1148 1151	69%
+T14	iv-bin-percent 1118 1121	77%
+T15	outcome 988 1007	ER-positive cohort,
+T16	outcome 1272 1290	ER-negative tumors
+T18	outcome 1332 1335	DFS
+T19	cv-bin-percent 1355 1358	67%
+T20	iv-bin-percent 1389 1392	69%
+T21	cv-bin-percent 1439 1442	61%
+T4	outcome 1337 1348	12-year DFS
+T11	outcome 1104 1115	12-year DFS

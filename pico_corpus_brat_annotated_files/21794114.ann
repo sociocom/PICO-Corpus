@@ -1,0 +1,9 @@
+T1	intervention 205 234	heart failure pharmacotherapy
+T2	total-participants 739 765	One hundred and fifty-nine
+T3	eligibility 766 824	patients with histologically confirmed HER2+ breast cancer
+T6	control 1084 1091	placebo
+T8	condition 247 295	trastuzumab-mediated left ventricular remodeling
+T9	outcome-Measure 1549 1605	12 month change in left ventricular end-diastolic volume
+T10	outcome-Measure 1671 1726	evolution of left ventricular remodeling on cardiac MRI
+T11	outcome-Measure 1861 1940	presence of myocardial injury and apoptosis on serum biomarkers and cardiac MRI
+T12	outcome-Measure 1949 2080	correlate cardiac biomarkers of myocyte injury and extra-cellular matrix remodeling with left ventricular remodeling on cardiac MRI

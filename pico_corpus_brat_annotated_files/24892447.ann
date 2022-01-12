@@ -1,0 +1,17 @@
+T3	eligibility 601 694	women with increased risk (Prevention), and women treated for ductal carcinoma in situ (DCIS)
+T4	ethinicity 696 705	Australia
+T5	ethinicity 707 718	New Zealand
+T6	ethinicity 723 737	United Kingdom
+T7	control 797 845	standard trial consent materials (control group)
+T8	total-participants 981 984	112
+T9	total-participants 1000 1002	34
+T10	intervention-participants 1050 1052	73
+T11	control-participants 1057 1059	73
+T12	total-participants 1070 1072	95
+T13	total-participants 1088 1090	24
+T14	intervention-participants 1137 1139	58
+T15	control-participants 1144 1146	61
+T16	outcome 1203 1222	decisional conflict
+T17	outcome 1253 1276	knowledge post decision
+T18	outcome 1316 1333	decisional regret
+T19	intervention 98 110	decision aid

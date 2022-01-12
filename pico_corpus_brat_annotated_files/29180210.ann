@@ -1,0 +1,22 @@
+T1	outcome-Measure 688 722	pathologic complete response (pCR)
+T3	total-participants 842 845	188
+T4	intervention 21 66	neoadjuvant chemotherapy with zoledronic acid
+T6	control-participants 865 867	95
+T7	intervention-participants 902 904	93
+T8	outcome 924 927	DFS
+T9	outcome 932 948	overall survival
+T10	control-participants 966 968	92
+T11	intervention-participants 973 975	88
+T12	cv-cont-mean 1008 1014	5.15 y
+T13	iv-cont-mean 1019 1025	5.38 y
+T14	outcome 1045 1057	3-y DFS rate
+T15	cv-bin-percent 1062 1067	84.6%
+T16	iv-bin-percent 1088 1093	90.8%
+T17	outcome 1207 1215	pCR rate
+T18	cv-bin-percent 1289 1294	70.6%
+T19	iv-bin-percent 1302 1307	94.1%
+T2	outcome-Measure 758 781	clinical response rates
+T5	outcome-Measure 783 816	rate of breast-conserving surgery
+T20	outcome-Measure 818 824	safety
+T21	outcome-Measure 830 833	DFS
+T22	outcome 1363 1366	DFS

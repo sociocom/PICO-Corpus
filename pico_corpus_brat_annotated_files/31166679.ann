@@ -1,0 +1,20 @@
+T1	intervention 22 55	Ribociclib plus Endocrine Therapy
+T2	outcome 1914 1933	disease progression
+T5	outcome 1731 1786	patients who received subsequent antineoplastic therapy
+T6	iv-bin-percent 1820 1825	68.9%
+T7	cv-bin-percent 1854 1859	73.2%
+T8	outcome 1499 1507	survival
+T11	outcome 1248 1277	overall survival at 42 months
+T12	iv-bin-percent 1282 1287	70.2%
+T13	cv-bin-percent 1361 1366	46.0%
+T16	outcome 984 990	deaths
+T17	intervention-participants 997 1000	335
+T18	iv-bin-percent 1011 1016	24.8%
+T19	iv-bin-abs 981 983	83
+T20	cv-bin-abs 1046 1049	109
+T21	control-participants 1063 1066	337
+T22	cv-bin-percent 1077 1082	32.3%
+T23	total-participants 905 908	672
+T24	control 654 694	placebo in addition to endocrine therapy
+T25	eligibility 318 471	premenopausal or perimenopausal patients with advanced hormone-receptor-positive, human epidermal growth factor receptor 2 (HER2)-negative breast cancer.
+T3	outcome-Measure 574 590	overall survival

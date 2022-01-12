@@ -1,0 +1,16 @@
+T1	intervention 20 44	shenqi fuzheng injection
+T2	outcome 1441 1487	myelosuppression and gastrointestinal reaction
+T3	outcome 1298 1324	progression of the disease
+T5	outcome 1363 1390	grade IV toxic side effects
+T7	outcome 1080 1100	total effective rate
+T8	iv-bin-percent 1105 1110	69.2%
+T9	iv-bin-abs 1112 1114	45
+T10	intervention-participants 1115 1117	65
+T11	cv-bin-percent 1142 1147	49.2%
+T12	cv-bin-abs 1149 1151	30
+T13	control-participants 1152 1154	61
+T14	control 539 552	control group
+T15	control-participants 556 558	61
+T16	intervention-participants 616 618	65
+T18	total-participants 384 387	126
+T19	eligibility 388 430	patients with local advanced breast cancer

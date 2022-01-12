@@ -1,0 +1,10 @@
+T1	intervention 0 15	Chemoprevention
+T3	eligibility 342 374	Women seen in a high-risk clinic
+T4	total-participants 747 751	1506
+T5	outcome 853 882	likely to use chemoprevention
+T6	outcome 938 972	Chemoprevention use by risk factor
+T7	outcome 1266 1289	fear of adverse effects
+T8	iv-bin-abs 1326 1328	57
+T9	intervention-participants 1329 1332	156
+T10	iv-bin-percent 1334 1337	36%
+T2	outcome 1462 1484	risk for breast cancer

@@ -1,0 +1,21 @@
+T1	location 95 101	Mexico
+T2	total-participants 726 728	20
+T3	eligibility 729 815	patients with diagnosis of breast cancer and out of oncological therapeutic processing
+T4	intervention 49 76	inhibitors of the aromatase
+T5	control 80 89	tamoxifen
+T6	intervention-participants 910 912	10
+T7	control-participants 939 941	10
+T9	outcome 1175 1191	ductal carcinoma
+T10	cv-bin-percent 1195 1198	70%
+T11	iv-bin-percent 1263 1266	90%
+T12	outcome 1272 1305	mastectomy prior to the tamoxifen
+T13	iv-bin-percent 1325 1328	60%
+T14	cv-bin-percent 1352 1355	50%
+T15	outcome 1464 1472	complete
+T16	cv-bin-percent 1480 1483	60%
+T17	iv-bin-percent 1534 1537	80%
+T18	outcome 1539 1547	survival
+T19	iv-bin-percent 1585 1589	100%
+T20	cv-bin-percent 1673 1676	90%
+T8	outcome 1724 1732	survival
+T21	outcome 1748 1763	quality of life

@@ -1,0 +1,15 @@
+T1	intervention 0 9	Neratinib
+T2	location 68 72	Asia
+T4	total-participants 317 321	2840
+T5	control 423 430	placebo
+T7	total-participants 504 507	341
+T8	intervention-participants 548 551	165
+T9	control-participants 566 569	176
+T10	outcome 572 615	2-year invasive disease-free survival rates
+T11	iv-bin-percent 621 625	92.8
+T12	cv-bin-percent 630 635	90.8%
+T13	outcome 712 724	5-year rates
+T14	iv-bin-percent 730 734	91.9
+T15	cv-bin-percent 739 744	87.2%
+T16	outcome 790 798	Diarrhea
+T6	eligibility 322 372	women with early stage HER2-positive breast cancer

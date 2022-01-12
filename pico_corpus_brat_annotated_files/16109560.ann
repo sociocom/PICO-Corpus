@@ -1,0 +1,13 @@
+T1	intervention 11 46	preoperative lymphatic chemotherapy
+T2	total-participants 383 388	Sixty
+T3	eligibility 403 433	breast cancer of stages II-III
+T4	intervention-participants 473 478	Forty
+T5	control-participants 617 623	Twenty
+T6	control 640 647	control
+T7	outcome 968 983	apoptotic index
+T10	outcome 1180 1216	expression of Bcl-2 and Bax proteins
+T11	outcome 1323 1341	ratio of Bcl-2/Bax
+T8	iv-cont-mean 1103 1106	9.5
+T13	iv-cont-sd 1109 1112	2.7
+T9	cv-cont-mean 1120 1123	3.8
+T14	cv-cont-sd 1126 1129	1.4

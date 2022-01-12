@@ -1,0 +1,17 @@
+T1	intervention 10 47	rapid genetic counselling and testing
+T2	eligibility 414 499	Newly diagnosed breast cancer patients with at least a 10% risk of a BRCA1/2 mutation
+T3	control 562 575	control group
+T7	total-participants 768 771	265
+T8	outcome 874 920	percentage of patients opting for a direct BLM
+T9	iv-bin-percent 922 927	14.6%
+T10	cv-bin-percent 950 954	9.2%
+T11	outcome 1053 1064	delayed CPM
+T12	iv-bin-percent 1066 1070	4.5%
+T13	cv-bin-percent 1093 1097	5.7%
+T14	outcome 1284 1304	opted for direct BLM
+T15	iv-bin-abs 1245 1247	59
+T16	intervention-participants 1255 1258	178
+T17	iv-bin-percent 1369 1372	22%
+T18	cv-bin-percent 1376 1380	9.2%
+T4	outcome-Measure 631 674	uptake of direct bilateral mastectomy (BLM)
+T5	outcome-Measure 679 730	delayed contralateral prophylactic mastectomy (CPM)

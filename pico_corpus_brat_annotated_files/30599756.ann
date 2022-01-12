@@ -1,0 +1,9 @@
+T1	intervention 10 22	Rosuvastatin
+T2	condition 37 72	Chemotherapy-Induced Cardiotoxicity
+T3	total-participants 661 663	89
+T4	eligibility 664 747	women with newly diagnosed breast cancer who were scheduled to receive chemotherapy
+T5	control 810 817	placebo
+T8	outcome 1365 1369	LVEF
+T9	outcome 1532 1536	LVEF
+T10	outcome 1701 1752	4- and 2-chamber LVESV, LA diameter, and E/e' ratio
+T11	outcome 1878 1898	e' and s' velocities

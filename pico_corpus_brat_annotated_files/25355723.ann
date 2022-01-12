@@ -1,0 +1,26 @@
+T2	eligibility 440 549	patients with newly diagnosed intraparenchymal BMs from breast cancer, unsuitable for surgery or radiosurgery
+T6	total-participants 1061 1064	100
+T7	intervention-participants 1102 1104	50
+T8	control-participants 1128 1130	50
+T9	control 1138 1142	WBRT
+T10	age 1164 1172	55 years
+T12	cv-bin-percent 1247 1250	36%
+T13	iv-bin-percent 1271 1274	30%
+T14	outcome 1320 1330	median PFS
+T15	cv-cont-median 1335 1345	7.4 months
+T16	cv-cont-median 1364 1375	11.1 months
+T17	outcome 1400 1410	median PFS
+T18	outcome 1350 1359	median OS
+T19	iv-cont-median 1415 1425	6.9 months
+T20	outcome 1430 1439	median OS
+T21	iv-cont-median 1444 1454	9.4 months
+T22	outcome 1514 1537	≥grade 2 acute toxicity
+T23	outcome 1542 1564	reversible lymphopenia
+T1	intervention 29 98	whole-brain radiation therapy with or without concurrent temozolomide
+T3	outcome 1226 1230	ORRs
+T5	outcome 1231 1241	at 6 weeks
+T11	outcome-Measure 739 768	objective response rate (ORR)
+T4	outcome-Measure 922 953	progression-free survival (PFS)
+T24	outcome-Measure 958 979	overall survival (OS)
+T25	outcome-Measure 981 1000	neurologic symptoms
+T26	outcome-Measure 1006 1018	tolerability

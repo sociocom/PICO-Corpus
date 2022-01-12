@@ -1,0 +1,14 @@
+T1	condition 29 41	osteoporosis
+T2	ethinicity 45 52	Chinese
+T4	eligibility 543 605	Chinese women in the menopausal transition and early menopause
+T10	outcome 1233 1285	Metabolism indexes and breast ultrasound examination
+T11	outcome 1375 1388	breast cancer
+T12	outcome 1408 1430	cardiovascular disease
+T13	iv-bin-abs 1464 1467	One
+T14	outcome 1468 1481	breast cancer
+T15	iv-bin-abs 1491 1494	two
+T16	outcome 1495 1523	cardiovascular disease cases
+T3	outcome 1204 1207	BMD
+T6	outcome 1002 1029	lumbar and femoral neck BMD
+T7	intervention 637 646	MHT group
+T5	control 654 667	placebo group

@@ -1,0 +1,17 @@
+T1	intervention 67 89	neoadjuvant lobaplatin
+T2	total-participants 397 400	125
+T3	control-participants 411 413	63
+T4	intervention-participants 421 423	62
+T5	outcome 590 630	rate of pCR in the breast and the axilla
+T6	iv-bin-percent 534 539	38.7%
+T7	cv-bin-percent 544 549	12.7%
+T8	outcome 646 667	overall response rate
+T9	iv-bin-percent 674 679	93.5%
+T10	cv-bin-percent 684 689	73.0%
+T11	outcome 721 737	grade 3-4 anemia
+T12	outcome 742 758	thrombocytopenia
+T13	iv-bin-percent 787 792	52.5%
+T14	cv-bin-percent 797 802	10.0%
+T15	iv-bin-percent 807 812	34.4%
+T16	cv-bin-percent 817 821	1.7%
+T17	control 414 416	TE

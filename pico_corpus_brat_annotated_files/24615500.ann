@@ -1,0 +1,22 @@
+T1	eligibility 66 139	postmenopausal women with hormone receptor-positive advanced breast cance
+T3	outcome-Measure 795 820	progression-free survival
+T4	control 713 720	placebo
+T5	total-participants 763 766	724
+T7	total-participants 1069 1072	720
+T8	intervention-participants 1094 1097	482
+T9	control-participants 1110 1113	238
+T11	outcome 1392 1406	dose reduction
+T12	outcome 1411 1423	interruption
+T13	iv-bin-abs 1425 1428	360
+T14	iv-bin-abs 1433 1436	705
+T15	outcome 1572 1587	Discontinuation
+T16	iv-bin-percent 1650 1652	9%
+T17	cv-bin-percent 1672 1674	3%
+T2	intervention 696 699	EVE
+T18	outcome 1523 1559	median duration of dose interruption
+T6	outcome-Measure 852 868	overall survival
+T19	outcome-Measure 870 893	objective response rate
+T20	outcome-Measure 899 905	safety
+T10	outcome 1187 1197	stomatitis
+T21	outcome 1199 1210	pneumonitis
+T22	outcome 1216 1229	hyperglycemia

@@ -1,0 +1,9 @@
+T1	intervention 39 59	oral bisphosphonates
+T2	location 644 650	Israel
+T3	age 718 729	55-75 years
+T5	eligibility 679 712	osteopenic and osteoporotic women
+T4	eligibility 730 774	who started BP therapy between 1998 and 2012
+T7	total-participants 1367 1373	11,717
+T8	age 1384 1407	mean age = 66.87 ± 4.38
+T9	outcome 1515 1546	incident cases of breast cancer
+T10	outcome 1621 1660	adjusted hazard ratio for breast cancer

@@ -1,0 +1,10 @@
+T1	outcome 1405 1408	PFS
+T2	outcome 1497 1510	TP53 mutation
+T3	outcome 1560 1579	FGFR1 amplification
+T4	outcome 1122 1125	PFS
+T6	total-participants 747 750	459
+T8	intervention-participants 585 588	347
+T9	control 593 617	placebo plus fulvestrant
+T10	control-participants 623 626	174
+T11	intervention 55 94	Fulvestrant With or Without Palbociclib
+T7	eligibility 631 712	patients with endocrine-pretreated estrogen receptor-positive (ER+) breast cancer

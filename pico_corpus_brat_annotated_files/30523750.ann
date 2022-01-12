@@ -1,0 +1,24 @@
+T1	intervention 37 73	Palbociclib in Addition to Letrozole
+T2	eligibility 430 521	Postmenopausal women with ER-positive primary BC and tumors greater than or equal to 2.0 cm
+T3	control 556 565	letrozole
+T8	total-participants 1339 1358	Three hundred seven
+T9	outcome 1384 1401	Clinical response
+T10	outcome 1501 1537	complete response + partial response
+T11	iv-bin-percent 1539 1544	54.3%
+T12	cv-bin-percent 1547 1552	49.5%
+T13	outcome 1559 1578	progressive disease
+T14	iv-bin-percent 1583 1587	3.2%
+T15	cv-bin-percent 1595 1599	5.4%
+T17	outcome 1888 1923	achieved complete cell-cycle arrest
+T18	iv-bin-percent 1925 1928	90%
+T19	cv-bin-percent 1931 1934	59%
+T20	outcome 1947 2023	Median log-fold change (suppression) of cleaved poly (ADP-ribose) polymerase
+T21	outcome 2130 2157	grade 3 or greater toxicity
+T22	iv-bin-percent 2189 2194	49.8%
+T23	cv-bin-percent 2197 2202	17.0%
+T4	outcome 1615 1646	Median log-fold change in Ki-67
+T5	iv-cont-median 1716 1720	-4.1
+T6	cv-cont-median 1723 1727	-2.2
+T16	iv-cont-median 2086 2091	-0.80
+T24	cv-cont-median 2094 2099	-0.42
+T7	outcome-Measure 1026 1041	change in Ki-67

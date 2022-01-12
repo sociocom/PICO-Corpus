@@ -1,0 +1,16 @@
+T1	intervention 0 15	Tamoxifen alone
+T2	control 23 41	adjuvant tamoxifen
+T3	age 245 253	70 years
+T4	eligibility 46 83	operable breast cancer of the elderly
+T6	outcome-Measure 473 489	Overall survival
+T7	outcome-Measure 550 572	breast cancer survival
+T8	outcome-Measure 577 605	local control of the disease
+T9	control-participants 630 633	239
+T10	intervention-participants 687 690	235
+T11	outcome 856 860	died
+T12	outcome 906 940	overall and breast cancer survival
+T13	outcome 956 974	local progressions
+T14	cv-bin-abs 953 955	27
+T15	iv-bin-abs 1015 1018	106
+T16	outcome 1116 1132	overall survival
+T5	outcome 1351 1385	overall and breast cancer survival

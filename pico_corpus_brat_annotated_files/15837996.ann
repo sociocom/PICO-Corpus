@@ -1,0 +1,15 @@
+T1	intervention 29 39	aprepitant
+T2	condition 62 102	chemotherapy-induced nausea and vomiting
+T3	eligibility 392 516	breast cancer patients were naive to emetogenic chemotherapy and treated with cyclophosphamide +/- doxorubicin or epirubicin
+T4	control 757 772	control regimen
+T5	outcome-Measure 1030 1075	proportion of patients with complete response
+T6	outcome-Measure 1224 1344	proportion of patients with an average item score higher than 6 of 7 on the Functional Living Index-Emesis questionnaire
+T7	total-participants 1349 1352	866
+T8	total-participants 1374 1377	857
+T9	outcome 1418 1435	complete response
+T10	iv-bin-percent 1507 1512	50.8%
+T11	cv-bin-percent 1515 1520	42.5%
+T12	outcome 1594 1622	impact of CINV on daily life
+T13	iv-bin-percent 1624 1629	63.5%
+T14	cv-bin-percent 1632 1637	55.6%
+T15	outcome 1681 1695	well tolerated

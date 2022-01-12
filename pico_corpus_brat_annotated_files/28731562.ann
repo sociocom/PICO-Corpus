@@ -1,0 +1,10 @@
+T3	intervention-participants 845 847	45
+T4	control 861 871	usual care
+T5	control-participants 877 879	45
+T7	eligibility 887 931	overweight and obese breast cancer survivors
+T12	outcome 1301 1312	at baseline
+T13	outcome 1348 1366	for dietary change
+T15	outcome 1524 1547	FFBQ and 24-hour recall
+T1	intervention 23 66	brief Fat and Fibre Behaviour Questionnaire
+T2	outcome 1228 1262	fat index with fat intake measures
+T6	outcome 1436 1457	fibre intake measures

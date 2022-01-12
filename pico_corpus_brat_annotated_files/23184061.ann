@@ -1,0 +1,15 @@
+T1	intervention 0 45	Mindfulness based stress reduction (MBSR(BC))
+T2	total-participants 355 365	Eighty-two
+T3	eligibility 366 419	post-treatment breast cancer survivors (stages 0-III)
+T5	intervention-participants 477 479	40
+T6	control 487 508	usual care group (UC)
+T7	control-participants 514 516	42
+T8	outcome 709 746	change in fear of recurrence problems
+T10	outcome 885 915	change in physical functioning
+T4	outcome 799 815	perceived stress
+T11	outcome 841 854	state anxiety
+T12	outcome 968 984	perceived stress
+T13	outcome 1010 1023	trait anxiety
+T14	outcome 1063 1081	fear of recurrence
+T15	outcome 1095 1115	physical functioning
+T16	outcome 1130 1158	perceived stress and anxiety

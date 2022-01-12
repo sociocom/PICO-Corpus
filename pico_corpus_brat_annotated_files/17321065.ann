@@ -1,0 +1,20 @@
+T1	location 242 258	British Columbia
+T2	intervention 311 340	power of the nodal ratio (NR)
+T5	intervention-participants 550 552	82
+T3	eligibility 553 653	patients with 1-3 N+ treated without postmastectomy radiotherapy (PMRT) in the British Columbia (BC)
+T6	control-participants 700 703	462
+T9	iv-bin-percent 1376 1381	28.7%
+T10	cv-bin-percent 1389 1394	22.7%
+T11	outcome 1321 1349	patients with NR > or = 0.20
+T12	outcome 1226 1254	patients with NR < or = 0.20
+T14	iv-bin-percent 1281 1286	17.7%
+T15	cv-bin-percent 1294 1299	10.9%
+T17	iv-bin-percent 1109 1114	21.5%
+T18	cv-bin-percent 1119 1124	12.6%
+T4	outcome 1029 1045	10-year LRR rate
+T7	outcome 1260 1276	10-year LRR rate
+T8	outcome 1355 1371	10-year LRR rate
+T13	control 713 733	treated without PMRT
+T16	outcome 921 951	median number of excised nodes
+T19	iv-cont-median 956 958	10
+T20	cv-cont-median 969 971	16

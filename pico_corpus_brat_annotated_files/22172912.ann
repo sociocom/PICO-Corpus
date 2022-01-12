@@ -1,0 +1,18 @@
+T3	condition 67 87	radiation dermatitis
+T4	eligibility 381 528	Women with breast cancer who had undergone lumpectomy and were to receive whole-breast radiotherapy to 50 Gy with a 10- to 16-Gy surgical bed boost
+T1	outcome-Measure 1106 1141	development of ≥ Grade 2 dermatitis
+T2	total-participants 1247 1249	74
+T8	iv-bin-percent 1446 1451	61.5%
+T9	iv-bin-abs 1453 1455	40
+T10	intervention-participants 1456 1458	65
+T11	cv-bin-percent 1464 1469	47.7%
+T12	cv-bin-abs 1471 1473	31
+T13	control-participants 1474 1476	65
+T14	outcome 1518 1536	Grade 3 dermatitis
+T15	iv-bin-abs 1496 1499	one
+T18	iv-bin-percent 1732 1735	42%
+T19	cv-bin-percent 1740 1743	14%
+T16	intervention 0 23	Topical hyaluronic acid
+T20	control 28 44	standard of care
+T5	outcome 1591 1607	worse dermatitis
+T6	outcome 1374 1402	rate of ≥ Grade 2 dermatitis

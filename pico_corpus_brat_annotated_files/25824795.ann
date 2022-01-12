@@ -1,0 +1,22 @@
+T1	intervention 0 11	Educational
+T2	location 117 135	Gampaha, Sri Lanka
+T3	control 534 541	control
+T4	total-participants 760 763	260
+T5	outcome 865 894	overall median scores for KAP
+T6	iv-cont-median 966 969	54%
+T7	iv-cont-median 985 988	50%
+T8	iv-cont-median 1008 1010	0%
+T9	outcome 940 962	pre intervention level
+T10	outcome 1027 1050	post intervention level
+T11	iv-cont-median 1054 1057	77%
+T12	iv-cont-median 1073 1076	68%
+T13	iv-cont-median 1097 1100	40%
+T14	outcome 1136 1165	overall median scores for KAP
+T15	outcome 1191 1210	at pre intervention
+T16	cv-cont-median 1211 1214	54%
+T17	cv-cont-median 1229 1232	50%
+T18	cv-cont-median 1250 1252	0%
+T19	outcome 1270 1287	post intervention
+T20	cv-cont-median 1288 1291	54%
+T21	cv-cont-median 1306 1309	50%
+T22	cv-cont-median 1327 1329	0%

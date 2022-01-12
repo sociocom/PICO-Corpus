@@ -1,0 +1,16 @@
+T2	intervention 22 38	aerobic training
+T3	age 518 529	50-74 years
+T4	eligibility 535 569	sedentary and postmenopausal women
+T5	total-participants 571 580	Forty-one
+T6	intervention-participants 662 664	22
+T7	control 673 686	control group
+T8	control-participants 692 694	19
+T12	total-participants 1052 1064	Twenty-seven
+T14	outcome 1254 1287	Plasma concentrations of resistin
+T1	outcome 1109 1122	Plasma leptin
+T9	outcome 1367 1382	Aerobic fitness
+T10	outcome 1398 1419	body mass index (BMI)
+T11	outcome 1552 1584	concentrations of the adipokines
+T13	outcome 1647 1650	BMI
+T15	outcome 1655 1674	body fat percentage
+T16	outcome 1688 1703	aerobic fitness

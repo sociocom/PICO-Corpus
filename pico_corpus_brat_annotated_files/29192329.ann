@@ -1,0 +1,17 @@
+T1	intervention 0 13	Oral curcumin
+T2	condition 18 38	radiation dermatitis
+T3	total-participants 62 65	686
+T4	control 557 564	placebo
+T5	total-participants 644 647	686
+T6	eligibility 66 88	breast cancer patients
+T7	total-participants 822 825	686
+T8	ethinicity 878 883	white
+T9	age 904 906	58
+T10	outcome 979 1008	radiation dermatitis severity
+T11	outcome 1147 1176	trend toward reduced severity
+T12	iv-bin-percent 1178 1181	7.4
+T13	cv-bin-percent 1186 1191	12.9%
+T15	outcome 1361 1390	radiation dermatitis severity
+T14	outcome 1233 1237	pain
+T16	outcome 1239 1247	symptoms
+T17	outcome 1253 1268	quality of life

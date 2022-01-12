@@ -1,0 +1,21 @@
+T1	intervention 14 23	letrozole
+T2	control 38 47	tamoxifen
+T3	total-participants 627 664	Four thousand nine hundred twenty-two
+T6	outcome-Measure 961 988	Disease-free survival (DFS)
+T7	iv-bin-abs 1069 1072	352
+T8	outcome 1073 1083	DFS events
+T9	intervention-participants 1090 1095	2,463
+T10	cv-bin-abs 1126 1129	418
+T11	control-participants 1143 1148	2,459
+T12	outcome 1215 1231	risk of an event
+T4	eligibility 678 741	postmenopausal women with receptor-positive early breast cancer
+T5	outcome 1425 1446	thromboembolic events
+T13	outcome 1448 1469	endometrial pathology
+T14	outcome 1471 1482	hot flashes
+T15	outcome 1484 1496	night sweats
+T17	outcome 1502 1518	vaginal bleeding
+T16	outcome 1559 1573	bone fractures
+T18	outcome 1575 1585	arthralgia
+T19	outcome 1587 1617	low-grade hypercholesterolemia
+T20	outcome 1623 1644	cardiovascular events
+T21	outcome 1337 1351	Adverse events

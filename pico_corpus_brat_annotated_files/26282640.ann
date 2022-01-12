@@ -1,0 +1,16 @@
+T1	intervention 11 24	Music Therapy
+T4	total-participants 434 437	207
+T5	eligibility 438 509	female patients undergoing surgery for potential or known breast cancer
+T6	intervention-participants 658 660	69
+T7	intervention-participants 774 776	70
+T8	control 782 797	usual care (UC)
+T9	control-participants 862 864	68
+T10	outcome 1095 1124	anxiety scores preoperatively
+T11	outcome 1293 1306	recovery time
+T12	outcome 1446 1465	Satisfaction scores
+T2	iv-cont-mean 1164 1169	-30.9
+T3	iv-cont-sd 1171 1175	36.3
+T13	iv-cont-mean 1178 1183	-26.8
+T14	iv-cont-sd 1185 1189	29.3
+T15	cv-cont-mean 1196 1199	0.0
+T16	cv-cont-sd 1201 1205	22.7

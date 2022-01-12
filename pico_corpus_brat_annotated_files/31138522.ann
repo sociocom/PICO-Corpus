@@ -1,0 +1,24 @@
+T4	control 892 899	placebo
+T7	total-participants 1188 1191	208
+T8	age 1225 1235	44.6 years
+T9	ethinicity 1246 1251	white
+T12	outcome 1579 1607	mean change in serum 25(OH)D
+T13	outcome 1650 1655	IGF-1
+T14	iv-cont-mean 1471 1476	-0.3%
+T15	cv-cont-mean 1481 1486	-1.2%
+T16	iv-cont-mean 1524 1529	+1.5%
+T17	cv-cont-mean 1534 1539	+1.6%
+T18	iv-cont-mean 1611 1616	+18.9
+T19	cv-cont-mean 1624 1634	+2.8 ng/mL
+T20	iv-cont-mean 1659 1663	-9.8
+T21	cv-cont-mean 1671 1681	-1.8 ng/mL
+T1	intervention 73 98	Vitamin D Supplementation
+T2	outcome 1430 1445	Mean MD changes
+T3	outcome 1446 1465	at 12 and 24 months
+T5	outcome-Measure 926 965	change in MD from baseline to 12 months
+T10	eligibility 510 560	premenopausal women at high risk for breast cancer
+T6	outcome-Measure 1024 1047	serial blood biomarkers
+T11	outcome-Measure 1158 1160	MD
+T22	outcome 1722 1724	MD
+T23	outcome 1756 1767	serum IGF-1
+T24	outcome 1772 1785	IGF-1/IGFBP-3

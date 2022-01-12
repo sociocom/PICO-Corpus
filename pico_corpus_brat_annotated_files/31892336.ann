@@ -1,0 +1,11 @@
+T1	intervention 10 39	aromatase inhibitor treatment
+T2	total-participants 591 594	254
+T3	eligibility 595 642	patients with ER-positive primary breast cancer
+T4	intervention-participants 692 695	198
+T5	control 700 724	no presurgical treatment
+T6	control-participants 738 740	56
+T7	outcome 1078 1109	baseline expression of 48 genes
+T8	outcome 1559 1631	downregulation of genes involved in cell proliferation and ER signalling
+T9	outcome 1646 1701	Signature scores of E2F activation and TP53 dysfunction
+T10	outcome 1806 1829	degree of heterogeneity
+T11	outcome 960 984	baseline ESR1 expression

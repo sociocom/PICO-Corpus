@@ -1,0 +1,19 @@
+T1	intervention 0 40	Exercise and dietary advice intervention
+T3	total-participants 958 967	Sixty-six
+T2	eligibility 968 1023	survivors of triple-negative breast cancer with BMI >25
+T4	total-participants 1053 1065	Twenty-eight
+T5	total-participants 1079 1081	23
+T6	intervention-participants 1126 1128	13
+T7	control-participants 1143 1145	10
+T10	outcome-Measure 1326 1361	weight loss (body mass, BMI, % fat)
+T12	outcome 1632 1650	lost more body fat
+T15	outcome 1750 1765	quality of life
+T16	outcome 1809 1823	sedentary time
+T17	outcome 1844 1866	peak exercise capacity
+T18	outcome 1902 1932	serum cytokines and adipokines
+T19	outcome 1973 2001	serum leptin and adiponectin
+T8	control 1146 1153	control
+T9	outcome-Measure 1395 1432	physical function (exercise capacity)
+T11	outcome-Measure 1434 1449	quality of life
+T13	outcome-Measure 1499 1508	cytokines
+T14	outcome-Measure 1554 1571	adipokine profile

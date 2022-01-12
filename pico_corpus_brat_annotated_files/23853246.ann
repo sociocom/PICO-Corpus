@@ -1,0 +1,13 @@
+T1	intervention 0 64	Neoadjuvant doxorubicin/cyclophosphamide followed by ixabepilone
+T2	control 68 78	paclitaxel
+T3	eligibility 492 577	Women with untreated, histologically confirmed primary invasive breast adenocarcinoma
+T5	intervention-participants 719 722	148
+T6	control-participants 790 793	147
+T7	outcome 1023 1034	rate of pCR
+T8	iv-bin-percent 1069 1074	24.3%
+T9	cv-bin-percent 1151 1156	25.2%
+T10	outcome 1499 1510	neutropenia
+T11	outcome 1560 1569	grade 3/4
+T12	iv-bin-percent 1571 1576	41.3%
+T13	cv-bin-percent 1581 1585	8.4%
+T14	outcome 1632 1653	peripheral neuropathy

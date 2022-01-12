@@ -1,0 +1,15 @@
+T1	intervention 8 33	Web-Based Self-Management
+T3	intervention-participants 830 832	70
+T4	control-participants 852 854	80
+T7	outcome 1373 1386	less distress
+T8	outcome 1508 1519	empowerment
+T9	outcome 1722 1756	clinically significant improvement
+T10	iv-bin-abs 1610 1612	39
+T11	intervention-participants 1616 1618	70
+T12	iv-bin-percent 1620 1623	56%
+T13	cv-bin-abs 1677 1679	32
+T14	control-participants 1683 1685	80
+T15	cv-bin-percent 1687 1690	40%
+T16	condition 38 62	Psychological Adjustment
+T5	outcome-Measure 923 1005	distress (Symptom Checklist-90) and empowerment (Cancer Empowerment Questionnaire)
+T6	control 837 846	CAU alone

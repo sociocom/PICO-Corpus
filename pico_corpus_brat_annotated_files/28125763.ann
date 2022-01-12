@@ -1,0 +1,32 @@
+T1	intervention 30 45	Zoledronic Acid
+T2	eligibility 501 663	patients with metastatic breast cancer that involved the bone who had previously received a standard dosing regimen of zoledronic acid and/or pamidronate disodium
+T3	control 951 958	placebo
+T4	location 1054 1067	United States
+T6	total-participants 1196 1199	416
+T7	age 1207 1216	≥18 years
+T8	outcome-Measure 1415 1476	proportion of patients with 1 or more SRE on study (SRE rate)
+T9	outcome-Measure 1516 1533	time to first SRE
+T10	outcome-Measure 1538 1567	skeletal morbidity rate (SMR)
+T11	total-participants 1580 1583	416
+T12	intervention-participants 1607 1610	200
+T14	ethinicity 1703 1708	white
+T15	control-participants 1719 1722	203
+T17	ethinicity 1816 1821	white
+T13	ethinicity 1908 1913	white
+T18	outcome 2028 2032	SREs
+T19	cv-bin-abs 2045 2047	44
+T20	cv-bin-percent 2058 2063	22.0%
+T21	iv-bin-abs 2112 2114	47
+T22	iv-bin-percent 2125 2130	23.2%
+T23	outcome 2314 2331	time to first SRE
+T24	outcome 2462 2475	mean (SD) SMR
+T25	outcome 2584 2599	safety profiles
+T26	cv-bin-abs 2669 2672	189
+T27	cv-bin-percent 2683 2688	95.5%
+T28	iv-bin-abs 2763 2766	189
+T29	iv-bin-percent 2768 2773	93.5%
+T16	control-participants 1836 1838	13
+T5	cv-cont-mean 2480 2484	0.46
+T30	cv-cont-sd 2486 2490	1.06
+T31	iv-cont-mean 2495 2499	0.50
+T32	iv-cont-sd 2501 2505	1.50

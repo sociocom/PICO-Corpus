@@ -1,0 +1,23 @@
+T1	intervention 65 77	capecitabine
+T2	control 85 88	S-1
+T3	eligibility 486 503	Patients with MBC
+T4	outcome-Measure 715 746	progression-free survival (PFS)
+T5	total-participants 759 762	142
+T6	intervention-participants 829 831	73
+T7	control-participants 845 847	69
+T8	outcome 850 860	Median PFS
+T9	iv-cont-median 893 902	1.2 years
+T10	cv-cont-median 924 933	1.3 years
+T13	outcome 1070 1094	objective response rates
+T14	iv-bin-percent 1100 1106	24.0 %
+T15	cv-bin-percent 1128 1134	23.1 %
+T16	outcome 1234 1250	Thrombocytopenia
+T17	cv-bin-percent 1257 1262	9.2 %
+T18	iv-bin-percent 1278 1283	1.4 %
+T19	outcome 1300 1306	nausea
+T20	cv-bin-percent 1313 1319	26.2 %
+T21	iv-bin-percent 1335 1341	14.1 %
+T22	outcome 1397 1415	hand-foot syndrome
+T23	cv-bin-percent 1468 1474	10.8 %
+T24	iv-bin-percent 1490 1496	25.4 %
+T11	outcome 1172 1204	treatment-related adverse events

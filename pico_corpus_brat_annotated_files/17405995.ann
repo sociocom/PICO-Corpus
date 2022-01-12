@@ -1,0 +1,18 @@
+T2	eligibility 489 636	patients with early-stage breast cancer who were receiving prolonged (5 years) tamoxifen treatment, with or without ovarian ablation or suppression
+T6	total-participants 874 878	1991
+T7	age 888 923	between the ages of 26 and 81 years
+T8	intervention-participants 948 951	987
+T9	control-participants 969 973	1004
+T10	location 1003 1005	UK
+T11	location 1013 1019	non-UK
+T12	intervention-participants 1029 1047	Nine hundred seven
+T13	outcome 1335 1356	relapse-free survival
+T14	iv-bin-abs 1422 1425	298
+T15	cv-bin-abs 1440 1443	332
+T19	iv-bin-abs 1616 1619	243
+T20	cv-bin-abs 1634 1637	282
+T5	intervention 0 16	Polychemotherapy
+T3	outcome 1521 1537	overall survival
+T1	outcome-Measure 724 736	relapse-free
+T16	outcome-Measure 741 757	overall survival
+T17	control 693 697	none

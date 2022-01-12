@@ -1,0 +1,18 @@
+T1	intervention 45 75	SB3 (a trastuzumab biosimilar)
+T2	control 83 104	reference trastuzumab
+T4	total-participants 902 905	367
+T5	intervention-participants 952 955	186
+T6	control-participants 966 969	181
+T7	outcome 1180 1184	LVEF
+T8	iv-bin-abs 1213 1214	1
+T9	cv-bin-abs 1225 1226	2
+T10	outcome 1362 1365	EFS
+T11	iv-bin-percent 1370 1375	91.9%
+T12	cv-bin-percent 1389 1394	85.2%
+T13	outcome 1409 1439	number of patients with events
+T14	iv-bin-abs 1444 1446	17
+T15	iv-bin-percent 1448 1452	9.1%
+T16	cv-bin-abs 1467 1469	31
+T17	cv-bin-percent 1471 1476	17.1%
+T18	outcome 1694 1708	Cardiotoxicity
+T19	outcome 1622 1655	pathologic complete response rate

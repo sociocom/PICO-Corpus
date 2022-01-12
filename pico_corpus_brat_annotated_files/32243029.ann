@@ -1,0 +1,10 @@
+T1	intervention 11 30	Health Belief Model
+T2	condition 85 95	lymphedema
+T3	total-participants 553 555	72
+T4	eligibility 556 605	women receiving radiotherapy after breast surgery
+T5	intervention-participants 615 617	37
+T6	control-participants 652 654	35
+T7	control 666 679	control group
+T8	eligibility 467 494	women having breast surgery
+T9	outcome 1200 1261	create positive changes in behaviour of lymphedema prevention
+T10	outcome 1266 1454	improve upper extremity functions, reduce side-effects, relieve arm and breast symptoms, enhance the quality of life, increase self-efficacy and lower the frequency of lymphedema and costs

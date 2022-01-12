@@ -1,0 +1,20 @@
+T1	intervention 76 89	pegfilgrastim
+T2	control 103 113	filgrastim
+T3	ethinicity 117 124	Chinese
+T4	eligibility 125 174	breast cancer patients receiving TAC chemotherapy
+T5	location 799 804	China
+T6	total-participants 814 817	171
+T10	outcome 1431 1464	incidence of grade 3+ neutropenia
+T12	outcome 1693 1708	safety profiles
+T13	iv-cont-mean 1245 1249	2.09
+T14	iv-cont-mean 1251 1255	1.53
+T16	cv-cont-mean 1356 1365	1.69 days
+T15	iv-cont-mean 1260 1269	1.73 days
+T17	iv-bin-percent 1469 1471	76
+T18	iv-bin-percent 1473 1475	83
+T19	iv-bin-percent 1480 1484	74 %
+T20	iv-bin-percent 1516 1520	90 %
+T9	outcome 1565 1584	febrile neutropenia
+T11	outcome 1586 1613	time to neutrophil recovery
+T21	outcome 1618 1636	neutrophil profile
+T22	outcome 1169 1206	mean duration of grade 3+ neutropenia

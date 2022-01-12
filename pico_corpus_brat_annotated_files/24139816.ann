@@ -1,0 +1,22 @@
+T3	condition 78 84	seroma
+T5	total-participants 413 422	Sixty-six
+T6	control-participants 433 435	45
+T7	control 443 456	control group
+T9	intervention-participants 461 463	22
+T10	eligibility 490 587	who have undergone an axillary dissection alone, with establishment of a redon or with lumpectomy
+T16	outcome 968 997	total volume of lymph drained
+T17	outcome 1093 1119	number of days of drainage
+T1	intervention 15 49	thrombin and fibrinogen combipatch
+T2	outcome 1208 1235	duration of hospitalization
+T4	cv-cont-mean 999 1004	268.2
+T8	cv-cont-sd 1007 1015	220.7 mL
+T13	iv-cont-mean 1040 1045	228.6
+T18	iv-cont-sd 1048 1056	128.8 mL
+T19	cv-cont-mean 1121 1124	3.9
+T20	cv-cont-sd 1127 1135	1.6 days
+T21	iv-cont-mean 1160 1163	3.1
+T22	iv-cont-sd 1166 1174	0.9 days
+T23	iv-cont-mean 1287 1288	5
+T25	iv-cont-sd 1291 1299	1.6 days
+T24	cv-cont-mean 1321 1324	3.8
+T26	cv-cont-sd 1327 1335	1.1 days

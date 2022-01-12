@@ -1,0 +1,15 @@
+T1	intervention 0 9	Melatonin
+T2	condition 35 55	Radiation Dermatitis
+T3	eligibility 506 582	patients who underwent breast-conserving surgery for stage 0-2 breast cancer
+T4	intervention-participants 630 632	26
+T5	control 643 650	placebo
+T6	control-participants 652 654	21
+T8	outcome 1001 1037	grade 1/2 acute radiation dermatitis
+T9	iv-bin-percent 1063 1066	59%
+T10	cv-bin-percent 1071 1074	90%
+T11	outcome 1154 1164	dermatitis
+T12	outcome 1218 1246	maximal radiation dermatitis
+T13	iv-bin-percent 1281 1284	15%
+T7	outcome 1270 1277	grade 2
+T14	iv-bin-percent 1188 1191	56%
+T15	cv-bin-percent 1196 1200	100%

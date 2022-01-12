@@ -1,0 +1,20 @@
+T1	intervention 24 42	psycho-educational
+T2	eligibility 457 496	women with non-metastatic breast cancer
+T3	total-participants 502 505	105
+T4	outcome-Measure 642 667	knowledge of care options
+T5	outcome-Measure 669 711	desired and actual role in self-management
+T6	outcome-Measure 713 741	medical communication skills
+T7	outcome-Measure 743 783	experience and management of transitions
+T8	outcome-Measure 785 792	anxiety
+T9	outcome-Measure 794 804	depression
+T10	outcome-Measure 806 817	uncertainty
+T11	outcome-Measure 823 836	self-efficacy
+T12	outcome 945 970	Knowledge of care options
+T13	outcome 1005 1036	desired role in self-management
+T14	outcome 1141 1169	improved their communication
+T15	outcome 1290 1311	medical communication
+T16	outcome 1316 1341	management of transitions
+T17	outcome 1404 1411	anxiety
+T18	outcome 1413 1423	depression
+T19	outcome 1425 1436	uncertainty
+T20	outcome 1442 1455	self-efficacy

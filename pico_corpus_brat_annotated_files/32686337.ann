@@ -1,0 +1,16 @@
+T1	intervention 0 10	Raloxifene
+T2	condition 20 50	Early Periprosthetic Bone Loss
+T3	eligibility 55 115	Postmenopausal Women after Uncemented Total Hip Arthroplasty
+T5	total-participants 357 360	240
+T6	age 377 400	between 55 and 80 years
+T7	intervention-participants 527 530	120
+T8	control 535 542	placebo
+T9	control-participants 567 570	120
+T11	total-participants 1228 1231	240
+T14	outcome 1590 1633	1, 4, 6, and 7 at 12 months postoperatively
+T15	outcome 1700 1746	1, 2, 4, 6, and 7 at 24 months postoperatively
+T16	outcome 1807 1817	QoL scores
+T17	outcome 1961 1971	WOMAC pain
+T18	outcome 1986 2000	WOMAC function
+T19	outcome 2018 2036	women's QoL scores
+T4	outcome 1453 1479	BMD of Gruen zones 4 and 7

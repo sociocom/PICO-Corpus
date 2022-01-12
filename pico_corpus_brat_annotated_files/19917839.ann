@@ -1,0 +1,19 @@
+T1	intervention 0 11	Trastuzumab
+T2	eligibility 457 550	Patients who presented human epidermal growth factor receptor 2 (HER2) -overexpressing tumors
+T3	control 668 679	observation
+T5	outcome-Measure 707 734	disease-free survival (DFS)
+T6	total-participants 744 747	528
+T7	intervention-participants 805 808	260
+T8	control-participants 831 834	268
+T11	outcome 1336 1350	Three-year DFS
+T12	cv-bin-percent 1362 1365	78%
+T13	iv-bin-percent 1393 1396	81%
+T14	outcome 1090 1100	DFS events
+T9	iv-bin-percent 1194 1197	14%
+T10	outcome 988 1010	discontinued treatment
+T15	iv-bin-abs 979 981	41
+T16	iv-bin-percent 983 986	18%
+T17	iv-bin-abs 924 927	196
+T18	iv-bin-percent 929 932	84%
+T19	outcome 934 973	received at least 6 months of treatment
+T4	outcome 1198 1230	reduction in the risk of relapse

@@ -1,0 +1,13 @@
+T2	eligibility 557 598	Patients with nonmetastatic breast cancer
+T3	intervention-participants 682 684	83
+T4	control-participants 698 700	87
+T9	intervention-participants 1167 1170	77)
+T10	control-participants 1210 1212	82
+T12	outcome 1299 1333	after exposure to anxiety triggers
+T17	intervention 159 175	single-component
+T18	control 180 218	multiple-component group interventions
+T1	outcome 1480 1507	everyday anxiety regulation
+T14	outcome 1528 1579	use of fear of recurrence-related coping strategies
+T15	outcome 1604 1666	reduction in fear of recurrence-related psychological distress
+T13	outcome 1357 1393	heart rates at different time points
+T11	outcome 1243 1283	anxiety after a self-relaxation exercise

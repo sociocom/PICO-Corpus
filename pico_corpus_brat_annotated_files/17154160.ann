@@ -1,0 +1,18 @@
+T2	total-participants 461 485	Three hundred twenty-six
+T3	eligibility 98 163	breast cancer patients receiving anthracycline-based chemotherapy
+T4	intervention-participants 623 626	163
+T5	control 631 638	placebo
+T6	control-participants 644 647	163
+T7	outcome 1051 1069	WHO grade >or=2 OM
+T8	iv-bin-percent 1071 1076	38.7%
+T9	cv-bin-percent 1081 1086	49.7%
+T10	outcome 1102 1127	severe WHO grade >or=3 OM
+T11	iv-bin-percent 1129 1133	1.2%
+T12	cv-bin-percent 1138 1142	6.7%
+T13	outcome 1215 1269	worst Oral Mucositis Assessment Scale ulceration score
+T1	intervention 40 47	Saforis
+T14	iv-cont-mean 1320 1324	0.23
+T16	iv-cont-sd 1329 1333	0.39
+T15	cv-cont-mean 1338 1342	0.32
+T17	cv-cont-sd 1347 1351	0.45
+T18	outcome 1592 1606	adverse events

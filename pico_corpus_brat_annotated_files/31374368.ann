@@ -1,0 +1,25 @@
+T1	intervention 0 17	Physical Activity
+T2	outcome 944 961	No adverse events
+T3	total-participants 582 590	Fourteen
+T4	eligibility 591 625	women with metastatic breast cance
+T7	outcome 1133 1195	Functional Assessment of Chronic Illness Therapy-Fatigue score
+T8	outcome 1239 1245	VO2max
+T9	outcome 1342 1362	six-minute walk test
+T5	outcome 1582 1596	well tolerated
+T16	outcome 1513 1530	feasible and safe
+T17	outcome 846 855	Adherence
+T18	iv-bin-percent 916 920	100%
+T19	iv-bin-percent 925 928	25%
+T6	control 655 668	control group
+T10	iv-cont-mean 1197 1201	+5.6
+T20	iv-cont-sd 1204 1207	3.2
+T11	cv-cont-mean 1212 1216	-1.8
+T21	cv-cont-sd 1219 1222	3.9
+T12	iv-cont-mean 1247 1264	+1.6 ml/kg/minute
+T22	iv-cont-sd 1266 1282	1.8 mL/kg/minute
+T13	cv-cont-mean 1287 1304	-0.2 mL/kg/minute
+T23	cv-cont-sd 1306 1322	0.1 mL/kg/minute
+T14	iv-cont-mean 1364 1369	+40 m
+T24	iv-cont-sd 1372 1376	23 m
+T15	cv-cont-mean 1381 1386	-46 m
+T25	cv-cont-sd 1389 1393	56 m

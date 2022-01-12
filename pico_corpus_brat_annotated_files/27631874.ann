@@ -1,0 +1,17 @@
+T1	ethinicity 26 42	African American
+T5	total-participants 463 465	35
+T6	control 555 562	control
+T7	outcome 962 988	Median (IQR) weight change
+T8	outcome 1256 1277	below baseline weight
+T9	iv-bin-percent 1282 1286	72.7
+T10	iv-bin-percent 1288 1292	53.8
+T11	cv-bin-percent 1298 1304	45.5 %
+T12	outcome 1377 1415	weighed and wore trackers ≥5 days/week
+T13	iv-bin-percent 1423 1429	81.9 %
+T14	iv-bin-percent 1439 1445	38.5 %
+T15	cv-bin-percent 1455 1458	0 %
+T16	outcome 1512 1537	perceived DSW as positive
+T17	iv-cont-median 1008 1014	-0.9 %
+T18	iv-cont-median 1073 1079	-0.2 %
+T19	cv-cont-median 1150 1155	0.2 %
+T2	intervention 73 107	smart scales and activity trackers

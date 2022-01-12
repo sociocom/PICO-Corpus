@@ -1,0 +1,23 @@
+T1	intervention 0 35	Perioperative intravenous lidocaine
+T2	condition 162 197	persistent postsurgical pain (PPSP)
+T3	total-participants 399 409	Thirty-six
+T12	outcome 1133 1167	pain intensity-visual analog scale
+T13	outcome 1227 1249	Secondary hyperalgesia
+T14	outcome 1452 1473	analgesic consumption
+T9	iv-bin-abs 947 950	Two
+T15	iv-bin-percent 952 957	11.8%
+T10	cv-bin-abs 995 996	9
+T16	cv-bin-percent 998 1003	47.4%
+T21	condition 50 78	incidence of persistent pain
+T17	iv-cont-mean 1190 1194	14.6
+T22	iv-cont-sd 1197 1201	22.5
+T18	cv-cont-mean 1206 1209	2.6
+T23	cv-cont-sd 1212 1215	7.5
+T19	iv-cont-mean 1376 1379	0.2
+T24	iv-cont-sd 1382 1385	0.8
+T20	cv-cont-mean 1390 1393	3.2
+T25	cv-cont-sd 1396 1402	4.5 cm
+T26	outcome 1251 1299	area of hyperalgesia/length of surgical incision
+T27	outcome 1563 1593	incidence and severity of PPSP
+T6	outcome 1044 1070	PPSP at 3 months follow-up
+T4	control 673 695	saline (control group)

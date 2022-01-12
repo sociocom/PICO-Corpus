@@ -1,0 +1,15 @@
+T1	eligibility 605 645	women at increased risk of breast cancer
+T2	condition 0 42	Anastrozole-Induced Carpal Tunnel Syndrome
+T3	intervention 680 691	anastrozole
+T4	control 695 702	placebo
+T5	outcome 859 862	CTS
+T6	intervention-participants 878 887	65 (3.4%)
+T7	control-participants 915 924	31 (1.6%)
+T8	outcome 1030 1040	severe CTS
+T9	iv-bin-abs 1051 1056	eight
+T10	iv-bin-abs 1092 1100	Eighteen
+T11	iv-bin-percent 1108 1112	0.9%
+T12	cv-bin-abs 1141 1144	six
+T13	cv-bin-percent 1152 1156	0.3%
+T15	outcome 1298 1310	discontinued
+T14	outcome 1177 1207	reported surgical intervention

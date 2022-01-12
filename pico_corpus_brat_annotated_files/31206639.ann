@@ -1,0 +1,37 @@
+T1	ethinicity 34 39	Asian
+T2	intervention 0 30	Explicit prognostic disclosure
+T3	ethinicity 613 621	Japanese
+T4	eligibility 622 681	women with breast cancer who had undergone curative surgery
+T5	outcome-Measure 913 938	participants' uncertainty
+T6	outcome-Measure 997 1004	anxiety
+T7	outcome-Measure 1074 1086	satisfaction
+T8	outcome-Measure 1137 1150	self-efficacy
+T9	outcome-Measure 1170 1214	willingness to discuss advance care planning
+T10	total-participants 1239 1242	105
+T14	outcome 1739 1752	self-efficacy
+T15	outcome 1805 1849	willingness to discuss advance care planning
+T12	outcome 1493 1505	satisfaction
+T13	outcome 1574 1581	anxiety
+T11	outcome 1404 1415	uncertainty
+T16	iv-cont-mean 1435 1438	5.3
+T26	iv-cont-sd 1440 1443	0.2
+T17	cv-cont-mean 1447 1450	5.7
+T27	cv-cont-sd 1453 1456	0.2
+T18	iv-cont-mean 1507 1510	5.6
+T28	iv-cont-sd 1513 1516	0.2
+T19	cv-cont-mean 1520 1523	5.2
+T29	cv-cont-sd 1526 1529	0.2
+T20	iv-cont-mean 1645 1649	0.06
+T30	iv-cont-sd 1652 1655	0.5
+T21	cv-cont-mean 1659 1662	0.6
+T31	cv-cont-sd 1665 1668	0.5
+T22	iv-cont-mean 1754 1757	5.2
+T32	iv-cont-sd 1760 1763	0.2
+T23	cv-cont-mean 1767 1770	5.0
+T33	cv-cont-sd 1773 1776	0.2
+T24	iv-cont-mean 1851 1854	2.7
+T34	iv-cont-sd 1857 1860	0.1
+T25	cv-cont-mean 1864 1867	2.7
+T35	cv-cont-sd 1870 1873	0.1
+T36	age 1278 1294	53.8 ± 8.2 years
+T37	control 1961 1974	nondisclosure

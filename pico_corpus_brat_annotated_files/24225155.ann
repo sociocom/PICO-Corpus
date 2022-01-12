@@ -1,0 +1,25 @@
+T1	intervention 0 27	Intraoperative radiotherapy
+T2	control 35 56	external radiotherapy
+T3	location 513 525	Milan, Italy
+T4	age 539 550	48-75 years
+T5	eligibility 551 662	with early breast cancer, a maximum tumour diameter of up to 2·5 cm, and suitable for breast-conserving surgery
+T6	outcome-Measure 1390 1448	occurrence of ipsilateral breast tumour recurrences (IBTR)
+T7	outcome-Measure 1450 1465	overall surviva
+T8	total-participants 1607 1611	1305
+T9	control-participants 1638 1641	654
+T10	intervention-participants 1671 1674	651
+T12	outcome 1917 1921	IBTR
+T13	iv-bin-abs 1800 1802	35
+T14	cv-bin-abs 1857 1861	four
+T15	outcome 1938 1964	5-year event rate for IBRT
+T16	iv-bin-percent 1969 1973	4·4%
+T17	cv-bin-percent 2036 2040	0·4%
+T18	iv-bin-abs 2148 2150	34
+T19	cv-bin-abs 2202 2204	31
+T20	outcome 2230 2234	died
+T21	outcome 2245 2268	5-year overall survival
+T22	iv-bin-percent 2273 2278	96·8%
+T23	cv-bin-percent 2343 2348	96·9%
+T24	intervention-participants 2432 2435	464
+T25	control-participants 2471 2474	412
+T26	outcome 2531 2548	skin side-effects

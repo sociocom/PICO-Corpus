@@ -1,0 +1,14 @@
+T1	outcome 1479 1533	osteoporosis and significantly more clinical fractures
+T2	iv-bin-percent 1570 1574	5.2%
+T3	cv-bin-percent 1577 1581	3.1%
+T4	outcome 1252 1273	disease-free survival
+T7	outcome 1351 1362	distant DFS
+T10	intervention-participants 894 899	1,579
+T11	control-participants 972 975	804
+T14	location 173 179	Canada
+T15	intervention 38 47	letrozole
+T16	eligibility 68 138	women with early-stage breast cancer who complete 5 years of tamoxifen
+T5	outcome 1087 1132	more likely to have had node-positive disease
+T6	outcome 1134 1153	axillary dissection
+T8	outcome 1159 1180	adjuvant chemotherapy
+T9	control 435 449	placebo (PLAC)

@@ -1,0 +1,35 @@
+T1	intervention 54 63	metformin
+T2	control 71 78	placebo
+T3	eligibility 459 516	non-diabetic MBC patients on 1st to 4th line chemotherapy
+T4	outcome-Measure 588 619	progression-free survival (PFS)
+T6	outcome 788 791	PFS
+T9	total-participants 852 854	40
+T10	total-participants 733 735	40
+T11	intervention-participants 881 883	22
+T12	control-participants 895 897	18
+T13	age 926 940	55 vs 57 years
+T14	outcome 1430 1437	Mean OS
+T15	iv-cont-mean 1442 1446	20.2
+T19	outcome 1348 1356	Mean PFS
+T20	iv-cont-mean 1361 1364	5.4
+T21	cv-cont-mean 1368 1378	6.3 months
+T24	outcome 1196 1212	Partial response
+T25	iv-bin-percent 1213 1218	18.2%
+T26	cv-bin-percent 1232 1235	25%
+T27	outcome 1245 1259	stable disease
+T28	iv-bin-percent 1260 1265	36.4%
+T29	cv-bin-percent 1279 1284	18.8%
+T30	outcome 1294 1313	progressive disease
+T31	iv-bin-percent 1314 1319	45.4%
+T32	cv-bin-percent 1333 1338	56.2%
+T33	outcome 1112 1130	Grade 3-4 toxicity
+T34	iv-bin-percent 1143 1148	31.8%
+T35	cv-bin-percent 1164 1169	58.8%
+T5	cv-cont-mean 1462 1473	24.2 months
+T7	outcome-Measure 649 670	overall survival (OS)
+T8	outcome-Measure 672 690	response rate (RR)
+T16	outcome-Measure 692 700	toxicity
+T17	outcome-Measure 705 726	quality of life (QOL)
+T18	outcome 1574 1576	RR
+T22	outcome 1578 1581	PFS
+T23	outcome 1585 1587	OS

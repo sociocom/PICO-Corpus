@@ -1,0 +1,14 @@
+T1	intervention 25 45	Biosimilar LA-EP2006
+T2	control 50 73	Reference Pegfilgrastim
+T3	condition 96 107	Neutropenia
+T5	total-participants 902 905	308
+T6	eligibility 791 889	early-stage breast cancer patients receiving adjuvant or neoadjuvant myelosuppressive chemotherapy
+T8	outcome 1542 1545	DSN
+T9	intervention-participants 1617 1620	155
+T10	control-participants 1654 1657	153
+T11	outcome 1932 1947	Safety profiles
+T12	outcome 1982 2007	No neutralizing antibodie
+T13	outcome 1678 1698	treatment difference
+T14	outcome 1840 1869	Secondary efficacy parameters
+T15	outcome 2177 2196	efficacy and safety
+T7	outcome-Measure 1269 1320	duration of severe neutropenia (DSN) during cycle 1

@@ -1,0 +1,10 @@
+T1	intervention 38 70	Individualized Physical Activity
+T2	control 580 587	6-month
+T3	eligibility 87 122	Women With Metastatic Breast Cancer
+T4	total-participants 1090 1092	49
+T5	age 1116 1124	55 years
+T6	outcome 1274 1304	6-minute walking distance test
+T7	outcome 1323 1352	isometric quadriceps strength
+T9	outcome 1393 1408	body mass index
+T10	outcome 1428 1445	hip circumference
+T11	outcome 1489 1504	Quality of life

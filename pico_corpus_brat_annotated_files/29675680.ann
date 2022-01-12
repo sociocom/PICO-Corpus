@@ -1,0 +1,24 @@
+T1	intervention 45 56	ruxolitinib
+T4	eligibility 691 862	Patients with ≤ 2 prior chemotherapy regimens for advanced or metastatic disease or hormone receptor-positive patients with disease progression on prior hormonal therapies
+T5	intervention-participants 920 922	76
+T6	control-participants 940 942	73
+T7	outcome-Measure 988 1009	overall survival (OS)
+T8	intervention 1075 1104	ruxolitinib plus capecitabine
+T9	control 1112 1137	placebo plus capecitabine
+T10	outcome 1139 1148	median OS
+T11	iv-cont-median 1153 1164	11.2 months
+T12	cv-cont-median 1172 1183	10.9 months
+T13	outcome 1211 1249	median progression-free survival (PFS)
+T14	iv-cont-median 1254 1264	4.5 months
+T15	cv-cont-median 1272 1282	2.5 months
+T17	iv-bin-percent 1346 1351	28.9%
+T18	cv-bin-percent 1359 1364	13.7%
+T20	outcome 1618 1647	incidence of grade 3/4 anemia
+T21	outcome 1676 1732	incidence of grade 3/4 palmar-plantar erythrodysesthesia
+T22	iv-bin-percent 1649 1654	25.4%
+T23	cv-bin-percent 1658 1662	5.6%
+T24	iv-bin-percent 1734 1738	1.4%
+T25	cv-bin-percent 1742 1747	12.7%
+T16	outcome 1314 1341	overall response rate (ORR)
+T2	control 60 100	placebo in combination with capecitabine
+T3	outcome 1448 1478	health-related quality of life

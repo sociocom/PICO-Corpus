@@ -1,0 +1,21 @@
+T1	intervention 24 33	tamoxifen
+T2	control 41 84	tamoxifen plus ovarian function suppression
+T3	eligibility 453 565	Premenopausal women with axillary node-negative, hormone receptor-positive breast cancer tumors measuring ≤ 3 cm
+T5	outcome-Measure 785 823	toxicity and patient-reported outcomes
+T6	total-participants 1057 1060	345
+T7	intervention-participants 1096 1099	171
+T8	control-participants 1123 1126	174
+T9	outcome 1241 1244	DFS
+T11	iv-bin-percent 1259 1264	87.9%
+T12	cv-bin-percent 1267 1272	89.7%
+T13	outcome 1295 1297	OS
+T10	iv-bin-percent 1312 1317	95.2%
+T14	cv-bin-percent 1320 1325	97.6%
+T15	outcome 1346 1372	Grade 3 or higher toxicity
+T16	cv-bin-percent 1420 1425	22.4%
+T17	iv-bin-percent 1428 1433	12.3%
+T18	outcome 1496 1515	menopausal symptoms
+T19	outcome 1523 1538	sexual activity
+T20	outcome 1553 1593	health-related quality of life at 3-year
+T4	outcome-Measure 700 727	disease-free survival (DFS)
+T21	outcome-Measure 732 753	overall survival (OS)

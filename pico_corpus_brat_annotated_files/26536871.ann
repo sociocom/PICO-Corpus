@@ -1,0 +1,35 @@
+T1	intervention 63 87	iniparib plus paclitaxel
+T2	control 95 111	paclitaxel alone
+T3	total-participants 625 628	141
+T4	eligibility 629 661	patients with Stage II-IIIA TNBC
+T5	control-participants 721 723	47
+T6	intervention-participants 810 812	46
+T7	intervention-participants 859 861	48
+T9	outcome-Measure 898 946	pathologic complete response (pCR) in the breast
+T10	outcome 948 956	pCR rate
+T11	cv-bin-percent 991 993	21
+T12	iv-bin-percent 995 997	22
+T13	iv-bin-percent 1003 1007	19 %
+T14	outcome 1092 1116	pCR in breast and axilla
+T15	cv-bin-percent 1118 1120	21
+T16	iv-bin-percent 1122 1124	17
+T17	iv-bin-percent 1130 1134	19 %
+T18	outcome 1137 1158	best overall response
+T19	cv-bin-percent 1174 1176	60
+T20	iv-bin-percent 1178 1180	61
+T21	iv-bin-percent 1186 1190	63 %
+T22	outcome 1197 1221	breast conservation rate
+T23	cv-bin-percent 1223 1225	53
+T24	iv-bin-percent 1227 1229	54
+T25	iv-bin-percent 1235 1239	50 %
+T26	outcome 1290 1311	grade 3/4 neutropenia
+T27	cv-bin-percent 1313 1314	4
+T28	iv-bin-percent 1316 1317	0
+T29	iv-bin-percent 1323 1327	10 %
+T30	outcome 1330 1339	Grade 1/2
+T31	cv-bin-percent 1341 1343	28
+T32	iv-bin-percent 1345 1347	22
+T33	iv-bin-percent 1353 1357	29 %
+T34	outcome 1367 1387	grade 3/4 neuropathy
+T35	cv-bin-abs 1364 1366	no
+T8	control 696 699	PTX

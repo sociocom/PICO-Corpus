@@ -1,0 +1,13 @@
+T1	intervention 0 22	Progressive resistance
+T2	control 30 49	relaxation training
+T4	total-participants 1085 1088	100
+T5	eligibility 1089 1144	patients with breast cancer under adjuvant chemotherapy
+T6	outcome-Measure 1170 1192	cancer-related fatigue
+T3	outcome-Measure 1513 1519	Safety
+T7	outcome-Measure 1222 1237	quality of life
+T8	outcome-Measure 1239 1249	depression
+T9	outcome-Measure 1255 1273	cognitive capacity
+T10	outcome-Measure 1288 1328	isokinetic and isometric muscle strength
+T11	outcome-Measure 1330 1355	cardiorespiratory fitness
+T12	outcome-Measure 1361 1377	body composition
+T13	outcome-Measure 1396 1406	biomarkers

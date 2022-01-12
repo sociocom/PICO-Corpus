@@ -1,0 +1,18 @@
+T1	intervention 22 45	double-hormonal therapy
+T4	outcome-Measure 1137 1164	disease-free survival (DFS)
+T6	total-participants 1189 1192	101
+T7	control 976 979	TMX
+T8	control-participants 1237 1239	51
+T9	intervention-participants 1263 1265	50
+T10	outcome 1400 1416	overall survival
+T11	outcome 1551 1565	risk reduction
+T12	outcome 1333 1336	DFS
+T2	eligibility 660 762	Premenopausal women who had surgically removed breast cancer with histologically confirmed N + and HR+
+T3	cv-cont-mean 1341 1345	43.0
+T5	cv-cont-sd 1348 1358	3.6 months
+T13	iv-cont-mean 1366 1370	49.9
+T14	iv-cont-sd 1373 1384	4.22 months
+T15	cv-cont-mean 1421 1425	51.1
+T17	cv-cont-sd 1428 1438	3.8 months
+T16	iv-cont-mean 1446 1450	53.1
+T18	iv-cont-sd 1453 1463	4.2 months

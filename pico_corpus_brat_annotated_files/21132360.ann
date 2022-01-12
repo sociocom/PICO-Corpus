@@ -1,0 +1,13 @@
+T1	outcome 1381 1395	Adverse events
+T2	outcome 1149 1158	5-year OS
+T3	iv-bin-percent 1163 1166	91%
+T4	iv-bin-percent 1198 1201	93%
+T7	outcome 1289 1292	DFS
+T8	iv-bin-percent 1297 1300	80%
+T12	total-participants 1045 1049	1066
+T13	intervention-participants 1082 1085	440
+T14	intervention-participants 1095 1098	438
+T15	control-participants 1108 1111	188
+T16	eligibility 653 793	Patients with node-negative or 1-3 node-positive RPBC (Thymidine Labeling Index > 3% or histological grade 3 or S-phase > 10% or Ki67 > 20%)
+T17	intervention 30 118	adjuvant epirubicin followed by cyclophosphamide, methotrexate, and 5-fluorouracil (CMF)
+T18	control 126 129	CMF

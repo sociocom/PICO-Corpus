@@ -1,0 +1,10 @@
+T1	intervention 21 47	lymphedema self-management
+T2	condition 69 101	breast cancer-related lymphedema
+T3	total-participants 329 338	Sixty-one
+T4	eligibility 339 361	breast cancer patients
+T5	control 728 742	control groups
+T7	outcome 1111 1133	lymphedema development
+T8	cv-bin-percent 1178 1183	61.2%
+T9	outcome 1395 1410	quality of life
+T6	outcome 1494 1508	symptom scores
+T10	iv-bin-abs 1138 1150	not observed

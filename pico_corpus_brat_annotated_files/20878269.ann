@@ -1,0 +1,10 @@
+T4	total-participants 535 538	426
+T5	eligibility 539 604	postmenopausal women with hormone receptor-positive breast cancer
+T7	total-participants 673 698	Four hundred and nineteen
+T8	outcome 842 862	DFS, TTR or survival
+T9	outcome 878 895	stopped treatment
+T10	outcome 953 973	Grade 3/4 toxicities
+T11	outcome 985 1000	visual problems
+T12	outcome 1005 1031	musculoskeletal complaints
+T1	intervention 85 94	tamoxifen
+T2	control 99 124	tamoxifen and fenretinide

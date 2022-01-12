@@ -1,0 +1,24 @@
+T3	location 660 665	China
+T5	age 720 734	18 to 70 years
+T6	outcome-Measure 1552 1579	disease-free survival (DFS)
+T8	total-participants 1796 1799	647
+T9	age 1825 1841	51 [44-57] years
+T10	control-participants 1900 1903	322
+T11	intervention-participants 1917 1920	325
+T13	control 443 456	standard-dose
+T12	outcome 1959 1967	DFS time
+T14	outcome 2143 2180	distant DFS and relapse-free survival
+T15	outcome 2235 2251	overall survival
+T16	iv-bin-percent 2037 2042	86.5%
+T17	cv-bin-percent 2046 2051	80.3%
+T22	outcome 2378 2390	PCb vs CEF-T
+T23	outcome 2403 2406	DFS
+T26	outcome 2466 2481	BRCA1/2 variant
+T1	intervention 19 45	Paclitaxel and Carboplatin
+T2	eligibility 735 895	with operable TNBC after definitive surgery (having pathologically confirmed regional node-positive disease or node-negative disease with tumor diameter >10 mm)
+T7	outcome 2025 2035	5-year DFS
+T4	outcome-Measure 1611 1628	overall survival,
+T18	outcome-Measure 1629 1640	distant DFS
+T19	outcome-Measure 1642 1663	relapse-free survival
+T20	outcome-Measure 1665 1770	DFS in patients with germline variants in BRCA1/2 or homologous recombination repair (HRR)-related genes,
+T21	outcome-Measure 1775 1783	toxicity

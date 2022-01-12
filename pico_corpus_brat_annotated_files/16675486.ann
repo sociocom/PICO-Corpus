@@ -1,0 +1,18 @@
+T2	intervention 56 67	fenretinide
+T3	total-participants 494 498	1739
+T4	age 505 515	aged 30-70
+T5	intervention-participants 517 520	872
+T6	control-participants 548 551	867
+T7	control 559 570	observation
+T9	outcome 727 758	number of second breast cancers
+T10	iv-bin-abs 763 766	168
+T11	cv-bin-abs 794 797	190
+T12	iv-bin-abs 870 872	83
+T13	cv-bin-abs 907 910	126
+T16	iv-bin-abs 993 995	85
+T17	cv-bin-abs 1000 1002	64
+T1	outcome-Measure 662 721	second primary breast cancer (contralateral or ipsilateral)
+T8	outcome 1306 1329	cancers in other organs
+T18	outcome 1331 1349	distant metastases
+T19	outcome 1353 1361	survival
+T20	outcome 873 879	events

@@ -1,0 +1,13 @@
+T1	intervention 0 31	Menopausal hormone therapy (HT)
+T2	outcome 1056 1107	chance of reoccurrence and cancer-related mortality
+T5	outcome 874 898	Cancer-related mortality
+T6	iv-bin-percent 921 925	2.6%
+T7	outcome 952 969	overall mortality
+T8	iv-bin-percent 974 978	4.5%
+T9	outcome 821 833	reoccurrence
+T10	iv-bin-percent 847 852	10.0%
+T11	control-participants 781 785	1998
+T12	intervention-participants 674 678	1416
+T14	control 754 767	control group
+T15	outcome 1293 1312	cancer reoccurrence
+T16	outcome 1314 1357	cancer-related mortality or total mortality

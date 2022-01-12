@@ -1,0 +1,15 @@
+T1	intervention 0 27	Topical silver sulfadiazine
+T2	condition 50 66	acute dermatitis
+T3	eligibility 337 439	patients with breast cancer referred for radiotherapy after treatment with mastectomy and chemotherapy
+T4	intervention-participants 497 499	51
+T5	control 505 512	control
+T6	control-participants 518 520	51
+T9	cv-bin-abs 947 950	Two
+T13	outcome 1190 1216	total score of skin injury
+T15	outcome 1513 1554	severity of radiation-induced skin injury
+T8	iv-cont-mean 1282 1286	5.49
+T16	iv-cont-sd 1289 1293	1.02
+T17	cv-cont-mean 1298 1302	7.21
+T18	cv-cont-sd 1305 1309	1.76
+T10	outcome 981 993	discontinued
+T11	outcome 1122 1139	severe dermatitis

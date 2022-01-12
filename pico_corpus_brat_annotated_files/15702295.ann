@@ -1,0 +1,17 @@
+T1	intervention 0 7	Neutron
+T2	control 15 34	photon radiotherapy
+T3	outcome 1098 1117	grade 3-4 morbidity
+T5	total-participants 599 601	27
+T6	eligibility 602 646	patients with locally advanced breast cancer
+T7	total-participants 955 957	22
+T8	outcome 968 999	Partial and complete remissions
+T9	iv-bin-abs 1019 1020	6
+T10	cv-bin-abs 1057 1058	5
+T11	iv-bin-abs 1161 1162	5
+T12	cv-bin-abs 1202 1203	6
+T13	intervention-participants 1021 1023	10
+T14	control-participants 1059 1061	12
+T15	intervention-participants 1163 1165	10
+T16	control-participants 1204 1206	12
+T4	outcome 1271 1295	late radiation morbidity
+T17	outcome 1253 1266	tumor control

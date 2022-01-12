@@ -1,0 +1,16 @@
+T3	eligibility 102 156	female breast cancer patients after radical mastectomy
+T4	ethinicity 351 358	Chinese
+T5	total-participants 426 429	170
+T6	intervention-participants 494 496	85
+T8	control 632 652	routine nursing care
+T9	control-participants 618 620	85
+T11	outcome 1288 1319	shorter length of hospital stay
+T12	condition 300 347	depression, anxiety and length of hospital stay
+T1	intervention 42 98	music therapy and progressive muscle relaxation training
+T2	outcome 1038 1060	depression and anxiety
+T10	outcome 1130 1134	time
+T15	outcome 1185 1207	group*time interaction
+T13	iv-cont-mean 1321 1326	12.56
+T16	iv-cont-sd 1329 1333	1.03
+T14	cv-cont-mean 1367 1372	17.01
+T17	cv-cont-sd 1375 1379	2.46

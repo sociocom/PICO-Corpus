@@ -1,0 +1,10 @@
+T1	intervention 13 55	risk-based online mammography intervention
+T2	total-participants 398 402	2918
+T3	age 409 419	ages 35-49
+T4	control 552 562	comparison
+T5	outcome-Measure 798 820	mammography intentions
+T6	outcome-Measure 825 865	accuracy of perceived breast cancer risk
+T7	outcome 915 972	match between objective risk estimates and perceived risk
+T8	outcome 1097 1123	accuracy of perceived risk
+T9	outcome 1167 1208	intentions to wait until age 50 to screen
+T10	outcome 1257 1283	accuracy of perceived risk

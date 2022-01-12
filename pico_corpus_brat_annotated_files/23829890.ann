@@ -1,0 +1,30 @@
+T1	intervention 72 126	nanoparticle albumin-bound paclitaxel with bevacizumab
+T4	total-participants 907 910	212
+T5	total-participants 932 935	208
+T6	intervention-participants 944 946	75
+T7	intervention-participants 955 957	54
+T8	control-participants 966 968	79
+T9	outcome 1034 1051	grade ≥ 2 fatigue
+T10	outcome 1093 1102	bone pain
+T11	iv-bin-percent 1060 1063	46%
+T12	iv-bin-percent 1072 1075	62%
+T13	cv-bin-percent 1084 1087	62%
+T14	iv-bin-percent 1111 1114	11%
+T15	iv-bin-percent 1123 1126	23%
+T16	cv-bin-percent 1135 1137	5%
+T17	outcome 1140 1163	Neurotoxicity grade ≥ 2
+T19	outcome 1237 1256	Febrile neutropenia
+T22	iv-bin-percent 1338 1341	45%
+T23	iv-bin-percent 1350 1353	41%
+T24	cv-bin-percent 1362 1365	46%
+T25	outcome 1368 1378	Median TTP
+T26	iv-cont-median 1409 1419	9.0 months
+T27	iv-cont-median 1433 1443	8.0 months
+T28	cv-cont-median 1452 1462	5.8 months
+T18	outcome 1299 1302	ORR
+T20	outcome 1497 1515	antitumor activity
+T21	control 652 684	130 mg/m(2) weekly uninterrupted
+T3	outcome-Measure 825 856	Time to tumor progression (TTP)
+T29	outcome-Measure 861 877	overall survival
+T2	outcome-Measure 783 810	overall response rate (ORR)
+T30	outcome-Measure 815 823	toxicity

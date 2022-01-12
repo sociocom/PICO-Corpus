@@ -1,0 +1,18 @@
+T1	intervention 85 99	intraoperative
+T2	control 104 134	whole-breast radiation therapy
+T3	age 463 472	≥50 years
+T4	eligibility 474 530	with cT1 cN0 cM0 and invasive ductal histology on biopsy
+T6	total-participants 905 908	184
+T7	intervention-participants 943 945	90
+T8	control-participants 959 961	90
+T9	outcome 1023 1046	5‑year overall survival
+T10	iv-bin-percent 1051 1056	94.4%
+T11	cv-bin-percent 1070 1075	93.3%
+T12	outcome 1101 1118	local recurrences
+T13	iv-bin-abs 1134 1137	one
+T14	outcome 1309 1332	5-year local recurrence
+T15	iv-bin-percent 1336 1338	0%
+T16	cv-bin-percent 1352 1356	1.1%
+T17	outcome 1371 1398	5‑year in-breast recurrence
+T18	iv-bin-percent 1435 1437	0%
+T19	cv-bin-percent 1451 1455	1.2%

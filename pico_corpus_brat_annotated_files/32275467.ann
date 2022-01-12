@@ -1,0 +1,29 @@
+T2	location 552 557	China
+T3	eligibility 568 624	female patients with early TNBC after definitive surgery
+T4	control 792 809	control treatment
+T5	outcome-Measure 986 1013	disease-free survival (DFS)
+T7	total-participants 1052 1055	636
+T8	total-participants 1094 1097	585
+T9	control-participants 1144 1147	288
+T10	intervention-participants 1163 1166	297
+T12	outcome 1205 1220	5-year DFS rate
+T13	iv-bin-percent 1277 1282	86.3%
+T15	outcome 1345 1377	Five-year overall survival rates
+T16	iv-bin-percent 1448 1453	93.3%
+T17	cv-bin-percent 1464 1469	90.7%
+T18	outcome 1551 1579	grade ≥ 3 hand-foot syndrome
+T19	outcome 1635 1646	neutropenia
+T22	outcome 1701 1720	febrile neutropenia
+T20	iv-bin-abs 1662 1665	136
+T25	iv-bin-percent 1667 1672	45.8%
+T21	cv-bin-abs 1684 1687	118
+T26	cv-bin-percent 1689 1694	41.0%
+T23	iv-bin-abs 1736 1738	50
+T27	iv-bin-percent 1740 1745	16.8%
+T24	cv-bin-abs 1757 1759	46
+T28	cv-bin-percent 1761 1766	16.0%
+T14	cv-bin-percent 1285 1290	80.4%
+T1	intervention 9 73	Capecitabine With Docetaxel and Cyclophosphamide Plus Epirubicin
+T6	outcome 1503 1531	capecitabine dose reductions
+T11	iv-bin-percent 1481 1486	39.1%
+T29	iv-bin-percent 1537 1541	8.4%

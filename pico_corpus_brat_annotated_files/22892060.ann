@@ -1,0 +1,21 @@
+T1	location 74 83	Stockholm
+T2	intervention 0 27	Hormone replacement therapy
+T3	intervention-participants 659 662	188
+T5	control-participants 677 680	190
+T6	outcome 1025 1049	new breast cancer events
+T7	iv-bin-abs 1051 1053	60
+T8	cv-bin-abs 1078 1080	48
+T11	outcome 1186 1202	local recurrence
+T12	iv-bin-abs 1179 1181	11
+T13	outcome 1210 1228	distant metastases
+T14	iv-bin-abs 1207 1209	12
+T15	cv-bin-abs 1236 1238	15
+T16	cv-bin-abs 1243 1245	12
+T17	outcome 1278 1307	contra-lateral breast cancers
+T18	iv-bin-abs 1275 1277	14
+T19	cv-bin-abs 1329 1333	four
+T4	outcome 1409 1446	mortality or new primary malignancies
+T9	outcome 1463 1483	number of new events
+T10	outcome 1576 1586	recurrence
+T20	outcome 1757 1766	mortality
+T21	control 667 673	no HRT

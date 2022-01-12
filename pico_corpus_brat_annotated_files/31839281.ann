@@ -1,0 +1,30 @@
+T1	intervention 7 18	anastrozole
+T2	control 461 468	placebo
+T3	eligibility 717 783	Postmenopausal women at increased risk of developing breast cancer
+T5	outcome-Measure 1134 1151	all breast cancer
+T6	total-participants 1153 1157	3864
+T8	intervention-participants 1218 1222	1920
+T9	control-participants 1279 1283	1944
+T12	iv-bin-abs 1413 1415	85
+T13	cv-bin-abs 1419 1422	165
+T14	outcome 1487 1496	reduction
+T15	outcome 1515 1528	first 5 years
+T16	iv-bin-abs 1530 1532	35
+T17	cv-bin-abs 1536 1538	89
+T18	outcome 1590 1603	after 5 years
+T19	iv-bin-abs 1605 1607	50
+T20	cv-bin-abs 1611 1613	76
+T21	outcome 1718 1768	Invasive oestrogen receptor-positive breast cancer
+T23	outcome 1900 1937	reduction in ductal carcinoma in situ
+T25	outcome 2105 2111	deaths
+T26	iv-bin-abs 2134 2136	69
+T27	cv-bin-abs 2140 2142	70
+T28	outcome 2182 2199	for breast cancer
+T29	iv-bin-abs 2201 2204	two
+T30	cv-bin-abs 2220 2225	three
+T32	iv-bin-abs 2311 2314	147
+T33	cv-bin-abs 2318 2321	200
+T4	outcome 2427 2436	fractures
+T7	outcome 2440 2462	cardiovascular disease
+T11	outcome 2262 2280	non-breast cancers
+T10	outcome 1369 1382	breast cancer

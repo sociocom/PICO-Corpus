@@ -1,0 +1,17 @@
+T2	total-participants 566 568	95
+T3	eligibility 506 560	Breast cancer patients receiving adjuvant chemotherapy
+T4	control 702 727	standard public health PA
+T5	outcome-Measure 794 815	daily pedometer steps
+T6	outcome-Measure 841 860	self-reported light
+T7	outcome-Measure 862 870	moderate
+T8	outcome-Measure 876 897	vigorous intensity PA
+T9	outcome-Measure 899 928	total moderate-to-vigorous PA
+T10	outcome-Measure 934 948	sedentary time
+T11	outcome 1017 1026	Attrition
+T12	outcome 1149 1163	adherence rate
+T13	outcome 1282 1311	daily average pedometer steps
+T14	outcome 1353 1371	total MVPA minutes
+T15	outcome 1412 1426	sedentary time
+T1	intervention 43 89	Physical Activity Behavior Change Intervention
+T16	iv-bin-percent 1145 1148	95%
+T17	iv-cont-sd 1133 1137	26.4

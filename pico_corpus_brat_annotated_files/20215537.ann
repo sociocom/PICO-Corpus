@@ -1,0 +1,23 @@
+T1	intervention 38 73	anastrozole combined with gefitinib
+T2	control 77 84	placebo
+T3	eligibility 376 591	Postmenopausal women with hormone receptor-positive measurable or evaluable MBC who had not received prior endocrine therapy for this disease stage or who developed metastatic disease during/after adjuvant tamoxifen
+T5	intervention-participants 885 896	Forty-three
+T6	control-participants 956 958	50
+T7	total-participants 1034 1037	174
+T8	outcome 1114 1117	PFS
+T11	outcome 1327 1337	median PFS
+T12	iv-cont-median 1339 1343	14.7
+T13	cv-cont-median 1351 1361	8.4 months
+T14	outcome 1368 1389	clinical benefit rate
+T15	iv-bin-percent 1394 1397	49%
+T16	cv-bin-percent 1405 1408	34%
+T17	outcome 1418 1441	objective response rate
+T18	iv-bin-percent 1446 1448	2%
+T19	cv-bin-percent 1456 1459	12%
+T9	outcome 1652 1666	adverse events
+T4	outcome-Measure 641 672	progression-free survival (PFS)
+T10	outcome-Measure 715 736	clinical benefit rate
+T20	outcome-Measure 738 761	objective response rate
+T21	outcome-Measure 763 779	overall survival
+T22	outcome-Measure 781 804	safety and tolerability
+T23	outcome-Measure 810 826	pharmacokinetics

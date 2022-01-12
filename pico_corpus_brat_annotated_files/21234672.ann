@@ -1,0 +1,30 @@
+T1	intervention 17 26	gefitinib
+T2	outcome 1576 1596	Tumor response rates
+T3	outcome 1467 1489	hematological toxicity
+T4	outcome 1505 1527	discontinued treatment
+T5	iv-bin-abs 1529 1530	9
+T6	intervention-participants 1531 1533	94
+T7	cv-bin-abs 1538 1539	2
+T8	control-participants 1540 1542	86
+T10	outcome 1036 1038	CR
+T11	iv-bin-percent 1055 1058	10%
+T12	iv-bin-abs 1094 1095	7
+T13	intervention-participants 1096 1098	71
+T14	cv-bin-abs 1123 1124	7
+T15	control-participants 1125 1127	73
+T16	outcome 866 869	pCR
+T17	iv-bin-percent 886 889	17%
+T18	iv-bin-abs 891 893	12
+T19	intervention-participants 894 896	71
+T20	cv-bin-percent 940 943	12%
+T21	cv-bin-abs 945 946	9
+T22	control-participants 947 949	73
+T23	total-participants 834 837	181
+T24	outcome-Measure 709 743	pathologic complete response (pCR)
+T26	control 679 686	placebo
+T27	eligibility 434 531	Women with unilateral, primary operable, estrogen receptor negative invasive breast cancer ≥ 2 cm
+T9	outcome 1219 1221	OR
+T25	outcome 1652 1660	pCR rate
+T28	outcome 1770 1792	discontinued treatment
+T29	outcome-Measure 774 796	complete response (CR)
+T30	outcome-Measure 801 832	overall objective response (OR)

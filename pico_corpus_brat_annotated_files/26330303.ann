@@ -1,0 +1,20 @@
+T1	intervention 39 47	exercise
+T2	eligibility 566 605	Overweight, insufficiently active women
+T3	intervention-participants 637 639	97
+T4	intervention-participants 663 665	98
+T5	control 670 683	control group
+T6	control-participants 689 691	48
+T7	outcome-Measure 921 939	serum sex hormones
+T8	outcome-Measure 944 979	sex hormone-binding globulin (SHBG)
+T9	outcome-Measure 981 1003	Body fat and lean mass
+T10	outcome 1149 1165	Loss of body fat
+T11	outcome 1129 1147	target weight loss
+T14	outcome 1522 1526	SHBG
+T15	outcome 1581 1599	beneficial effects
+T16	outcome 1678 1688	oestradiol
+T17	outcome 1733 1748	free oestradiol
+T18	outcome 1793 1797	SHBG
+T19	outcome 1839 1856	free testosterone
+T20	condition 10 21	weight loss
+T12	outcome 1301 1313	testosterone
+T13	outcome 1480 1495	androstenedione

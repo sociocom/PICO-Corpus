@@ -1,0 +1,18 @@
+T1	intervention 27 65	neoadjuvant chemotherapy +/- letrozole
+T2	outcome 1118 1150	clinical complete response rates
+T3	iv-bin-percent 1156 1161	27.6%
+T4	cv-bin-percent 1166 1171	10.2%
+T5	outcome 989 1023	Pathologic complete response rates
+T6	iv-bin-percent 1029 1034	25.5%
+T7	cv-bin-percent 1039 1044	10.2%
+T8	total-participants 364 383	One hundred and one
+T9	age 410 421	50-83 years
+T10	eligibility 422 517	with pathologically proven locally advanced (clinical stage T3, T4 and/or N2, N3) breast cancer
+T12	control-participants 601 603	51
+T13	intervention-participants 682 684	50
+T14	outcome 1433 1439	nausea
+T15	outcome 1441 1449	vomiting
+T16	outcome 1451 1474	bone marrow suppression
+T17	outcome 1480 1489	mucositis
+T18	outcome 1523 1532	hot flush
+T11	control 564 595	chemotherapy alone (control arm

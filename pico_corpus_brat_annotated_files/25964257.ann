@@ -1,0 +1,15 @@
+T4	control 701 714	standard care
+T5	total-participants 721 724	295
+T6	eligibility 725 765	survivors of nonmetastatic breast cancer
+T9	cv-bin-percent 1156 1161	16.3%
+T10	cv-bin-abs 1163 1165	24
+T11	control-participants 1166 1169	147
+T12	iv-bin-percent 1196 1200	8.1%
+T13	iv-bin-abs 1202 1204	12
+T14	intervention-participants 1205 1208	148
+T15	outcome 1317 1331	adverse events
+T2	intervention 0 14	Weight Lifting
+T1	condition 19 36	Physical Function
+T3	outcome 1095 1135	incident physical function deterioration
+T8	outcome 1136 1151	after 12 months
+T16	outcome 1452 1496	incidence of physical function deterioration

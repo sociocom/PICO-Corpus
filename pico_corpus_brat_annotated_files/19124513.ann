@@ -1,0 +1,15 @@
+T1	intervention 31 47	aerobic exercise
+T2	total-participants 616 628	Seventy-five
+T3	eligibility 629 667	postmenopausal breast cancer survivors
+T4	location 698 707	New Haven
+T5	intervention 774 776	37
+T6	control 781 791	usual care
+T7	control-participants 797 799	38
+T10	outcome 1161 1187	increased aerobic exercise
+T11	iv-cont-mean 1191 1202	129 minutes
+T12	cv-cont-mean 1226 1236	45 minutes
+T13	outcome 1473 1500	insulin, IGF-I, and IGFBP-3
+T14	outcome 1343 1350	insulin
+T15	outcome 1352 1357	IGF-I
+T16	outcome 1363 1370	IGFBP-3
+T17	outcome 1649 1666	IGF-I and IGFBP-3

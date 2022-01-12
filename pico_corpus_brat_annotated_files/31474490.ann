@@ -1,0 +1,15 @@
+T1	intervention 234 278	preoperative teaching by a lymphedema expert
+T2	control 375 388	control group
+T4	total-participants 859 862	119
+T5	outcome 930 954	rate of acute lymphedema
+T6	iv-bin-percent 959 964	51.5%
+T7	iv-bin-abs 966 968	33
+T8	intervention-participants 972 974	64
+T9	cv-bin-percent 992 997	47.2%
+T10	cv-bin-abs 999 1001	26
+T11	control-participants 1005 1007	55
+T12	outcome 1022 1040	Chronic lymphedema
+T13	iv-bin-percent 1067 1071	9.3%
+T14	cv-bin-percent 1084 1089	12.7%
+T15	outcome 1100 1110	Lymphedema
+T3	condition 69 79	lymphedema

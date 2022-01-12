@@ -1,0 +1,13 @@
+T1	intervention 0 25	Ribociclib plus letrozole
+T2	outcome 1477 1501	Grade 3/4 adverse events
+T3	outcome 1028 1055	Ki67-positive cell fraction
+T4	outcome-Measure 845 887	antiproliferative response per Ki67 levels
+T5	total-participants 463 465	14
+T7	control 600 615	letrozole alone
+T6	outcome-Measure 957 963	safety
+T8	outcome-Measure 965 981	pharmacokinetics
+T9	outcome-Measure 987 1004	genetic profiling
+T10	cv-cont-mean 1082 1085	69%
+T11	iv-cont-mean 1116 1119	96%
+T12	iv-cont-mean 1150 1153	92%
+T13	outcome 1453 1467	well tolerated

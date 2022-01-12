@@ -1,0 +1,7 @@
+T3	condition 35 49	cardiotoxicity
+T4	eligibility 53 99	women with breast cancer receiving trastuzumab
+T5	outcome-Measure 1101 1142	comparison of incidence of cardiotoxicity
+T6	outcome-Measure 1151 1169	comparison of LVEF
+T7	total-participants 1430 1433	468
+T1	intervention 0 22	Lisinopril or Coreg CR
+T8	eligibility 983 1064	patients with breast cancer who are receiving adjuvant or neoadjuvant TZB therapy

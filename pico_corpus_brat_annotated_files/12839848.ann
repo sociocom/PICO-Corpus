@@ -1,0 +1,17 @@
+T1	intervention 0 68	Preoperative FLAC/granulocyte-colony-stimulating factor chemotherapy
+T2	eligibility 423 491	Patients with clinical stage II breast cancer (T2N0, T1N1, and T2N1)
+T3	total-participants 870 881	Fifty-three
+T4	intervention-participants 905 907	26
+T5	intervention 908 933	preoperative chemotherapy
+T6	control-participants 938 940	27
+T7	control 941 967	postoperative chemotherapy
+T8	outcome 1335 1372	local/regional or distant recurrences
+T9	iv-bin-abs 1374 1375	9
+T10	cv-bin-abs 1393 1395	11
+T11	outcome 1443 1475	overall or disease-free survival
+T12	outcome 1250 1288	use of breast-conserving local therapy
+T14	outcome 974 1006	objective clinical response rate
+T15	iv-bin-percent 1061 1064	80%
+T16	outcome 1074 1107	pathologic complete response rate
+T17	iv-bin-percent 1112 1115	20%
+T13	outcome 1155 1217	overall incidence and number of axillary lymph node metastases

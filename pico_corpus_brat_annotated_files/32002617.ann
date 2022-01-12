@@ -1,0 +1,16 @@
+T1	intervention 29 55	vascular access strategies
+T2	eligibility 531 623	Patients receiving trastuzumab-based neo/adjuvant chemotherapy for early-stage breast cancer
+T3	outcome-Measure 669 680	Feasibility
+T4	outcome-Measure 910 1029	ates of line-associated complications such as thrombotic events requiring anticoagulation, line infections or phlebitis
+T5	outcome 1333 1361	line-associated complication
+T8	iv-bin-percent 1274 1279	17.2%
+T9	iv-bin-abs 1281 1282	5
+T10	intervention-participants 1283 1285	29
+T11	cv-bin-abs 1291 1296	14.8%
+T12	cv-bin-abs 1298 1299	4
+T13	control-participants 1300 1302	27
+T14	total-participants 1139 1141	59
+T15	total-participants 1163 1165	56
+T16	intervention-participants 1199 1201	29
+T17	control-participants 1238 1240	27
+T7	control 263 310	totally implanted vascular access device (PORT)

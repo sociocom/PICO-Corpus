@@ -1,0 +1,10 @@
+T1	control 551 558	placebo
+T2	intervention 562 571	tamoxifen
+T5	eligibility 1073 1204	Participants enrolled at least three years before trial unblinding and without medically indicated discontinuation before 12 months
+T6	total-participants 1249 1255	10 576
+T7	outcome 1349 1364	three-month MCS
+T8	outcome 1450 1482	three-month gynecologic symptoms
+T9	outcome 1550 1577	baseline vasomotor symptoms
+T10	outcome 1655 1682	three-month sexual symptoms
+T11	outcome 1796 1822	three-month other symptoms
+T12	outcome 1858 1861	PCS

@@ -1,0 +1,19 @@
+T1	intervention 0 46	Supervised versus autonomous exercise training
+T2	total-participants 413 415	50
+T3	eligibility 416 479	breast cancer patients undergoing aromatase inhibitor treatment
+T4	eligibility 481 582	Postmenopausal, estrogen receptor-positive breast cancer patients under aromatase inhibitor treatment
+T5	control 657 673	unsupervised arm
+T6	outcome-Measure 855 934	individual maximum power output on a cycle ergometer after 24 weeks of exercise
+T7	outcome-Measure 969 1052	feasibility of achieving 12 METh/week (metabolic equivalent of task hours per week)
+T8	control-participants 1054 1066	Twenty-three
+T9	intervention-participants 1110 1112	19
+T10	outcome 1269 1291	maximum output in watt
+T11	outcome 1554 1563	METh/week
+T12	outcome 1663 1672	week 1-24
+T13	cv-cont-mean 1687 1691	18.3
+T14	iv-cont-mean 1716 1720	28.5
+T15	iv-cont-mean 1298 1301	132
+T16	iv-cont-sd 1329 1331	34
+T17	outcome 1202 1216	After 24 weeks
+T18	cv-cont-mean 1496 1499	115
+T19	cv-cont-sd 1502 1504	25

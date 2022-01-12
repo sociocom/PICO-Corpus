@@ -1,0 +1,17 @@
+T1	intervention 10 19	tamoxifen
+T2	control 149 156	placebo
+T4	age 497 520	between 33 and 46 years
+T5	eligibility 521 593	at ≥17% lifetime risk of breast cancer and undergoing annual mammography
+T6	total-participants 760 764	1279
+T8	outcome 793 818	decided to take tamoxifen
+T10	outcome 820 835	Women >40 years
+T11	outcome 870 904	at higher non-BRCA-associated risk
+T12	iv-bin-abs 837 839	74
+T13	intervention-participants 847 850	553
+T14	iv-bin-percent 852 857	13.4%
+T15	iv-bin-abs 943 946	129
+T16	intervention-participants 954 958	1109
+T17	iv-bin-percent 960 965	11.6%
+T7	iv-bin-abs 781 784	136
+T18	iv-bin-percent 786 791	10.6%
+T3	outcome 910 941	more likely to accept tamoxifen

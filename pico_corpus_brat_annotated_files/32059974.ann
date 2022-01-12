@@ -1,0 +1,22 @@
+T1	intervention 14 44	axillary reverse mapping (ARM)
+T2	total-participants 670 672	98
+T3	eligibility 673 792	clinically node free breast cancer female patients undergoing completion ALND after positive sentinel lymph node biopsy
+T4	intervention-participants 850 852	49
+T5	control-participants 908 910	49
+T6	control 927 944	conventional ALND
+T9	iv-bin-abs 1248 1250	46
+T10	iv-bin-percent 1261 1266	93.8%
+T11	cv-bin-abs 1283 1285	43
+T12	cv-bin-percent 1296 1301	87.8%
+T13	outcome 1336 1355	positive metastasis
+T14	cv-bin-abs 1364 1365	1
+T15	cv-bin-percent 1375 1379	2.3%
+T16	outcome 1393 1403	Lymphedema
+T17	iv-bin-percent 1420 1424	6.5%
+T18	iv-bin-abs 1417 1418	3
+T19	cv-bin-abs 1449 1450	9
+T20	cv-bin-percent 1461 1466	20.9%
+T8	outcome 1228 1244	ARM was positive
+T7	outcome-Measure 1115 1144	histopathology of ARM + ve LN
+T21	outcome-Measure 1146 1175	development of arm lymphedema
+T22	outcome-Measure 1181 1213	restriction of shoulder movement

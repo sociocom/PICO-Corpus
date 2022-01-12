@@ -1,0 +1,13 @@
+T1	intervention 57 69	lasofoxifene
+T2	eligibility 73 106	postmenopausal osteoporotic women
+T3	total-participants 675 679	8556
+T4	age 686 697	59-80 years
+T5	control 815 822	placebo
+T6	eligibility 698 741	with low bone density and normal mammograms
+T7	outcome-Measure 871 927	ncidence of ER+ breast cancer and nonvertebral fractures
+T8	outcome 1448 1461	Breast cancer
+T10	iv-bin-percent 1606 1609	79%
+T11	outcome 1681 1707	ER+ invasive breast cancer
+T12	iv-bin-percent 1711 1714	83%
+T17	outcome 1802 1821	total breast cancer
+T9	outcome 1575 1602	risk of total breast cancer

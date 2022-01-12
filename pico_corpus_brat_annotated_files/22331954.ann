@@ -1,0 +1,25 @@
+T1	intervention 52 91	sunitinib in combination with docetaxel
+T2	control 99 114	docetaxel alone
+T3	eligibility 249 352	patients with human epidermal growth factor receptor 2 (HER2)/neu-negative advanced breast cancer (ABC)
+T4	outcome-Measure 619 650	Progression-free survival (PFS)
+T5	intervention-participants 678 700	Two hundred ninety-six
+T6	control-participants 761 764	297
+T7	outcome 804 820	Median PFS times
+T8	iv-cont-median 826 829	8.6
+T9	cv-cont-median 834 844	8.3 months
+T13	iv-bin-percent 1023 1026	55%
+T14	cv-bin-percent 1051 1054	42%
+T15	outcome 1077 1097	Duration of response
+T16	iv-cont-median 1124 1134	7.5 months
+T17	cv-cont-median 1158 1168	7.2 months
+T18	outcome 1188 1222	Median overall survival (OS) times
+T19	iv-cont-median 1228 1232	24.8
+T20	cv-cont-median 1237 1248	25.5 months
+T21	iv-bin-abs 1337 1340	107
+T22	outcome 1341 1347	deaths
+T23	cv-bin-abs 1373 1375	91
+T10	outcome 946 975	objective response rate (ORR)
+T11	outcome 1425 1445	adverse events (AEs)
+T12	outcome 1582 1585	ORR
+T24	outcome 1613 1622	PFS or OS
+T25	outcome 1795 1798	AEs

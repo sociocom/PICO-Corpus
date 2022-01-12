@@ -1,0 +1,23 @@
+T1	intervention 10 21	bevacizumab
+T2	outcome 1431 1468	grade 3-4 wound-healing complications
+T3	eligibility 25 77	metastatic breast cancer patients undergoing surgery
+T4	total-participants 796 799	155
+T5	total-participants 887 890	672
+T6	outcome 982 1004	grade 3 bleeding event
+T7	iv-bin-percent 940 944	0.9%
+T8	iv-bin-percent 1031 1035	0.9%
+T9	outcome 1071 1094	grade 3 bleeding events
+T10	iv-bin-abs 1099 1102	one
+T11	iv-bin-percent 1112 1116	0.1%
+T12	outcome 1132 1154	grade 4 bleeding event
+T13	outcome 1159 1182	grade 5 bleeding events
+T14	outcome 1249 1283	grade 3 wound-healing complication
+T15	control 1324 1331	placebo
+T16	cv-bin-abs 1335 1337	46
+T17	cv-bin-percent 1339 1343	2.2%
+T18	iv-bin-abs 1370 1372	57
+T19	iv-bin-percent 1374 1378	1.8%
+T20	iv-bin-abs 1407 1409	52
+T21	iv-bin-percent 1411 1415	1.9%
+T22	iv-bin-percent 1483 1487	2.2%
+T23	iv-bin-percent 1492 1496	1.3%

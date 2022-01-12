@@ -1,0 +1,32 @@
+T1	intervention 50 89	AZD8931 in combination with anastrozole
+T2	control 676 683	placebo
+T3	outcome-Measure 711 756	evaluation of progression-free survival (PFS)
+T5	total-participants 985 988	359
+T6	intervention-participants 1078 1081	118
+T7	intervention-participants 1095 1098	120
+T8	control 1104 1111	placebo
+T9	control-participants 1117 1120	121
+T10	outcome 1156 1173	progression event
+T11	outcome 1175 1185	Median PFS
+T12	iv-cont-median 1258 1262	10.9
+T13	iv-cont-median 1293 1297	13.8
+T14	cv-cont-median 1332 1343	14.0 months
+T15	outcome 1501 1522	incidence of diarrhea
+T16	iv-bin-percent 1524 1526	40
+T17	iv-bin-percent 1528 1530	51
+T18	cv-bin-percent 1536 1540	12 %
+T19	outcome 1592 1596	rash
+T20	iv-bin-percent 1598 1600	32
+T21	iv-bin-percent 1602 1604	48
+T22	cv-bin-percent 1610 1614	12 %
+T23	outcome 1617 1625	dry skin
+T24	iv-bin-percent 1627 1629	19
+T25	iv-bin-percent 1631 1633	25
+T26	cv-bin-percent 1639 1642	2 %
+T27	outcome 1649 1669	acneiform dermatitis
+T28	iv-bin-percent 1671 1673	16
+T29	iv-bin-percent 1675 1677	28
+T30	cv-bin-percent 1683 1686	2 %
+T4	outcome-Measure 874 911	assessment of safety and tolerability
+T31	outcome-Measure 913 936	objective response rate
+T32	outcome-Measure 942 958	overall survival

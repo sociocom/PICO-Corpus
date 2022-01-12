@@ -1,0 +1,12 @@
+T1	location 535 543	New York
+T2	location 552 560	Canadian
+T3	total-participants 835 841	62,000
+T4	intervention 851 860	screening
+T5	control 865 872	control
+T6	intervention-participants 949 955	44,970
+T7	control-participants 989 995	44,961
+T9	iv-bin-percent 1682 1685	53%
+T10	cv-bin-percent 1871 1874	36%
+T11	outcome 1264 1312	Breast cancers detected by screening mammography
+T13	outcome 1986 2002	survival benefit
+T14	outcome 1749 1773	death from breast cancer

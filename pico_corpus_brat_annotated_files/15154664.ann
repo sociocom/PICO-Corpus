@@ -1,0 +1,17 @@
+T1	intervention-participants 305 328	Five hundred and ninety
+T2	intervention 40 60	conservative surgery
+T3	control-participants 530 557	One hundred and ninety-four
+T4	control 577 593	adjuvant therapy
+T5	outcome 667 680	local failure
+T6	intervention-participants 633 636	396
+T7	outcome 699 716	local recurrences
+T8	iv-bin-percent 694 698	7.2%
+T9	iv-bin-percent 658 662	8.1%
+T10	intervention-participants 720 723	363
+T11	iv-bin-percent 773 778	18.2%
+T14	cv-bin-percent 854 858	7.7%
+T15	outcome 863 876	local failure
+T16	outcome 938 959	local recurrence rate
+T18	cv-bin-percent 964 968	6.6%
+T19	cv-bin-percent 984 989	12.3%
+T21	eligibility 278 304	early-stage breast cancer.

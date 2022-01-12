@@ -1,0 +1,31 @@
+T1	intervention 11 22	gemcitabine
+T2	control 30 40	epirubicin
+T3	age 359 374	> or = 60 years
+T5	total-participants 533 536	410
+T6	total-participants 555 558	397
+T7	intervention-participants 560 563	198
+T8	control-participants 580 583	199
+T10	outcome 908 911	TTP
+T11	cv-cont-median 913 916	6.1
+T12	iv-cont-median 921 931	3.4 months
+T13	outcome 944 960	overall survival
+T14	cv-cont-median 962 966	19.1
+T15	iv-cont-median 971 982	11.8 months
+T16	outcome 1022 1035	response rate
+T17	cv-bin-percent 1037 1042	40.3%
+T18	iv-bin-percent 1047 1052	16.4%
+T19	control-participants 1056 1059	186
+T20	intervention-participants 1064 1067	183
+T21	intervention-participants 1118 1121	190
+T22	control-participants 1141 1144	192
+T23	outcome 1172 1192	grade 3/4 toxicities
+T24	outcome 1198 1209	neutropenia
+T25	iv-bin-percent 1211 1216	25.3%
+T26	cv-bin-percent 1221 1226	17.9%
+T27	outcome 1232 1242	leukopenia
+T28	iv-bin-percent 1244 1249	14.3%
+T29	cv-bin-percent 1254 1259	19.3%
+T30	outcome 1281 1287	deaths
+T31	iv-bin-abs 1289 1291	17
+T32	cv-bin-abs 1305 1307	11
+T33	eligibility 393 423	with clinically measurable MBC

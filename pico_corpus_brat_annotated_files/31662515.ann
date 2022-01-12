@@ -1,0 +1,10 @@
+T1	intervention 10 37	Awake Breast Cancer Surgery
+T2	condition 41 75	Postoperative Lymphocyte Responses
+T3	total-participants 309 318	Fifty-six
+T5	outcome 721 742	total leukocyte count
+T6	outcome 754 776	total lymphocyte count
+T7	outcome 791 825	proportion of natural-killer cells
+T8	outcome 893 927	median values of total lymphocytes
+T9	outcome 955 987	on postoperative days 1, 2 and 3
+T10	outcome 1134 1178	total lymphocyte counts on postoperative day
+T11	eligibility 319 346	patients with breast cancer

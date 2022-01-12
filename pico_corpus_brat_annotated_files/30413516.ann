@@ -1,0 +1,15 @@
+T1	intervention 54 76	lifestyle intervention
+T2	location 132 140	Scotland
+T4	eligibility 687 786	women with a body mass index (BMI) >25 kg/m2 attending routine breast cancer screening appointments
+T5	total-participants 1433 1436	414
+T6	outcome-Measure 1756 1791	mean change in measured body weight
+T7	outcome-Measure 1796 1823	change in physical activity
+T3	outcome-Measure 1876 1900	changes in eating habits
+T8	outcome-Measure 1902 1916	alcohol intake
+T9	outcome-Measure 1918 1932	sedentary time
+T10	outcome-Measure 1934 1949	quality of life
+T11	outcome-Measure 1951 1970	waist circumference
+T12	outcome-Measure 1972 1977	lipid
+T13	outcome-Measure 1979 2015	haemoglobin A1c and insulin profiles
+T14	outcome-Measure 2017 2031	blood pressure
+T15	outcome-Measure 2036 2054	cost-effectiveness

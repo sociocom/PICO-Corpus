@@ -1,0 +1,12 @@
+T1	intervention 34 57	low-fat dietary pattern
+T2	age 358 372	50 to 79 years
+T4	intervention-participants 530 536	19,541
+T5	control 541 551	comparison
+T6	control-participants 557 563	29,294
+T7	outcome 1184 1202	breast cancer rate
+T8	iv-bin-percent 1207 1211	0.42
+T9	cv-bin-percent 1264 1268	0.46
+T12	outcome 983 1001	breast cancer rate
+T13	iv-bin-percent 1005 1009	0.27
+T14	cv-bin-percent 1082 1086	0.41
+T3	outcome 1688 1711	breast cancer incidence

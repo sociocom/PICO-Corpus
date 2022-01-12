@@ -1,0 +1,28 @@
+T1	intervention 31 42	balugrastim
+T4	control-participants 927 929	26
+T5	intervention-participants 846 848	11
+T6	intervention-participants 859 861	21
+T7	intervention-participants 878 880	20
+T8	outcome 1000 1027	incidence of adverse events
+T9	outcome 1171 1182	neutropenia
+T10	outcome 1184 1192	alopecia
+T11	outcome 1198 1204	nausea
+T12	outcome 1222 1240	severe neutropenia
+T13	iv-bin-percent 1299 1301	40
+T14	iv-bin-percent 1303 1305	67
+T15	iv-bin-percent 1311 1315	50 %
+T16	outcome 1320 1339	febrile neutropenia
+T17	iv-bin-percent 1352 1356	20.0
+T18	iv-bin-percent 1358 1361	9.5
+T19	iv-bin-percent 1367 1373	10.0 %
+T20	cv-bin-percent 1478 1482	48 %
+T21	outcome 1495 1513	severe neutropenia
+T22	cv-bin-percent 1518 1521	8 %
+T23	outcome 1534 1553	febrile neutropenia
+T24	outcome 1555 1591	Duration of severe neutropenia (DSN)
+T25	iv-cont-mean 1621 1624	0.9
+T26	iv-cont-mean 1626 1629	1.6
+T27	iv-cont-mean 1631 1634	1.1
+T28	cv-cont-mean 1640 1648	0.9 days
+T2	control 902 915	pegfilgrastim
+T3	outcome 1708 1711	DSN

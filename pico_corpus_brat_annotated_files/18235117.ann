@@ -1,0 +1,34 @@
+T1	intervention 22 34	epoetin beta
+T2	outcome 1698 1701	QoL
+T3	outcome 1536 1564	thromboembolic events (TEEs)
+T4	iv-bin-percent 1589 1592	13%
+T5	cv-bin-abs 1595 1597	6%
+T6	outcome 1631 1643	serious TEEs
+T7	iv-bin-percent 1645 1647	4%
+T8	cv-bin-percent 1650 1652	3%
+T9	outcome 1342 1357	Median Hb level
+T10	iv-cont-median 1387 1396	11.7 g/dL
+T11	outcome 1397 1408	at baseline
+T12	iv-cont-median 1412 1421	13.3 g/dL
+T13	outcome 1422 1433	at 24 weeks
+T14	cv-cont-median 1468 1472	11.5
+T15	cv-cont-median 1475 1484	11.4 g/dL
+T16	outcome 1251 1295	transfusion- and severe anemia-free survival
+T19	outcome 1052 1068	overall survival
+T22	outcome 1131 1156	progression-free survival
+T25	outcome 953 961	survived
+T26	iv-bin-abs 928 930	62
+T27	iv-bin-percent 932 935	27%
+T28	intervention-participants 940 943	231
+T29	cv-bin-abs 992 994	63
+T30	cv-bin-percent 996 999	27%
+T31	control-participants 1004 1007	232
+T32	outcome-Measure 722 738	overall survival
+T34	control 666 673	control
+T36	eligibility 50 146	patients with metastatic breast cancer receiving anthracycline- and/or taxane-based chemotherapy
+T17	outcome 1898 1914	overall survival
+T18	outcome-Measure 777 802	progression-free survival
+T20	outcome-Measure 804 848	transfusion- and severe anemia-free survival
+T21	outcome-Measure 850 861	Hb response
+T23	outcome-Measure 863 869	safety
+T24	outcome-Measure 875 896	quality of life (QoL)

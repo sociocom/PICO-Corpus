@@ -1,0 +1,20 @@
+T2	control 72 90	Chemotherapy Alone
+T3	condition 367 389	skeletal complications
+T4	ethinicity 693 698	Asian
+T5	eligibility 699 749	patients with HER2-negative invasive breast cancer
+T6	total-participants 813 841	One hundred and eighty-eight
+T7	control-participants 895 897	95
+T8	intervention-participants 921 923	93
+T10	total-participants 960 963	180
+T11	outcome-Measure 1298 1339	pathological complete response (pCR) rate
+T12	outcome 1550 1562	rates of pCR
+T13	iv-bin-percent 1577 1582	14.8%
+T14	cv-bin-percent 1609 1613	7.7%
+T15	outcome 1759 1767	pCR rate
+T16	iv-bin-percent 1799 1804	18.4%
+T17	cv-bin-percent 1809 1813	5.1%
+T18	outcome 1768 1794	in postmenopausal patients
+T20	iv-bin-percent 1957 1962	35.3%
+T21	cv-bin-percent 1967 1972	11.8%
+T1	intervention 31 64	Zoledronic Acid plus Chemotherapy
+T9	outcome 1906 1952	in patients with triple-negative breast cancer

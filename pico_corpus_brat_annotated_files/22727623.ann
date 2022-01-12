@@ -1,0 +1,9 @@
+T1	intervention 13 24	educational
+T3	location 325 338	United States
+T4	eligibility 258 317	Radiologists enrolled in one of four mammography registries
+T5	control 435 443	controls
+T6	total-participants 1763 1773	Thirty-one
+T7	intervention-participants 1937 1939	22
+T8	control-participants 2014 2015	9
+T9	outcome 2063 2100	odds of positive mammographic results
+T2	outcome 2457 2512	completed the continuing medical education intervention

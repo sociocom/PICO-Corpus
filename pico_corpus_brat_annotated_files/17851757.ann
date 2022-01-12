@@ -1,0 +1,20 @@
+T1	intervention 75 109	tipifarnib combined with letrozole
+T2	eligibility 393 504	Postmenopausal women with estrogen-receptor-positive advanced breast cancer that had progressed after tamoxifen
+T3	control 606 613	placebo
+T4	outcome-Measure 697 720	objective response rate
+T5	total-participants 725 728	120
+T6	intervention-participants 759 761	80
+T7	control-participants 773 775	40
+T8	total-participants 778 781	113
+T9	outcome 811 834	Objective response rate
+T10	iv-bin-percent 839 842	30%
+T11	cv-bin-percent 871 874	38%
+T12	outcome 998 1025	Clinical benefit rates were
+T13	iv-bin-percent 1026 1029	49%
+T14	cv-bin-percent 1039 1042	62%
+T15	outcome 1111 1158	drug-related asymptomatic grade 3/4 neutropenia
+T16	iv-bin-percent 1180 1183	18%
+T17	cv-bin-percent 1197 1199	0%
+T18	outcome 938 955	response duration
+T19	outcome 957 984	time to disease progression
+T20	outcome 988 996	survival

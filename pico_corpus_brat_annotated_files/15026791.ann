@@ -1,0 +1,18 @@
+T1	intervention 0 16	Oral ibandronate
+T3	intervention-participants 1038 1041	287
+T4	control 1046 1053	placebo
+T5	control-participants 1057 1060	277
+T7	outcome-Measure 1123 1160	skeletal morbidity period rate (SMPR)
+T8	outcome 1441 1450	mean SMPR
+T9	iv-cont-mean 1474 1478	0.95
+T10	cv-cont-mean 1482 1486	1.18
+T12	outcome 1612 1636	events requiring surgery
+T13	iv-cont-mean 1585 1589	0.73
+T14	cv-cont-mean 1593 1597	0.98
+T15	iv-cont-mean 1638 1642	0.47
+T16	cv-cont-mean 1646 1650	0.53
+T17	outcome 1750 1774	risk of a skeletal event
+T18	condition 37 59	skeletal complications
+T2	eligibility 937 984	patients with breast cancer and bone metastases
+T19	outcome 1887 1899	upper GI AEs
+T6	outcome 1539 1583	mean number of events requiring radiotherapy

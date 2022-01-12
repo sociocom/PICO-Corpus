@@ -1,0 +1,23 @@
+T1	intervention 66 155	recombinant anti-HER2 humanized monoclonal antibody (Cipterbin) combined with vinorelbine
+T2	outcome-Measure 821 852	progression free survival (PFS)
+T3	total-participants 874 877	315
+T4	control 493 506	control group
+T7	intervention-participants 928 931	212
+T8	control-participants 950 953	103
+T9	outcome 977 987	median PFS
+T10	iv-cont-median 1055 1065	39.1 weeks
+T11	cv-cont-median 1069 1079	14.0 weeks
+T15	outcome 1158 1184	disease control rate (DCR)
+T17	iv-bin-percent 1262 1267	46.7%
+T18	cv-bin-percent 1271 1277	18.45%
+T19	outcome 1294 1297	DCR
+T20	iv-bin-percent 1302 1308	79.72%
+T21	cv-bin-percent 1312 1318	45.63%
+T22	outcome 1336 1360	incidence of neutropenia
+T23	outcome 1362 1372	leucopenia
+T24	outcome 1377 1393	erythrocytopenia
+T25	outcome 1544 1562	infusion reactions
+T5	outcome 1564 1598	Left ventricular ejection fraction
+T6	outcome 1672 1686	cardiotoxicity
+T12	outcome 1124 1153	objective response rate (ORR)
+T13	outcome 1254 1257	ORR

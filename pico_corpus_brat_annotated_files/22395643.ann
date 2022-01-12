@@ -1,0 +1,14 @@
+T3	eligibility 474 579	postmenopausal patients with hormone receptor-positive early-stage (stages I, II, and IIIA) breast cancer
+T5	total-participants 741 745	1203
+T6	intervention-participants 802 805	615
+T7	control-participants 837 840	588
+T8	total-participants 943 947	1209
+T9	intervention-participants 981 984	606
+T10	control-participants 1016 1019	603
+T11	outcome-Measure 1332 1350	distant recurrence
+T12	outcome-Measure 1374 1388	any recurrence
+T13	outcome 1696 1706	recurrence
+T14	outcome 1942 1952	recurrence
+T15	outcome 2054 2064	recurrence
+T1	intervention 756 767	anastrozole
+T2	control 816 825	tamoxifen

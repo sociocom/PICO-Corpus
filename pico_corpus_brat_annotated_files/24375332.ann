@@ -1,0 +1,18 @@
+T3	eligibility 515 649	Postmenopausal women with a stage 0 through III breast cancer who received an AI and had treatment-associated musculoskeletal symptoms
+T10	intervention-participants 1251 1253	23
+T11	control-participants 1281 1283	24
+T12	outcome 1420 1426	scores
+T13	outcome 1481 1485	CESD
+T14	outcome 1498 1516	hot flash severity
+T15	outcome 1529 1548	hot flash frequency
+T17	outcome 1587 1612	NSABP menopausal symptoms
+T18	outcome 1676 1683	EuroQol
+T20	outcome 1721 1746	NSABP menopausal symptoms
+T21	ethinicity 1792 1808	African American
+T22	ethinicity 1871 1891	non-African American
+T4	intervention 147 158	acupuncture
+T8	condition 171 223	aromatase inhibitor-induced musculoskeletal symptoms
+T1	control 1300 1302	SA
+T2	outcome 1565 1570	HFRDI
+T16	outcome 1922 1940	hot flash severity
+T19	outcome 1956 1965	frequency

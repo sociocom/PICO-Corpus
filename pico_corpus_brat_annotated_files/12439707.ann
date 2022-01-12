@@ -1,0 +1,44 @@
+T1	intervention 0 9	Docetaxel
+T4	total-participants 338 365	One hundred and seventy-six
+T5	intervention-participants 623 633	Eighty-six
+T6	control-participants 677 679	90
+T7	outcome 740 766	Median time to progression
+T8	iv-cont-median 768 771	6.5
+T10	outcome 791 807	overall survival
+T11	iv-cont-median 809 813	16.0
+T13	iv-bin-abs 932 935	Six
+T14	iv-bin-percent 937 939	7%
+T15	outcome 941 959	complete responses
+T16	iv-bin-abs 964 966	31
+T17	iv-bin-percent 968 971	36%
+T18	outcome 973 990	partial responses
+T19	outcome 1016 1037	overall response rate
+T20	iv-bin-percent 1038 1041	43%
+T21	cv-bin-abs 1083 1084	4
+T22	cv-bin-percent 1086 1090	4.4%
+T23	cv-bin-abs 1115 1117	31
+T24	cv-bin-percent 1119 1124	34.4%
+T25	outcome 1126 1143	partial responses
+T26	outcome 1186 1207	overall response rate
+T27	cv-bin-percent 1208 1213	38.8%
+T28	outcome 1254 1274	grade 3-4 toxicities
+T29	outcome 1323 1334	neutropenia
+T30	iv-bin-percent 1335 1338	82%
+T31	cv-bin-percent 1342 1345	67%
+T32	outcome 1347 1357	stomatitis
+T33	iv-bin-percent 1358 1360	5%
+T34	cv-bin-percent 1364 1367	40%
+T35	outcome 1369 1388	febrile neutropenia
+T36	iv-bin-percent 1389 1392	13%
+T37	cv-bin-percent 1396 1399	22%
+T38	outcome 1405 1414	infection
+T39	iv-bin-percent 1415 1417	2%
+T40	cv-bin-percent 1421 1423	7%
+T41	iv-bin-abs 1435 1438	one
+T42	outcome 1448 1471	treatment-related death
+T43	cv-bin-abs 1497 1501	five
+T3	eligibility 366 399	metastatic breast cancer patients
+T2	control 13 44	5-fluorouracil plus vinorelbine
+T9	cv-cont-median 775 785	5.1 months
+T12	cv-cont-median 817 828	15.0 months
+T44	outcome 1092 1110	complete responses

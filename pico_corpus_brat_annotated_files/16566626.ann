@@ -1,0 +1,21 @@
+T2	control 81 88	placebo
+T4	total-participants 396 398	35
+T5	intervention-participants 566 568	13
+T6	intervention-participants 586 588	11
+T8	control-participants 605 607	11
+T10	outcome-Measure 655 744	change from baseline in score on the 21-item Hamilton Rating Scale for Depression (HAM-D)
+T11	outcome-Measure 784 879	change from baseline in the Clinical Global Impressions-Severity of Illness scale (CGI-S) score
+T12	outcome 1098 1114	rate of response
+T13	cv-bin-percent 1202 1205	55%
+T14	cv-bin-abs 1209 1210	6
+T15	outcome 1250 1265	discontinuation
+T16	iv-bin-percent 1298 1300	9%
+T17	iv-bin-abs 1304 1305	1
+T18	iv-bin-percent 1324 1327	15%
+T19	iv-bin-abs 1331 1332	2
+T20	cv-bin-percent 1399 1402	18%
+T21	cv-bin-abs 1406 1407	2
+T9	condition 282 302	depressive disorders
+T22	eligibility 399 510	female outpatients with breast cancer and DSM-III-R major depression or adjustment disorder with depressed mood
+T1	intervention 53 76	paroxetine, desipramine
+T3	outcome 1501 1560	depressive, anxiety, cognitive, neurovegetative, or somatic

@@ -1,0 +1,17 @@
+T1	outcome 1053 1064	Amenorrhoea
+T2	intervention 0 26	Complete hormonal blockade
+T3	control 34 63	epirubicin-based chemotherapy
+T5	location 199 205	French
+T6	eligibility 354 453	premenopausal patients with hormone receptor positive breast cancer and one to three positive nodes
+T7	total-participants 469 472	333
+T8	outcome 766 800	7-year disease-free survival (DFS)
+T9	iv-bin-percent 805 808	76%
+T10	cv-bin-percent 829 832	72%
+T11	outcome 858 886	7-year overall survival (OS)
+T12	iv-bin-percent 891 894	91%
+T13	cv-bin-percent 899 902	88%
+T14	cv-bin-percent 1077 1080	64%
+T4	intervention-participants 601 604	164
+T15	control-participants 756 759	169
+T16	iv-bin-percent 1133 1136	58%
+T17	cv-bin-percent 1174 1177	31%

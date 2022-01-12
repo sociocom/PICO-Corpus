@@ -1,0 +1,18 @@
+T1	control-participants 1475 1477	64
+T2	intervention-participants 1505 1507	60
+T3	total-participants 1365 1368	207
+T4	total-participants 1435 1438	134
+T6	outcome-Measure 1196 1257	satisfaction with the assigned follow-up care and unmet needs
+T7	eligibility 775 853	Postmenopausal women treated for hormone receptor positive early breast cancer
+T8	control 933 956	standard follow-up care
+T9	intervention 1009 1038	individualized follow-up care
+T11	outcome 1715 1751	attended twice as many consultations
+T12	iv-cont-mean 1822 1825	4.3
+T13	cv-cont-mean 1850 1853	2.1
+T5	outcome-Measure 1283 1303	use of consultations
+T14	outcome-Measure 1305 1327	adherence to treatment
+T15	outcome-Measure 1332 1347	quality of life
+T10	outcome 1622 1634	satisfaction
+T16	outcome 1636 1647	unmet needs
+T17	outcome 1649 1671	adherence to treatment
+T18	outcome 1675 1690	quality of life

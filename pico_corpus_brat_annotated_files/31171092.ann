@@ -1,0 +1,18 @@
+T1	intervention 20 30	Lisinopril
+T2	intervention 38 48	Carvedilol
+T3	condition 60 86	Trastuzumab Cardiotoxicity
+T4	eligibility 680 760	patients with HER2-positive breast cancer treated with trastuzumab for 12 months
+T6	control 902 909	placebo
+T7	total-participants 930 933	468
+T8	age 945 960	51 ± 10.7 years
+T9	outcome 985 999	cardiotoxicity
+T10	cv-bin-percent 1045 1048	32%
+T11	iv-bin-percent 1073 1076	29%
+T12	iv-bin-percent 1096 1099	30%
+T13	outcome 1158 1169	event rates
+T14	cv-bin-percent 1204 1207	47%
+T15	iv-bin-percent 1233 1236	37%
+T16	iv-bin-percent 1258 1261	31%
+T17	outcome 1271 1299	Cardiotoxicity-free survival
+T5	outcome 1676 1689	interruptions
+T18	outcome 1840 1854	cardiotoxicity

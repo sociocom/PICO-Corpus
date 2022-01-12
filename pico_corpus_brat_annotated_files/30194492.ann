@@ -1,0 +1,28 @@
+T1	intervention 7 27	homeopathic medicine
+T2	condition 35 46	hot flushes
+T3	age 599 609	≥ 18 years
+T4	eligibility 614 851	women with histologically proven non metastatic localized breast cancer, with Eastern Cooperative Oncology Group-Performance Status (ECOG-PS) ≤ 1, treated for at least 1 month with adjuvant ET, and complaining about moderate to severe HF
+T7	outcome-Measure 1611 1648	HFS variation between pre- and 8w-HFS
+T8	outcome-Measure 1650 1711	compliance and tolerance assessed 8 weeks after randomization
+T9	outcome-Measure 1717 1720	QoL
+T10	outcome-Measure 1725 1737	satisfaction
+T11	total-participants 1784 1807	Two hundred ninety-nine
+T12	total-participants 1836 1839	138
+T13	intervention-participants 1863 1865	65
+T14	control-participants 1870 1872	73
+T15	outcome 1875 1907	Median 4w-HFS absolute variation
+T16	outcome 2044 2060	4w-HFS decreased
+T19	outcome 2110 2116	4w-QoL
+T17	iv-bin-abs 2065 2067	46
+T22	iv-bin-percent 2069 2072	75%
+T18	cv-bin-abs 2082 2084	48
+T23	cv-bin-percent 2086 2089	68%
+T20	iv-bin-abs 2157 2159	43
+T24	iv-bin-percent 2161 2164	72%
+T21	cv-bin-abs 2169 2171	51
+T25	cv-bin-percent 2173 2176	74%
+T6	outcome-Measure 1547 1580	variation between pre- and 4w-HFS
+T5	control 1182 1197	Placebo (Arm P)
+T26	iv-cont-median 1912 1917	- 2.9
+T27	cv-cont-median 1922 1934	- 2.5 points
+T28	outcome 1951 1968	relative decrease

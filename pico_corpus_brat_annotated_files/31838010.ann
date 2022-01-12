@@ -1,0 +1,41 @@
+T1	intervention 0 25	Ribociclib plus letrozole
+T2	control 33 45	chemotherapy
+T3	outcome 2861 2885	grade 3-4 adverse events
+T4	outcome 2917 2928	neutropenia
+T5	cv-bin-abs 2930 2932	31
+T6	cv-bin-percent 2934 2937	60%
+T7	control-participants 2942 2944	52
+T8	outcome 2959 2978	febrile neutropenia
+T9	cv-bin-abs 2980 2985	seven
+T10	cv-bin-percent 2987 2990	13%
+T11	outcome 2997 3003	deaths
+T12	outcome 2672 2696	grade 3-4 adverse events
+T13	outcome 2741 2752	neutropenia
+T14	iv-bin-abs 2754 2756	22
+T15	iv-bin-percent 2758 2761	43%
+T16	intervention-participants 2766 2768	51
+T17	outcome 2783 2831	elevated alanine aminotransferase concentrations
+T18	iv-bin-abs 2833 2836	ten
+T19	iv-bin-percent 2838 2841	20%
+T21	iv-bin-abs 2492 2494	23
+T22	intervention-participants 2524 2526	49
+T23	cv-bin-abs 2579 2581	24
+T24	control-participants 2604 2606	52
+T26	iv-bin-abs 2250 2252	44
+T27	iv-bin-percent 2254 2257	85%
+T28	intervention-participants 2262 2264	52
+T29	cv-bin-abs 2307 2309	48
+T30	cv-bin-percent 2311 2314	89%
+T31	control-participants 2319 2321	54
+T33	iv-bin-abs 2401 2406	eight
+T34	iv-bin-percent 2408 2411	15%
+T35	cv-bin-abs 2417 2420	six
+T36	cv-bin-percent 2422 2425	11%
+T38	total-participants 2148 2151	106
+T40	age 740 749	≥18 years
+T41	eligibility 751 794	with stage I-IIIA hormone receptor-positive
+T42	location 698 703	Spain
+T20	outcome 2232 2248	high ROR disease
+T25	outcome 2375 2399	intermediate-ROR disease
+T32	outcome 2647 2654	low-ROR
+T37	outcome-Measure 1672 1750	proportion of patients with PAM50 low-risk-of-relapse (ROR) disease at surgery

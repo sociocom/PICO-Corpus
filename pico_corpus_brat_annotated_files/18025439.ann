@@ -1,0 +1,23 @@
+T1	intervention 20 42	high-dose chemotherapy
+T2	outcome 1551 1554	PFS
+T3	iv-cont-median 1559 1568	11 months
+T4	cv-cont-median 1582 1590	9 months
+T7	outcome 1383 1392	median OS
+T8	iv-cont-median 1397 1406	24 months
+T9	cv-cont-median 1454 1463	28 months
+T12	outcome 1233 1239	deaths
+T13	iv-bin-abs 1230 1232	79
+T14	cv-bin-abs 1274 1276	77
+T15	outcome 1349 1377	died as a result of toxicity
+T16	iv-bin-abs 1313 1318	seven
+T17	iv-bin-percent 1329 1331	6%
+T18	age 874 882	47 years
+T19	total-participants 693 696	224
+T20	intervention-participants 730 733	112
+T21	control-participants 829 832	112
+T22	control 836 857	standard therapy (ST)
+T24	total-participants 527 530	386
+T25	eligibility 531 594	women with MBC and no prior chemotherapy for metastatic disease
+T5	outcome 1075 1099	Complete remission rates
+T6	iv-bin-percent 1130 1133	11%
+T10	cv-bin-percent 1163 1166	12%

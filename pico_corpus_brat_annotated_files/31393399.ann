@@ -1,0 +1,6 @@
+T1	intervention 12 21	denosumab
+T2	condition 43 63	bone mineral density
+T3	eligibility 636 791	postmenopausal patients scheduled to receive letrozole or anastrozole as a postoperative endocrine therapy for stage I-IIIA hormone-sensitive breast cancer
+T4	control 798 811	control group
+T7	outcome-Measure 1326 1350	ETHICS AND DISSEMINATION
+T5	outcome-Measure 1148 1194	rate of change in the lumbar spine (L1-L4) BMD

@@ -1,0 +1,25 @@
+T1	intervention 39 81	docetaxel in combination with capecitabine
+T2	total-participants 251 253	83
+T3	eligibility 254 298	Patients with at least one measurable lesion
+T4	total-participants 589 601	Eighty-three
+T5	total-participants 626 628	78
+T6	outcome 664 694	overall clinical response rate
+T7	outcome 741 765	progressive disease (PD)
+T8	outcome 784 801	Efficacy outcomes
+T9	outcome 838 851	response rate
+T10	iv-bin-percent 874 879	61.8%
+T11	iv-bin-abs 881 883	21
+T12	intervention-participants 884 886	34
+T13	cv-bin-percent 892 897	61.2%
+T14	cv-bin-abs 899 901	30
+T15	control-participants 902 904	49
+T16	outcome 934 953	drug-related deaths
+T17	outcome 964 975	Neutropenia
+T18	outcome 1031 1052	Grade 3/4 neutropenia
+T19	cv-bin-percent 1110 1115	55.1%
+T20	cv-bin-abs 1117 1119	27
+T21	control-participants 1120 1122	49
+T22	iv-bin-percent 1148 1153	32.4%
+T23	iv-bin-abs 1155 1157	11
+T24	intervention-participants 1158 1160	34
+T25	control 540 547	Group B

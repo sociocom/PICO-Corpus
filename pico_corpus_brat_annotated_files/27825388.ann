@@ -1,0 +1,8 @@
+T3	eligibility 653 716	premenopausal women with hormone-responsive early breast cancer
+T9	total-participants 1269 1273	2660
+T10	total-participants 1366 1370	1967
+T1	intervention 10 26	CYP19A1 and ESR1
+T2	condition 39 63	early-onset side effects
+T4	outcome 1880 1883	AEs
+T5	outcome 1513 1555	incidence of grade ≥2 hot flashes/sweating
+T6	outcome 1940 1973	incidence of hot flashes/sweating

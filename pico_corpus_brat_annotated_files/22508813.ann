@@ -1,0 +1,24 @@
+T1	condition 14 45	pegfilgrastim-induced bone pain
+T2	total-participants 551 554	510
+T3	intervention 594 602	naproxen
+T4	control 633 640	placebo
+T5	outcome-Measure 859 915	area under the curve (AUC) for pain for days 1 through 5
+T6	outcome-Measure 975 1015	risk factors for the development of pain
+T7	outcome-Measure 1020 1040	response to naproxen
+T8	age 1065 1075	55.6 years
+T9	outcome 1172 1176	Pain
+T10	outcome 1225 1242	mean AUC for pain
+T11	outcome 1335 1347	maximum pain
+T12	outcome 1400 1422	overall pain incidence
+T14	outcome 1506 1530	reduction in severe pain
+T13	cv-cont-mean 1247 1251	7.71
+T15	iv-cont-mean 1278 1282	6.04
+T16	outcome 1458 1466	duration
+T17	iv-cont-mean 1472 1476	2.40
+T18	iv-cont-mean 1480 1489	1.92 days
+T19	iv-cont-mean 1428 1433	71.3%
+T20	iv-cont-mean 1437 1442	61.1%
+T21	iv-cont-mean 1353 1357	3.40
+T22	iv-cont-mean 1361 1365	2.59
+T23	iv-cont-mean 1564 1569	27.0%
+T24	iv-cont-mean 1573 1578	19.2%

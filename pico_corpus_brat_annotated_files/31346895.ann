@@ -1,0 +1,19 @@
+T1	intervention 96 126	Chlorhexidine-Coated Dressings
+T3	eligibility 477 518	patients undergoing breast cancer surgery
+T4	control 563 588	standard drain care group
+T6	total-participants 834 837	104
+T7	outcome 991 1032	Bulb fluid cultures at postoperative week
+T8	cv-bin-percent 1059 1064	42.9%
+T9	iv-bin-percent 1090 1095	28.9%
+T10	outcome 1132 1155	Cultures from the POW 2
+T11	cv-bin-percent 1185 1190	79.7%
+T12	iv-bin-percent 1219 1224	54.9%
+T13	outcome 1262 1287	Cultures from drain tubes
+T14	cv-bin-percent 1306 1311	79.8%
+T15	iv-bin-percent 1337 1342	50.7%
+T16	outcome 1401 1414	SSI developed
+T17	iv-bin-abs 1416 1417	3
+T19	iv-bin-percent 1419 1423	5.8%
+T18	cv-bin-abs 1451 1452	8
+T20	cv-bin-percent 1454 1459	15.4%
+T2	condition 38 79	Bacterial Colonization of Surgical Drains

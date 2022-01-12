@@ -1,0 +1,14 @@
+T3	total-participants 682 686	6459
+T4	age 698 712	55 to 81 years
+T5	control 731 738	placebo
+T7	total-participants 904 908	7765
+T8	location 1109 1171	Asia and the Pacific, Europe, North America, and South America
+T10	outcome 1625 1647	incident breast cancer
+T11	outcome 1760 1781	rate of breast cancer
+T12	cv-bin-percent 1790 1794	1.5%
+T13	cv-bin-abs 1800 1802	46
+T14	iv-bin-percent 1829 1833	1.8%
+T19	cv-bin-percent 1973 1977	0.8%
+T20	iv-bin-percent 2012 2016	0.9%
+T6	iv-bin-abs 1839 1841	57
+T1	intervention 117 148	alendronate and zoledronic acid

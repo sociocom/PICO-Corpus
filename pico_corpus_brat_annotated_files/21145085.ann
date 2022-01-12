@@ -1,0 +1,13 @@
+T1	condition 12 23	lymphoedema
+T4	total-participants 485 496	Forty-eight
+T5	control 610 637	control (postural measures)
+T6	outcome-Measure 669 684	quality of life
+T7	outcome-Measure 686 702	body composition
+T8	outcome-Measure 704 715	temperature
+T9	outcome-Measure 717 754	functional assessment of the shoulder
+T10	outcome-Measure 756 760	pain
+T11	outcome-Measure 765 776	limb volume
+T2	intervention 55 111	elastic restraint orthotic and manual lymphatic drainage
+T3	outcome 947 962	quality of life
+T12	outcome 964 983	extracellular water
+T13	outcome 989 1036	functional assessment of the volume of the limb

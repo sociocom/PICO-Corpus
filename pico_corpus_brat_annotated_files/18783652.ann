@@ -1,0 +1,21 @@
+T1	total-participants 438 440	80
+T2	eligibility 441 560	patients with nonpalpable breast cancer without axillary adenopathies who were scheduled for primary surgical treatment
+T4	intervention-participants 669 671	35
+T6	control-participants 734 736	45
+T7	outcome 912 944	rates of sentinel node detection
+T8	iv-bin-percent 950 955	97.1%
+T9	iv-bin-abs 957 959	34
+T10	intervention-participants 960 962	35
+T11	cv-bin-percent 995 1000	84.4%
+T12	cv-bin-abs 1002 1004	38
+T13	control-participants 1005 1007	45
+T14	outcome 1036 1065	Radiotracer migration failure
+T15	iv-bin-abs 1087 1090	one
+T16	cv-bin-abs 1114 1115	7
+T17	outcome 1140 1196	sentinel node was detected in an extra-axillary location
+T18	iv-bin-abs 1216 1218	11
+T19	intervention-participants 1219 1221	59
+T20	cv-bin-abs 1245 1247	16
+T21	control-participants 1248 1250	64
+T22	intervention 20 32	intratumoral
+T5	control 37 73	peritumoral injection of radiotracer

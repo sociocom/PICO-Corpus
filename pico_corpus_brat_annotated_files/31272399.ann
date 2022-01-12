@@ -1,0 +1,14 @@
+T1	intervention 2 27	text message intervention
+T2	control 724 734	usual care
+T4	total-participants 869 872	160
+T5	eligibility 937 961	women with breast cancer
+T6	location 1016 1033	Sydney, Australia
+T7	outcome-Measure 1378 1430	change in self-efficacy for managing chronic disease
+T3	condition 47 73	physical and mental health
+T9	control 1271 1281	usual care
+T8	outcome-Measure 1459 1504	change in clinical outcomes (body mass index)
+T10	outcome-Measure 1506 1571	lifestyle outcomes (physical activity levels, dietary behaviours)
+T11	outcome-Measure 1573 1609	mood (depression and anxiety scales)
+T12	outcome-Measure 1611 1626	quality of life
+T13	outcome-Measure 1628 1645	satisfaction with
+T14	outcome-Measure 1651 1681	usefulness of the intervention

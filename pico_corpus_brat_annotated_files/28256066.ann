@@ -1,0 +1,23 @@
+T1	intervention 29 43	nab-paclitaxel
+T2	ethinicity 459 467	Japanese
+T3	eligibility 468 535	patients with human epidermal growth factor receptor 2-negative MBC
+T4	outcome-Measure 562 593	progression-free survival (PFS)
+T5	intervention-participants 708 711	100
+T6	control 716 725	docetaxel
+T7	control-participants 765 768	100
+T8	outcome 775 785	median PFS
+T11	outcome 989 1012	median overall survival
+T12	iv-cont-median 1017 1028	42.4 months
+T13	cv-cont-median 1033 1044	34.0 months
+T14	outcome 1064 1085	overall response rate
+T15	iv-bin-percent 1090 1095	56.1%
+T16	cv-bin-percent 1119 1124	52.5%
+T17	outcome 1212 1223	Neutropenia
+T18	iv-bin-percent 1277 1282	35.0%
+T19	cv-bin-percent 1325 1330	89.0%
+T20	outcome 1365 1384	grade 4 neutropenia
+T21	outcome 1386 1423	Grade 3 peripheral sensory neuropathy
+T22	iv-bin-percent 1436 1441	22.0%
+T23	cv-bin-percent 1480 1484	5.0%
+T9	iv-cont-median 828 838	9.8 months
+T10	cv-cont-median 903 914	11.2 months

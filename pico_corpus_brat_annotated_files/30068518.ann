@@ -1,0 +1,11 @@
+T4	eligibility 535 563	healthy postmenopausal women
+T5	location 579 595	Florence (Italy)
+T6	age 633 647	50 to 69 years
+T7	eligibility 649 705	nonsmokers, with MBD > 50% and no recent hormone therapy
+T9	total-participants 1183 1186	226
+T1	intervention 4 33	Dietary and Physical Activity
+T2	control 984 1007	general recommendations
+T3	outcome 1291 1317	volumetric percent density
+T8	outcome 1646 1649	MBD
+T10	outcome 1764 1767	MBD
+T11	condition 55 69	Breast Density

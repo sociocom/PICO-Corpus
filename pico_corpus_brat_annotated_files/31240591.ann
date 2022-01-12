@@ -1,0 +1,15 @@
+T1	condition 107 121	Arm Lymphedema
+T2	intervention 0 55	Identification and Preservation of Arm Lymphatic System
+T5	outcome 1242 1260	Arm sentinel nodes
+T6	outcome 1302 1341	Subsequent-echelon nodes and lymphatics
+T7	outcome 1383 1403	Metastatic arm nodes
+T8	outcome 1447 1466	arm lymphedema rate
+T9	iv-bin-percent 1471 1475	3.3%
+T10	iv-bin-abs 1477 1479	18
+T11	intervention-participants 1480 1483	543
+T12	cv-bin-percent 1511 1516	15.3%
+T13	cv-bin-abs 1518 1520	99
+T14	control-participants 1521 1524	648
+T15	outcome 1592 1611	Regional recurrence
+T16	iv-bin-percent 1657 1661	1.4%
+T17	cv-bin-percent 1666 1670	1.2%

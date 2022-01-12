@@ -1,0 +1,9 @@
+T3	control 700 710	usual care
+T4	outcome 2052 2072	rate of satisfaction
+T8	age 1562 1572	54.9 years
+T9	total-participants 1540 1542	29
+T1	intervention 14 66	Text Message-Delivered Extended Contact Intervention
+T2	condition 85 144	Weight Loss, Physical Activity, and Dietary Behavior Change
+T5	outcome 1770 1781	mean weight
+T6	outcome 1833 1850	physical activity
+T7	outcome 1933 1946	energy intake

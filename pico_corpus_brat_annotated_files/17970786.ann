@@ -1,0 +1,17 @@
+T1	intervention 39 61	high-dose chemotherapy
+T2	age 369 383	under 56 years
+T3	eligibility 391 467	with stage I to IIIB breast cancer involving 10 or more axillary lymph nodes
+T4	outcome-Measure 508 535	relapse-free survival (RFS)
+T6	total-participants 570 572	97
+T7	control-participants 919 930	Forty-eight
+T8	control 947 966	standard-dose (STD)
+T9	intervention-participants 1068 1078	Forty-nine
+T10	outcome 1311 1325	well tolerated
+T11	outcome 1407 1417	5-year RFS
+T12	control-participants 1421 1423	47
+T13	intervention-participants 1461 1463	48
+T14	cv-bin-percent 1501 1504	37%
+T15	iv-bin-percent 1509 1512	52%
+T16	outcome 1567 1593	Five-year overall survival
+T17	cv-bin-percent 1625 1628	62%
+T18	iv-bin-percent 1649 1652	63%

@@ -1,0 +1,16 @@
+T1	intervention 66 77	anastrozole
+T2	total-participants 499 503	3864
+T3	total-participants 583 587	2980
+T4	eligibility 588 618	postmenopausal women with DCIS
+T7	outcome 801 810	adherence
+T5	control 638 647	tamoxifen
+T8	control 544 551	placebo
+T9	iv-bin-percent 835 840	65.7%
+T10	cv-bin-percent 858 863	65.9%
+T12	iv-bin-percent 1161 1166	67.5%
+T13	cv-bin-percent 1186 1191	65.8%
+T14	outcome 1227 1238	Hot flashes
+T11	outcome 1127 1136	adherence
+T15	outcome 899 908	Adherence
+T16	outcome 1446 1455	Drop-outs
+T6	outcome 1592 1611	adherent to therapy

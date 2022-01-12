@@ -1,0 +1,12 @@
+T2	condition 95 114	nausea and vomiting
+T5	total-participants 1184 1194	Forty-nine
+T6	iv-bin-percent 1233 1252	Sixty-three percent
+T7	outcome 1264 1281	complete response
+T8	cv-bin-percent 1327 1330	39%
+T9	iv-bin-percent 1364 1375	Ten percent
+T10	outcome 1393 1409	vomiting episode
+T11	cv-bin-percent 1443 1446	15%
+T12	control 898 926	3 days regimen of aprepitant
+T1	intervention 34 44	aprepitant
+T3	eligibility 739 800	Women with breast cancer and scheduled to receive AC regimens
+T4	outcome 1480 1486	Nausea

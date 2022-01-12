@@ -1,0 +1,11 @@
+T1	intervention 64 86	dance movement therapy
+T2	total-participants 632 635	121
+T3	condition 90 113	diurnal cortisol slopes
+T4	ethinicity 636 643	Chinese
+T5	eligibility 488 544	breast cancer patients undergoing radiotherapy treatment
+T6	intervention-participants 692 694	63
+T7	control 700 707	control
+T8	control-participants 711 713	58
+T14	outcome 1188 1221	effect on diurnal cortisol slopes
+T15	outcome 1273 1289	perceived stress
+T9	outcome 1399 1424	baseline perceived stress

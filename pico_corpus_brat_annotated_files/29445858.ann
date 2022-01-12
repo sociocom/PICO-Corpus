@@ -1,0 +1,13 @@
+T1	control 727 740	control group
+T2	control-participants 746 748	41
+T3	intervention-participants 852 854	45
+T4	intervention-participants 889 891	25
+T5	intervention 0 11	L-Thyroxine
+T8	outcome 1393 1409	physical fatigue
+T9	outcome 1756 1779	hormonal dysregulations
+T10	outcome 1689 1696	fatigue
+T11	outcome 1559 1566	fatigue
+T6	outcome 1014 1017	TSH
+T12	iv-cont-median 1028 1037	0.33 mU/l
+T13	cv-cont-median 1151 1160	0.51 mU/l
+T7	outcome 1175 1177	T3

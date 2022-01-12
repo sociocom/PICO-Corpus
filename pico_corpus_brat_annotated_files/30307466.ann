@@ -1,0 +1,30 @@
+T1	intervention 0 25	Letrozole and palbociclib
+T2	control 33 45	chemotherapy
+T3	eligibility 514 688	Patients with ER-positive, HER2-negative, Prosigna®-defined luminal B, or luminal A and node-positive, stage II-III breast cancer, not candidate for breast-conserving surgery
+T4	outcome-Measure 975 1012	residual cancer burden (RCB 0-I rate)
+T6	total-participants 1113 1116	106
+T7	outcome 1183 1190	RCB 0-I
+T8	iv-bin-abs 1207 1211	four
+T9	cv-bin-abs 1216 1221	eight
+T10	iv-bin-percent 1242 1246	7.7%
+T11	cv-bin-percent 1284 1289	15.7%
+T12	outcome 1329 1365	Pathological complete response rates
+T13	iv-bin-percent 1371 1375	3.8%
+T14	cv-bin-percent 1380 1384	5.9%
+T15	outcome 1386 1403	Clinical response
+T16	outcome 1414 1445	breast-conserving surgery rates
+T17	outcome 1529 1560	breast cancer-specific survival
+T18	iv-bin-percent 1579 1584	17.6%
+T19	cv-bin-percent 1589 1593	8.0%
+T20	iv-bin-abs 1690 1691	2
+T21	cv-bin-abs 1699 1701	17
+T22	outcome 1702 1724	serious adverse events
+T23	outcome 1739 1758	grade 4 serious AEs
+T24	cv-bin-abs 1736 1738	11
+T25	iv-bin-percent 1405 1408	75%
+T26	cv-bin-percent 1447 1450	69%
+T5	outcome-Measure 1044 1061	clinical response
+T27	outcome-Measure 1063 1090	proliferation-based markers
+T28	outcome-Measure 1096 1102	safety
+T29	outcome 1829 1850	pathological response
+T30	outcome 1867 1901	clinical and biomarker responses i

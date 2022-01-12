@@ -1,0 +1,10 @@
+T2	eligibility 623 645	HER2-negative patients
+T3	control 742 760	chemotherapy alone
+T4	intervention-participants 819 822	729
+T5	control-participants 827 830	724
+T6	outcome 1539 1553	SNPs in VEGF-A
+T7	outcome 1443 1462	some SNPs in VEGF-A
+T8	outcome 1277 1294	homozygous common
+T9	outcome 1296 1308	heterozygous
+T10	outcome 1313 1347	homozygous rare rs833058 genotypes
+T1	intervention 87 98	bevacizumab

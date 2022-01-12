@@ -1,0 +1,10 @@
+T1	intervention 0 10	Carvedilol
+T2	condition 38 72	Doxorubicin-Induced Cardiotoxicity
+T3	total-participants 235 237	70
+T4	eligibility 238 315	female patients with breast cancer who were candidates to receive doxorubicin
+T5	intervention-participants 342 344	30
+T6	control 449 456	placebo
+T10	outcome 873 910	mean differences of strain parameters
+T11	outcome 996 1007	heart walls
+T12	outcome 1173 1195	strain-rate parameters
+T9	outcome 705 738	strain and strain-rate parameters

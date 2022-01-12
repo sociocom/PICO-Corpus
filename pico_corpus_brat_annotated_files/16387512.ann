@@ -1,0 +1,18 @@
+T1	intervention 0 32	Dose-dense adjuvant chemotherapy
+T3	age 392 407	> or = 60 years
+T4	control 500 521	conventional-schedule
+T5	intervention-participants 567 570	104
+T6	control-participants 851 854	107
+T7	outcome 1022 1028	Delays
+T8	iv-bin-percent 1098 1101	17%
+T9	iv-bin-percent 1109 1111	6%
+T10	cv-bin-percent 1117 1120	11%
+T11	cv-bin-percent 1128 1130	6%
+T12	outcome 1141 1162	Grades 3-4 leukopenia
+T13	iv-bin-percent 1164 1167	26%
+T14	cv-bin-percent 1175 1178	12%
+T15	outcome 1184 1195	neutropenia
+T16	iv-bin-percent 1197 1200	33%
+T17	cv-bin-percent 1208 1211	25%
+T2	eligibility 37 92	node-positive breast cancer in women 60 years and older
+T18	eligibility 255 302	older patients with node-positive breast cancer

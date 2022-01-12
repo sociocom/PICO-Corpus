@@ -1,0 +1,21 @@
+T1	intervention 78 122	bevacizumab in combination with capecitabine
+T2	control 126 136	paclitaxel
+T3	age 410 419	≥18 years
+T4	total-participants 829 832	561
+T5	intervention-participants 850 853	284
+T6	control-participants 862 865	277
+T7	outcome 993 1017	Treatment-related events
+T8	iv-bin-percent 1030 1035	85.2%
+T9	cv-bin-percent 1048 1053	78.0%
+T10	outcome 1075 1082	Fatigue
+T11	iv-bin-percent 1109 1114	30.6%
+T12	cv-bin-percent 1122 1127	23.5%
+T13	outcome 1140 1164	hand-foot syndrome (HFS)
+T14	cv-bin-percent 1187 1192	49.5%
+T15	iv-bin-percent 1200 1204	2.5%
+T16	outcome 1213 1222	Diarrhoea
+T17	iv-bin-percent 1231 1235	0.4%
+T18	cv-bin-percent 1244 1248	1.4%
+T19	outcome 1254 1272	pulmonary embolism
+T20	iv-bin-percent 1281 1285	0.7%
+T21	cv-bin-percent 1294 1298	1.1%

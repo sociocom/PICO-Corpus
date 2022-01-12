@@ -1,0 +1,12 @@
+T1	intervention 26 56	axillary reverse mapping (ARM)
+T3	total-participants 1081 1084	280
+T5	control 1245 1258	standard ALND
+T12	location 2026 2037	Netherlands
+T2	eligibility 1085 1204	patients diagnosed with SLN biopsy-proven metastasis of invasive breast cancer with an indication for a completion ALND
+T6	outcome-Measure 1373 1420	presence of axillary surgery-related lymphedema
+T4	outcome-Measure 1541 1545	pain
+T7	outcome-Measure 1547 1558	paresthesia
+T8	outcome-Measure 1560 1568	numbness
+T9	outcome-Measure 1574 1599	loss of shoulder mobility
+T10	outcome-Measure 1601 1616	quality of life
+T11	outcome-Measure 1622 1646	axillary recurrence risk

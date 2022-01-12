@@ -1,0 +1,33 @@
+T3	eligibility 251 294	Breast cancer patients with bone metastases
+T4	intervention-participants 331 334	137
+T5	control-participants 379 382	138
+T7	outcome-Measure 424 539	mean percentage change in serum levels of cross-linked C-terminal telopeptide of type I collagen (S-CTX) at week 12
+T9	outcome 777 782	S-CTX
+T10	outcome 897 902	U-CTX
+T11	outcome 1120 1141	Bone ALP, PINP and OC
+T13	iv-bin-percent 1304 1309	65.0%
+T14	cv-bin-percent 1317 1322	75.9%
+T15	outcome 1332 1340	days 1-3
+T12	outcome 1280 1302	adverse events overall
+T16	iv-bin-percent 1342 1346	8.0%
+T17	cv-bin-percent 1354 1359	47.5%
+T18	outcome 1377 1384	pyrexia
+T19	iv-bin-percent 1404 1406	0%
+T20	cv-bin-percent 1414 1419	16.8%
+T21	outcome 1425 1434	bone pain
+T22	iv-bin-percent 1436 1440	5.8%
+T23	cv-bin-percent 1448 1453	12.4%
+T6	intervention 0 16	Oral ibandronate
+T28	control 33 60	intravenous zoledronic acid
+T1	outcome 978 997	difference in S-CTX
+T2	iv-cont-mean 801 804	76%
+T24	iv-cont-sd 809 811	29
+T25	cv-cont-mean 845 848	73%
+T29	cv-cont-sd 853 855	47
+T26	iv-cont-mean 916 919	78%
+T30	iv-cont-sd 924 926	50
+T27	cv-cont-mean 950 953	86%
+T31	cv-cont-sd 958 960	17
+T8	outcome-Measure 541 560	Urinary CTX (U-CTX)
+T32	outcome-Measure 562 593	bone alkaline phosphatase (ALP)
+T33	outcome-Measure 595 679	amino-terminal procollagen propeptide of type I collagen (PINP) and osteocalcin (OC)

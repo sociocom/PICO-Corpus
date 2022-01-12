@@ -1,0 +1,19 @@
+T1	intervention 14 36	pegfilgrastim on day 2
+T2	control 41 46	day 4
+T3	outcome-Measure 536 554	leucopenia grade 4
+T4	total-participants 628 651	Three-hundred fifty-one
+T5	intervention-participants 688 691	174
+T6	control-participants 708 711	177
+T7	outcome 718 746	rate of leucopenia (grade 4)
+T8	iv-bin-percent 751 756	47.1%
+T9	cv-bin-percent 769 774	42.0%
+T10	outcome 796 821	neutropenia (grade 3 + 4)
+T11	iv-bin-percent 826 831	47.9%
+T12	cv-bin-percent 839 844	40.8%
+T13	outcome 858 860	FN
+T14	iv-bin-percent 865 869	4.7%
+T15	cv-bin-percent 877 881	8.0%
+T16	outcome 899 909	infections
+T17	iv-bin-percent 914 919	29.9%
+T18	cv-bin-percent 927 932	25.4%
+T19	eligibility 362 473	Patients with node-positive primary breast cancer receiving epirubicin-paclitaxel-cyclophosphamide chemotherapy

@@ -1,0 +1,12 @@
+T1	intervention 0 19	Cimicifuga racemosa
+T4	total-participants 350 353	136
+T6	control 592 608	usual-care group
+T7	control-participants 612 614	46
+T8	intervention-participants 752 754	90
+T11	outcome-Measure 992 1027	number and intensity of hot flushes
+T12	outcome 1278 1296	severe hot flushes
+T13	iv-bin-percent 1314 1319	24.4%
+T14	cv-bin-percent 1358 1363	73.9%
+T15	outcome 1398 1409	Hot flushes
+T16	condition 41 52	hot flushes
+T2	eligibility 56 85	women surviving breast cancer

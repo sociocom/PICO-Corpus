@@ -1,0 +1,16 @@
+T1	intervention 39 71	recombinant human interleukin-11
+T2	condition 83 120	chemotherapy-induced thrombocytopenia
+T4	control 850 857	placebo
+T6	total-participants 958 971	Seventy-seven
+T7	total-participants 1050 1061	Sixty-seven
+T8	outcome 1337 1358	platelet transfusions
+T9	iv-bin-abs 1360 1362	27
+T10	intervention-participants 1366 1368	40
+T11	iv-bin-percent 1370 1373	68%
+T12	cv-bin-abs 1449 1451	15
+T13	control-participants 1455 1457	37
+T14	cv-bin-percent 1459 1462	41%
+T15	outcome 1726 1740	adverse events
+T5	outcome 1545 1591	total number of platelet transfusions required
+T16	outcome 1637 1662	time to platelet recovery
+T3	eligibility 631 664	Women with advanced breast cancer

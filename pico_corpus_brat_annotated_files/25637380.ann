@@ -1,0 +1,20 @@
+T1	outcome 1157 1175	objective response
+T2	iv-bin-percent 1180 1183	54%
+T3	cv-bin-percent 1187 1190	56%
+T4	outcome 1202 1229	breast conservation surgery
+T5	iv-bin-percent 1236 1239	67%
+T6	cv-bin-percent 1243 1246	68%
+T7	outcome 1262 1297	pathological complete response rate
+T8	iv-bin-percent 1326 1329	14%
+T9	cv-bin-percent 1333 1336	11%
+T10	iv-bin-percent 1372 1375	16%
+T11	cv-bin-percent 1379 1382	13%
+T12	outcome 1299 1324	Chevallier classification
+T13	outcome 1347 1370	Statloff classification
+T14	control-participants 570 573	131
+T15	control 539 557	standard treatment
+T17	intervention-participants 784 787	133
+T18	total-participants 435 438	264
+T19	eligibility 439 504	previously untreated stage II-III operable breast cancer patients
+T20	outcome 1423 1433	toxicities
+T16	intervention 25 49	neoadjuvant chemotherapy

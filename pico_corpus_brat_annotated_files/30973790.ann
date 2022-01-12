@@ -1,0 +1,24 @@
+T1	intervention 48 57	Tamoxifen
+T2	condition 69 139	Local and Contralateral Recurrence in Breast Intraepithelial Neoplasia
+T4	control 653 660	placebo
+T5	eligibility 703 854	women with hormone-sensitive or unknown breast intraepithelial neoplasia, including atypical ductal hyperplasia and lobular or ductal carcinoma in situ
+T6	outcome-Measure 886 949	incidence of invasive breast cancer or ductal carcinoma in situ
+T7	total-participants 951 963	Five hundred
+T8	age 970 996	75 years of age or younger
+T9	outcome 1102 1119	neoplastic events
+T10	iv-bin-abs 1099 1101	14
+T11	cv-bin-abs 1139 1141	28
+T12	outcome 1340 1367	contralateral breast events
+T13	iv-bin-abs 1376 1381	three
+T14	cv-bin-abs 1384 1386	12
+T15	iv-bin-percent 1371 1374	75%
+T16	outcome 1447 1472	Patient-reported outcomes
+T17	outcome 1608 1630	serious adverse events
+T18	iv-bin-abs 1605 1607	12
+T19	cv-bin-abs 1650 1652	16
+T20	outcome 1681 1701	deep vein thrombosis
+T21	outcome 1710 1736	stage I endometrial cancer
+T22	iv-bin-abs 1677 1680	one
+T23	iv-bin-abs 1706 1709	one
+T24	outcome 1760 1778	pulmonary embolism
+T25	cv-bin-abs 1756 1759	one

@@ -1,0 +1,14 @@
+T1	intervention 218 238	educational material
+T2	total-participants 861 871	Fifty-four
+T3	age 879 889	aged 65-75
+T4	eligibility 894 988	diagnosed with breast cancer ≥ 3 years ago (2010-2012) and not taking osteoporosis medication)
+T6	control 1062 1098	control without educational material
+T8	iv-bin-percent 1813 1816	17%
+T10	iv-bin-percent 1639 1642	26%
+T11	iv-bin-percent 1685 1688	18%
+T12	cv-bin-percent 1746 1748	6%
+T13	outcome 1434 1457	Primary outcome measure
+T5	outcome 1540 1557	BMD testing rates
+T7	outcome 1824 1840	BMD testing rate
+T9	outcome 1322 1340	participation rate
+T14	outcome-Measure 1290 1316	self-report questionnaires

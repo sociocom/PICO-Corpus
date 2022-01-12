@@ -1,0 +1,15 @@
+T1	intervention 7 25	axillary deodorant
+T2	total-participants 295 297	84
+T3	intervention-participants 358 360	40
+T4	control 369 381	no-deodorant
+T5	control-participants 393 395	44
+T7	outcome 1135 1167	Grade 2 axillary radiodermatitis
+T8	iv-bin-percent 1180 1183	23%
+T9	cv-bin-percent 1188 1191	30%
+T10	outcome 1274 1304	Grade 2 breast radiodermatitis
+T11	iv-bin-percent 1317 1320	30%
+T12	cv-bin-percent 1325 1328	34%
+T13	outcome 1556 1564	sweating
+T14	iv-bin-percent 1566 1569	18%
+T15	cv-bin-percent 1574 1577	39%
+T16	outcome 1593 1621	Grade 3 or 4 radiodermatitis

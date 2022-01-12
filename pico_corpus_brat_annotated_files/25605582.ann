@@ -1,0 +1,20 @@
+T2	control 85 109	whole breast irradiation
+T4	age 823 840	more than 40years
+T5	eligibility 841 910	affected by early BC, with a maximum pathological tumour size of 25mm
+T6	outcome-Measure 1225 1284	occurrence of ipsilateral breast tumour recurrences (IBTRs)
+T7	total-participants 1412 1415	520
+T8	control-participants 1442 1445	260
+T1	intervention 0 38	Accelerated partial breast irradiation
+T9	intervention-participants 1466 1469	260
+T11	outcome 1599 1608	IBTR rate
+T13	iv-bin-abs 1619 1624	three
+T14	cv-bin-abs 1711 1716	three
+T12	cv-bin-abs 1836 1841	seven
+T15	outcome 1842 1848	deaths
+T16	iv-bin-abs 1875 1878	one
+T17	outcome 1912 1935	5-year overall survival
+T18	cv-bin-percent 1940 1945	96.6%
+T19	iv-bin-percent 1968 1973	99.4%
+T3	outcome 2060 2065	acute
+T10	outcome 2078 2082	late
+T20	outcome 2098 2114	cosmetic outcome

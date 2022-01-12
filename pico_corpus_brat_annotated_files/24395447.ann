@@ -1,0 +1,16 @@
+T1	control 0 9	Tamoxifen
+T2	intervention 17 64	tamoxifen plus doxorubicin and cyclophosphamide
+T5	eligibility 625 683	node-positive postmenopausal breast cancer (PMBC) patients
+T6	total-participants 980 1003	One hundred twenty-nine
+T7	control-participants 1033 1035	64
+T8	intervention-participants 1041 1043	65
+T3	outcome 1110 1137	relapse-free survival (RFS)
+T10	outcome 1103 1105	OS
+T15	outcome 1271 1280	5-year OS
+T16	outcome 1285 1288	RFS
+T17	cv-bin-percent 1294 1300	76.9 %
+T18	cv-bin-percent 1330 1336	54.9 %
+T19	iv-bin-percent 1374 1380	85.0 %
+T20	cv-bin-percent 1410 1416	76.7 %
+T21	outcome 1556 1578	white blood cell count
+T22	outcome 1583 1599	grade 2-3 nausea

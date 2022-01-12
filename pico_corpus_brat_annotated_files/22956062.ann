@@ -1,0 +1,19 @@
+T1	intervention 0 39	Complete axillary lymph node dissection
+T2	control 47 65	clinical follow-up
+T3	eligibility 710 846	patients with newly diagnosed early-stage breast cancer (T<3.5 cm, clinical N0, M0) who underwent surgical excision as primary treatment
+T4	outcome-Measure 1093 1114	disease-free survival
+T5	total-participants 1139 1142	247
+T6	control-participants 1174 1177	112
+T7	intervention-participants 1201 1204	121
+T8	outcome 1260 1288	completion ALND was positive
+T9	cv-bin-abs 1233 1235	15
+T10	cv-bin-percent 1254 1257	13%
+T11	outcome 1341 1359	disease recurrence
+T12	cv-bin-abs 1361 1362	1
+T13	cv-bin-percent 1364 1366	1%
+T14	control-participants 1371 1374	108
+T15	iv-bin-abs 1396 1397	3
+T16	iv-bin-percent 1399 1403	2.5%
+T17	intervention-participants 1408 1411	119
+T18	outcome 1464 1485	disease-free survival
+T19	outcome 1516 1537	cancer-related deaths

@@ -1,0 +1,10 @@
+T1	intervention 10 56	topical microporous polysaccharide hemospheres
+T2	condition 165 181	Seroma formation
+T5	eligibility 802 867	patients undergoing mastectomy for the treatment of breast cancer
+T6	control 929 964	no application in the control group
+T7	total-participants 966 971	Fifty
+T8	total-participants 1037 1046	Forty-two
+T9	control-participants 1085 1087	21
+T10	intervention-participants 1102 1104	21
+T11	outcome 1396 1408	drain output
+T12	outcome 1410 1434	Post hoc analyses of MPH

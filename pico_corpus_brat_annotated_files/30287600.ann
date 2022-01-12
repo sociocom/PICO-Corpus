@@ -1,0 +1,9 @@
+T1	intervention 21 35	oral magnesium
+T2	condition 39 58	postmastectomy pain
+T3	total-participants 1019 1022	100
+T4	eligibility 1023 1069	women with breast cancer undergoing mastectomy
+T5	location 1114 1120	France
+T6	control 1154 1161	placebo
+T7	intervention-participants 1147 1149	50
+T8	control-participants 1165 1167	50
+T13	outcome-Measure 1368 1442	pain intensity on a 0-10 numerical rating scale at 1 month postmastectomy.

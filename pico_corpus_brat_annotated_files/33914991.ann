@@ -1,0 +1,8 @@
+T1	intervention 113 124	Abemaciclib
+T2	intervention-participants 628 631	900
+T3	control-participants 667 670	384
+T4	control 671 689	comparator therapy
+T5	outcome 1125 1142	Physical function
+T6	outcome 1348 1351	PFS
+T8	outcome 1526 1543	intermediate/high
+T7	outcome 1468 1489	low physical function

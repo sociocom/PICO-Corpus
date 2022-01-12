@@ -1,0 +1,21 @@
+T1	intervention 22 33	salidroside
+T2	condition 37 108	epirubicin-induced early left ventricular regional systolic dysfunction
+T3	total-participants 856 861	Sixty
+T4	intervention-participants 1004 1006	30
+T5	control 1011 1018	placebo
+T6	control-participants 1024 1026	30
+T10	outcome 1323 1345	decline of the SR peak
+T16	outcome 1507 1537	cumulative doses of epirubicin
+T12	iv-cont-mean 1460 1464	1.35
+T21	iv-cont-sd 1467 1471	0.36
+T13	cv-cont-mean 1475 1479	1.42
+T22	cv-cont-sd 1482 1493	0.49/second
+T14	iv-cont-mean 1674 1678	1.67
+T17	iv-cont-sd 1681 1685	0.43
+T15	cv-cont-mean 1689 1693	1.32
+T23	cv-cont-sd 1696 1707	0.53/second
+T18	iv-cont-mean 1734 1738	1.68
+T19	iv-cont-sd 1741 1745	0.29
+T20	cv-cont-mean 1749 1753	1.40
+T24	cv-cont-sd 1756 1767	0.23/second
+T11	outcome 1816 1844	plasma concentrations of ROS

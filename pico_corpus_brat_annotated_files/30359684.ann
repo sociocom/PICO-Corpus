@@ -1,0 +1,16 @@
+T1	intervention 32 42	Pregabalin
+T2	condition 46 74	Postmastectomy Pain Syndrome
+T3	total-participants 401 404	200
+T4	eligibility 405 477	patients with breast cancer scheduled for elective breast cancer surgery
+T5	control 624 637	control group
+T6	outcome-Measure 705 736	development of neuropathic PMPS
+T7	outcome-Measure 847 853	safety
+T8	outcome-Measure 865 886	Analogue Scale scores
+T9	outcome 888 904	Neuropathic pain
+T10	outcome 1082 1086	PMPS
+T11	iv-bin-abs 1104 1106	11
+T12	iv-bin-percent 1117 1120	11%
+T13	cv-bin-abs 1150 1152	29
+T14	cv-bin-percent 1163 1166	29%
+T15	outcome 1278 1306	Visual Analogue Scale scores
+T16	outcome 1505 1532	frequency of adverse events

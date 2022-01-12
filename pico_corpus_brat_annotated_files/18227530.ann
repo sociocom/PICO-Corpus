@@ -1,0 +1,15 @@
+T1	intervention 24 45	adjuvant chemotherapy
+T4	outcome 1174 1188	10 to 13 years
+T5	iv-bin-percent 1153 1155	5%
+T6	cv-bin-percent 1158 1160	7%
+T7	iv-bin-percent 1201 1203	3%
+T8	cv-bin-percent 1206 1208	0%
+T9	outcome 1261 1270	mean LVEF
+T10	iv-bin-percent 1362 1367	64.8%
+T11	cv-bin-percent 1370 1375	61.4%
+T12	total-participants 739 742	180
+T13	eligibility 743 766	breast cancer survivors
+T15	outcome 1496 1500	LVEF
+T3	outcome 1011 1029	LVEF less than 50%
+T16	outcome 1030 1039	at 5 to 8
+T17	control 487 506	without doxorubicin

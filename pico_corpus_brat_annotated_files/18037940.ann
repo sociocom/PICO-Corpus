@@ -1,0 +1,25 @@
+T1	intervention 75 111	high-dose thiotepa, cyclophosphamide
+T3	total-participants 435 438	308
+T4	eligibility 439 531	patients with histologically proven metastatic breast cancer responding to induction therapy
+T5	total-participants 715 718	179
+T6	intervention-participants 845 847	88
+T7	control 853 873	no further treatment
+T8	control-participants 877 879	91
+T9	outcome 949 960	toxic death
+T10	iv-bin-abs 945 948	One
+T11	outcome 1020 1045	response rate at 3 months
+T12	iv-bin-percent 1085 1090	82.7%
+T13	iv-bin-percent 1092 1097	25.3%
+T14	outcome 1098 1120	complete response (CR)
+T15	cv-bin-percent 1129 1134	59.2%
+T16	cv-bin-percent 1136 1141	14.1%
+T17	outcome 1190 1200	Median DFS
+T18	iv-cont-median 1205 1207	11
+T19	cv-cont-median 1212 1222	6.6 months
+T20	outcome 1310 1318	survival
+T21	iv-bin-percent 1331 1335	33.6
+T22	cv-bin-percent 1343 1348	27.3%
+T23	outcome 1349 1362	OS at 3 years
+T24	iv-cont-median 1375 1379	22.9
+T25	cv-cont-median 1387 1398	22.3 months
+T26	outcome 1399 1421	median time to relapse

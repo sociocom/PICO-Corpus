@@ -1,0 +1,14 @@
+T1	intervention 2 28	psychological intervention
+T2	location 582 593	South Korea
+T3	condition 112 122	depression
+T4	eligibility 891 928	Patients at a high risk of depression
+T5	total-participants 1005 1010	Sixty
+T6	control 1099 1106	control
+T8	outcome 1361 1377	mood disturbance
+T11	outcome 1379 1401	anxiety and depression
+T12	outcome 1425 1445	global health status
+T13	outcome 1450 1488	physical, role and emotional functions
+T9	outcome 1532 1539	fatigue
+T14	outcome 1541 1556	nausea/vomiting
+T15	outcome 1558 1562	pain
+T16	outcome 1567 1575	insomnia

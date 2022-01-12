@@ -1,0 +1,12 @@
+T1	intervention 27 44	follow-up program
+T2	total-participants 480 506	One hundred and twenty-one
+T3	control 535 562	standard clinical follow-up
+T4	control-participants 566 568	63
+T5	intervention-participants 602 604	58
+T6	eligibility 48 75	patients with breast cancer
+T8	outcome 953 961	relapses
+T9	cv-bin-abs 963 965	11
+T10	iv-bin-abs 1002 1004	13
+T11	outcome 1043 1068	overall cost of follow-up
+T12	cv-cont-mean 1073 1085	24,567 euros
+T13	iv-cont-mean 1131 1143	74,171 euros

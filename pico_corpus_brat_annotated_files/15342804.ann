@@ -1,0 +1,22 @@
+T1	age 219 227	50 years
+T2	eligibility 244 288	who had T1 or T2 node-negative breast cancer
+T4	total-participants 327 330	769
+T5	eligibility 331 392	women with early breast cancer (tumor diameter, 5 cm or less)
+T7	intervention-participants 462 465	386
+T8	control 476 491	tamoxifen alone
+T9	control-participants 493 496	383
+T11	outcome 553 580	local relapse at five years
+T12	cv-bin-percent 585 596	7.7 percent
+T13	iv-bin-percent 624 635	0.6 percent
+T16	outcome 776 813	five-year disease-free survival rates
+T17	cv-bin-percent 817 827	84 percent
+T18	iv-bin-percent 832 842	91 percent
+T19	total-participants 885 888	611
+T20	outcome 968 1000	five-year rates of local relapse
+T21	iv-bin-percent 1002 1013	0.4 percent
+T22	cv-bin-percent 1051 1062	5.9 percent
+T23	outcome 1146 1184	rate of axillary relapse at five years
+T24	cv-bin-percent 1186 1197	2.5 percent
+T25	iv-bin-percent 1225 1236	0.5 percent
+T26	outcome 1331 1375	rates of distant relapse or overall survival
+T3	intervention 0 44	Tamoxifen with or without breast irradiation

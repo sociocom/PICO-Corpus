@@ -1,0 +1,14 @@
+T1	location 247 261	North American
+T2	intervention 20 28	palpable
+T3	control 33 51	nonpalpable tumors
+T4	eligibility 55 107	early-stage, hormone receptor-positive breast cancer
+T5	intervention-participants 340 343	513
+T6	control-participants 366 370	1063
+T8	outcome 772 775	DFS
+T9	outcome 780 782	OS
+T10	outcome 846 849	DFS
+T11	iv-bin-percent 850 855	93.5%
+T12	cv-bin-percent 860 865	98.4%
+T13	outcome 878 880	OS
+T14	iv-bin-percent 881 886	88.5%
+T15	cv-bin-percent 891 896	95.6%

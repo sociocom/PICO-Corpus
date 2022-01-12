@@ -1,0 +1,26 @@
+T1	intervention 10 21	Acupuncture
+T4	condition 65 75	Joint Pain
+T5	location 583 596	United States
+T7	eligibility 699 921	postmenopausal women with early-stage breast cancer who were taking an aromatase inhibitor and scored at least 3 on the Brief Pain Inventory Worst Pain (BPI-WP) item (score range, 0-10; higher scores indicate greater pain)
+T8	intervention-participants 983 986	110
+T9	control-participants 1011 1013	59
+T10	control-participants 1041 1043	57
+T11	outcome-Measure 1398 1417	6-week BPI-WP score
+T12	total-participants 1617 1620	226
+T13	age 1657 1673	60.7 [8.6] years
+T14	ethinicity 1679 1684	white
+T15	total-participants 1731 1734	206
+T16	outcome 1794 1820	mean observed BPI-WP score
+T17	outcome 1992 2011	adjusted difference
+T18	outcome 2016 2052	true acupuncture vs sham acupuncture
+T19	outcome 2106 2142	true acupuncture vs waitlist control
+T20	outcome 2245 2261	grade 1 bruising
+T21	iv-bin-percent 2316 2319	47%
+T22	cv-bin-percent 2323 2326	25%
+T23	iv-cont-mean 1834 1845	2.05 points
+T24	iv-cont-mean 1895 1906	1.07 points
+T25	cv-cont-mean 1945 1956	0.99 points
+T26	iv-cont-mean 2057 2068	0.92 points
+T27	cv-cont-mean 2147 2158	0.96 points
+T2	intervention 25 41	Sham Acupuncture
+T3	control 45 61	Waitlist Control

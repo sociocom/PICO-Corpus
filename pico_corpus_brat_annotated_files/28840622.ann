@@ -1,0 +1,13 @@
+T1	intervention 0 8	Propolis
+T2	condition 30 44	oral mucositis
+T4	total-participants 562 567	Sixty
+T5	control 727 778	mouth rinsing with sodium bicarbonate (control arm)
+T8	outcome 1049 1074	skin reaction to propolis
+T9	outcome 1121 1128	OM > G1
+T10	iv-bin-abs 1076 1078	No
+T11	cv-bin-percent 1167 1172	16.7%
+T3	eligibility 370 435	breast cancer patients receiving doxorubicin and cyclophosphamide
+T12	outcome 1188 1208	incidence of OM ≥ G1
+T6	outcome 1321 1325	safe
+T7	outcome 1327 1341	well tolerated
+T13	outcome 1346 1367	promisingly effective

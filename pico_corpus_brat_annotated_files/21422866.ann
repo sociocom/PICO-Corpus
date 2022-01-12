@@ -1,0 +1,33 @@
+T1	intervention 0 23	Vaginal pH-balanced gel
+T2	eligibility 345 434	Breast cancer survivors who experienced menopause after chemotherapy or endocrine therapy
+T3	control 522 529	placebo
+T7	total-participants 753 755	98
+T8	total-participants 772 774	86
+T9	intervention-participants 802 804	44
+T10	control-participants 811 813	42
+T11	outcome 878 893	Vaginal dryness
+T12	outcome 898 909	dyspareunia
+T13	iv-cont-mean 994 998	8.20
+T14	cv-cont-mean 1028 1032	4.23
+T15	iv-cont-mean 1046 1050	8.23
+T16	cv-cont-mean 1065 1069	5.48
+T17	outcome 1131 1141	vaginal pH
+T18	outcome 1259 1283	vaginal maturation index
+T19	outcome 1362 1382	vaginal health index
+T4	iv-cont-mean 1162 1166	6.49
+T20	iv-cont-mean 1196 1200	5.00
+T21	outcome 1148 1156	baseline
+T22	outcome 1181 1190	end-point
+T23	iv-cont-mean 1290 1294	45.5
+T24	iv-cont-mean 1309 1313	51.2
+T25	cv-cont-mean 1324 1328	46.4
+T26	cv-cont-mean 1343 1347	47.9
+T27	iv-cont-mean 1389 1393	15.8
+T28	iv-cont-mean 1408 1412	21.1
+T29	cv-cont-mean 1422 1426	14.3
+T30	cv-cont-mean 1441 1446	16.98
+T31	outcome 1497 1512	adverse effects
+T32	outcome 980 988	baseline
+T33	outcome 1013 1022	end-point
+T5	outcome-Measure 565 580	Vaginal dryness
+T34	outcome-Measure 585 596	dyspareunia

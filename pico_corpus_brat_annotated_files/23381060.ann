@@ -1,0 +1,14 @@
+T1	intervention 39 74	radiation therapist-led educational
+T2	eligibility 397 441	breast cancer patients prior to radiotherapy
+T9	total-participants 951 977	One hundred and twenty two
+T10	control-participants 1016 1027	Fifty-eight
+T11	control 1046 1056	usual care
+T12	intervention-participants 1062 1064	64
+T13	outcome 1122 1137	patient anxiety
+T14	outcome 1209 1236	concerns about radiotherapy
+T15	outcome 1295 1305	depression
+T16	outcome 1307 1324	Patient knowledge
+T3	condition 480 541	radiotherapy-related concerns, patient anxiety and depression
+T4	outcome-Measure 829 866	Hospital Anxiety and Depression Scale
+T5	outcome-Measure 868 910	Radiation Therapy Related Patient Concerns
+T6	outcome-Measure 915 949	Radiation Therapy Knowledge Scales

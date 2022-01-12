@@ -1,0 +1,18 @@
+T1	total-participants 165 177	Four hundred
+T2	age 204 218	under 70 years
+T3	eligibility 219 267	diagnosed with a clinical T1 or T2 breast cancer
+T4	intervention 295 322	post-operative radiotherapy
+T5	intervention 328 331	208
+T6	control 336 339	not
+T7	control-participants 345 348	192
+T10	outcome 749 772	local breast recurrence
+T11	iv-bin-percent 778 783	28.6%
+T12	cv-bin-percent 851 856	49.8%
+T13	outcome 956 988	disease-free or overall survival
+T14	outcome 994 1016	hazard ratio for death
+T8	intervention 77 119	irradiation following conservative surgery
+T15	outcome 1202 1225	locoregional recurrence
+T16	outcome 1282 1313	incidence of distant metastases
+T17	outcome 1317 1330	time of death
+T18	outcome 1406 1424	distant recurrence
+T19	outcome 1495 1513	distant recurrence

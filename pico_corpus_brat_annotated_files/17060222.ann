@@ -1,0 +1,20 @@
+T2	control 633 656	not (Non-visited group)
+T3	outcome 1510 1566	submitting about one-third of the expected forms on time
+T4	iv-bin-percent 1568 1571	29%
+T5	cv-bin-percent 1576 1579	39%
+T6	outcome 1298 1342	Spontaneous transmittal of case report forms
+T9	outcome 1181 1210	number of queries par patient
+T12	total-participants 750 753	135
+T13	total-participants 812 814	69
+T14	total-participants 959 961	17
+T15	intervention-participants 971 973	10
+T16	control-participants 996 1001	seven
+T17	intervention 10 35	on-site initiation visits
+T1	iv-cont-mean 1212 1215	6.1
+T10	iv-cont-sd 1220 1223	9.7
+T11	cv-cont-mean 1231 1234	5.4
+T18	cv-cont-sd 1239 1242	6.4
+T7	iv-cont-mean 1444 1447	1.5
+T19	iv-cont-sd 1452 1455	2.0
+T8	cv-cont-mean 1463 1466	2.1
+T20	cv-cont-sd 1471 1474	2.3

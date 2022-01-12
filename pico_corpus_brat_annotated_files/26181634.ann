@@ -1,0 +1,12 @@
+T2	total-participants 594 597	400
+T3	eligibility 598 719	inactive postmenopausal women with body mass index 22 to 40, disease-free, nonsmokers, and nonusers of exogenous hormones
+T6	total-participants 1221 1224	400
+T7	total-participants 1232 1235	384
+T8	outcome 1321 1351	adherence at full prescription
+T9	outcome 1470 1479	total fat
+T10	outcome 1619 1668	Subcutaneous abdominal fat and waist to hip ratio
+T11	outcome 1858 1899	Changes in weight and intra-abdominal fat
+T12	iv-cont-median 1397 1400	254
+T13	cv-cont-median 1415 1418	137
+T1	intervention 13 17	High
+T4	control 21 56	Moderate Volume of Aerobic Exercise

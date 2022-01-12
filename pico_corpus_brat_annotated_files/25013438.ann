@@ -1,0 +1,13 @@
+T1	intervention 70 90	photodynamic therapy
+T3	total-participants 324 326	40
+T4	control 406 414	RT alone
+T5	control-participants 427 429	20
+T6	intervention-participants 472 474	20
+T7	outcome 617 631	response rates
+T8	iv-bin-percent 749 752	50%
+T9	cv-bin-percent 771 774	20%
+T10	outcome 781 798	median time to CR
+T11	outcome 895 917	Adverse event profiles
+T12	iv-cont-median 858 868	109.6 days
+T13	cv-cont-median 873 883	175.2 days
+T2	eligibility 327 364	patients with recurrent breast cancer

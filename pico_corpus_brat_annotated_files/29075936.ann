@@ -1,0 +1,7 @@
+T1	intervention 30 44	surgical drain
+T2	eligibility 521 578	Patients undergoing axillary dissection for breast cancer
+T3	control 83 107	direct skin infiltration
+T4	condition 63 67	pain
+T6	outcome 1106 1139	pain scores on shoulder abduction
+T7	outcome 922 933	Pain scores
+T8	outcome 1219 1273	total analgesia consumption or length of hospital stay

@@ -1,0 +1,27 @@
+T1	intervention 15 24	tamoxifen
+T2	ethinicity 69 74	asian
+T4	location 408 414	Taiwan
+T6	total-participants 659 664	3,690
+T7	age 705 714	50.1±11.3
+T8	intervention-participants 717 722	2,056
+T9	control-participants 754 759	1,634
+T10	outcome 853 869	incidence of AMI
+T11	iv-bin-percent 871 876	0.15%
+T12	cv-bin-percent 881 886	0.67%
+T13	outcome 898 913	ischemic stroke
+T14	iv-bin-percent 915 920	1.99%
+T15	cv-bin-percent 925 930	3.30%
+T16	outcome 942 960	hemorrhagic stroke
+T17	iv-bin-percent 962 967	0.15%
+T18	cv-bin-percent 972 977	0.55%
+T19	outcome 993 1020	total cardiovascular events
+T20	iv-bin-percent 1022 1027	2.24%
+T21	cv-bin-percent 1032 1037	4.16%
+T22	outcome 1165 1194	risk of myocardial infarction
+T25	outcome 1260 1275	ischemic stroke
+T28	outcome 1305 1323	hemorrhagic stroke
+T31	outcome 1357 1384	total cardiovascular events
+T3	control 760 767	did not
+T5	outcome-Measure 535 582	occurrence of acute myocardial infarction (AMI)
+T23	outcome-Measure 584 614	ischemic or hemorrhagic stroke
+T24	outcome-Measure 619 646	total cardiovascular events

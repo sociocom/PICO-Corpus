@@ -1,0 +1,12 @@
+T1	ethinicity 0 8	Hispanic
+T2	intervention 52 83	aerobic and resistance exercise
+T3	total-participants 543 546	100
+T4	intervention-participants 581 583	50
+T5	control 588 598	usual care
+T6	control-participants 603 606	 50
+T9	ethinicity 1095 1107	non-Hispanic
+T10	eligibility 127 150	breast cancer survivors
+T11	outcome 1423 1429	VO2max
+T12	outcome 1493 1512	physical well-being
+T13	outcome 1545 1565	emotional well-being
+T7	outcome 1711 1774	cardiorespiratory fitness, muscle strength, and quality-of-life

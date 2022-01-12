@@ -1,0 +1,10 @@
+T1	intervention 0 23	Intravenous pamidronate
+T2	condition 66 81	bone metastatic
+T3	control 31 62	oral and intravenous clodronate
+T5	total-participants 1051 1054	321
+T6	eligibility 1055 1113	patients with confirmed bone metastases from breast cancer
+T7	outcome 1162 1202	gastrointestinal (GI) tract side effects
+T8	outcome 1431 1523	documented side effects (skin, serum electrolytes, urinary tract, immune system, and others)
+T9	outcome 1555 1593	clinical effectiveness of BP treatment
+T10	outcome 1663 1683	pathologic fractures
+T11	outcome 1769 1788	Noncompliance rates

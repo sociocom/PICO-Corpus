@@ -1,0 +1,21 @@
+T4	iv-cont-median 914 925	22.7 months
+T5	cv-cont-median 951 962	22.4 months
+T7	iv-cont-median 798 801	9.8
+T8	cv-cont-median 806 816	6.5 months
+T9	outcome 654 675	overall response rate
+T10	iv-bin-percent 680 684	62.5
+T11	cv-bin-percent 689 694	42.6%
+T12	intervention-participants 460 465	Fifty
+T13	control-participants 540 542	51
+T15	control 570 613	paclitaxel 175 mg/m2 and cisplatin 50 mg/m2
+T17	total-participants 336 339	101
+T18	eligibility 340 443	patients with advanced breast carcinoma, previously treated with an anthracycline but not with a taxane
+T16	intervention 35 56	taxanes and cisplatin
+T2	outcome 1105 1114	mucositis
+T14	outcome 1116 1123	fatigue
+T19	outcome 1128 1139	neutropenia
+T1	outcome 1039 1045	anemia
+T20	outcome 1016 1034	sensory neuropathy
+T21	outcome 986 1014	Grade 3/4 arthralgia/myalgia
+T6	outcome 759 793	Median time to disease progression
+T3	outcome 881 909	median overall survival time

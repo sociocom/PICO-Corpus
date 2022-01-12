@@ -1,0 +1,9 @@
+T3	eligibility 513 607	Patients with metastatic breast cancer who were not currently receiving cytotoxic chemotherapy
+T7	total-participants 981 992	Forty-eight
+T8	total-participants 1020 1022	42
+T9	outcome 1189 1232	proportion of patients with detectable CTCs
+T10	outcome 1370 1408	Measured endogenous thrombin potential
+T11	outcome 1447 1486	bleeding-related serious adverse events
+T1	intervention 343 366	clopidogrel and aspirin
+T4	outcome-Measure 925 968	proportion of patients with detectable CTCs
+T2	control 698 711	control group

@@ -1,0 +1,26 @@
+T1	intervention 32 41	denosumab
+T2	total-participants 373 376	255
+T3	eligibility 45 131	breast cancer patients with bone metastases not receiving prior bisphosphonate therapy
+T5	outcome 1416 1447	Overall rates of adverse events
+T6	iv-bin-percent 1453 1456	95%
+T7	outcome 1308 1312	SREs
+T8	iv-bin-percent 1325 1328	12%
+T9	iv-bin-abs 1330 1332	26
+T10	intervention-participants 1336 1339	211
+T11	cv-bin-percent 1375 1378	16%
+T12	cv-bin-abs 1380 1381	7
+T13	control-participants 1385 1387	43
+T15	iv-bin-percent 1174 1177	52%
+T16	iv-bin-abs 1179 1182	109
+T17	intervention-participants 1186 1189	208
+T18	cv-bin-percent 1225 1228	46%
+T19	cv-bin-abs 1230 1232	19
+T20	control-participants 1236 1238	41
+T21	outcome 908 974	week 13 and 25, the median percent changes in uNTx/creatinine (Cr)
+T22	iv-cont-median 1016 1020	-73%
+T23	iv-cont-median 1025 1029	-75%
+T24	cv-cont-median 1066 1070	-79%
+T25	cv-cont-median 1075 1079	-71%
+T29	control 483 499	open-label IV BP
+T4	outcome 1526 1540	adverse events
+T14	outcome 1266 1297	achieved >65% uNTx/Cr reduction

@@ -1,0 +1,9 @@
+T1	intervention-participants 767 778	Seventy-one
+T2	control-participants 806 808	38
+T3	outcome 900 950	deep tissue closure (DTC) of the lumpectomy cavity
+T5	outcome 1086 1107	seroma cavity volumes
+T6	intervention 48 82	intrabeam intraoperative radiation
+T7	control 820 822	US
+T8	outcome 841 846	serom
+T4	outcome 1049 1060	At 6 months
+T9	outcome 981 992	symptomatic

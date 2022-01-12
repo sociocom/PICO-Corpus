@@ -1,0 +1,23 @@
+T1	intervention 85 102	weekly paclitaxel
+T2	control 106 159	eribulin followed by doxorubicin and cyclophosphamide
+T3	total-participants 820 825	Fifty
+T4	eligibility 826 841	women with LABC
+T6	intervention-participants 933 935	19
+T7	control-participants 965 967	31
+T8	intervention-participants 1054 1056	17
+T9	control-participants 1085 1087	25
+T12	outcome 1633 1655	discontinued treatment
+T13	outcome 1710 1713	pCR
+T14	iv-bin-abs 1722 1723	5
+T15	intervention-participants 1724 1726	19
+T10	iv-bin-percent 1727 1730	26%
+T16	cv-bin-abs 1743 1744	5
+T17	control-participants 1745 1747	30
+T18	outcome 1578 1587	completed
+T19	iv-bin-abs 1542 1544	17
+T20	intervention-participants 1545 1547	19
+T21	cv-bin-percent 1748 1751	17%
+T22	cv-bin-abs 1598 1600	28
+T23	control-participants 1601 1603	30
+T5	outcome 1781 1795	well tolerated
+T24	outcome 1694 1708	well tolerated

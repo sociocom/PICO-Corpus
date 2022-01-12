@@ -1,0 +1,9 @@
+T1	intervention 0 31	Progressive resistance training
+T2	condition 43 57	arm lymphedema
+T3	age 340 354	18 to 75 years
+T4	eligibility 355 421	who were undergoing BC surgery with axillary lymph node dissection
+T5	control 531 541	usual care
+T6	outcome-Measure 756 770	arm lymphedema
+T7	total-participants 1104 1107	158
+T8	outcome 1164 1174	arm volume
+T9	outcome 1225 1245	lymphedema incidence

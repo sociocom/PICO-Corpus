@@ -1,0 +1,14 @@
+T2	eligibility 312 336	Women with breast cancer
+T4	intervention-participants 466 468	67
+T5	intervention-participants 506 508	67
+T6	control 513 523	usual care
+T7	control-participants 529 531	60
+T8	outcome-Measure 723 763	"number of improvers" in quality of life
+T9	outcome-Measure 779 814	quality-adjusted life years (QALYs)
+T10	iv-bin-abs 969 971	69
+T11	outcome 972 981	improvers
+T12	cv-bin-abs 1022 1024	21
+T13	outcome 1118 1147	incremental cost per improver
+T14	outcome 1170 1202	Quality-adjusted life years gain
+T1	intervention 24 55	pragmatic exercise intervention
+T3	outcome 1581 1602	quality of life after

@@ -1,0 +1,19 @@
+T3	total-participants 650 653	140
+T4	eligibility 654 687	patients with early breast cancer
+T7	outcome 1165 1180	patient comfort
+T9	outcome 1237 1268	Technical aspects of SLN biopsy
+T10	outcome 1441 1465	SLN identification rates
+T11	cv-bin-percent 1506 1510	96 %
+T12	iv-bin-percent 1524 1528	90 %
+T13	iv-bin-percent 1551 1555	97 %
+T14	iv-bin-percent 1592 1596	90 %
+T15	outcome 1644 1675	SLN 2/SLN 1 ex vivo count ratio
+T16	outcome 1685 1708	number of SLNs detected
+T2	outcome 1308 1340	time from injection to operation
+T17	outcome 1342 1359	first SLN (SLN 1)
+T18	outcome 1380 1394	ex vivo counts
+T19	outcome 1420 1439	axillary bed counts
+T5	control 793 800	control
+T6	outcome 1182 1213	Overall SLN identification rate
+T1	intervention 28 70	1 % lidocaine to technetium sulfur colloid
+T8	control 841 862	topical placebo cream

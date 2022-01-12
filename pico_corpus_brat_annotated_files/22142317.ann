@@ -1,0 +1,10 @@
+T1	intervention 20 48	antimicrobial-coated sutures
+T2	condition 60 83	surgical site infection
+T4	total-participants 528 531	150
+T5	control 658 671	plain sutures
+T6	outcome 1011 1030	overall rate of SSI
+T8	outcome 1198 1223	reduction in the SSI rate
+T9	iv-bin-percent 1228 1233	15.2%
+T10	cv-bin-percent 1271 1276	22.9%
+T3	outcome 1075 1117	needed intervention or readmission for SSI
+T7	outcome 1308 1312	SSIs

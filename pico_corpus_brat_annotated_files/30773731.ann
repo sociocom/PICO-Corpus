@@ -1,0 +1,14 @@
+T1	intervention 12 22	gabapentin
+T2	condition 45 85	paclitaxel induced peripheral neuropathy
+T3	eligibility 414 438	Women with breast cancer
+T4	control 549 556	placebo
+T8	intervention-participants 730 736	Twenty
+T10	outcome 796 806	neuropathy
+T11	outcome 946 982	rate of 2nd and 3rd grade neuropathy
+T12	outcome 1048 1061	change in NCV
+T13	iv-bin-percent 1173 1178	17.7%
+T14	cv-bin-percent 1182 1187	61.0%
+T15	outcome 1188 1212	decline in NCV for sural
+T16	iv-bin-percent 1217 1222	21.9%
+T17	cv-bin-percent 1226 1231	62.5%
+T18	outcome 1232 1266	declines in NCV for peroneal nerve

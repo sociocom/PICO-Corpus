@@ -1,0 +1,15 @@
+T1	intervention 2 9	Dietary
+T2	control 597 610	control group
+T3	eligibility 390 443	BRCA mutation carriers, with or without breast cancer
+T4	age 450 461	18⁻70 years
+T5	eligibility 466 484	without metastases
+T6	total-participants 818 821	213
+T8	intervention-participants 909 912	110
+T9	outcome 921 968	major changes in all the parameters under study
+T10	outcome 989 1000	lost weight
+T11	outcome 1014 1022	fat mass
+T12	outcome 1049 1066	hip circumference
+T13	outcome 1079 1092	triglycerides
+T14	outcome 1108 1113	IGF-I
+T15	outcome 1186 1251	levels of insulin-like growth factor-binding protein 3 (IGFI-BP3)
+T16	outcome 1275 1295	IGF-I/IGFI-BP3 ratio

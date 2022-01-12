@@ -1,0 +1,22 @@
+T1	intervention 54 79	breast-conserving surgery
+T2	control 85 103	radical mastectomy
+T4	total-participants 319 322	701
+T5	eligibility 323 376	women with breast cancers measuring no more than 2 cm
+T6	control-participants 443 446	349
+T7	intervention-participants 563 566	352
+T8	iv-bin-abs 737 743	Thirty
+T9	outcome 810 829	recurrence of tumor
+T10	cv-bin-abs 858 863	eight
+T11	outcome 945 965	cumulative incidence
+T12	iv-bin-percent 986 997	8.8 percent
+T13	cv-bin-percent 1002 1013	2.3 percent
+T15	outcome 1263 1284	death from all causes
+T16	iv-bin-percent 1289 1301	41.7 percent
+T17	cv-bin-percent 1360 1372	41.2 percent
+T18	outcome 1438 1462	death from breast cancer
+T19	iv-bin-percent 1468 1480	26.1 percent
+T20	cv-bin-percent 1485 1497	24.3 percent
+T21	outcome 1511 1534	long-term survival rate
+T14	outcome 1124 1164	rates of contralateral-breast carcinomas
+T22	outcome 1166 1184	distant metastases
+T23	outcome 1189 1211	second primary cancers

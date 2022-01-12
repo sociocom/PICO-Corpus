@@ -1,0 +1,19 @@
+T1	intervention 28 47	ovarian stimulation
+T3	location 435 448	San Francisco
+T4	age 468 471	<43
+T2	eligibility 473 526	had stage II-III BC, and received neoadjuvant therapy
+T6	intervention-participants 778 780	34
+T7	total-participants 751 753	82
+T8	control-participants 790 792	48
+T9	control 793 800	control
+T10	outcome 955 1000	Mean time from diagnosis to initiation of NAT
+T11	iv-cont-mean 1083 1092	39.8 days
+T12	cv-cont-mean 1096 1105	40.9 days
+T13	outcome 1118 1168	Mean time from diagnosis to fertility consultation
+T14	outcome 1245 1269	recurred or died from BC
+T16	iv-bin-abs 1336 1339	Six
+T17	intervention-participants 1343 1345	34
+T18	outcome 1365 1390	undergone embryo transfer
+T15	outcome 1271 1283	Rates of pCR
+T19	outcome 1285 1295	recurrence
+T20	outcome 1301 1306	death

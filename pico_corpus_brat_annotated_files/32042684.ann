@@ -1,0 +1,25 @@
+T1	intervention 31 46	Huaier granules
+T2	total-participants 701 720	Two hundred and one
+T3	eligibility 721 772	TNBC patients underwent modified radical mastectomy
+T5	intervention-participants 927 930	101
+T6	control 945 958	control group
+T7	control-participants 960 963	100
+T8	outcome-Measure 1260 1313	disease-free survival (DFS) and overall survival (OS)
+T10	control-participants 1398 1401	100
+T11	cv-bin-percent 1451 1454	82%
+T12	cv-bin-percent 1459 1462	86%
+T13	iv-bin-percent 1483 1488	87.1%
+T14	iv-bin-percent 1493 1498	90.1%
+T15	intervention-participants 1507 1510	101
+T16	outcome 1655 1665	5-year DFS
+T17	cv-bin-percent 1669 1674	53.8%
+T18	outcome 1679 1681	OS
+T19	cv-bin-percent 1685 1690	65.4%
+T20	outcome 1606 1624	stage III patients
+T21	iv-bin-percent 1784 1789	81.3%
+T22	iv-bin-percent 1794 1799	87.5%
+T23	iv-bin-abs 1828 1830	10
+T24	outcome 1871 1890	disease progression
+T25	cv-bin-abs 1905 1906	3
+T9	outcome 1429 1439	5-year DFS
+T26	outcome 1444 1446	OS

@@ -1,0 +1,15 @@
+T1	intervention 69 78	tamoxifen
+T2	control 83 93	exemestane
+T3	eligibility 97 142	postmenopausal women with early breast cancer
+T4	eligibility 581 633	Postmenopausal patients with ER+ early breast cancer
+T7	total-participants 876 879	123
+T8	intervention-participants 920 922	61
+T9	control-participants 943 945	62
+T10	outcome 1031 1052	ET at 6 and 12 months
+T11	iv-bin-percent 1108 1113	66.1%
+T12	iv-bin-percent 1118 1123	64.3%
+T13	cv-bin-percent 1131 1136	12.1%
+T14	cv-bin-percent 1141 1145	6.8%
+T15	outcome 1174 1188	Mean ET and UV
+T6	outcome 1337 1359	endometrial thickening
+T16	outcome 1374 1388	uterine volume

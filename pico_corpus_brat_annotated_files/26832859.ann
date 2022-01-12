@@ -1,0 +1,17 @@
+T1	intervention 43 69	partial breast irradiation
+T2	ethinicity 73 81	Japanese
+T3	control 177 207	whole breast irradiation (WBI)
+T4	eligibility 82 121	patients with early stage breast cancer
+T5	total-participants 934 958	Two hundred seventy-four
+T6	intervention-participants 999 1002	190
+T7	control-participants 1017 1020	193
+T8	outcome 1174 1214	Ipsilateral breast tumor recurrence rate
+T9	iv-bin-percent 1219 1222	3.0
+T10	cv-bin-percent 1227 1232	2.4 %
+T11	outcome 1335 1356	disease-free survival
+T12	iv-bin-percent 1358 1362	97.6
+T13	cv-bin-percent 1367 1373	91.4 %
+T14	age 1057 1066	<50 years
+T15	intervention-participants 1077 1079	98
+T16	control-participants 1120 1122	85
+T17	location 1478 1482	Asia

@@ -1,0 +1,15 @@
+T1	intervention 31 42	weight loss
+T2	control 50 60	usual care
+T3	eligibility 608 631	breast cancer survivors
+T4	total-participants 633 636	151
+T5	intervention-participants 765 767	93
+T6	control-participants 791 793	58
+T8	total-participants 1202 1205	125
+T9	age 1231 1243	58 ± 8 years
+T10	ethinicity 1321 1339	non-Hispanic white
+T11	outcome 1433 1453	telomere lengthening
+T12	iv-bin-percent 1430 1432	3%
+T13	cv-bin-percent 1466 1468	5%
+T14	outcome 1582 1602	telomere lengthening
+T15	cv-bin-percent 1615 1617	8%
+T16	iv-bin-percent 1579 1581	7%

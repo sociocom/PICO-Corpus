@@ -1,0 +1,15 @@
+T1	intervention 14 27	ductal lavage
+T2	control 32 73	random periareolar fine needle aspiration
+T3	total-participants 824 834	Eighty-six
+T4	eligibility 835 876	women at increased risk for breast cancer
+T5	age 1099 1109	54.5 years
+T6	outcome 1623 1630	AH rate
+T8	iv-bin-percent 1635 1639	3.7%
+T9	outcome 1648 1668	hyperplasia (H) rate
+T10	iv-bin-percent 1673 1678	11.1%
+T11	outcome 1698 1705	AH rate
+T12	cv-bin-percent 1710 1715	12.9%
+T13	outcome 1721 1727	H rate
+T14	cv-bin-percent 1732 1737	24.7%
+T15	outcome 1916 1930	well tolerated
+T16	outcome 1936 1952	no complications

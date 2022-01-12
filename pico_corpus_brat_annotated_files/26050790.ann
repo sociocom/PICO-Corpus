@@ -1,0 +1,18 @@
+T2	intervention 22 30	exercise
+T3	total-participants 544 547	204
+T4	control 574 584	usual care
+T5	control-participants 590 593	102
+T6	intervention-participants 646 649	102
+T12	outcome 926 942	physical fatigue
+T13	outcome 1279 1349	submaximal cardiorespiratory fitness and several muscle strength tests
+T14	outcome 1459 1477	peak oxygen uptake
+T15	outcome 1581 1605	Quality of life outcomes
+T16	outcome 1147 1162	general fatigue
+T7	outcome-Measure 729 736	Fatigue
+T8	outcome-Measure 774 789	quality of life
+T9	outcome-Measure 791 798	anxiety
+T10	outcome-Measure 800 810	depression
+T11	outcome-Measure 816 832	physical fitness
+T1	outcome 1824 1840	physical fatigue
+T17	outcome 1842 1878	submaximal cardiorespiratory fitness
+T18	outcome 1884 1899	muscle strength

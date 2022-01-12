@@ -1,0 +1,18 @@
+T1	intervention 0 9	Tamoxifen
+T2	control 71 78	placebo
+T3	total-participants 329 332	119
+T4	eligibility 333 370	postmenopausal breast cancer patients
+T6	age 564 575	35-70 years
+T9	age 810 826	66 years (54-85)
+T10	age 855 871	53 years (37-69)
+T12	outcome 1255 1280	Temporary discontinuation
+T13	iv-bin-percent 1293 1297	2.5%
+T14	cv-bin-percent 1341 1345	5.4%
+T15	outcome 1428 1453	Permanent discontinuation
+T16	cv-bin-percent 1528 1533	26.7%
+T17	iv-bin-percent 1537 1542	15.1%
+T5	location 697 704	Italian
+T7	outcome 1023 1034	hot flashes
+T8	outcome 1036 1069	vaginal discharge and/or bleeding
+T11	outcome 1071 1093	bone marrow depression
+T18	outcome 1098 1109	weight gain

@@ -1,0 +1,14 @@
+T3	total-participants 491 497	27,347
+T4	eligibility 498 518	postmenopausal women
+T5	age 524 538	50 to 79 years
+T7	total-participants 664 670	16,608
+T8	control 829 836	placebo
+T9	total-participants 891 897	10,739
+T11	outcome 1995 2022	invasive breast cancer risk
+T12	outcome 1831 1849	breast cancer risk
+T13	outcome 1631 1654	breast cancer incidence
+T14	outcome 1306 1319	breast cancer
+T18	outcome 1469 1494	entire intervention phase
+T1	intervention 27 50	Estrogen Plus Progestin
+T2	control 55 69	Estrogen Alone
+T6	location 559 561	US

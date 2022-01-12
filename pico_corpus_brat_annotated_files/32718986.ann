@@ -1,0 +1,22 @@
+T1	intervention 0 39	Globo H-KLH vaccine adagloxad simolenin
+T2	location 440 480	Taiwan, USA, Korea, India, and Hong Kong
+T3	eligibility 482 629	patients with MBC of any molecular subtype and ≤2 prior progressive disease events with stable/responding disease after the last anticancer regimen
+T4	control 691 698	placebo
+T5	outcome-Measure 787 818	progression-free survival (PFS)
+T7	total-participants 967 970	349
+T8	total-participants 992 995	348
+T9	outcome 1272 1282	Median PFS
+T10	intervention-participants 1336 1339	224
+T11	control-participants 1391 1394	124
+T12	outcome 1729 1754	Anti-KLH immune responses
+T14	outcome 1938 1975	grade 1 or 2 injection site reactions
+T15	outcome 2003 2008	fever
+T16	iv-bin-percent 1977 1982	56.7%
+T17	cv-bin-percent 1993 1997	8.9%
+T18	iv-bin-percent 2010 2015	20.1%
+T19	cv-bin-percent 2026 2030	6.5%
+T21	outcome 1561 1571	median PFS
+T13	outcome 2060 2063	PFS
+T6	outcome-Measure 849 865	overall survival
+T20	outcome-Measure 867 950	correlation of clinical outcome with humoral immune response and Globo H expression
+T22	outcome-Measure 956 962	safety

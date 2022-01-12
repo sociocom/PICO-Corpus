@@ -1,0 +1,18 @@
+T1	intervention 52 75	breast self-examination
+T2	total-participants 360 367	266 064
+T3	age 382 396	30 to 64 years
+T4	location 439 447	Shanghai
+T5	intervention-participants 491 498	132 979
+T6	control 511 524	control group
+T7	control-participants 526 533	133 085
+T11	iv-bin-abs 1171 1174	864
+T12	iv-bin-abs 1203 1206	133
+T13	outcome 1207 1227	breast cancer deaths
+T14	cv-bin-abs 1243 1246	896
+T15	outcome 1247 1261	breast cancers
+T16	cv-bin-abs 1280 1283	130
+T17	outcome 1284 1290	deaths
+T18	outcome 1326 1336	tumor size
+T19	outcome 1374 1413	cumulative breast cancer mortality rate
+T8	outcome 1506 1519	fibroadenomas
+T10	outcome 1175 1189	breast cancers

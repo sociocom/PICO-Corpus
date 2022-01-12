@@ -1,0 +1,13 @@
+T1	intervention 40 69	hypofractionated radiotherapy
+T2	total-participants 449 452	989
+T3	total-participants 456 460	1234
+T4	eligibility 310 337	node-negative breast cancer
+T5	outcome-Measure 946 967	local recurrence (LR)
+T7	outcome 1092 1120	10-year cumulative incidence
+T8	control 237 263	standard radiotherapy (RT)
+T9	iv-bin-percent 1125 1129	4.5%
+T10	outcome 1134 1158	luminal A and basal-like
+T11	iv-bin-percent 1160 1164	7.9%
+T12	outcome 1169 1178	luminal B
+T13	iv-bin-percent 1183 1188	16.9%
+T14	outcome 1193 1214	HER-2 enriched tumors

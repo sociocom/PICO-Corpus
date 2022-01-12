@@ -1,0 +1,34 @@
+T1	intervention 0 9	Tamoxifen
+T2	eligibility 511 549	premenopausal and postmenopausal women
+T3	age 550 561	35-70 years
+T4	eligibility 569 630	deemed to be at an increased risk of developing breast cancer
+T5	control 710 717	placebo
+T7	outcome-Measure 1040 1121	occurrence of breast cancer (invasive breast cancer and ductal carcinoma in situ)
+T9	total-participants 1471 1475	7154
+T10	intervention-participants 1659 1663	3579
+T11	control-participants 1681 1685	3575
+T12	outcome 1758 1772	breast cancers
+T14	intervention-participants 1807 1811	3579
+T16	control-participants 1861 1865	3575
+T17	outcome 1952 1984	risk of developing breast cancer
+T19	control-participants 2031 2035	3575
+T21	intervention-participants 2080 2084	3579
+T22	outcome 2005 2015	years 0-10
+T23	outcome 2171 2185	after 10 years
+T25	control-participants 2201 2205	3295
+T27	intervention-participants 2228 2232	3343
+T28	outcome 2322 2372	invasive oestrogen receptor-positive breast cancer
+T29	outcome 2416 2440	ductal carcinoma in situ
+T30	outcome 2497 2547	invasive oestrogen receptor-negative breast cancer
+T13	iv-bin-abs 1793 1796	251
+T31	iv-bin-percent 1798 1802	7.0%
+T15	cv-bin-abs 1847 1850	350
+T32	cv-bin-percent 1852 1856	9.8%
+T18	cv-bin-abs 2017 2020	226
+T33	cv-bin-percent 2022 2026	6.3%
+T20	iv-bin-abs 2066 2069	163
+T34	iv-bin-percent 2071 2075	4.6%
+T24	cv-bin-abs 2187 2190	124
+T35	cv-bin-percent 2192 2196	3.8%
+T26	iv-bin-abs 2215 2217	88
+T36	iv-bin-percent 2219 2223	2.6%

@@ -1,0 +1,18 @@
+T1	intervention 23 38	Calendula cream
+T2	control 43 56	aqueous cream
+T3	condition 78 108	acute radiation skin reactions
+T4	outcome-Measure 440 486	difference in proportion of patients with ARSR
+T9	total-participants 976 979	420
+T10	total-participants 1009 1012	411
+T12	iv-bin-percent 1247 1250	23%
+T13	intervention-participants 1256 1258	45
+T14	cv-bin-percent 1287 1290	19%
+T15	control-participants 1296 1298	38
+T16	intervention 241 263	Calendula Weleda cream
+T17	intervention 268 279	Essex cream
+T18	outcome 1431 1462	levels of skin related symptoms
+T11	outcome 1346 1357	severe ARSR
+T19	outcome 1173 1197	incidence of severe ARSR
+T5	outcome-Measure 737 766	Quality of Life Questionnaire
+T6	outcome-Measure 778 796	Sleep disturbances
+T7	outcome-Measure 827 860	symptoms from the irradiated area

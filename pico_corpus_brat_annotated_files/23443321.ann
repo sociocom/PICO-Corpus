@@ -1,0 +1,9 @@
+T1	location 77 92	Ontario, Canada
+T4	intervention-participants 249 254	3,101
+T5	control-participants 335 340	3,471
+T7	outcome 752 770	breast cancer risk
+T10	outcome 923 949	breast cancer risk overall
+T12	outcome 1147 1165	breast cancer risk
+T2	intervention 20 37	allergies, asthma
+T3	control 321 329	controls
+T8	outcome 1024 1045	risk of breast cancer

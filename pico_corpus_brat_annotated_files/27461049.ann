@@ -1,0 +1,23 @@
+T1	ethinicity 75 83	Hispanic
+T2	intervention 10 14	Diet
+T3	eligibility 420 442	Spanish-speaking women
+T4	total-participants 448 450	70
+T5	eligibility 452 519	with a history of stage 0-III breast cancer who completed treatment
+T6	intervention-participants 568 570	34
+T7	control-participants 739 741	36
+T8	control 720 727	control
+T17	iv-cont-mean 1199 1203	+2.0
+T18	cv-cont-mean 1208 1212	-0.4
+T19	iv-cont-mean 1294 1299	-2.2%
+T20	cv-cont-mean 1304 1309	-1.1%
+T21	iv-cont-mean 1333 1340	-2.6 kg
+T22	cv-cont-mean 1345 1352	-1.5 kg
+T23	iv-cont-mean 1467 1473	+20.4%
+T24	cv-cont-mean 1478 1484	-11.5%
+T25	iv-cont-mean 1561 1566	+0.8%
+T26	cv-cont-mean 1571 1576	-0.5%
+T14	outcome 1261 1292	percentage of calories from fat
+T27	outcome 1325 1331	weight
+T15	outcome 1452 1465	plasma lutein
+T16	outcome 1537 1559	global DNA methylation
+T13	outcome 1167 1190	mean daily F/V servings

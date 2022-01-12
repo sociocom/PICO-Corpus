@@ -1,0 +1,19 @@
+T1	intervention 19 42	dose-dense FEC regimens
+T2	outcome 1709 1760	serious adverse events (vomiting and throat oedema)
+T3	cv-bin-abs 1675 1678	one
+T4	outcome 1576 1630	increases in liver enzymes and gastrointestinal events
+T6	outcome 1388 1423	Grade 3-4 haematological toxicities
+T7	cv-bin-abs 1441 1444	two
+T8	outcome 1377 1386	diarrhoea
+T9	iv-bin-percent 1154 1158	4.1%
+T10	cv-bin-percent 1179 1183	9.8%
+T11	outcome 970 1036	proportion of subjects receiving > or =85% relative dose intensity
+T12	eligibility 94 127	patients with early breast cancer
+T14	control 764 771	FEC(90)
+T15	iv-bin-percent 1057 1060	96%
+T16	cv-bin-abs 1065 1068	88%
+T17	intervention-participants 1131 1134	147
+T18	control-participants 1187 1190	143
+T20	outcome 1199 1221	infusions were delayed
+T5	outcome 1488 1521	incidences of febrile neutropenia
+T19	cv-bin-abs 1310 1313	One

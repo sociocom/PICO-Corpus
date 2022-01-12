@@ -1,0 +1,15 @@
+T4	total-participants 654 659	Forty
+T6	control 836 850	fentanyl alone
+T7	outcome-Measure 1003 1048	changes in the VEGF-C concentrations in serum
+T8	outcome 1085 1102	analgesic effects
+T9	outcome 1160 1203	mean postoperative concentrations of VEGF-C
+T10	outcome 1320 1362	mean postoperative concentrations of TNF-α
+T11	outcome 1478 1520	mean postoperative concentrations of IL-1ß
+T12	iv-cont-mean 1263 1268	730.9
+T13	cv-cont-mean 1277 1288	354.1 pg/mL
+T14	iv-cont-mean 1432 1436	27.1
+T15	cv-cont-mean 1441 1451	15.8 pg/mL
+T16	iv-cont-mean 1580 1585	497.5
+T17	cv-cont-mean 1590 1601	197.7 pg/mL
+T1	intervention 16 48	Fentanyl and Flurbiprofen Axetil
+T2	eligibility 660 733	women with primary breast cancer undergoing a modified radical mastectomy

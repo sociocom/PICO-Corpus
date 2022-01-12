@@ -1,0 +1,18 @@
+T1	intervention 31 45	platinum salts
+T2	eligibility 661 795	Patients with operable breast cancer and immunophenotypically defined basal-like disease (ER-/PR-/HER2- and cytokeratin 5/6+ or EGFR+)
+T3	outcome-Measure 1083 1119	pathological complete response (pCR)
+T6	intervention 941 953	D (docetaxel
+T9	total-participants 1175 1186	Ninety-four
+T11	iv-bin-abs 1269 1271	16
+T12	iv-bin-percent 1282 1286	35 %
+T13	cv-bin-abs 1302 1304	14
+T14	cv-bin-percent 1315 1319	30 %
+T15	outcome 1351 1379	pCR in the breast and axilla
+T10	outcome 1234 1256	pCR rate in the breast
+T16	iv-bin-percent 1392 1396	30 %
+T17	outcome 1427 1457	overall clinical response rate
+T18	iv-bin-percent 1462 1466	70 %
+T19	cv-bin-percent 1503 1507	77 %
+T20	outcome 1543 1561	Grade 3/4 toxicity
+T4	intervention 978 982	EC-D
+T5	control 1048 1054	EC-DCb

@@ -1,0 +1,14 @@
+T1	intervention 81 90	tamoxifen
+T3	total-participants 446 450	2494
+T4	age 470 487	between 30 and 70
+T5	eligibility 488 526	with a family history of breast cancer
+T8	outcome-Measure 773 800	occurrence of breast cancer
+T9	total-participants 913 917	2471
+T10	intervention-participants 935 939	1238
+T11	control-participants 949 953	1233
+T12	outcome 1056 1090	overall frequency of breast cancer
+T13	iv-bin-abs 1148 1150	34
+T14	cv-bin-abs 1160 1162	36
+T15	outcome 1459 1473	safety profile
+T2	outcome 1315 1336	risk of breast cancer
+T6	control 614 621	placebo

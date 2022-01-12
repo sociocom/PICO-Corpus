@@ -1,0 +1,29 @@
+T1	intervention 0 46	Pegylated liposomal doxorubicin plus docetaxel
+T2	total-participants 716 719	751
+T3	control 747 756	docetaxel
+T4	control-participants 773 776	373
+T5	intervention-participants 848 851	378
+T8	outcome 1133 1143	median TTP
+T10	outcome 1270 1272	OS
+T15	outcome 1360 1387	grade 3 or 4 adverse events
+T16	iv-bin-percent 1402 1405	78%
+T17	cv-bin-percent 1408 1411	72%
+T18	outcome 1445 1463	hand-foot syndrome
+T19	iv-bin-percent 1465 1468	24%
+T20	cv-bin-percent 1471 1473	0%
+T21	outcome 1479 1499	mucositis/stomatitis
+T22	iv-bin-percent 1501 1504	12%
+T23	cv-bin-percent 1507 1509	1%
+T24	outcome 1576 1649	left ventricular ejection fraction decreases and congestive heart failure
+T25	iv-bin-percent 1667 1669	5%
+T26	cv-bin-percent 1674 1676	1%
+T6	outcome 1237 1240	ORR
+T9	outcome-Measure 944 969	time to progression (TTP)
+T11	cv-cont-median 1149 1152	7.0
+T12	iv-cont-median 1156 1166	9.8 months
+T13	cv-bin-percent 1246 1249	26%
+T14	iv-bin-percent 1253 1256	35%
+T7	outcome-Measure 997 1018	overall survival (OS)
+T27	outcome-Measure 1020 1049	objective response rate (ORR)
+T28	outcome-Measure 1051 1067	cardiac toxicity
+T29	outcome-Measure 1073 1079	safety

@@ -1,0 +1,10 @@
+T4	eligibility 465 510	premenopausal women at risk for breast cancer
+T5	control 967 974	placebo
+T7	total-participants 730 733	235
+T8	outcome 1059 1099	mammographic density and HDL cholesterol
+T9	outcome 1214 1232	adiponectin levels
+T10	outcome 1337 1361	breast neoplastic events
+T11	outcome 1571 1589	adiponectin levels
+T20	eligibility 734 870	premenopausal women with pT1mic/pT1a breast cancer (n = 21), intraepithelial neoplasia (n = 160), or 5-year Gail risk of 1.3% or greater
+T6	outcome 1396 1428	risk of breast neoplastic events
+T1	intervention 85 110	tamoxifen and fenretinide

@@ -1,0 +1,20 @@
+T1	intervention 12 24	decision aid
+T2	location 591 614	eastern Ontario, Canada
+T4	total-participants 819 822	208
+T5	eligibility 832 918	women with newly diagnosed clinical stage I or II breast cancer seen by study surgeons
+T6	total-participants 920 923	201
+T7	intervention-participants 948 950	94
+T8	control-participants 991 994	107
+T3	control 998 1012	usual practice
+T10	outcome 1741 1766	more likely to choose BCT
+T11	iv-bin-percent 1768 1771	94%
+T12	cv-bin-percent 1775 1778	76%
+T14	iv-cont-mean 1527 1531	66.9
+T15	cv-cont-mean 1535 1539	58.7
+T16	outcome 1559 1578	decisional conflict
+T13	outcome 1479 1525	knowledge scores about their treatment options
+T17	iv-cont-mean 1580 1584	1.40
+T18	cv-cont-mean 1588 1592	1.62
+T19	outcome 1617 1647	satisfied with decision making
+T20	iv-cont-mean 1649 1653	4.50
+T21	cv-cont-mean 1657 1661	4.32

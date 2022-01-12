@@ -1,0 +1,14 @@
+T1	intervention 85 94	LA-EP2006
+T2	control 100 123	reference pegfilgrastim
+T3	total-participants 1001 1004	624
+T4	intervention-participants 1112 1115	314
+T5	control-participants 1131 1135	 310
+T6	eligibility 810 988	patients with breast cancer receiving myelotoxic (neo)adjuvant TAC (docetaxel, doxorubicin, and cyclophosphamide) chemotherapy and requiring granulocyte colony-stimulating factor
+T8	outcome 1623 1657	nadir of absolute neutrophil count
+T9	outcome 1666 1698	incidence of febrile neutropenia
+T10	outcome 1769 1800	safety and tolerability profile
+T7	outcome 1242 1277	mean duration of severe neutropenia
+T11	iv-cont-mean 1366 1370	1.05
+T13	iv-cont-sd 1373 1383	1.055 days
+T12	cv-cont-mean 1391 1396	1.01 
+T14	cv-cont-sd 1398 1408	0.958 days

@@ -1,0 +1,17 @@
+T3	control 100 125	no prophylactic treatment
+T4	condition 129 138	bone pain
+T6	age 501 511	≥ 18 years
+T8	outcome-Measure 860 908	all-grade bone pain in cycle 1 from AE reporting
+T9	outcome-Measure 939 1002	bone pain in cycles 2-4 and across all cycles from AE reporting
+T10	outcome-Measure 1007 1064	patient-reported bone pain by cycle and across all cycles
+T11	total-participants 1066 1077	Six hundred
+T12	ethinicity 1129 1134	white
+T13	age 1158 1175	54.2 (11.1) years
+T15	iv-bin-percent 1317 1321	40.3
+T16	iv-bin-percent 1323 1327	42.5
+T17	cv-bin-percent 1333 1338	46.6%
+T18	outcome 1679 1721	treatment-related AEs and discontinuations
+T19	outcome 1475 1501	patient-reported bone pain
+T1	intervention 61 96	prophylactic naproxen or loratadine
+T2	eligibility 519 716	with newly diagnosed stage I-III breast cancer and an ECOG performance status ≤ 2 who were planning ≥ 4 cycles of adjuvant or neoadjuvant chemotherapy with pegfilgrastim support starting in cycle 1
+T5	outcome 1181 1228	percentage of patients with all-grade bone pain

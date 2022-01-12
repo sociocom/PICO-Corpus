@@ -1,0 +1,20 @@
+T1	intervention 15 42	Ganglioside-Monosialic Acid
+T2	condition 46 85	Taxane-Induced Peripheral Neurotoxicity
+T3	total-participants 450 453	206
+T4	eligibility 454 585	patients with early-stage breast cancer planning to receive taxane-based adjuvant chemotherapy with a follow-up of more than 1 year
+T5	control 662 669	placebo
+T6	outcome-Measure 700 804	Functional Assessment of Cancer Treatment Neurotoxicity subscale score after four cycles of chemotherapy
+T7	outcome-Measure 835 1006	neurotoxicity evaluated by National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 and the Eastern Cooperative Oncology Group neuropathy scale
+T8	total-participants 1049 1052	183
+T9	outcome 1103 1179	mean Functional Assessment of Cancer Treatment Neurotoxicity subscale scores
+T11	iv-bin-percent 1556 1561	14.3%
+T12	cv-bin-percent 1565 1571	100.0%
+T14	iv-bin-percent 1839 1844	20.9%
+T15	cv-bin-percent 1848 1853	81.5%
+T13	outcome 1652 1696	incidence of grade 1 or higher neurotoxicity
+T10	outcome 1396 1438	Grade 1 or higher peripheral neurotoxicity
+T16	iv-cont-mean 1250 1255	43.27
+T17	cv-cont-mean 1306 1311	34.34
+T18	iv-bin-percent 1781 1786	26.4%
+T19	cv-bin-percent 1790 1795	97.8%
+T20	outcome 1811 1837	motor neuropathy subscales

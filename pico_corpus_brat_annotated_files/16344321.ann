@@ -1,0 +1,16 @@
+T1	intervention 27 45	axillary clearance
+T2	control 53 74	no axillary clearance
+T4	outcome 1473 1483	6-year DFS
+T5	iv-bin-percent 1485 1488	67%
+T6	cv-bin-percent 1491 1494	66%
+T9	eligibility 578 720	with clinically node-negative operable breast cancer in whom adjuvant tamoxifen was considered indicated regardless of pathologic nodal status
+T10	outcome-Measure 913 915	QL
+T11	total-participants 980 983	473
+T12	intervention-participants 994 997	234
+T13	control-participants 1010 1013	239
+T14	age 1064 1072	74 years
+T16	outcome 1571 1580	6-year OS
+T17	iv-bin-percent 1582 1585	75%
+T18	cv-bin-percent 1588 1591	73%
+T3	outcome 1468 1471	DFS
+T7	outcome 1567 1569	OS

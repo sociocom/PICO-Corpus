@@ -1,0 +1,10 @@
+T1	intervention 52 61	Celecoxib
+T2	condition 84 97	Skin Toxicity
+T4	total-participants 552 557	Sixty
+T5	control 635 642	placebo
+T10	outcome 1161 1195	frequency of increased breast size
+T11	outcome 1363 1378	skin dermatitis
+T9	outcome 1078 1112	radiation-induced itching and pain
+T12	eligibility 523 550	patients with breast cancer
+T3	outcome 1451 1461	dermatitis
+T6	outcome 1517 1533	itching and pain

@@ -1,0 +1,12 @@
+T1	intervention 35 56	Prognostic Signatures
+T3	total-participants 563 566	774
+T4	eligibility 567 649	postmenopausal women with ER-positive ERBB2 (formerly HER2)-negative breast cancer
+T7	total-participants 1565 1568	774
+T8	outcome 2053 2069	recurrence score
+T9	outcome 2109 2143	4-marker immunohistochemical score
+T11	outcome 1863 1866	BCI
+T12	outcome 1901 1907	EPclin
+T19	outcome 1967 2017	more information than the Clinical Treatment Score
+T2	age 1647 1663	64.1 [8.1] years
+T5	age 1686 1702	63.4 [7.9] years
+T6	outcome-Measure 1797 1800	ROR

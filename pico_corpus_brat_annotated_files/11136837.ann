@@ -1,0 +1,19 @@
+T1	intervention 26 35	tamoxifen
+T2	condition 552 580	coronary heart disease (CHD)
+T3	total-participants 899 905	13 388
+T4	eligibility 906 947	women at increased risk for breast cancer
+T5	control 1026 1033	placebo
+T6	total-participants 1078 1084	13 194
+T11	intervention-participants 1503 1507	6074
+T12	control-participants 1528 1532	6072
+T13	outcome 1640 1668	fatal myocardial infarction,
+T14	outcome 1693 1723	nonfatal myocardial infarction
+T15	outcome 1749 1764	unstable angina
+T16	outcome 1794 1807	severe angina
+T17	intervention-participants 1828 1831	516
+T18	control-participants 1852 1855	532
+T19	outcome 1937 1964	fatal myocardial infarction
+T20	outcome 1990 2020	nonfatal myocardial infarction
+T21	outcome 2046 2061	unstable angina
+T22	outcome 2091 2104	severe angina
+T10	outcome 1288 1314	Cardiovascular event rates

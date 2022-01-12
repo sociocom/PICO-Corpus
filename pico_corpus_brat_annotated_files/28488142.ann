@@ -1,0 +1,11 @@
+T1	intervention 45 68	hydrating nail solution
+T2	condition 100 111	onycholysis
+T4	outcome-Measure 1078 1110	incidence of onycholysis grade 2
+T5	outcome-Measure 1115 1153	recovery rate from grade 2 onycholysis
+T7	total-participants 1185 1188	103
+T8	outcome 1278 1297	grade 2 onycholysis
+T9	outcome 1260 1267	grade 1
+T14	outcome 1695 1716	all grade onycholysis
+T3	eligibility 757 820	patients with docetaxel after doxorubicin plus cyclophosphamide
+T6	outcome 1398 1417	grade 2 onycholysis
+T10	outcome 1591 1610	grade 2 onycholysis

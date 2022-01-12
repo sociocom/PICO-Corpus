@@ -1,0 +1,33 @@
+T2	location 109 114	Japan
+T4	age 489 500	40-49 years
+T6	eligibility 621 717	no history of any cancer in the previous 5 years and were expected to live for more than 5 years
+T5	control 913 946	mammography alone (control group)
+T8	outcome-Measure 989 1000	sensitivity
+T9	outcome-Measure 1002 1013	specificity
+T10	outcome-Measure 1015 1036	cancer detection rate
+T11	outcome-Measure 1042 1060	stage distribution
+T12	total-participants 1181 1187	72,998
+T13	intervention-participants 1204 1210	36,859
+T14	control-participants 1255 1261	36,139
+T15	outcome 1284 1295	Sensitivity
+T16	iv-bin-percent 1374 1379	91·1%
+T17	cv-bin-percent 1401 1406	77·0%
+T18	outcome 1438 1449	specificity
+T19	iv-bin-percent 1475 1480	87·7%
+T20	cv-bin-percent 1495 1500	91·4%
+T21	outcome 1529 1536	cancers
+T24	outcome 1667 1680	stage 0 and I
+T27	outcome 1731 1747	interval cancers
+T22	iv-bin-abs 1604 1607	184
+T30	iv-bin-percent 1609 1615	0·50%]
+T23	cv-bin-abs 1619 1622	117
+T31	cv-bin-percent 1624 1629	0·32%
+T25	iv-bin-abs 1682 1685	144
+T32	iv-bin-percent 1687 1692	71·3%
+T26	cv-bin-abs 1697 1699	79
+T33	cv-bin-percent 1701 1706	52·0%
+T28	iv-bin-abs 1720 1722	18
+T34	iv-bin-percent 1724 1729	0·05%
+T29	cv-bin-abs 1802 1804	35
+T35	cv-bin-percent 1806 1811	0·10%
+T1	intervention 31 73	mammography and adjunctive ultrasonography

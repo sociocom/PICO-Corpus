@@ -1,0 +1,17 @@
+T1	intervention-participants 362 372	Twenty-six
+T3	control-participants 440 442	10
+T2	eligibility 373 400	patients with breast cancer
+T6	outcome 923 948	Brain natriuretic peptide
+T9	outcome 1244 1273	low cardiorespiratory fitness
+T10	iv-bin-percent 1275 1278	46%
+T11	cv-bin-percent 1286 1288	0%
+T12	outcome 1307 1323	overweight/obese
+T13	iv-bin-percent 1325 1328	72%
+T14	cv-bin-percent 1336 1339	50%
+T15	outcome 1363 1388	resting sinus tachycardia
+T16	iv-bin-percent 1390 1393	50%
+T17	cv-bin-percent 1401 1403	0%
+T5	intervention 90 162	anthracycline-taxane-containing adjuvant chemotherapy and/or trastuzumab
+T7	control 443 450	healthy
+T8	outcome 1439 1464	Cardiorespiratory fitness
+T18	outcome 1469 1484	body mass index

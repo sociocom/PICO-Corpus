@@ -1,0 +1,10 @@
+T1	outcome 1284 1295	IL-6 levels
+T2	outcome 1179 1204	side effects and sedation
+T4	total-participants 778 792	Fifty patients
+T5	intervention-participants 894 896	25
+T7	control 812 835	general anesthesia only
+T10	condition 254 272	postoperative pain
+T6	intervention 839 892	general anesthesia associated with SAM block + PECS I
+T3	outcome 979 1014	intraoperative fentanyl consumption
+T8	outcome 1016 1028	morphine use
+T9	outcome 1033 1064	visual analog pain scale scores

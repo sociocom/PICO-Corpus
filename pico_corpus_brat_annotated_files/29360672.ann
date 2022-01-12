@@ -1,0 +1,13 @@
+T1	intervention 13 30	Psychoeducational
+T2	eligibility 47 98	Patients With Breast Cancer Undergoing Chemotherapy
+T3	total-participants 751 753	40
+T4	control 808 821	control group
+T6	outcome 1556 1565	knowledge
+T7	outcome 1580 1593	self-efficacy
+T5	outcome 1389 1396	Anxiety
+T9	outcome 1398 1408	depression
+T10	outcome 1410 1420	resilience
+T11	outcome 1426 1441	quality of life
+T8	outcome 1599 1619	effects of knowledge
+T12	outcome 1621 1631	resilience
+T13	outcome 1637 1652	quality of life

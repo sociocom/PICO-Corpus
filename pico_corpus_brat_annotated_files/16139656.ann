@@ -1,0 +1,23 @@
+T1	intervention 0 10	Gabapentin
+T2	total-participants 30 33	420
+T4	total-participants 372 375	420
+T3	eligibility 376 448	women with breast cancer who were having two or more hot flashes per day
+T6	control 472 479	placebo
+T8	total-participants 815 818	371
+T9	control-participants 844 847	119
+T10	intervention-participants 857 860	123
+T11	intervention-participants 884 887	129
+T12	total-participants 911 914	347
+T13	control-participants 927 930	113
+T14	intervention-participants 940 943	114
+T15	intervention-participants 967 970	120
+T16	outcome 1019 1043	hot-flash severity score
+T17	cv-bin-percent 1099 1102	21%
+T18	cv-bin-percent 1125 1128	15%
+T19	iv-bin-percent 1161 1164	33%
+T20	outcome 1065 1078	weeks 4 and 8
+T21	iv-bin-percent 1180 1183	31%
+T22	iv-bin-percent 1240 1243	49%
+T23	iv-bin-percent 1259 1262	46%
+T5	condition 15 26	hot flashes
+T7	outcome 1562 1594	hot-flash frequency and severity

@@ -1,0 +1,19 @@
+T1	intervention 0 11	Anastrozole
+T4	age 540 551	40-70 years
+T6	control 875 882	placebo
+T9	intervention-participants 1343 1347	1920
+T10	control-participants 1404 1408	1944
+T11	outcome 1550 1573	developed breast cancer
+T12	iv-bin-abs 1474 1476	40
+T13	iv-bin-percent 1509 1511	2%
+T14	cv-bin-abs 1517 1519	85
+T15	cv-bin-percent 1542 1544	4%
+T16	outcome 1637 1693	cumulative incidence of all breast cancers after 7 years
+T17	cv-bin-percent 1698 1702	5·6%
+T18	iv-bin-percent 1728 1732	2·8%
+T19	iv-bin-abs 1759 1761	18
+T20	outcome 1762 1768	deaths
+T21	cv-bin-abs 1812 1814	17
+T2	outcome 1949 1974	ncidence of breast cancer
+T7	outcome-Measure 1152 1190	histologically confirmed breast cancer
+T3	eligibility 660 710	women had to be at increased risk of breast cancer

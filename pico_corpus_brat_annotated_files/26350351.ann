@@ -1,0 +1,21 @@
+T1	intervention 71 80	goserelin
+T2	eligibility 513 573	Pre-menopausal women with ER-positive advanced breast cancer
+T4	control 624 641	monthly goserelin
+T5	outcome-Measure 734 782	progression-free survival (PFS) rate at 24 weeks
+T7	total-participants 1025 1028	222
+T8	intervention-participants 1078 1081	109
+T9	control-participants 1105 1108	113
+T10	outcome 1111 1119	PFS rate
+T11	iv-bin-percent 1135 1141	61.5 %
+T12	cv-bin-percent 1166 1172	60.2 %
+T14	iv-bin-percent 1337 1343	23.9 %
+T15	cv-bin-percent 1368 1374	26.9 %
+T16	outcome 1463 1491	mean serum E2 concentrations
+T17	iv-cont-mean 1559 1569	20.3 pg/mL
+T18	cv-cont-mean 1574 1584	24.8 pg/mL
+T3	outcome 1120 1130	at week 24
+T13	outcome 1329 1332	ORR
+T6	outcome-Measure 941 970	objective response rate (ORR)
+T19	outcome-Measure 972 987	serum E2 levels
+T20	outcome-Measure 989 995	safety
+T21	outcome-Measure 1001 1013	tolerability

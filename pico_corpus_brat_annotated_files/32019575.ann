@@ -1,0 +1,11 @@
+T1	condition 14 48	doxorubicin-induced Cardiotoxicity
+T5	total-participants 1213 1215	32
+T6	eligibility 1343 1400	breast cancer patients undergoing anthracycline treatment
+T2	intervention 116 157	Docosahexaenoic Acid (DHA) and carvedilol
+T3	control 1125 1139	double placebo
+T4	outcome-Measure 1448 1500	changes in left ventricular ejection fraction (LVEF)
+T7	outcome-Measure 1549 1592	changes in global longitudinal strain (GLS)
+T9	outcome-Measure 1648 1701	elevation in serum biomarkers (hs-cTnT and NT-ProBNP)
+T10	outcome-Measure 1707 1755	one electrocardiographic variable (QTc interval)
+T8	outcome-Measure 1800 1810	biomarkers
+T11	outcome-Measure 1819 1861	occurrence of major adverse cardiac events

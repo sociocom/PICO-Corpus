@@ -1,0 +1,16 @@
+T1	intervention 115 135	oxidized mannan-MUC1
+T2	outcome 939 954	recurrence rate
+T3	control 977 984	placebo
+T4	cv-bin-percent 989 992	60%
+T5	cv-bin-abs 994 998	nine
+T6	control-participants 1002 1004	15
+T7	iv-bin-percent 1061 1066	12.5%
+T8	iv-bin-abs 1068 1071	two
+T9	intervention-participants 1075 1077	16
+T10	outcome 1084 1102	time of recurrence
+T11	cv-cont-mean 1159 1170	65.8 months
+T12	iv-cont-mean 1270 1280	118 months
+T13	eligibility 630 673	breast cancer patients vaccinated with M-FP
+T14	outcome 1222 1241	recurrence appeared
+T15	outcome 1474 1487	toxic effects
+T16	outcome 1612 1628	overall survival

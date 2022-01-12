@@ -1,0 +1,18 @@
+T1	intervention-participants 390 393	251
+T2	control-participants 501 503	50
+T3	control 484 497	control group
+T4	intervention 0 55	Elevated plasma tissue inhibitor of metalloproteinase-1
+T5	outcome 1393 1417	TTP and overall survival
+T6	outcome 1203 1228	time to progression (TTP)
+T7	iv-cont-median 1230 1237	84 days
+T8	cv-cont-median 1241 1249	174 days
+T9	outcome 1266 1282	overall survival
+T10	iv-cont-median 1284 1292	141 days
+T11	cv-cont-median 1296 1304	860 days
+T12	outcome 1148 1169	clinical benefit rate
+T13	iv-bin-percent 1177 1180	16%
+T14	cv-bin-percent 1184 1187	42%
+T15	outcome 927 940	Plasma TIMP-1
+T17	cv-bin-abs 1029 1031	19
+T18	cv-bin-percent 1042 1046	7.6%
+T16	iv-cont-mean 1015 1024	373 ng/mL

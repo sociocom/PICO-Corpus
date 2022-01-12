@@ -1,0 +1,21 @@
+T1	intervention 0 11	Anastrozole
+T2	control 19 28	tamoxifen
+T3	eligibility 54 123	postmenopausal patients with hormone-dependent advanced breast cancer
+T4	intervention-participants 382 385	121
+T5	control-participants 417 420	117
+T11	outcome 583 604	clinical benefit (CB)
+T12	iv-bin-percent 621 624	83%
+T13	cv-bin-percent 629 632	56%
+T14	outcome 698 738	median time to disease progression (TTP)
+T15	iv-cont-median 768 779	18.0 months
+T16	cv-cont-median 784 794	7.0 months
+T19	outcome 914 918	died
+T20	cv-bin-percent 884 887	89%
+T21	iv-bin-percent 934 937	60%
+T22	outcome 963 983	median time to death
+T23	cv-cont-median 988 999	17.4 months
+T24	iv-cont-median 1004 1015	16.0 months
+T6	outcome 1086 1100	well tolerated
+T10	outcome 1178 1180	CB
+T17	outcome 1182 1192	median TTP
+T18	outcome 1221 1229	survival

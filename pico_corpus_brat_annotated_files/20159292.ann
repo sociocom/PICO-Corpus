@@ -1,0 +1,17 @@
+T1	intervention 29 32	MRI
+T2	eligibility 236 268	women with primary breast cancer
+T3	location 319 321	UK
+T4	total-participants 336 340	1623
+T5	age 352 369	18 years or older
+T6	intervention-participants 536 539	816
+T7	control 544 562	no further imaging
+T8	control-participants 564 567	807
+T9	outcome-Measure 668 842	proportion of patients undergoing a repeat operation or further mastectomy within 6 months of random assignment, or a pathologically avoidable mastectomy at initial operation
+T10	intervention-participants 930 933	816
+T11	control-participants 977 980	807
+T12	outcome 1090 1106	reoperation rate
+T13	iv-bin-abs 1113 1116	153
+T14	iv-bin-percent 1118 1121	19%
+T15	cv-bin-abs 1167 1170	156
+T16	cv-bin-percent 1172 1175	19%
+T17	control 984 990	no MRI

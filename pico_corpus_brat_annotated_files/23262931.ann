@@ -1,0 +1,17 @@
+T4	total-participants 324 335	One hundred
+T5	eligibility 336 382	hormone-insensitive breast cancer participants
+T6	age 389 400	18-40 years
+T7	location 468 473	Egypt
+T8	total-participants 568 573	Fifty
+T9	outcome-Measure 1085 1150	Resumption of menstruation at 12 months after end of chemotherapy
+T13	control 643 661	chemotherapy alone
+T14	iv-bin-percent 1435 1438	80%
+T16	cv-bin-percent 1544 1547	80%
+T17	iv-bin-percent 1552 1555	84%
+T12	outcome 1328 1357	menstruation resumption rates
+T18	outcome 1666 1697	hormonal and ultrasound markers
+T15	intervention 0 25	Gonadatrophin suppression
+T19	condition 37 72	chemotherapy-induced ovarian damage
+T1	total-participants 948 950	50
+T2	outcome-Measure 1176 1201	Postchemotherapy hormonal
+T3	outcome-Measure 1206 1224	ultrasound changes

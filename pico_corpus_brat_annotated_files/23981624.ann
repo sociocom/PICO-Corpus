@@ -1,0 +1,27 @@
+T3	condition 78 111	intraductal proliferative lesions
+T4	total-participants 691 694	177
+T5	eligibility 695 730	recurrent nipple discharge patients
+T6	intervention-participants 819 821	92
+T7	control-participants 911 913	85
+T8	control 935 948	control group
+T9	outcome 1459 1532	agreement rate in the diagnosis of ductal intraepithelial neoplasia (DIN)
+T10	outcome 1248 1284	benign mammary hyperplasia specimens
+T11	outcome 1075 1109	benign mammary hyperplasia lesions
+T1	intervention 23 73	fiberoptic ductoscopy plus in vivo iodine staining
+T2	outcome 1534 1545	sensitivity
+T12	outcome 1547 1558	specificity
+T13	outcome 1560 1585	positive likelihood ratio
+T14	outcome 1587 1612	negative likelihood ratio
+T15	outcome 1618 1630	Youden index
+T16	iv-bin-percent 1634 1640	97.82%
+T17	iv-bin-percent 1642 1648	98.83%
+T18	iv-bin-percent 1650 1656	83.33%
+T19	iv-bin-percent 1658 1662	5.93
+T20	iv-bin-percent 1664 1669	0.014
+T21	iv-bin-percent 1675 1681	0.8216
+T22	cv-bin-percent 1759 1765	88.24%
+T23	cv-bin-percent 1767 1773	89.16%
+T24	cv-bin-percent 1775 1781	50.00%
+T25	cv-bin-percent 1783 1787	1.78
+T26	cv-bin-percent 1789 1794	0.217
+T27	cv-bin-percent 1800 1806	0.3916

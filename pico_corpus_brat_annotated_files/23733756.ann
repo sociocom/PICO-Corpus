@@ -1,0 +1,20 @@
+T1	intervention 52 70	acetyl-L-carnitine
+T2	eligibility 122 169	women undergoing adjuvant breast cancer therapy
+T3	control 510 517	placebo
+T6	total-participants 1002 1005	409
+T7	intervention-participants 1031 1034	208
+T8	control-participants 1049 1052	201
+T9	outcome 1341 1378	> 5-point decrease in FACT-NTX scores
+T10	iv-bin-percent 1380 1383	38%
+T11	cv-bin-percent 1386 1389	28%
+T12	outcome 1463 1489	Grade 3 to 4 neurotoxicity
+T13	iv-bin-abs 1524 1529	eight
+T14	cv-bin-abs 1532 1535	one
+T15	outcome 1584 1617	FACIT-Fatigue or other toxicities
+T16	outcome 1619 1640	Serum carnitine level
+T17	condition 93 118	taxane-induced neuropathy
+T4	outcome-Measure 617 647	determine if ALC prevents CIPN
+T5	outcome-Measure 816 845	changes in 24-week end points
+T18	outcome-Measure 847 864	functional status
+T19	outcome-Measure 899 906	fatigue
+T20	outcome-Measure 980 989	NTX grade

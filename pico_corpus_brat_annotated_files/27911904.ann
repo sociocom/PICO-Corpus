@@ -1,0 +1,14 @@
+T1	intervention 0 18	Dressing Wear Time
+T2	total-participants 358 361	200
+T3	eligibility 362 417	breast cancer patients undergoing breast reconstruction
+T4	intervention-participants 545 548	100
+T5	intervention-participants 616 619	100
+T6	total-participants 999 1002	186
+T8	outcome 1048 1056	SSI rate
+T9	iv-bin-abs 1067 1070	Six
+T10	cv-bin-abs 1095 1100	three
+T11	outcome 1117 1120	SSI
+T12	outcome 1246 1294	colonization by coagulase-negative staphylococci
+T13	outcome 1190 1207	skin colonization
+T14	outcome 1566 1575	SSI rates
+T15	outcome 1453 1470	skin colonization

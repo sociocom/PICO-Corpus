@@ -1,0 +1,26 @@
+T1	intervention 20 54	proactive rapid genetic counseling
+T2	control 62 72	usual care
+T3	eligibility 595 633	newly diagnosed breast cancer patients
+T4	total-participants 808 811	379
+T5	total-participants 863 866	330
+T6	intervention-participants 919 922	220
+T7	control-participants 939 942	108
+T9	outcome 1062 1069	overall
+T10	iv-bin-percent 1071 1076	83.8%
+T11	cv-bin-percent 1081 1086	54.6%
+T12	outcome 1104 1116	pre-surgical
+T13	iv-bin-percent 1118 1123	57.8%
+T14	cv-bin-percent 1128 1133	38.7%
+T15	outcome 1146 1171	genetic counseling uptake
+T16	outcome 1263 1270	overall
+T17	iv-bin-percent 1272 1277	54.1%
+T18	cv-bin-percent 1282 1287	49.1%
+T19	outcome 1302 1314	pre-surgical
+T20	iv-bin-percent 1316 1321	30.6%
+T21	cv-bin-percent 1326 1331	27.4%
+T22	outcome 1343 1374	receipt of genetic test results
+T23	outcome 1398 1428	uptake of bilateral mastectomy
+T24	iv-bin-percent 1430 1435	26.6%
+T25	cv-bin-percent 1440 1445	21.8%
+T8	outcome-Measure 967 1004	genetic counseling and testing uptake
+T26	outcome-Measure 1009 1041	breast cancer surgical decisions

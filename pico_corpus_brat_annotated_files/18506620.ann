@@ -1,0 +1,16 @@
+T1	outcome 582 590	CIA rate
+T2	iv-bin-percent 595 600	90.2%
+T3	iv-bin-percent 613 618	73.5%
+T4	cv-bin-percent 646 651	72.1%
+T5	outcome 661 670	at 1 year
+T6	iv-bin-percent 688 693	66.7%
+T7	iv-bin-percent 695 700	73.3%
+T8	cv-bin-percent 706 711	58.9%
+T9	outcome 727 737	at 3 years
+T10	total-participants 290 293	122
+T11	eligibility 294 320	premenopausal EBC patients
+T12	intervention-participants 441 443	34
+T13	control-participants 505 508	129
+T14	intervention 69 93	anthracycline and taxane
+T15	outcome 910 965	Serum estradiol and follicle-stimulating hormone levels
+T16	control 406 439	doxorubicin/cyclophosphamide (AC)

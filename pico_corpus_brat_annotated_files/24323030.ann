@@ -1,0 +1,24 @@
+T1	control 0 10	Aprepitant
+T2	intervention 18 31	dexamethasone
+T3	condition 47 82	chemotherapy-induced delayed emesis
+T4	eligibility 655 751	chemotherapy-naive patients with breast cancer treated with anthracyclines plus cyclophosphamide
+T6	total-participants 1129 1132	580
+T7	total-participants 1152 1155	551
+T8	intervention-participants 1172 1175	273
+T9	control-participants 1204 1207	278
+T10	outcome 1229 1258	Day 1 complete response rates
+T11	iv-bin-percent 1273 1278	87.6%
+T12	cv-bin-percent 1301 1306	84.9%
+T13	outcome 1338 1374	days 2 to 5, complete response rates
+T15	outcome 1597 1619	Incidences of insomnia
+T16	iv-bin-percent 1621 1625	2.9%
+T17	cv-bin-percent 1628 1632	0.4%
+T18	outcome 1647 1656	heartburn
+T19	iv-bin-percent 1658 1662	8.1%
+T20	cv-bin-percent 1665 1669	3.6%
+T5	outcome-Measure 1025 1050	rate of complete response
+T14	outcome 1486 1505	complete protection
+T21	outcome 1507 1520	total control
+T22	outcome 1522 1533	no vomiting
+T23	outcome 1535 1544	no nausea
+T24	outcome 1546 1585	score of Functional Living Index-Emesis

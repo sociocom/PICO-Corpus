@@ -1,0 +1,19 @@
+T1	intervention 35 56	endometrial resection
+T3	condition 68 96	recurrent endometrial polyps
+T7	total-participants 404 410	Twenty
+T8	age 440 449	43-61 yrs
+T9	ethinicity 318 326	Canadian
+T10	intervention-participants 613 615	10
+T11	control-participants 639 641	10
+T14	outcome-Measure 880 912	recurrence of endometrial polyps
+T15	outcome-Measure 914 944	occurrence of uterine bleeding
+T16	iv-bin-abs 1012 1015	one
+T17	outcome 1031 1048	endometrial polyp
+T18	iv-bin-abs 1089 1094	Seven
+T19	outcome 1110 1121	amenorrheic
+T20	iv-bin-abs 1127 1132	three
+T21	outcome 1145 1153	spotting
+T22	cv-bin-abs 1204 1207	six
+T2	control 626 637	not undergo
+T5	outcome 1218 1278	recurrent endometrial polyps requiring hysteroscopic removal
+T4	eligibility 100 144	women with breast cancer receiving tamoxifen

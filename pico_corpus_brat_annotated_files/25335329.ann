@@ -1,0 +1,18 @@
+T1	condition 29 69	aromatase inhibitor-associated bone loss
+T2	intervention 73 93	shugan jiangu recipe
+T4	total-participants 348 350	38
+T5	eligibility 351 443	patients of postmenopausal women with breast cancer, who received aromatase inhibitors (AIs)
+T6	intervention-participants 483 485	21
+T7	control 501 514	control group
+T8	control-participants 516 518	17
+T10	outcome 1249 1268	serum BALP and TRAP
+T13	outcome 1430 1449	serum BALP and TRAP
+T14	outcome 1552 1580	serum levels of BGP and BALP
+T15	outcome 1606 1637	serum levels of CTX-II and TRAP
+T16	outcome 1720 1744	No serious adverse event
+T17	outcome 1783 1796	Bone fracture
+T18	cv-bin-abs 1809 1812	one
+T19	cv-bin-percent 1840 1844	5.8%
+T3	outcome 1505 1530	lumbar and femur neck BMD
+T12	outcome 1140 1166	BMD of L2-4 and femur neck
+T20	outcome 1323 1349	BMD of L2-4 and femur neck

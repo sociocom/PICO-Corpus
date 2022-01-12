@@ -1,0 +1,22 @@
+T1	intervention 20 31	fenretinide
+T2	condition 43 67	second breast malignancy
+T4	total-participants 343 347	2972
+T5	age 360 371	30-70 years
+T6	eligibility 373 446	with surgically removed stage I breast cancer or ductal carcinoma in situ
+T8	control 512 524	no treatment
+T16	outcome 1390 1417	contralateral breast cancer
+T19	outcome 1500 1525	ipsilateral breast cancer
+T21	outcome 1369 1388	premenopausal women
+T22	outcome 1598 1618	postmenopausal women
+T23	outcome 1620 1647	contralateral breast cancer
+T28	outcome 1693 1718	ipsilateral breast cancer
+T3	outcome 1069 1110	occurrence of contralateral breast cancer
+T15	outcome 1124 1149	ipsilateral breast cancer
+T17	outcome 1842 1864	tumors in other organs
+T31	outcome 1866 1897	incidence of distant metastasis
+T32	outcome 1903 1922	all-cause mortality
+T7	outcome-Measure 556 625	incidence of contralateral breast cancer or ipsilateral breast cancer
+T9	outcome-Measure 729 746	menopausal status
+T10	outcome-Measure 748 779	incidence of distant metastases
+T11	outcome-Measure 781 798	overall mortality
+T12	outcome-Measure 804 826	tumors in other organs

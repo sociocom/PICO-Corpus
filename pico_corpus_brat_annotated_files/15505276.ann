@@ -1,0 +1,23 @@
+T1	outcome 1577 1595	secondary leukemia
+T2	outcome 1503 1534	died as a result of dysrhythmia
+T3	outcome 1352 1396	decreased left ventricular ejection fraction
+T4	outcome 1163 1177	acute toxicity
+T5	outcome 1200 1219	grade 2 neutropenia
+T6	outcome 1229 1243	grade 2 anemia
+T7	outcome 1253 1279	grade 3 nausea or vomiting
+T8	outcome 1293 1309	grade 3 alopecia
+T9	outcome 1091 1101	Compliance
+T10	outcome 795 805	6-year DFS
+T11	total-participants 476 479	338
+T12	control-participants 571 574	164
+T13	intervention-participants 683 686	174
+T14	age 360 379	older than 65 years
+T15	eligibility 381 428	with node-positive, operable breast cancer (BC)
+T17	intervention 42 67	epirubicin plus tamoxifen
+T16	control 75 90	tamoxifen alone
+T18	cv-bin-percent 817 822	69.3%
+T19	iv-bin-percent 836 841	72.6%
+T20	outcome 909 924	risk of relapse
+T24	cv-bin-percent 1050 1055	79.1%
+T25	iv-bin-percent 1060 1065	79.8%
+T21	outcome 1003 1012	6-year OS

@@ -1,0 +1,19 @@
+T1	intervention 19 56	nanoparticle albumin-bound paclitaxel
+T2	control 71 112	polyethylated castor oil-based paclitaxel
+T3	eligibility 326 370	patients with metastatic breast cancer (MBC)
+T4	intervention-participants 657 660	229
+T5	control-participants 735 738	225
+T6	outcome 783 797	response rates
+T7	iv-bin-percent 833 836	33%
+T8	cv-bin-percent 839 842	19%
+T9	outcome 893 918	time to tumor progression
+T10	iv-cont-median 920 924	23.0
+T11	cv-cont-median 927 937	16.9 weeks
+T14	outcome 989 1021	incidence of grade 4 neutropenia
+T15	iv-bin-percent 1093 1095	9%
+T16	cv-bin-percent 1098 1101	22%
+T17	outcome 1165 1184	Febrile neutropenia
+T19	outcome 1267 1293	Grade 3 sensory neuropathy
+T20	iv-bin-percent 1366 1369	10%
+T21	cv-bin-percent 1372 1374	2%
+T22	outcome 1466 1492	hypersensitivity reactions

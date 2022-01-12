@@ -1,0 +1,16 @@
+T3	total-participants 437 440	180
+T1	intervention 282 302	sentinel node biopsy
+T2	control 307 335	no axillary surgical staging
+T4	eligibility 339 425	patients with small breast cancer and negative pre-operative ultra-sound of the axilla
+T6	total-participants 766 769	176
+T7	intervention-participants 808 810	94
+T8	control-participants 826 828	82
+T9	outcome 940 964	Pre-surgery score values
+T10	iv-cont-mean 970 974	3.0%
+T11	cv-cont-mean 979 983	2.7%
+T12	outcome 1046 1068	One week after surgery
+T13	outcome 1074 1079	score
+T14	iv-cont-mean 1093 1098	24.0%
+T15	cv-cont-mean 1118 1123	10.6%
+T16	outcome 1160 1181	After 6 and 12 months
+T17	outcome 1187 1192	score

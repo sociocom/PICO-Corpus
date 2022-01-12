@@ -1,0 +1,27 @@
+T1	intervention 47 56	denosumab
+T2	eligibility 353 469	patients with breast cancer-related bone metastases not previously treated with intravenous bisphosphonates (IV BPs)
+T3	total-participants 491 494	255
+T5	outcome 1528 1532	SREs
+T6	iv-bin-percent 1553 1555	9%
+T7	iv-bin-abs 1587 1589	20
+T8	intervention-participants 1593 1596	211
+T9	cv-bin-percent 1605 1608	16%
+T10	cv-bin-abs 1645 1650	seven
+T11	control-participants 1654 1656	43
+T12	outcome 1433 1453	reduction in uNTx/Cr
+T13	iv-bin-percent 1361 1364	74%
+T14	iv-bin-abs 1396 1399	157
+T15	intervention-participants 1403 1406	211
+T16	cv-bin-percent 1468 1471	63%
+T17	cv-bin-abs 1508 1510	27
+T18	control-participants 1514 1516	43
+T19	outcome 1247 1281	median percent reduction in uNTx/C
+T20	iv-cont-median 1287 1290	71%
+T21	cv-cont-median 1327 1330	79%
+T23	outcome 1679 1693	adverse events
+T4	outcome-Measure 866 975	percentage of change in the bone turnover marker urine N-telopeptide corrected for urine creatinine (uNTx/Cr)
+T22	outcome-Measure 1012 1076	percentage of patients achieving more than 65% uNTx/Cr reduction
+T24	outcome-Measure 1078 1117	time to more than 65% uNTx/Cr reduction
+T25	outcome-Measure 1119 1191	patients experiencing one or more on-study skeletal-related events (SRE)
+T26	outcome-Measure 1197 1203	safety
+T27	control 699 719	one open-label IV BP

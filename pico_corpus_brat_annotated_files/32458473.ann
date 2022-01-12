@@ -1,0 +1,15 @@
+T1	intervention 17 36	nurse-led group CBT
+T2	condition 41 69	hot flushes and night sweats
+T3	eligibility 608 697	women with primary breast cancer following primary treatment with seven or more HFNS/week
+T4	location 767 769	UK
+T5	control 878 893	usual care (UC)
+T6	outcome-Measure 920 971	HFNS problem rating at 26 weeks after randomisation
+T8	intervention-participants 1109 1111	63
+T9	total-participants 1072 1075	130
+T10	control-participants 1121 1123	67
+T11	outcome 1151 1177	reduction in the mean HFNS
+T12	outcome 1382 1430	frequency of HFNS, sleep, anxiety and depression
+T7	outcome-Measure 1001 1006	sleep
+T13	outcome-Measure 1008 1018	depression
+T14	outcome-Measure 1020 1027	anxiety
+T15	outcome-Measure 1032 1047	quality of life

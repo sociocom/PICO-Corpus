@@ -1,0 +1,10 @@
+T1	intervention 37 69	web-based, tailored decision aid
+T2	eligibility 74 110	women at high risk for breast cancer
+T3	age 313 322	age 46-74
+T4	eligibility 324 392	with BCRAT 5-year risk ≥ 1.66% and no prior history of breast cancer
+T5	intervention-participants 452 455	690
+T6	intervention-participants 476 479	160
+T7	control 493 500	control
+T8	control-participants 504 507	162
+T10	outcome 825 851	decisional conflict levels
+T12	outcome 1069 1088	decisional conflict

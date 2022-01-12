@@ -1,0 +1,19 @@
+T1	intervention 18 41	sentinel node procedure
+T2	eligibility 50 101	patients with multifocal and unifocal breast cancer
+T3	total-participants 669 673	4000
+T4	intervention-participants 695 698	342
+T5	control-participants 821 824	684
+T6	control 804 817	control group
+T8	outcome 899 912	sentinel node
+T9	iv-bin-percent 931 934	96%
+T10	cv-bin-percent 983 986	98%
+T11	outcome 1054 1064	metastasis
+T12	iv-bin-percent 1044 1047	51%
+T13	cv-bin-percent 1098 1101	28%
+T14	outcome 1137 1185	nodal involvement after a positive sentinel node
+T15	iv-bin-percent 1199 1202	40%
+T16	iv-bin-abs 1204 1206	38
+T17	intervention-participants 1207 1209	95
+T18	cv-bin-percent 1215 1218	39%
+T19	cv-bin-abs 1220 1222	39
+T20	control-participants 1223 1226	101

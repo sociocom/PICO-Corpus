@@ -1,0 +1,19 @@
+T2	intervention 78 93	zoledronic acid
+T3	condition 116 125	bone loss
+T5	total-participants 535 538	551
+T6	eligibility 539 658	postmenopausal women with breast cancer who completed tamoxifen treatment and were undergoing daily letrozole treatment
+T7	intervention-participants 694 697	274
+T8	control 711 718	delayed
+T9	control-participants 720 723	277
+T11	iv-bin-percent 1011 1016	10.2%
+T12	cv-bin-percent 1053 1058	41.2%
+T13	outcome 1249 1288	grade 1/2 elevated creatinine and fever
+T14	outcome 1539 1551	Osteoporosis
+T15	iv-bin-abs 1607 1608	2
+T16	cv-bin-abs 1612 1613	8
+T17	outcome 1705 1719	Bone fractures
+T18	iv-bin-abs 1732 1734	24
+T19	cv-bin-abs 1780 1782	25
+T1	outcome 962 1006	lumbar spine bone mineral density at 5 years
+T4	outcome 1513 1523	arthralgia
+T10	outcome 1528 1537	back pain

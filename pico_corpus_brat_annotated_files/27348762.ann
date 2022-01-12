@@ -1,0 +1,30 @@
+T1	intervention 40 51	Candesartan
+T2	condition 63 102	Trastuzumab-Related Cardiotoxic Effects
+T3	eligibility 106 139	Patients With Early Breast Cancer
+T4	outcome-Measure 497 609	decline in left ventricular ejection fraction (LVEF) of more than 15% or a decrease below the absolute value 45%
+T6	location 737 748	Netherlands
+T7	total-participants 760 763	210
+T8	eligibility 764 988	women with early breast cancer testing positive for human epidermal growth factor receptor 2 (HER2) who were being considered for adjuvant systemic treatment with anthracycline-containing chemotherapy followed by trastuzumab
+T10	control 1038 1045	placebo
+T11	outcome-Measure 1233 1237	LVEF
+T12	outcome-Measure 1269 1421	whether the N-terminal of the prohormone brain natriuretic peptide (NT-proBNP) and high-sensitivity troponin T (hs-TnT) can be used as surrogate markers
+T13	outcome-Measure 1426 1555	whether genetic variability in germline ERBB2 (formerly HER2 or HER2/neu) correlates with trastuzumab-related cardiotoxic effects
+T14	total-participants 1568 1571	206
+T15	age 1632 1643	25-69 years
+T16	intervention-participants 1645 1648	103
+T17	control-participants 1723 1726	103
+T18	age 1611 1619	49 years
+T19	age 1685 1693	50 years
+T20	age 1706 1717	25-69 years
+T21	age 1759 1767	50 years
+T22	age 1780 1791	30-67 years
+T23	outcome 1887 1901	cardiac events
+T24	iv-bin-abs 1984 1986	20
+T25	iv-bin-percent 1995 1998	19%
+T26	cv-bin-abs 2004 2006	16
+T27	cv-bin-percent 2015 2018	16%
+T28	outcome 2039 2084	2-year cumulative incidence of cardiac events
+T29	iv-bin-abs 2089 2093	0.28
+T30	cv-bin-abs 2143 2147	0.16
+T31	outcome 2227 2265	changes in NT-proBNP and hs-TnT values
+T5	outcome 2685 2719	left ventricular ejection fraction

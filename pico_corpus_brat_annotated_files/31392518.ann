@@ -1,0 +1,36 @@
+T1	intervention 48 74	vascular access strategies
+T2	eligibility 550 612	EBC patients receiving non-trastuzumab-containing chemotherapy
+T3	outcome-Measure 847 885	rates of line-associated complications
+T5	control 653 675	central line insertion
+T6	total-participants 890 893	159
+T7	total-participants 915 918	150
+T8	intervention-participants 952 954	77
+T9	control-participants 997 999	73
+T10	outcome 1084 1106	Rates of complications
+T11	outcome 1215 1258	thrombotic events requiring anticoagulation
+T12	iv-bin-abs 1260 1261	1
+T13	iv-bin-percent 1263 1267	0.3%
+T14	cv-bin-abs 1273 1274	3
+T15	cv-bin-percent 1276 1280	1.0%
+T16	outcome 1305 1320	line infections
+T17	iv-bin-abs 1322 1323	0
+T18	iv-bin-percent 1325 1327	0%
+T19	cv-bin-abs 1333 1334	1
+T20	cv-bin-percent 1336 1340	0.3%
+T21	outcome 1365 1374	phlebitis
+T22	iv-bin-abs 1376 1377	2
+T23	iv-bin-percent 1379 1383	0.6%
+T24	cv-bin-abs 1389 1390	0
+T25	cv-bin-percent 1392 1394	0%
+T26	outcome 1421 1441	tissue infiltrations
+T27	iv-bin-abs 1443 1444	4
+T28	iv-bin-percent 1446 1450	1.1%
+T29	cv-bin-abs 1456 1457	1
+T30	cv-bin-percent 1459 1463	0.3%
+T31	outcome 1561 1574	complications
+T32	iv-bin-percent 1495 1499	8.0%
+T33	iv-bin-abs 1501 1502	6
+T34	intervention-participants 1503 1505	75
+T35	cv-bin-percent 1511 1515	7.7%
+T36	cv-bin-abs 1517 1518	5
+T37	control-participants 1519 1521	65

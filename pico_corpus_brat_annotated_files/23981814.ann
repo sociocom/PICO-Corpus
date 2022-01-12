@@ -1,0 +1,15 @@
+T4	total-participants 542 545	155
+T5	eligibility 546 623	postmenopausal women affected by metabolic syndrome at risk of breast cancer,
+T6	intervention-participants 794 796	77
+T7	control 805 812	placebo
+T8	control-participants 814 816	78
+T9	outcome-Measure 886 967	reduction of more than 20% of the HOMA-IR index and of triglycerides serum levels
+T12	outcome 1174 1191	HOMA-IR reduction
+T13	outcome 1275 1294	serum insulin level
+T1	intervention 15 45	inositol and alpha lipoic acid
+T2	outcome 1340 1353	triglycerides
+T3	outcome 1442 1457	HDL cholesterol
+T14	outcome 1558 1577	waist circumference
+T15	outcome 1582 1597	waist-hip ratio
+T10	outcome-Measure 1011 1069	improvement of high-density lipoprotein cholesterol levels
+T11	outcome-Measure 1078 1114	reduction of anthropometric features

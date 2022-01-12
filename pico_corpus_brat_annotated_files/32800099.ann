@@ -1,0 +1,17 @@
+T1	intervention 10 32	mammographic screening
+T2	age 459 470	39-41 years
+T3	control 722 751	standard care of no screening
+T5	total-participants 1577 1584	160 921
+T7	intervention-participants 1647 1653	53 883
+T8	control-participants 1721 1728	106 953
+T10	iv-bin-abs 1960 1962	83
+T11	cv-bin-percent 2017 2020	219
+T12	outcome 2156 2162	deaths
+T13	iv-bin-abs 2152 2155	126
+T14	cv-bin-abs 2170 2173	255
+T15	location 412 425	Great Britain
+T6	outcome 2378 2401	breast cancer mortality
+T9	outcome 1963 1983	breast cancer deaths
+T16	outcome 1929 1953	at 10 years of follow-up
+T17	outcome 2191 2228	after more than 10 years of follow-up
+T4	outcome-Measure 1050 1079	mortality from breast cancers

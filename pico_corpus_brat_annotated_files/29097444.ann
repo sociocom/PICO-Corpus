@@ -1,0 +1,21 @@
+T1	intervention 58 67	Goserelin
+T2	intervention 72 82	Raloxifene
+T6	eligibility 497 538	Women at ≥30% lifetime risk breast cancer
+T7	control 573 613	mammographic screening alone (C-Control)
+T3	outcome-Measure 789 806	therapy adherence
+T8	outcome-Measure 833 857	toxicity/quality of life
+T9	outcome-Measure 859 881	change in bone density
+T10	outcome-Measure 887 907	mammographic density
+T11	total-participants 929 931	75
+T12	iv-bin-abs 999 1001	20
+T13	intervention-participants 1005 1007	38
+T14	iv-bin-percent 1009 1012	52%
+T15	outcome 1023 1059	completed the 2-year period of study
+T16	cv-bin-abs 1085 1087	27
+T17	control-participants 1088 1090	37
+T18	cv-bin-percent 1092 1097	73.0%
+T19	outcome 1100 1108	Dropouts
+T20	outcome 1420 1445	Lumbar spine bone density
+T4	outcome 1345 1373	toxicity and sexual problems
+T5	outcome 1378 1395	change in anxiety
+T21	outcome 1406 1418	cancer worry

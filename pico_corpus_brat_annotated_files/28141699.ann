@@ -1,0 +1,11 @@
+T1	intervention 28 38	Carvedilol
+T2	total-participants 426 428	91
+T3	intervention-participants 565 567	46
+T4	control 572 579	placebo
+T5	control-participants 585 587	45
+T12	outcome 1621 1655	left ventricular ejection fraction
+T13	outcome 1814 1866	left ventricular end systolic volume and LA diameter
+T14	outcome 1980 2031	pulmonary venous peak atrial reversal flow velocity
+T15	outcome 2122 2190	mitral annuli early diastolic (e') and peak systolic (s') velocities
+T16	outcome 2225 2271	E (the peak early diastolic velocity)/e' ratio
+T17	outcome 2435 2444	TnI level

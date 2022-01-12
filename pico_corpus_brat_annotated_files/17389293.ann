@@ -1,0 +1,13 @@
+T1	intervention 0 26	Web-based proactive system
+T2	age 488 502	40 to 75 years
+T4	total-participants 939 943	6665
+T5	intervention-participants 1009 1013	3339
+T6	control-participants 1062 1066	3326
+T7	outcome 1098 1135	screening rate for annual mammography
+T8	iv-bin-percent 1140 1145	64.3%
+T9	cv-bin-percent 1177 1182	55.3%
+T10	outcome 1354 1368	screening rate
+T11	cv-bin-percent 1373 1378	57.5%
+T12	iv-bin-percent 1402 1407	68.1%
+T13	iv-bin-percent 1435 1440	72.2%
+T3	control 531 557	control group (usual care)

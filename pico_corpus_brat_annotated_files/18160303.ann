@@ -1,0 +1,36 @@
+T1	intervention 7 16	docetaxel
+T2	control 24 27	CMF
+T6	outcome 929 960	Grades 3-4 hematological events
+T7	cv-bin-abs 978 980	37
+T8	cv-bin-percent 982 987	69.8%
+T9	iv-bin-abs 993 994	4
+T10	iv-bin-percent 996 1000	8.3%
+T11	outcome 1023 1060	grades 3-4 non-hematological toxicity
+T12	cv-bin-abs 1064 1066	12
+T13	cv-bin-percent 1068 1073	22.6%
+T14	iv-bin-abs 1079 1081	15
+T15	iv-bin-percent 1083 1088	31.2%
+T16	outcome 794 828	grades 3-4 toxic event of any type
+T17	cv-bin-abs 845 847	40
+T18	cv-bin-percent 849 854	75.5%
+T19	iv-bin-abs 860 862	19
+T20	iv-bin-percent 864 869	39.6%
+T21	total-participants 675 678	101
+T23	control-participants 740 742	53
+T24	intervention-participants 767 769	48
+T22	age 709 711	70
+T25	eligibility 251 337	early breast cancer patients, 65-79 years old, with average to high risk of recurrence
+T26	outcome 1499 1507	toxicity
+T5	outcome 1169 1175	anemia
+T27	outcome 1177 1188	neutropenia
+T28	outcome 1190 1206	thrombocytopenia
+T29	outcome 1211 1230	febrile neutropenia
+T3	outcome 1254 1266	Constipation
+T30	outcome 1268 1277	mucositis
+T31	outcome 1279 1285	nausea
+T32	outcome 1290 1298	vomiting
+T4	outcome 1326 1335	diarrhoea
+T33	outcome 1337 1351	abdominal pain
+T34	outcome 1353 1362	dysgeusia
+T35	outcome 1364 1374	neuropathy
+T36	outcome 1379 1393	liver toxicity

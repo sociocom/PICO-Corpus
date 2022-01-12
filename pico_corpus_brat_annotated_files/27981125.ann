@@ -1,0 +1,16 @@
+T1	intervention 13 22	education
+T2	eligibility 329 372	breast cancer patients receiving AC regimen
+T3	condition 108 127	febrile neutropenia
+T5	intervention-participants 514 525	Twenty-five
+T6	control-participants 657 668	Twenty-four
+T8	control 708 720	routine care
+T9	outcome-Measure 752 784	incidence of admission due to FN
+T10	outcome-Measure 790 818	self-care behavior adherence
+T11	outcome-Measure 824 859	knowledge level on prevention of FN
+T12	outcome-Measure 868 900	self-efficacy in self-management
+T13	outcome-Measure 902 924	handwashing competence
+T15	outcome 1272 1300	self-care behavior adherence
+T16	outcome 1390 1412	Handwashing competence
+T4	outcome 1157 1189	incidence of admission due to FN
+T7	outcome 1195 1227	self-efficacy in self-management
+T14	outcome 1237 1266	knowledge on prevention of FN

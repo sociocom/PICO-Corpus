@@ -1,0 +1,24 @@
+T1	intervention 27 47	sentinel-node biopsy
+T2	control 53 80	routine axillary dissection
+T4	total-participants 375 378	516
+T5	eligibility 379 475	patients with primary breast cancer in whom the tumor was less than or equal to 2 cm in diameter
+T6	outcome 771 797	sentinel node was positive
+T7	cv-bin-abs 801 803	83
+T8	control-participants 811 814	257
+T9	cv-bin-percent 858 870	32.3 percent
+T10	iv-bin-abs 880 882	92
+T11	intervention-participants 890 893	259
+T12	iv-bin-percent 931 943	35.5 percent
+T13	outcome 984 1028	overall accuracy of the sentinel-node status
+T14	cv-bin-percent 1033 1045	96.9 percent
+T15	outcome 1051 1062	sensitivity
+T16	cv-bin-percent 1063 1075	91.2 percent
+T17	outcome 1085 1096	specificity
+T18	cv-bin-percent 1097 1108	100 percent
+T20	outcome 1278 1314	events associated with breast cancer
+T21	cv-bin-abs 1275 1277	15
+T22	iv-bin-abs 1352 1354	10
+T23	outcome 1473 1507	cases of overt axillary metastasis
+T3	outcome 706 730	number of sentinel nodes
+T19	outcome 1125 1129	pain
+T24	outcome 1141 1153	arm mobility

@@ -1,0 +1,10 @@
+T1	intervention 0 37	Genetically Predicted Body Mass Index
+T2	total-participants 108 115	145,000
+T3	ethinicity 125 133	European
+T4	intervention-participants 881 888	 46,325
+T5	control-participants 902 909	 42,482
+T6	outcome 1442 1460	breast cancer risk
+T7	outcome 2007 2025	breast cancer risk
+T10	outcome 1608 1621	premenopausal
+T13	outcome 1679 1707	postmenopausal breast cancer
+T8	control 890 898	controls

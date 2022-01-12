@@ -1,0 +1,13 @@
+T1	intervention 25 41	aerobic exercise
+T2	control 629 636	control
+T3	control-participants 660 662	41
+T4	intervention-participants 715 717	38
+T5	intervention-participants 774 776	37
+T6	eligibility 526 594	premenopausal women who were at high risk of developing breast cance
+T8	outcome 1804 1842	IL-12 and TNF-α, the percentage change
+T10	outcome 1926 1942	high-dose (IL-12
+T9	outcome 1875 1890	low-dose (IL-12
+T11	outcome 1231 1262	proinflammatory biomarkers CCL2
+T12	outcome 1382 1387	IL-12
+T13	outcome 1510 1515	TNF-α
+T14	outcome 1649 1676	anti-inflammatory biomarker

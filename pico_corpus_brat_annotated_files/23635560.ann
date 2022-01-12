@@ -1,0 +1,17 @@
+T2	outcome-Measure 593 653	pathologic complete remission (pCR) in the breast and axilla
+T3	total-participants 836 838	56
+T4	intervention-participants 881 883	29
+T5	control-participants 910 912	27
+T6	outcome 948 972	pCR in the breast/axilla
+T7	outcome 1129 1132	pCR
+T8	cv-bin-percent 1134 1137	41%
+T9	iv-bin-percent 1142 1145	69%
+T10	outcome 1248 1257	effective
+T14	cv-bin-percent 1461 1464	67%
+T15	iv-bin-percent 1469 1472	71%
+T16	outcome 1492 1524	luminal-B (HER2-positive) tumors
+T17	cv-bin-percent 1605 1608	21%
+T18	iv-bin-percent 1613 1616	62%
+T11	outcome 1398 1407	pCR rates
+T13	control 885 904	every-3-weeks group
+T1	intervention 0 49	Weekly paclitaxel/carboplatin/trastuzumab therapy

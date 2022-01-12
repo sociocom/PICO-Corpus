@@ -1,0 +1,12 @@
+T1	intervention 27 50	Platycodon grandiflorum
+T3	total-participants 1106 1109	120
+T4	control 1207 1223	placebo granules
+T5	outcome-Measure 1273 1286	heart failure
+T6	outcome-Measure 1352 1371	all-cause mortality
+T7	outcome-Measure 1373 1386	cardiac death
+T8	outcome-Measure 1388 1420	electrocardiogram (ECG) findings
+T9	outcome-Measure 1422 1457	left ventricular diastolic function
+T10	outcome-Measure 1459 1487	longitudinal systolic strain
+T11	outcome-Measure 1492 1502	velocities
+T12	eligibility 916 992	patients with early breast cancer receiving anthracycline-based chemotherapy
+T2	outcome 1832 1867	cardioprotective effects and safety

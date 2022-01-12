@@ -1,0 +1,18 @@
+T1	intervention 23 38	lipegfilgrastim
+T2	control 46 59	pegfilgrastim
+T3	eligibility 607 717	Patients with high-risk stage II, III, or IV breast cancer and an absolute neutrophil count ≥1.5 × 109 cells/L
+T6	iv-cont-mean 1080 1083	0.7
+T7	cv-cont-mean 1088 1096	0.8 days
+T9	iv-bin-percent 1221 1224	56%
+T10	cv-bin-percent 1229 1232	49%
+T8	outcome 1183 1204	no severe neutropenia
+T11	outcome 1348 1367	febrile neutropenia
+T12	cv-bin-abs 1380 1385	three
+T13	iv-bin-abs 1438 1442	zero
+T14	outcome 1477 1504	Drug-related adverse events
+T15	iv-bin-percent 1547 1550	28%
+T16	cv-bin-percent 1555 1558	26%
+T4	outcome-Measure 931 976	duration of severe neutropenia during cycle 1
+T5	outcome 991 1026	mean duration of severe neutropenia
+T17	intervention-participants 798 801	101
+T18	control-participants 825 828	101

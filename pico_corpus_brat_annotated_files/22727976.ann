@@ -1,0 +1,45 @@
+T1	intervention 22 31	nebivolol
+T2	condition 40 76	anthracycline-induced cardiomyopathy
+T3	total-participants 317 319	45
+T4	intervention-participants 420 422	27
+T5	control 427 434	placebo
+T6	control-participants 438 440	18
+T9	outcome 632 659	echocardiographic variables
+T11	outcome 1060 1064	LVEF
+T14	outcome 1140 1156	NT-pro-BNP level
+T10	outcome 711 745	left ventricular (LV) end-systolic
+T15	outcome 750 773	end-diastolic diameters
+T16	outcome 695 705	At 6-month
+T12	cv-cont-mean 1091 1095	57.5
+T17	cv-cont-sd 1098 1102	5.6%
+T13	iv-cont-mean 1107 1111	63.8
+T18	iv-cont-sd 1114 1118	3.9%
+T19	cv-cont-mean 813 817	29.7
+T20	cv-cont-sd 820 823	3.4
+T21	outcome 1128 1138	at 6-month
+T22	cv-cont-mean 827 831	33.4
+T23	cv-cont-sd 834 839	4.5mm
+T24	outcome 806 811	LVESD
+T25	outcome 841 846	LVEDD
+T26	cv-cont-mean 848 852	47.2
+T27	cv-cont-sd 855 858	3.8
+T28	cv-cont-mean 862 866	52.0
+T29	cv-cont-sd 869 874	4.6mm
+T30	outcome 940 945	LVESD
+T31	outcome 983 988	LVEDD
+T32	iv-cont-mean 947 951	30.4
+T33	iv-cont-sd 954 957	3.5
+T34	iv-cont-mean 961 965	31.0
+T35	iv-cont-sd 968 973	3.6mm
+T36	iv-cont-mean 990 994	47.0
+T37	iv-cont-sd 997 1000	4.4
+T38	iv-cont-mean 1004 1008	47.1
+T39	iv-cont-sd 1011 1016	4.0mm
+T40	iv-cont-mean 1197 1200	147
+T41	iv-cont-sd 1203 1205	57
+T42	iv-cont-mean 1209 1212	152
+T43	iv-cont-sd 1215 1224	69 pmol/l
+T44	cv-cont-mean 1275 1278	144
+T45	cv-cont-sd 1281 1283	66
+T46	cv-cont-mean 1287 1290	204
+T47	cv-cont-sd 1293 1302	73 pmol/l

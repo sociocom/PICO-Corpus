@@ -1,0 +1,16 @@
+T1	intervention 36 46	famotidine
+T2	total-participants 391 401	Forty-five
+T3	eligibility 402 439	patients with operable breast cancers
+T4	intervention-participants 441 443	25
+T5	control-participants 491 493	20
+T6	control 494 502	controls
+T7	outcome 594 610	Significant TILs
+T8	iv-bin-percent 624 627	75%
+T9	iv-bin-abs 629 631	18
+T10	intervention-participants 632 634	24
+T11	cv-bin-percent 659 662	35%
+T12	cv-bin-abs 664 665	7
+T13	control-participants 666 668	20
+T14	outcome 976 991	disease relapse
+T15	outcome 1339 1360	disease free survival
+T16	outcome 1527 1548	disease free survival

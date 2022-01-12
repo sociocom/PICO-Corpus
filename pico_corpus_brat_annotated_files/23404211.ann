@@ -1,0 +1,25 @@
+T1	intervention 12 38	everolimus with exemestane
+T2	control 46 62	exemestane alone
+T3	ethinicity 66 71	Asian
+T4	eligibility 72 140	patients with HER2-negative, hormone-receptor-positive breast cancer
+T6	outcome-Measure 706 737	progression-free survival (PFS)
+T8	total-participants 839 842	143
+T9	intervention-participants 859 861	98
+T10	control-participants 885 887	45
+T5	control 664 683	placebo (PBO) + EXE
+T11	outcome 956 966	median PFS
+T14	outcome 1046 1056	Median PFS
+T20	iv-cont-median 1198 1202	8.48
+T21	cv-cont-median 1210 1221	4.14 months
+T22	iv-cont-median 1241 1245	7.33
+T23	cv-cont-median 1253 1264	2.83 months
+T25	outcome 1280 1301	in non-Asian patients
+T28	outcome 1482 1517	Grade 1/2 interstitial lung disease
+T29	outcome 1562 1577	Quality of life
+T30	ethinicity 562 571	non-Asian
+T12	outcome 1141 1151	Median PFS
+T13	outcome 1319 1343	grade 3/4 adverse events
+T7	outcome-Measure 768 784	overall survival
+T15	outcome-Measure 786 799	response rate
+T16	outcome-Measure 801 822	clinical benefit rate
+T17	outcome-Measure 828 834	safety

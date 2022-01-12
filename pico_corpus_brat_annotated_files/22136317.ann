@@ -1,0 +1,21 @@
+T1	ethinicity 12 20	Japanese
+T2	eligibility 449 522	Patients with large, potentially operable, locally-advanced breast cancer
+T3	intervention 90 101	anastrozole
+T4	control 105 114	tamoxifen
+T6	outcome 1258 1268	recurrence
+T7	iv-bin-abs 1189 1190	4
+T8	intervention-participants 1191 1193	48
+T9	iv-bin-percent 1195 1197	8%
+T10	cv-bin-abs 1215 1217	25
+T11	control-participants 1218 1220	49
+T12	cv-bin-percent 1222 1225	51%
+T13	outcome 1308 1332	recurrence-free survival
+T16	outcome 1460 1476	overall survival
+T18	iv-bin-abs 1539 1540	2
+T19	intervention-participants 1541 1543	48
+T20	iv-bin-percent 1545 1547	4%
+T21	cv-bin-abs 1553 1555	10
+T22	control-participants 1556 1558	49
+T23	cv-bin-percent 1560 1563	20%
+T24	outcome 1565 1571	deaths
+T14	outcome 1677 1692	recurrence-free

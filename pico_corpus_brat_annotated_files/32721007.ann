@@ -1,0 +1,40 @@
+T1	total-participants 633 639	27 347
+T2	eligibility 640 660	postmenopausal women
+T3	age 666 685	50 through 79 years
+T4	eligibility 686 755	with no prior breast cancer and negative baseline screening mammogram
+T5	location 783 785	US
+T7	total-participants 877 883	16 608
+T8	intervention-participants 905 909	8506
+T9	intervention 951 983	conjugated equine estrogen (CEE)
+T10	control-participants 1039 1043	8102
+T11	control 1045 1052	placebo
+T12	total-participants 1077 1083	10 739
+T13	intervention-participants 1115 1119	5310
+T14	control-participants 1175 1179	5429
+T15	outcome-Measure 1394 1417	breast cancer incidence
+T16	outcome-Measure 1506 1562	deaths from breast cancer and deaths after breast cancer
+T17	total-participants 1570 1576	27 347
+T18	age 1658 1680	63.4 years [7.2 years]
+T19	outcome 1926 1949	breast cancer incidence
+T20	intervention-participants 1833 1839	10 739
+T21	iv-bin-abs 1955 1958	238
+T22	iv-bin-percent 1983 1988	0.30%
+T23	cv-bin-abs 1993 1996	296
+T24	cv-bin-percent 2021 2026	0.37%
+T26	iv-bin-abs 2169 2171	30
+T27	iv-bin-percent 2207 2213	0.031%
+T28	cv-bin-abs 2218 2220	46
+T29	cv-bin-percent 2256 2262	0.046%
+T30	control-participants 2357 2363	16 608
+T31	outcome 2439 2462	breast cancer incidence
+T32	iv-bin-abs 2468 2471	584
+T33	iv-bin-percent 2496 2501	0.45%
+T34	cv-bin-abs 2506 2509	447
+T35	cv-bin-percent 2534 2539	0.36%
+T37	iv-bin-abs 2642 2644	71
+T38	iv-bin-percent 2680 2686	0.045%
+T39	cv-bin-abs 2691 2693	53
+T40	cv-bin-percent 2729 2735	0.035%
+T25	outcome 2140 2163	breast cancer mortality
+T36	outcome 2613 2636	breast cancer mortality
+T6	intervention 15 41	Menopausal Hormone Therapy

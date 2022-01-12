@@ -1,0 +1,46 @@
+T1	intervention 34 65	regional or general anaesthesia
+T2	location 782 862	Argentina, Austria, China, Germany, Ireland, New Zealand, Singapore, and the USA
+T3	age 875 884	<85 years
+T4	eligibility 886 946	having potentially curative primary breast cancer resections
+T5	control 1055 1074	general anaesthesia
+T6	outcome-Measure 1135 1179	local or metastatic breast cancer recurrence
+T7	outcome-Measure 1207 1248	incisional pain at 6 months and 12 months
+T9	total-participants 1489 1493	2132
+T10	intervention-participants 1569 1573	1043
+T11	control-participants 1626 1630	1065
+T12	iv-bin-abs 1833 1836	102
+T13	iv-bin-percent 1838 1841	10%
+T14	outcome 1843 1854	recurrences
+T15	cv-bin-abs 1884 1887	111
+T16	cv-bin-percent 1889 1892	10%
+T17	outcome 1995 2010	Incisional pain
+T18	iv-bin-abs 2027 2030	442
+T19	iv-bin-percent 2032 2035	52%
+T20	intervention-participants 2040 2043	856
+T21	cv-bin-abs 2100 2103	456
+T22	cv-bin-percent 2105 2108	52%
+T23	control-participants 2113 2116	872
+T24	outcome 2159 2170	at 6 months
+T25	iv-bin-abs 2179 2182	239
+T26	iv-bin-percent 2184 2187	28%
+T27	intervention-participants 2192 2195	854
+T28	cv-bin-abs 2209 2212	232
+T29	cv-bin-percent 2214 2217	27%
+T30	control-participants 2222 2225	852
+T31	outcome 2250 2262	at 12 months
+T32	outcome 2333 2356	Neuropathic breast pain
+T33	iv-bin-abs 2417 2419	87
+T34	iv-bin-percent 2421 2424	10%
+T35	intervention-participants 2429 2432	859
+T36	cv-bin-abs 2489 2491	89
+T37	cv-bin-percent 2493 2496	10%
+T38	control-participants 2501 2504	870
+T39	outcome 2547 2558	at 6 months
+T40	iv-bin-abs 2567 2569	57
+T41	iv-bin-percent 2571 2573	7%
+T42	intervention-participants 2578 2581	857
+T43	cv-bin-abs 2595 2597	57
+T44	cv-bin-percent 2599 2601	7%
+T45	control-participants 2606 2609	854
+T46	outcome 2634 2646	at 12 months
+T8	outcome 2917 2939	incisional breast pain

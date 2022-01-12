@@ -1,0 +1,15 @@
+T1	intervention 29 38	metformin
+T5	eligibility 1220 1330	postmenopausal patients with breast cancer and without diabetes who have basal testosterone levels ≥0.28 ng/mL
+T6	total-participants 1358 1361	125
+T8	total-participants 1844 1846	96
+T9	intervention-participants 1874 1876	43
+T10	control-participants 1907 1909	53
+T11	outcome 1999 2012	insulin level
+T12	outcome 2209 2222	insulin level
+T13	outcome 2248 2266	testosterone level
+T4	total-participants 1445 1448	108
+T2	condition 42 72	serum testosterone and insulin
+T7	outcome 2014 2027	HOMA-IR index
+T14	outcome 2085 2103	testosterone level
+T15	outcome 2109 2128	free androgen index
+T3	control 1796 1816	metformin 1000 mg /d

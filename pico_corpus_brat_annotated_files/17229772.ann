@@ -1,0 +1,12 @@
+T1	intervention 0 11	Venlafaxine
+T2	control 27 36	clonidine
+T3	eligibility 307 449	breast cancer patients suffering from hot flashes at least twice a day, who were not taking any medication against hypertension and depression
+T6	total-participants 812 814	80
+T7	total-participants 847 849	64
+T8	control-participants 889 901	Thirty-three
+T9	intervention-participants 925 927	31
+T10	outcome 1057 1083	median hot flash frequency
+T5	condition 53 64	hot flashes
+T11	iv-cont-median 1095 1098	7.6
+T12	cv-cont-median 1158 1162	4.85
+T4	outcome-Measure 586 610	frequency of hot flashes

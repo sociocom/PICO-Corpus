@@ -1,0 +1,17 @@
+T1	intervention 29 60	anastrozole plus tegafur-uracil
+T2	ethinicity 352 360	Japanese
+T3	eligibility 361 424	women with ER-positive, HER2-negative, T2,N0-1,M0 breast cancer
+T4	control 714 742	anastrozole (as above) alone
+T6	outcome-Measure 869 930	proportion of patients with best overall response of CR or PR
+T7	total-participants 1127 1129	57
+T8	intervention-participants 1170 1172	29
+T9	control-participants 1190 1192	28
+T11	iv-bin-abs 1369 1374	39.3%
+T12	cv-bin-percent 1398 1403	14.3%
+T13	outcome 1493 1508	tumor shrinkage
+T14	iv-cont-mean 1536 1540	31.0
+T15	cv-cont-mean 1545 1550	14.2%
+T16	outcome 1582 1606	Grade ≥ 3 adverse events
+T17	iv-bin-percent 1668 1672	17.2
+T18	cv-bin-percent 1677 1679	0%
+T5	outcome 1365 1367	RR

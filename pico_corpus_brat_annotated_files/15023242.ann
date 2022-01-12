@@ -1,0 +1,26 @@
+T1	intervention 0 10	Paclitaxel
+T2	total-participants 562 565	240
+T4	control-participants 673 676	178
+T5	eligibility 566 606	patients treated in 6 consecutive trials
+T6	intervention-participants 826 828	62
+T8	cv-cont-median 1063 1073	148 months
+T9	iv-cont-median 1112 1121	45 months
+T10	outcome 1156 1198	Estrogen receptor (ER) status was negative
+T11	cv-bin-abs 1202 1204	58
+T12	cv-bin-percent 1212 1215	33%
+T13	iv-bin-abs 1232 1234	40
+T14	iv-bin-percent 1242 1245	65%
+T15	outcome 1321 1368	objective response rates (complete and partial)
+T16	cv-bin-percent 1392 1395	74%
+T17	iv-bin-percent 1406 1409	82%
+T18	outcome 1416 1444	median overall survival (OS)
+T19	outcome 1449 1480	progression-free survival (PFS)
+T20	outcome 1631 1640	median OS
+T21	cv-cont-median 1651 1660	32 months
+T22	iv-cont-median 1671 1680	54 months
+T23	outcome 1692 1702	median PFS
+T24	cv-cont-median 1713 1722	18 months
+T25	iv-cont-median 1733 1742	27 months
+T26	total-participants 561 564	240
+T3	outcome 1024 1050	median follow-up durations
+T7	control 747 796	FAC (5-fluorouracil/doxorubicin/cyclophosphamide)

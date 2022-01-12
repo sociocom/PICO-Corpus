@@ -1,0 +1,25 @@
+T1	location 127 133	French
+T2	total-participants 367 371	3653
+T3	intervention-participants 398 402	2603
+T4	intervention-participants 424 427	682
+T6	intervention 437 451	hormonotherapy
+T7	control-participants 457 460	368
+T8	control 465 486	no systemic treatment
+T10	iv-bin-abs 830 835	Eight
+T11	outcome 836 853	cases of leukemia
+T12	cv-bin-abs 898 901	one
+T13	outcome 946 975	risk of developing a leukemia
+T14	iv-bin-percent 980 985	0.34%
+T15	outcome 1090 1107	leukemia subtypes
+T16	outcome 1114 1118	AML2
+T18	iv-bin-percent 1120 1123	two
+T19	iv-bin-abs 1132 1135	one
+T20	iv-bin-abs 1144 1149	three
+T21	iv-bin-abs 1160 1163	two
+T22	outcome 1126 1130	AML3
+T23	outcome 1138 1142	AML4
+T24	outcome 1155 1158	ALL
+T17	eligibility 67 98	operable breast cancer patients
+T25	condition 0 18	Secondary leukemia
+T9	outcome 1308 1339	incidence of secondary leukemia
+T27	intervention 25 63	epirubicin-based adjuvant chemotherapy

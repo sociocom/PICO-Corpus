@@ -1,0 +1,13 @@
+T2	eligibility 323 396	Women who were within 4-12 weeks of surgery for stage I-III breast cancer
+T5	control 479 496	patient education
+T10	total-participants 998 1001	104
+T11	total-participants 1009 1011	82
+T12	ethinicity 1087 1096	Caucasian
+T13	age 1058 1076	53.6 (32-82) years
+T15	outcome 1597 1614	physical function
+T9	condition 34 57	well-being and function
+T3	outcome 1650 1665	quality of life
+T4	outcome 1691 1701	arm volume
+T16	intervention 429 462	exercise and lymphedema education
+T1	outcome 1411 1435	Changes in FACT-B scores
+T14	outcome 1440 1451	arm volumes

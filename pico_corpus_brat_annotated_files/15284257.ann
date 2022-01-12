@@ -1,0 +1,15 @@
+T3	outcome 1436 1455	treatment causality
+T4	outcome 1291 1338	Asymptomatic left ventricular dysfunction (LVD)
+T5	iv-bin-abs 1358 1360	18
+T6	cv-bin-abs 1391 1394	one
+T8	total-participants 622 648	One hundred fifty patients
+T9	intervention-participants 662 664	65
+T10	control-participants 679 681	85
+T12	control 666 673	FEC 100
+T13	eligibility 186 213	node-positive breast cancer
+T14	location 215 221	French
+T15	iv-bin-abs 1153 1157	five
+T16	iv-bin-abs 1195 1198	two
+T18	intervention 74 160	fluorouracil, epirubicin, and cyclophosphamide, with either 50 or 100 mg of epirubicin
+T1	outcome 1127 1149	LVEF was less than 50%
+T2	outcome 1220 1250	congestive heart failure (CHF)

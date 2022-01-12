@@ -1,0 +1,20 @@
+T1	intervention 30 40	marimastat
+T2	control 48 55	placebo
+T3	total-participants 425 449	One hundred seventy-nine
+T4	outcome 849 852	PFS
+T5	intervention-participants 534 537	114
+T6	control-participants 557 559	65
+T7	iv-cont-median 862 872	3.1 months
+T8	cv-cont-median 875 885	4.7 months
+T11	outcome 955 971	overall survival
+T12	iv-cont-median 981 992	26.6 months
+T13	cv-cont-median 995 1006	24.7 months
+T16	outcome 1135 1178	grade 2 or 3 musculoskeletal toxicity (MST)
+T17	iv-bin-percent 1301 1304	63%
+T18	cv-bin-percent 1307 1310	22%
+T19	outcome 1396 1404	survival
+T20	iv-cont-median 1462 1473	22.5 months
+T21	cv-cont-median 1476 1487	28.2 months
+T24	eligibility 59 165	patients with metastatic breast cancer who have responding or stable disease after first-line chemotherapy
+T9	outcome 1643 1659	grade 2 to 3 MST
+T10	outcome 1701 1704	PFS

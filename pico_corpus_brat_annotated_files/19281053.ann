@@ -1,0 +1,12 @@
+T1	intervention 109 119	raloxifene
+T2	outcome 622 635	fracture risk
+T5	control 728 735	placebo
+T8	iv-bin-percent 818 821	76%
+T9	outcome 943 978	incidence of invasive breast cancer
+T10	iv-bin-abs 983 987	4.30
+T11	intervention-participants 992 996	1000
+T12	cv-bin-abs 1029 1033	4.41
+T13	control-participants 1038 1042	1000
+T3	outcome 839 886	incidence of invasive ER-positive breast cancer
+T4	outcome 1243 1261	uterine malignancy
+T6	outcome 1266 1281	clotting events

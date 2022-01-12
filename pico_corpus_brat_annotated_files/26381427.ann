@@ -1,0 +1,7 @@
+T1	total-participants 392 395	152
+T2	eligibility 396 499	patients with early-stage breast cancer scheduled to received adjuvant anthracycline-based chemotherapy
+T3	intervention 24 58	guideline-based antiemetic therapy
+T4	total-participants 973 976	152
+T5	condition 62 89	nausea and vomiting control
+T6	outcome 1181 1227	Complete control of acute and delayed vomiting
+T7	outcome 1346 1390	complete control of acute and delayed nausea

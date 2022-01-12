@@ -1,0 +1,34 @@
+T1	intervention 0 11	Palbociclib
+T2	total-participants 402 405	521
+T4	control 671 694	placebo and fulvestrant
+T5	outcome-Measure 807 832	progression-free survival
+T7	outcome 1133 1165	median progression-free survival
+T8	iv-cont-median 1170 1180	9.2 months
+T9	cv-cont-median 1267 1277	3.8 months
+T12	outcome 1426 1453	grade 3 or 4 adverse events
+T13	outcome 1496 1507	neutropenia
+T14	iv-bin-percent 1509 1514	62.0%
+T15	cv-bin-percent 1520 1524	0.6%
+T16	outcome 1560 1570	leukopenia
+T17	iv-bin-percent 1572 1577	25.2%
+T18	cv-bin-percent 1582 1586	0.6%
+T19	outcome 1589 1595	anemia
+T20	iv-bin-percent 1597 1601	2.6%
+T21	cv-bin-percent 1606 1610	1.7%
+T22	outcome 1613 1629	thrombocytopenia
+T23	iv-bin-percent 1631 1635	2.3%
+T24	cv-bin-percent 1640 1642	0%
+T25	outcome 1649 1656	fatigue
+T26	iv-bin-percent 1658 1662	2.0%
+T27	cv-bin-percent 1667 1671	1.2%
+T28	outcome 1674 1693	Febrile neutropenia
+T29	iv-bin-percent 1710 1714	0.6%
+T30	cv-bin-percent 1751 1755	0.6%
+T31	outcome 1789 1834	rate of discontinuation due to adverse events
+T32	iv-bin-percent 1839 1843	2.6%
+T33	cv-bin-percent 1865 1869	1.7%
+T3	outcome-Measure 864 880	overall survival
+T6	outcome-Measure 882 900	objective response
+T10	outcome-Measure 902 926	rate of clinical benefit
+T11	outcome-Measure 928 953	patient-reported outcomes
+T34	outcome-Measure 959 965	safety

@@ -1,0 +1,19 @@
+T1	intervention 0 31	Focused microwave thermotherapy
+T2	iv-bin-abs 676 680	eigh
+T3	outcome 775 797	partial tumor response
+T4	intervention-participants 685 688	ten
+T5	eligibility 1109 1157	patients with early-stage invasive breast cancer
+T6	outcome 1256 1278	positive tumor margins
+T7	iv-bin-abs 1230 1231	0
+T8	intervention-participants 1235 1237	34
+T9	iv-bin-percent 1239 1241	0%
+T10	outcome 1288 1304	positive margins
+T11	cv-bin-abs 1317 1318	4
+T12	control-participants 1322 1324	41
+T13	cv-bin-percent 1326 1330	9.8%
+T14	outcome 1467 1496	median tumor volume reduction
+T15	iv-bin-percent 1501 1506	88.4%
+T16	iv-bin-percent 1512 1514	14
+T17	cv-bin-percent 1587 1592	58.8%
+T18	cv-bin-abs 1598 1600	10
+T19	control 1050 1081	breast-conserving surgery (BCS)

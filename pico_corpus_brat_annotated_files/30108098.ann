@@ -1,0 +1,10 @@
+T1	intervention 11 49	Exercise and Cardiorespiratory Fitness
+T2	eligibility 76 96	Postmenopausal Women
+T3	intervention-participants 667 670	153
+T5	control-participants 753 756	153
+T6	control 757 765	controls
+T8	outcome 949 974	cardiorespiratory fitness
+T10	outcome 1036 1051	total estradiol
+T11	outcome 1146 1196	circulating concentrations of estrogen metabolites
+T12	outcome 1321 1409	association between increased fitness and reduced concentration of 2-pathway metabolites
+T9	outcome 1005 1017	at 12 months

@@ -1,0 +1,24 @@
+T1	intervention 0 29	Ixabepilone plus capecitabine
+T2	eligibility 697 741	anthracycline/taxane-pretreated MBC patients
+T3	control 802 820	capecitabine alone
+T5	total-participants 872 875	606
+T6	total-participants 903 907	1349
+T8	outcome 1196 1198	OS
+T9	iv-cont-median 1208 1212	12.3
+T10	cv-cont-mean 1217 1227	9.5 months
+T13	outcome 1252 1255	PFS
+T14	iv-cont-median 1265 1268	4.6
+T15	cv-cont-median 1273 1283	3.1 months
+T19	iv-bin-percent 1316 1318	35
+T20	cv-bin-percent 1323 1326	19%
+T21	outcome 1434 1443	median OS
+T22	iv-cont-median 1447 1451	16.7
+T23	cv-cont-median 1459 1470	16.2 months
+T26	outcome 1495 1505	median PFS
+T27	iv-cont-median 1509 1512	6.0
+T28	cv-cont-median 1520 1530	4.4 months
+T32	iv-bin-percent 1566 1568	45
+T33	cv-bin-percent 1576 1579	28%
+T34	outcome 1585 1599	safety profile
+T7	outcome 1559 1562	ORR
+T12	outcome 1311 1314	ORR

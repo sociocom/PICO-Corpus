@@ -1,0 +1,14 @@
+T1	intervention 0 28	Thoracic paravertebral block
+T2	total-participants 314 326	Eighty-eight
+T3	total-participants 523 525	79
+T5	control-participants 594 596	41
+T8	outcome 885 927	median consumption of fentanyl in the PACU
+T9	iv-cont-median 995 1003	0 microg
+T10	cv-cont-median 1033 1043	100 microg
+T11	outcome 1134 1146	pain > or =3
+T12	iv-bin-abs 1188 1190	13
+T13	cv-bin-abs 1194 1196	31
+T4	intervention-participants 577 579	38
+T6	outcome 1240 1251	pain scores
+T14	outcome 1255 1280	consumption of analgesics
+T15	control 452 467	isotonic saline

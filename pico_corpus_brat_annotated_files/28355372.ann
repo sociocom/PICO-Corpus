@@ -1,0 +1,21 @@
+T1	intervention 41 52	patent blue
+T2	control 57 71	methylene blue
+T3	total-participants 389 392	142
+T4	eligibility 393 432	patients with invasive breast carcinoma
+T5	intervention-participants 434 444	Sixty-nine
+T6	control-participants 491 493	71
+T8	iv-bin-abs 843 845	47
+T9	iv-bin-percent 853 858	68.1%
+T10	cv-bin-abs 875 877	43
+T11	cv-bin-percent 879 884	60.6%
+T7	outcome 819 839	SLNs were identified
+T12	outcome 907 925	SLNs were affected
+T13	iv-bin-abs 929 931	22
+T14	iv-bin-percent 939 944	51.2%
+T15	cv-bin-abs 961 963	21
+T16	cv-bin-percent 965 970	48.8%
+T17	outcome 997 1027	SLN was the only node affected
+T18	iv-bin-abs 1031 1033	12
+T19	iv-bin-percent 1041 1046	54.5%
+T20	cv-bin-abs 1063 1066	six
+T21	cv-bin-percent 1068 1073	33.3%

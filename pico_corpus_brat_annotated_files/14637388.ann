@@ -1,0 +1,18 @@
+T1	intervention 0 40	"Tumour marker guided" salvage treatment
+T4	total-participants 588 590	68
+T5	intervention-participants 653 663	Thirty-six
+T6	control-participants 875 877	32
+T7	control 949 971	conventional treatment
+T11	outcome 1362 1377	survival curves
+T12	iv-bin-percent 1487 1490	28%
+T13	cv-bin-percent 1495 1497	9%
+T14	outcome 1453 1465	at 36 months
+T15	outcome 1511 1523	at 84 months
+T16	iv-bin-percent 1540 1543	42%
+T17	cv-bin-percent 1548 1551	19%
+T18	eligibility 604 636	patients with distant metastases
+T2	outcome 1186 1195	lead time
+T3	iv-cont-mean 1283 1287	17.3
+T8	iv-cont-sd 1292 1296	13.1
+T9	cv-cont-mean 1301 1304	2.9
+T10	cv-cont-sd 1309 1319	2.9 months

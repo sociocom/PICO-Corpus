@@ -1,0 +1,17 @@
+T1	intervention 30 55	Bioimpedance Spectroscopy
+T2	control 63 79	Tape Measurement
+T3	condition 102 112	Lymphedema
+T4	outcome-Measure 819 912	rate of progression to clinical lymphedema requiring complex decongestive physiotherapy (CDP)
+T5	total-participants 1145 1148	508
+T6	outcome 1289 1304	rate of trigger
+T7	iv-bin-percent 1306 1311	15.8%
+T8	cv-bin-percent 1316 1321	28.5%
+T9	outcome 1345 1361	times to trigger
+T10	outcome 1402 1439	triggering patients progressed to CDP
+T11	cv-bin-abs 1441 1443	10
+T12	cv-bin-percent 1461 1466	14.7%
+T13	iv-bin-abs 1472 1473	2
+T14	iv-bin-percent 1492 1496	4.9%
+T15	iv-cont-median 1363 1366	9.5
+T16	cv-cont-median 1371 1381	2.8 months
+T17	eligibility 654 691	Patients requiring early intervention

@@ -1,0 +1,18 @@
+T1	intervention 38 78	neoadjuvant trastuzumab and/or lapatinib
+T2	eligibility 348 405	participants with early-stage HER2-positive breast cancer
+T3	total-participants 411 414	128
+T4	location 439 452	United States
+T5	control-participants 589 591	34
+T6	intervention-participants 612 614	36
+T8	intervention-participants 634 636	58
+T7	control 569 580	trastuzumab
+T9	outcome-Measure 880 922	rate of pathologic complete response (pCR)
+T10	outcome 1028 1037	pCR rates
+T11	cv-bin-percent 1049 1052	47%
+T12	iv-bin-percent 1099 1102	52%
+T13	iv-bin-percent 1149 1152	25%
+T14	cv-bin-percent 1184 1188	100%
+T15	iv-bin-percent 1281 1284	69%
+T16	iv-bin-percent 1302 1305	74%
+T17	outcome 1205 1247	completed all protocol-specified treatment
+T18	outcome 1601 1609	pCR rate

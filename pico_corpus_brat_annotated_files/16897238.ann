@@ -1,0 +1,23 @@
+T2	age 525 536	28-84 years
+T3	eligibility 538 576	undergoing major breast cancer surgery
+T5	control 686 722	fentanyl-free sevoflurane anesthesia
+T6	intervention-participants 679 681	25
+T7	control-participants 731 733	26
+T8	outcome 1198 1218	postoperative nausea
+T9	iv-bin-percent 1220 1223	68%
+T10	cv-bin-percent 1227 1230	27%
+T11	outcome 1236 1244	vomiting
+T12	iv-bin-percent 1246 1249	32%
+T13	cv-bin-percent 1253 1255	8%
+T14	outcome 1341 1416	length of time from postanesthesia care unit (PACU) admission to ambulation
+T15	intervention-participants 1459 1461	23
+T16	iv-cont-median 1466 1473	195 min
+T17	cv-cont-mean 1509 1516	141 min
+T18	iv-bin-abs 1532 1535	Two
+T1	outcome 1557 1592	could not walk during the PACU stay
+T19	intervention 28 50	sevoflurane anesthesia
+T20	condition 79 112	postoperative nausea and vomiting
+T4	iv-cont-q1 1475 1478	158
+T22	cv-cont-q1 1518 1521	101
+T23	cv-cont-q3 1522 1529	175 min
+T21	iv-cont-q3 1479 1486	219 min

@@ -1,0 +1,13 @@
+T1	intervention 14 65	gonadotropin-releasing hormone analogue triptorelin
+T2	condition 87 123	chemotherapy-induced early menopause
+T3	eligibility 590 671	young patients with breast cancer undergoing adjuvant or neoadjuvant chemotherapy
+T4	location 907 912	Italy
+T5	total-participants 926 929	281
+T7	eligibility 996 1115	premenopausal women with stage I through III breast cancer who were candidates for adjuvant or neoadjuvant chemotherapy
+T9	control 1182 1200	chemotherapy alone
+T11	control-participants 2030 2033	133
+T12	intervention-participants 2084 2087	148
+T8	outcome 2245 2268	rate of early menopause
+T13	cv-bin-percent 2273 2278	25.9%
+T14	iv-bin-percent 2315 2319	8.9%
+T15	outcome 2466 2499	treatment-related early menopause

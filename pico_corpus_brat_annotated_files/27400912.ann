@@ -1,0 +1,10 @@
+T1	intervention 74 83	tamoxifen
+T2	intervention-participants 949 952	369
+T3	control-participants 963 966	662
+T4	intervention-participants 982 985	148
+T5	control-participants 996 999	268
+T6	outcome 1161 1182	per-allele odds ratio
+T9	outcome 1257 1267	rs10030044
+T10	outcome 1336 1345	rs8060157
+T11	outcome 1378 1388	rs10030044
+T7	control 967 975	controls

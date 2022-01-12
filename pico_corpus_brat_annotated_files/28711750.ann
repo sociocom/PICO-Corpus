@@ -1,0 +1,12 @@
+T1	intervention 0 34	Web-Based Tailored Psychoeducation
+T3	location 636 651	The Netherlands
+T4	eligibility 652 702	who recently completed (neo-)adjuvant chemotherapy
+T5	control 729 742	standard care
+T7	outcome-Measure 939 1000	self-report questions on optimism and control over the future
+T8	outcome-Measure 1020 1046	feelings of being informed
+T9	outcome-Measure 1052 1078	acceptance of the illness.
+T10	total-participants 1171 1174	138
+T12	outcome 1503 1549	increased optimism and control over the future
+T11	iv-bin-abs 1220 1222	67
+T13	intervention-participants 1226 1228	69
+T14	outcome 1230 1260	visited ENCOURAGE as requested

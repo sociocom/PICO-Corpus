@@ -1,0 +1,16 @@
+T1	intervention 49 64	tea consumption
+T2	ethinicity 114 121	Chinese
+T3	location 131 140	Hong Kong
+T4	intervention-participants 455 458	756
+T5	control-participants 492 495	789
+T6	control 505 513	controls
+T7	outcome 891 921	habits of regular tea drinking
+T8	iv-bin-abs 825 828	439
+T9	iv-bin-percent 830 835	58.1%
+T10	cv-bin-abs 861 864	434
+T11	cv-bin-percent 866 871	55.0%
+T16	outcome 1114 1136	risk for breast cancer
+T17	outcome 1137 1160	in pre-menopausal women
+T20	outcome 1211 1235	in post-menopausal women
+T23	outcome 1269 1316	positive association among postmenopausal women
+T12	eligibility 68 107	menopausal and estrogen receptor status

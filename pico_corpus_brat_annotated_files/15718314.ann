@@ -1,0 +1,24 @@
+T1	intervention 34 47	pegfilgrastim
+T2	condition 57 76	febrile neutropenia
+T3	control 359 366	placebo
+T4	outcome-Measure 503 556	percentage of patients developing febrile neutropenia
+T5	outcome-Measure 716 796	incidence of hospitalizations associated with a diagnosis of febrile neutropenia
+T7	outcome-Measure 873 926	ability to maintain planned chemotherapy dose on time
+T8	total-participants 1027 1052	Nine hundred twenty-eight
+T9	control-participants 1084 1087	465
+T10	intervention-participants 1111 1114	463
+T11	outcome 1205 1237	incidence of febrile neutropenia
+T12	iv-bin-percent 1239 1241	1%
+T13	cv-bin-percent 1244 1247	17%
+T14	outcome 1274 1317	febrile neutropenia-related hospitalization
+T15	iv-bin-percent 1319 1321	1%
+T16	cv-bin-percent 1324 1327	14%
+T17	outcome 1358 1383	use of IV anti-infectives
+T18	iv-bin-percent 1385 1387	2%
+T19	cv-bin-percent 1390 1393	10%
+T20	outcome 1424 1481	percentage of patients receiving the planned dose on time
+T21	iv-bin-percent 1580 1583	80%
+T22	cv-bin-percent 1588 1591	78%
+T23	outcome 1678 1701	well tolerated and safe
+T24	outcome 1711 1725	adverse events
+T6	outcome-Measure 798 863	intravenous (IV) anti-infectives required for febrile neutropenia

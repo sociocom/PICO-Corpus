@@ -1,0 +1,13 @@
+T1	intervention 10 44	mindfulness-based stress reduction
+T2	ethinicity 99 105	Danish
+T4	condition 48 61	sleep quality
+T5	total-participants 602 605	336
+T6	eligibility 606 676	women operated on for breast cancer stage I-III 3-18 months previously
+T7	intervention-participants 706 709	168
+T8	control 714 732	treatment as usual
+T9	control-participants 738 741	168
+T3	outcome 1040 1065	mean sleep problem scores
+T13	outcome 1577 1590	sleep quality
+T14	outcome 1670 1683	sleep quality
+T10	outcome 1451 1465	sleep problems
+T11	outcome-Measure 574 589	'sleep quality'

@@ -1,0 +1,12 @@
+T1	intervention 22 71	weekend and evening breast screening appointments
+T2	total-participants 623 627	9410
+T3	control-participants 666 670	3519
+T4	intervention-participants 716 720	3271
+T5	intervention-participants 747 751	3162
+T7	outcome 877 893	attendance rates
+T8	iv-bin-percent 895 900	73.7%
+T9	cv-bin-percent 904 909	74.1%
+T10	outcome 924 934	attendance
+T11	iv-bin-percent 1047 1052	76.1%
+T12	cv-bin-percent 1056 1061	73.3%
+T6	control 443 475	standard office hour appointment

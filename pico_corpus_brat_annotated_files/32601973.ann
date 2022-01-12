@@ -1,0 +1,17 @@
+T1	intervention 28 44	N-acetylcysteine
+T2	condition 83 123	paclitaxel-induced peripheral neuropathy
+T3	total-participants 442 444	75
+T4	eligibility 445 526	breast cancer patients receiving adjuvant paclitaxel 80 mg/m2 weekly for 12 weeks
+T5	control 663 676	control group
+T6	outcome-Measure 733 770	incidence of different grades of PIPN
+T9	outcome 1196 1243	incidence of grade (2, 3) peripheral neuropathy
+T10	iv-bin-percent 1292 1297	28.6%
+T12	cv-bin-percent 1361 1365	100%
+T13	outcome 1418 1437	mTNS and QOL scores
+T11	iv-bin-percent 1331 1336	61.9%
+T7	outcome 1581 1600	levels of serum NGF
+T8	outcome 1634 1652	level of serum MDA
+T14	outcome-Measure 895 911	severity of PIPN
+T15	outcome-Measure 958 979	quality of life (QOL)
+T16	outcome-Measure 1092 1123	serum nerve growth factor (NGF)
+T17	outcome-Measure 1129 1156	serum malondialdehyde (MDA)

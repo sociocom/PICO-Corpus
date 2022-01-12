@@ -1,0 +1,17 @@
+T1	intervention 62 72	Duloxetine
+T2	control 80 87	Placebo
+T3	condition 92 134	Aromatase Inhibitor-Associated Arthralgias
+T4	eligibility 604 775	AI-treated postmenopausal women with early-stage breast cancer and who had average joint pain score of ≥ 4 out of 10 that developed or worsened since AI therapy initiation
+T5	outcome-Measure 878 913	average joint pain through 12 weeks
+T6	total-participants 1173 1176	299
+T7	intervention-participants 1196 1199	127
+T8	control-participants 1237 1240	128
+T9	outcome 1320 1344	average joint pain score
+T11	outcome 1588 1624	Rates of adverse events of any grade
+T12	iv-bin-percent 1670 1673	78%
+T13	cv-bin-percent 1676 1679	50%
+T10	outcome 1517 1533	worst joint pain
+T14	outcome 1535 1550	joint stiffness
+T15	outcome 1552 1569	pain interference
+T16	outcome 1575 1586	functioning
+T17	outcome 1682 1713	rates of grade 3 adverse events

@@ -1,0 +1,13 @@
+T1	intervention 37 49	radiotherapy
+T3	total-participants 337 341	3729
+T6	control 237 252	no radiotherapy
+T7	iv-bin-percent 521 526	12.9%
+T8	cv-bin-percent 530 535	28.1%
+T10	iv-bin-percent 948 953	18.5%
+T11	cv-bin-percent 957 962	29.1%
+T12	iv-bin-percent 1247 1252	12.1%
+T13	cv-bin-percent 1256 1261	30.1%
+T2	condition 53 77	ductal carcinoma in situ
+T5	outcome 1186 1227	10-year risk of ipsilateral breast events
+T9	outcome 795 820	ipsilateral breast events
+T4	outcome 410 454	10-year risk of any ipsilateral breast event

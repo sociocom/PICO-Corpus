@@ -1,0 +1,12 @@
+T1	condition 24 46	skeletal complications
+T2	intervention 80 91	pamidronate
+T4	total-participants 482 506	Three hundred eighty-two
+T5	control 657 664	placebo
+T6	outcome 1789 1797	Survival
+T7	outcome 1773 1787	adverse events
+T8	outcome 1576 1622	median time to the first skeletal complication
+T9	outcome 1338 1375	patients with any pathologic fracture
+T10	outcome 1422 1498	need for radiation or surgery to treat bone complications, and hypercalcemia
+T11	outcome 1158 1211	proportion of patients with any skeletal complication
+T14	iv-cont-median 1627 1638	13.9 months
+T15	cv-cont-median 1676 1686	7.0 months

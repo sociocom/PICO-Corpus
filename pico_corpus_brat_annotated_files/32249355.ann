@@ -1,0 +1,9 @@
+T1	intervention 30 52	weight gain prevention
+T2	total-participants 560 572	Thirty-eight
+T3	eligibility 573 627	newly diagnosed stage II or III breast cancer patients
+T4	control 675 685	usual care
+T6	outcome 1185 1219	Intervention participant retention
+T7	outcome 1231 1259	in-person session attendance
+T8	outcome 1415 1430	being satisfied
+T9	outcome 1531 1564	reductions in waist circumference
+T10	outcome 1587 1632	improvements in self-reported vitality scores

@@ -1,0 +1,25 @@
+T1	intervention 42 51	letrozole
+T2	eligibility 432 452	postmenopausal women
+T3	location 461 471	Australian
+T4	location 476 487	New Zealand
+T5	eligibility 495 594	with hormone receptor-positive early breast cancer, who had completed ≥4 years of endocrine therapy
+T6	control 743 754	observation
+T8	outcome-Measure 921 950	invasive breast cancer events
+T9	outcome-Measure 1106 1133	disease-free survival (DFS)
+T10	outcome-Measure 1135 1151	overall survival
+T11	outcome-Measure 1157 1163	safety
+T13	intervention-participants 1204 1207	181
+T14	control-participants 1250 1253	179
+T15	age 1281 1291	64.3 years
+T16	iv-bin-abs 1487 1488	2
+T17	iv-bin-percent 1518 1522	1.1%
+T18	cv-bin-abs 1528 1530	17
+T19	cv-bin-percent 1562 1566	9.5%
+T20	outcome 1587 1615	invasive breast cancer event
+T21	cv-bin-abs 1700 1711	Twenty-four
+T22	cv-bin-percent 1722 1727	13.4%
+T23	iv-bin-abs 1752 1754	14
+T24	iv-bin-percent 1756 1760	7.7%
+T25	outcome 1797 1806	DFS event
+T26	outcome 1829 1843	Adverse events
+T7	control 0 11	Observation

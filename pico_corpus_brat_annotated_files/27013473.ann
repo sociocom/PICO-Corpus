@@ -1,0 +1,20 @@
+T1	intervention 49 68	electro-acupuncture
+T2	condition 91 127	taxane-induced peripheral neuropathy
+T4	eligibility 393 465	Women with stage I-III breast cancer scheduled to receive taxane therapy
+T5	control 495 527	standardized protocol of 12 true
+T9	total-participants 814 817	180
+T10	total-participants 842 844	63
+T11	total-participants 858 860	48
+T12	age 892 907	Mean age was 50
+T13	ethinicity 918 923	white
+T14	ethinicity 930 935	black
+T15	ethinicity 946 954	Hispanic
+T17	outcome 988 998	At week 12
+T18	outcome 1150 1157	week 16
+T22	iv-cont-mean 1121 1124	2.8
+T23	cv-cont-mean 1132 1135	2.6
+T24	iv-cont-mean 1239 1242	1.7
+T25	cv-cont-mean 1250 1253	3.4
+T3	outcome 1036 1064	mean BPI-SF worst pain score
+T16	outcome 1281 1304	BPI-SF worst pain score
+T19	outcome 1501 1519	pain or neuropathy

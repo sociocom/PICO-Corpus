@@ -1,0 +1,18 @@
+T1	outcome 1706 1752	rate of radiographic changes after irradiation
+T2	total-participants 455 483	Five hundred and twenty-four
+T3	eligibility 484 506	breast cancer patients
+T5	control 674 693	eight cycles of FAC
+T6	total-participants 695 722	One hundred and eighty-nine
+T7	intervention-participants 742 745	100
+T8	control-participants 778 780	89
+T10	outcome 1271 1320	rate of clinically relevant radiation pneumonitis
+T11	iv-bin-percent 1358 1362	5.0%
+T12	cv-bin-percent 1398 1402	4.5%
+T13	outcome 1475 1504	Oral steroids for pneumonitis
+T14	iv-bin-abs 1519 1522	two
+T15	cv-bin-abs 1567 1571	none
+T17	iv-bin-percent 1686 1691	39.3%
+T18	cv-bin-percent 1773 1778	23.7%
+T19	intervention 49 95	paclitaxel-based chemotherapy and radiotherapy
+T4	condition 20 31	pneumonitis
+T9	outcome 1609 1658	hospitalized for or died of radiation pneumonitis

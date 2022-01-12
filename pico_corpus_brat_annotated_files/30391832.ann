@@ -1,0 +1,15 @@
+T1	location 222 224	US
+T2	outcome 1437 1467	12-month progression-free rate
+T3	iv-bin-percent 1472 1477	84.1%
+T4	cv-bin-percent 1525 1530	79.8%
+T5	outcome 1581 1604	12-month survival rates
+T6	iv-bin-percent 1610 1615	95.1%
+T7	cv-bin-percent 1641 1646	87.9%
+T8	total-participants 1321 1324	652
+T9	intervention-participants 1335 1338	360
+T10	control-participants 1381 1384	292
+T14	control 1061 1086	fulvestrant-based therapy
+T12	intervention 66 135	palbociclib in combination with an aromatase inhibitor or fulvestrant
+T13	eligibility 892 933	patients with confirmed HR+/HER2- ABC/MBC
+T11	outcome-Measure 1257 1273	progression-free
+T15	outcome-Measure 1278 1292	survival rates

@@ -1,0 +1,28 @@
+T1	intervention 0 22	High-dose chemotherapy
+T2	location 129 135	French
+T3	eligibility 345 378	metastatic breast cancer patients
+T5	control 326 341	conventional CT
+T7	total-participants 405 407	61
+T8	intervention-participants 584 586	32
+T9	control-participants 616 618	29
+T10	outcome 742 753	median TTPs
+T11	iv-cont-median 778 779	6
+T12	cv-cont-median 784 793	12 months
+T13	outcome 866 878	relapse rate
+T14	iv-bin-percent 882 887	86.2%
+T15	cv-bin-percent 892 897	62.5%
+T16	outcome 898 908	at 2 years
+T17	iv-bin-percent 914 918	100%
+T18	cv-bin-percent 923 928	81.3%
+T19	outcome 929 939	at 5 years
+T20	outcome 945 960	median OS times
+T21	iv-cont-median 966 970	19.3
+T22	cv-cont-median 975 986	44.1 months
+T23	outcome 996 1003	OS rate
+T24	iv-bin-percent 1007 1012	13.8%
+T25	cv-bin-percent 1017 1022	36.8%
+T26	outcome 1023 1033	at 5 years
+T27	eligibility 408 461	patients with chemosensitive metastatic breast cancer
+T6	outcome 668 685	complete response
+T28	outcome 693 709	partial response
+T29	outcome 722 736	stable disease

@@ -1,0 +1,25 @@
+T1	intervention 57 91	pegfilgrastim biosimilar MYL-1401H
+T2	condition 125 157	chemotherapy-induced neutropenia
+T3	eligibility 614 789	Patients with newly diagnosed stage II/III breast cancer eligible to receive (neo) adjuvant chemotherapy with docetaxel/doxorubicin/cyclophosphamide every 3 weeks for 6 cycles
+T4	control 847 870	reference pegfilgrastim
+T6	intervention 339 348	MYL-1401H
+T8	outcome 1402 1423	grade ≥ 3 neutropenia
+T9	outcome 1506 1523	time to ANC nadir
+T10	iv-bin-percent 1436 1439	91%
+T11	cv-bin-percent 1444 1447	82%
+T13	outcome 1666 1689	Overall safety profiles
+T5	outcome-Measure 981 1022	duration of severe neutropenia in cycle 1
+T7	outcome 1573 1604	duration of post-nadir recovery
+T14	iv-cont-mean 1536 1539	6.2
+T17	iv-cont-sd 1541 1545	0.98
+T15	cv-cont-mean 1551 1554	6.3
+T18	cv-cont-sd 1556 1560	1.57
+T12	iv-cont-mean 1617 1620	1.9
+T19	iv-cont-sd 1622 1626	0.85
+T16	cv-cont-mean 1632 1635	1.7
+T20	cv-cont-sd 1637 1641	0.91
+T21	outcome 1119 1149	duration of severe neutropenia
+T22	iv-cont-mean 1202 1210	1.2 days
+T23	iv-cont-sd 1212 1216	0.93
+T24	cv-cont-mean 1222 1230	1.2 days
+T25	cv-cont-sd 1232 1236	1.10

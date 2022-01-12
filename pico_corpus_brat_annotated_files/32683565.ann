@@ -1,0 +1,23 @@
+T1	intervention 62 103	palbociclib in combination with letrozole
+T2	control 111 126	letrozole alone
+T3	outcome 573 604	progression-free survival (PFS)
+T6	outcome 682 692	median PFS
+T7	iv-cont-median 694 698	20.2
+T8	cv-cont-median 702 713	10.2 months
+T9	eligibility 879 918	Postmenopausal women with ER+/HER2- ABC
+T10	outcome-Measure 1128 1131	PFS
+T12	total-participants 1188 1191	165
+T13	outcome 1754 1765	neutropenia
+T14	iv-bin-percent 1778 1782	75%;
+T15	outcome 1783 1795	grade 3 or 4
+T16	outcome 1767 1776	any grade
+T17	iv-bin-percent 1797 1800	59%
+T18	outcome 1499 1566	median time from randomization to first subsequent chemotherapy use
+T19	iv-cont-median 1632 1636	26.7
+T20	cv-cont-median 1641 1652	17.7 months
+T21	outcome 1340 1342	OS
+T24	outcome 1386 1395	median OS
+T25	iv-cont-median 1459 1463	37.5
+T26	cv-cont-median 1468 1479	34.5 months
+T4	outcome-Measure 1162 1164	OS
+T5	outcome-Measure 1169 1175	safety

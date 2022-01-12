@@ -1,0 +1,14 @@
+T1	intervention 10 37	penehyclidine hydrochloride
+T2	ethinicity 87 94	Chinese
+T3	total-participants 311 314	920
+T4	eligibility 315 416	patients undergoing breast cancer surgery under bispectral index-guided total intravenous anaesthesia
+T5	control 590 596	saline
+T7	outcome 1143 1165	incidence of awareness
+T8	iv-bin-abs 1200 1201	0
+T9	intervention-participants 1202 1205	456
+T10	iv-bin-percent 1216 1218	0%
+T11	cv-bin-abs 1262 1263	5
+T12	control-participants 1264 1267	452
+T13	cv-bin-percent 1269 1273	1.1%
+T14	outcome 1100 1114	anxiety levels
+T15	condition 45 83	incidence of intra-operative awareness

@@ -1,0 +1,9 @@
+T1	intervention 43 63	Docosahexaenoic Acid
+T4	eligibility 712 846	overweight/obese women with a history of stage I-III breast cancer, DCIS/LCIS, Paget's disease, or proliferative benign breast disease
+T5	outcome-Measure 927 1017	determine whether DHA (1,000 mg by mouth twice daily) reduced breast tissue levels of TNFα
+T6	outcome-Measure 1049 1197	evaluation of the effect of DHA on breast tissue levels of COX-2, IL1β, aromatase, white adipose tissue inflammation, and gene expression by RNA-seq
+T9	total-participants 1301 1303	64
+T10	intervention-participants 1355 1357	32
+T13	outcome 1538 1584	levels of TNFα (P = 0.71), or other biomarkers
+T14	outcome 1655 1677	overall well-tolerated
+T2	outcome 1384 1413	levels of omega-3 fatty acids

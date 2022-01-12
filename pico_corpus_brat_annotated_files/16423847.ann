@@ -1,0 +1,16 @@
+T1	intervention 73 97	dexrazoxane (Cardioxane)
+T3	total-participants 664 667	164
+T4	intervention-participants 798 800	85
+T5	control-participants 818 820	79
+T6	outcome 980 994	cardiac events
+T7	cv-bin-percent 996 999	39%
+T8	iv-bin-percent 1007 1010	13%
+T9	outcome 1044 1088	severe incidence of congestive heart failure
+T10	cv-bin-percent 1090 1093	11%
+T11	iv-bin-percent 1101 1103	1%
+T12	outcome 1116 1135	Tumor response rate
+T13	outcome 1179 1206	frequency of adverse events
+T14	outcome 1297 1339	number of dose modifications/interruptions
+T16	eligibility 668 737	female breast cancer patients, previously treated with anthracyclines
+T2	condition 191 227	Anthracycline-induced cardiotoxicity
+T15	control 805 812	without

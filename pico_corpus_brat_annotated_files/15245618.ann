@@ -1,0 +1,21 @@
+T4	total-participants 316 339	One hundred ninety-four
+T5	eligibility 340 414	patients with histologically proven primary node-negative breast carcinoma
+T7	intervention-participants 474 476	98
+T8	control-participants 524 526	96
+T9	outcome 584 592	relapses
+T10	outcome 600 606	deaths
+T11	outcome 626 663	relapse-free survival rate at 7 years
+T12	iv-bin-percent 689 692	93%
+T13	cv-bin-percent 701 704	81%
+T14	outcome 1105 1137	overall survival rate at 7 years
+T15	outcome 777 793	stage T2 disease
+T16	iv-bin-percent 795 799	100%
+T17	cv-bin-percent 827 830	64%
+T18	outcome 863 900	younger and/or premenopausal patients
+T19	iv-bin-percent 933 937	100%
+T20	cv-bin-percent 963 966	81%
+T21	outcome 1001 1032	patients > or = 50 years of age
+T22	iv-bin-percent 1034 1037	90%
+T23	cv-bin-percent 1063 1066	82%
+T24	control 0 42	High-dose oral medroxyprogesterone acetate
+T25	intervention 46 55	tamoxifen

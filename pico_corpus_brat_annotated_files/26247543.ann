@@ -1,0 +1,36 @@
+T1	control 38 65	Conventionally Fractionated
+T2	intervention 69 110	Hypofractionated Whole-Breast Irradiation
+T3	control-participants 425 428	149
+T4	intervention-participants 507 510	138
+T5	age 683 700	40 years or older
+T6	eligibility 701 796	with stage 0 to II breast cancer for whom WBI without addition of a third field was recommended
+T10	total-participants 1365 1368	287
+T11	control-participants 1383 1386	149
+T12	intervention-participants 1417 1420	138
+T13	outcome 1766 1801	physician-reported acute dermatitis
+T14	iv-bin-percent 1803 1806	36%
+T15	cv-bin-percent 1810 1813	69%
+T16	outcome 1826 1834	pruritus
+T17	iv-bin-percent 1836 1839	54%
+T18	cv-bin-percent 1843 1846	81%
+T19	outcome 1859 1870	breast pain
+T20	iv-bin-percent 1872 1875	55%
+T21	cv-bin-percent 1879 1882	74%
+T22	outcome 1895 1912	hyperpigmentation
+T23	iv-bin-percent 1914 1916	9%
+T24	cv-bin-percent 1920 1923	20%
+T25	outcome 1940 1947	fatigue
+T26	iv-bin-percent 1949 1951	9%
+T27	cv-bin-percent 1955 1958	17%
+T28	outcome 2053 2090	grade 2 or higher acute toxic effects
+T29	iv-bin-percent 2130 2133	47%
+T30	cv-bin-percent 2137 2140	78%
+T31	outcome 2208 2215	fatigue
+T32	iv-bin-percent 2250 2252	0%
+T33	cv-bin-percent 2256 2258	6%
+T34	outcome 2318 2332	lack of energy
+T35	iv-bin-percent 2334 2337	23%
+T37	outcome 2365 2393	trouble meeting family needs
+T38	iv-bin-percent 2395 2397	3%
+T39	cv-bin-percent 2401 2403	9%
+T36	cv-bin-percent 2341 2344	39%

@@ -1,0 +1,8 @@
+T1	intervention 71 89	mometasone furoate
+T2	condition 120 146	acute radiation dermatitis
+T4	control 1145 1159	control groups
+T5	total-participants 1326 1335	Forty-one
+T8	outcome 1698 1718	itch and pain scores
+T3	eligibility 751 853	HNSCC patients scheduled for bilateral radical radiotherapy to the neck with identical radiation doses
+T6	outcome 1420 1430	ARD scores
+T7	outcome 1486 1499	stages of ARD

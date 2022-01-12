@@ -1,0 +1,15 @@
+T1	eligibility 411 456	Patients with clinical stage I and II disease
+T2	outcome-Measure 735 769	time to first locoregional relapse
+T3	total-participants 871 874	707
+T5	age 930 938	59 years
+T4	intervention 64 101	optimal fractionation of radiotherapy
+T6	outcome 1036 1044	relapsed
+T7	iv-bin-abs 1046 1049	110
+T8	cv-bin-abs 1064 1067	161
+T9	outcome 1089 1127	site of first relapse was locoregional
+T10	outcome 1141 1148	distant
+T11	outcome 1203 1272	risk of any competing event (local relapse, distant relapse or death)
+T13	outcome 1516 1544	risk of locoregional relapse
+T12	control 537 552	no radiotherapy
+T14	iv-bin-percent 1548 1551	62%
+T15	iv-bin-percent 1182 1185	24%

@@ -1,0 +1,18 @@
+T1	intervention 60 69	vitamin D
+T2	eligibility 530 568	Newly diagnosed breast cancer patients
+T3	control 631 638	placebo
+T5	total-participants 863 865	83
+T6	total-participants 887 889	80
+T7	intervention-participants 911 913	43
+T8	control-participants 936 938	37
+T9	outcome 1104 1140	percent changes of either Ki67 index
+T10	outcome 1171 1174	CC3
+T11	outcome 1208 1249	Serum 25-hydroxyvitamin D (25-OHD) levels
+T12	outcome 1330 1345	Adverse effects
+T13	iv-cont-mean 1142 1146	1.6%
+T14	cv-cont-mean 1151 1156	16.7%
+T15	iv-cont-mean 1176 1183	- 55.9%
+T16	cv-cont-mean 1190 1195	45.9%
+T17	iv-cont-mean 1292 1301	62 nmol/L
+T18	cv-cont-mean 1306 1316	246 nmol/L
+T4	outcome-Measure 710 762	elative change in proliferation (Ki67) and apoptosis

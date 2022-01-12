@@ -1,0 +1,10 @@
+T1	intervention 31 69	cognitive behavioral stress management
+T3	total-participants 776 779	240
+T4	eligibility 781 802	with Stage 0-IIIb BCa
+T6	control 898 936	1-day psycho-educational control group
+T7	total-participants 1049 1052	130
+T9	outcome 1361 1380	depressive symptoms
+T2	iv-cont-mean 1386 1390	9.99
+T5	iv-cont-sd 1397 1401	0.93
+T10	cv-cont-mean 1466 1471	12.97
+T11	cv-cont-sd 1478 1482	0.99

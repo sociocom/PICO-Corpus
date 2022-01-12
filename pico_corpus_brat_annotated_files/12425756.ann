@@ -1,0 +1,14 @@
+T1	intervention 20 41	doxorubicin/docetaxel
+T4	total-participants 1094 1097	913
+T5	total-participants 1146 1149	395
+T6	total-participants 1271 1274	369
+T7	intervention-participants 1295 1298	191
+T8	control-participants 1312 1315	178
+T9	outcome 1377 1398	Grade 3/4 neutropenia
+T10	iv-bin-percent 1411 1416	39.8%
+T11	cv-bin-percent 1451 1456	69.3%
+T12	total-participants 1522 1525	378
+T13	outcome 1538 1550	pCR occurred
+T14	outcome 1853 1872	Breast conservation
+T15	eligibility 132 154	operable breast cancer
+T2	control 49 84	sequential neoadjuvant chemotherapy

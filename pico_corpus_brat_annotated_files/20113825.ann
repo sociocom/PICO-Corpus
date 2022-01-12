@@ -1,0 +1,13 @@
+T1	outcome 1516 1534	event-free surviva
+T2	outcome 1582 1608	3-year event-free survival
+T3	iv-bin-percent 1610 1613	71%
+T4	cv-bin-percent 1663 1666	56%
+T7	outcome 1866 1893	symptomatic cardiac failure
+T8	iv-bin-abs 1838 1841	two
+T9	iv-bin-percent 1852 1854	2%
+T10	outcome-Measure 1375 1394	event-free survival
+T11	intervention-participants 780 783	117
+T12	control-participants 806 809	118
+T13	eligibility 534 643	patients with HER2-positive locally advanced or inflammatory breast cancer receiving neoadjuvant chemotherapy
+T14	intervention 0 41	Neoadjuvant chemotherapy with trastuzumab
+T15	control 82 112	neoadjuvant chemotherapy alone

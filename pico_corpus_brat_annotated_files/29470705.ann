@@ -1,0 +1,13 @@
+T3	total-participants 556 558	41
+T4	eligibility 86 129	breast cancer survivors on hormonal therapy
+T5	control 835 873	daily multivitamin (control condition)
+T9	outcome 1176 1189	Hypercalcemia
+T10	outcome 1398 1421	improved bone formation
+T11	outcome 1568 1602	improve any of the bone biomarkers
+T1	intervention 15 63	high-dose calcitriol and individualized exercise
+T2	outcome-Measure 914 953	changes in biomarkers of bone formation
+T6	outcome-Measure 955 970	bone resorption
+T7	outcome-Measure 980 1001	bone remodeling index
+T8	outcome 1499 1520	bone remodeling index
+T12	outcome 1663 1677	well tolerated
+T13	outcome 1713 1727	bone formation

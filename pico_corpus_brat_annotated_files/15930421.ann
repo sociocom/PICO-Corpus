@@ -1,0 +1,30 @@
+T1	intervention 64 117	docetaxel plus doxorubicin and cyclophosphamide (TAC)
+T2	control 123 179	fluorouracil plus doxorubicin and cyclophosphamide (FAC)
+T3	total-participants 268 272	1491
+T4	eligibility 273 320	women with axillary node-positive breast cancer
+T5	outcome-Measure 437 458	disease-free survival
+T7	outcome 519 554	disease-free survival at five years
+T8	iv-bin-percent 560 570	75 percent
+T9	intervention-participants 581 584	745
+T10	cv-bin-percent 631 641	68 percent
+T11	control-participants 652 655	746
+T12	outcome 800 830	overall survival at five years
+T13	iv-bin-percent 836 846	87 percent
+T14	cv-bin-percent 851 861	81 percent
+T15	outcome 921 951	reduction in the risk of death
+T16	iv-bin-percent 910 920	30 percent
+T17	outcome 980 1004	grade 3 or 4 neutropenia
+T18	iv-bin-percent 1009 1021	65.5 percent
+T19	cv-bin-percent 1043 1055	49.3 percent
+T20	outcome 1093 1112	febrile neutropenia
+T21	iv-bin-percent 1118 1130	24.7 percent
+T22	cv-bin-percent 1135 1146	2.5 percent
+T23	outcome 1172 1195	Grade 3 or 4 infections
+T24	iv-bin-percent 1208 1219	3.9 percent
+T25	cv-bin-percent 1257 1268	2.2 percent
+T26	outcome 1305 1314	no deaths
+T27	outcome 1377 1381	died
+T28	iv-bin-abs 1350 1353	Two
+T29	outcome 1400 1451	Congestive heart failure and acute myeloid leukemia
+T30	iv-bin-percent 1474 1483	2 percent
+T6	outcome 1515 1537	Quality-of-life scores

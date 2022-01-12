@@ -1,0 +1,15 @@
+T1	intervention 0 14	Bisphosphonate
+T3	total-participants 233 236	953
+T4	eligibility 237 292	patients with lymph node negative primary breast cancer
+T5	intervention 332 335	460
+T6	control 371 394	no adjuvant pamidronate
+T7	control-participants 398 401	493
+T8	outcome 924 942	recurrence in bone
+T11	cv-bin-abs 841 843	22
+T12	iv-bin-abs 869 871	20
+T13	outcome 651 695	number of patients with pure bone metastases
+T10	outcome 761 835	number of patients with a combination of bone and other distant metastases
+T14	cv-bin-abs 700 702	35
+T15	iv-bin-abs 728 730	31
+T2	outcome 1081 1097	overall survival
+T9	outcome 1244 1284	bone mineral density in the lumbar spine

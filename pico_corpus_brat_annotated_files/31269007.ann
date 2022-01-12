@@ -1,0 +1,14 @@
+T1	intervention 0 32	High-Intensity Interval Training
+T2	eligibility 180 257	postmenopausal, overweight/obese women at high risk of invasive breast cancer
+T3	total-participants 445 455	Forty-four
+T6	outcome 1164 1189	No serious adverse events
+T7	outcome 1263 1287	change in treadmill time
+T8	outcome 1415 1456	changes in absolute and relative V˙O2peak
+T5	outcome 1591 1609	body weight or BMI
+T10	iv-cont-mean 1289 1294	101 s
+T11	cv-cont-mean 1318 1323	125 s
+T12	iv-cont-mean 1460 1470	0.15-L·min
+T13	cv-cont-mean 1498 1511	2.3-mL·kg⋅min
+T14	control 428 443	usual care (UC)
+T15	age 996 1010	63.9 ± 8.8 yr.
+T4	outcome 1122 1132	compliance

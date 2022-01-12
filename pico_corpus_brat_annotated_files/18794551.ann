@@ -1,0 +1,14 @@
+T1	intervention 26 36	exemestane
+T2	control 42 51	tamoxifen
+T4	total-participants 986 989	371
+T5	intervention-participants 1021 1024	182
+T6	control-participants 1037 1040	189
+T7	outcome 1153 1174	Overall response rate
+T8	iv-bin-percent 1232 1235	46%
+T9	cv-bin-percent 1238 1241	31%
+T10	outcome 1295 1333	Median progression-free survival (PFS)
+T11	cv-cont-median 1362 1372	9.9 months
+T12	iv-cont-median 1423 1433	5.8 months
+T13	eligibility 554 656	postmenopausal patients with measurable hormone-sensitive metastatic or locally advanced breast cancer
+T3	outcome-Measure 1562 1565	PFS
+T14	outcome 1648 1656	survival

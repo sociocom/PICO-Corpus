@@ -1,0 +1,38 @@
+T1	intervention 0 41	Cediranib in combination with fulvestrant
+T2	eligibility 592 660	Postmenopausal women with hormone-sensitive metastatic breast cancer
+T3	outcome-Measure 701 732	progression-free survival (PFS)
+T5	intervention-participants 933 935	31
+T6	control 940 947	placebo
+T7	control-participants 951 953	31
+T8	outcome 1096 1099	PFS
+T11	iv-cont-median 1137 1140	223
+T12	cv-cont-median 1145 1153	112 days
+T14	iv-bin-percent 1178 1180	22
+T15	cv-bin-percent 1185 1188	8 %
+T16	outcome 1257 1260	CBR
+T17	iv-bin-percent 1265 1269	42 %
+T18	outcome 1300 1320	adverse events (AEs)
+T19	outcome 1347 1355	diarrhea
+T20	iv-bin-percent 1357 1361	68 %
+T21	outcome 1364 1371	fatigue
+T22	iv-bin-percent 1373 1377	61 %
+T23	outcome 1383 1395	hypertension
+T24	iv-bin-percent 1397 1401	55 %
+T25	outcome 1408 1434	incidence of grade ≥ 3 AEs
+T26	iv-bin-percent 1436 1440	68 %
+T27	cv-bin-percent 1445 1449	32 %
+T28	outcome 1452 1463	serious AEs
+T29	iv-bin-percent 1465 1469	48 %
+T30	cv-bin-percent 1474 1478	13 %
+T31	outcome 1481 1500	discontinuation AEs
+T32	iv-bin-percent 1502 1506	39 %
+T33	cv-bin-percent 1511 1515	10 %
+T34	outcome 1522 1561	cediranib dose reductions/interruptions
+T35	iv-bin-percent 1563 1567	74 %
+T36	cv-bin-percent 1572 1576	32 %
+T4	outcome 1173 1176	ORR
+T9	outcome-Measure 763 792	objective response rate (ORR)
+T10	outcome-Measure 794 814	duration of response
+T13	outcome-Measure 816 843	clinical benefit rate (CBR)
+T37	outcome-Measure 845 864	safety/tolerability
+T38	outcome-Measure 869 890	pharmacokinetics (PK)

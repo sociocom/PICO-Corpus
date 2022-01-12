@@ -1,0 +1,25 @@
+T1	intervention 29 40	PEG-rhG-CSF
+T2	control 48 55	rhG-CSF
+T3	eligibility 59 140	breast cancer patients receiving multiple cycles of myelosuppressive chemotherapy
+T4	location 267 274	China's
+T5	total-participants 529 532	569
+T8	outcome-Measure 842 874	incidence of febrile neutropenia
+T9	outcome-Measure 884 890	safety
+T10	outcome 1337 1374	incidence of all-grade adverse events
+T14	outcome 1536 1586	incidence of grade 3/4 drug-related adverse events
+T16	iv-bin-abs 1591 1592	2
+T17	intervention-participants 1593 1596	187
+T18	iv-bin-abs 1606 1607	1
+T19	intervention-participants 1608 1611	188
+T21	cv-bin-abs 1625 1626	8
+T22	control-participants 1627 1630	194
+T23	cv-bin-percent 1632 1637	4.12%
+T11	iv-bin-abs 1388 1391	129
+T24	iv-bin-percent 1393 1399	68.98%
+T12	iv-bin-abs 1402 1405	142
+T25	iv-bin-percent 1407 1413	75.53%
+T13	cv-bin-abs 1420 1423	160
+T26	cv-bin-percent 1425 1431	82.47%
+T15	iv-bin-percent 1598 1603	1.07%
+T20	iv-bin-percent 1613 1618	0.53%
+T6	outcome-Measure 674 736	incidence and duration of grade 3/4 neutropenia during cycle 1

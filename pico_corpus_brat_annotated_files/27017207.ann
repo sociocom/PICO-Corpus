@@ -1,0 +1,14 @@
+T2	eligibility 595 677	postoperative, premenopausal patients with hormone receptor-positive breast cancer
+T5	total-participants 978 981	167
+T6	intervention-participants 1039 1041	83
+T7	control-participants 1067 1069	84
+T8	outcome 1079 1098	E2 suppression rate
+T9	iv-bin-percent 1103 1107	97.6
+T10	cv-bin-percent 1112 1118	96.4 %
+T11	outcome 1357 1366	hot flush
+T12	outcome 1371 1395	injection site reactions
+T14	outcome 1418 1422	pain
+T15	outcome 1428 1436	erythema
+T1	intervention 23 104	leuprorelin acetate 6-month depot, TAP-144-SR (6M), in combination with tamoxifen
+T3	outcome-Measure 862 902	suppression rate of serum estradiol (E2)
+T4	control 1046 1061	TAP-144-SR (3M)

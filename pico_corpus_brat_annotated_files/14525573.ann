@@ -1,0 +1,28 @@
+T2	intervention 74 88	blue dye alone
+T1	control 94 122	triple modality localization
+T3	location 419 430	New Zealand
+T4	total-participants 655 658	104
+T5	eligibility 659 821	patients who had a palpable breast lump that was confirmed to be malignant by radiology and cytology and a clinical diagnosis of stage I or stage II breast cancer
+T6	intervention-participants 1037 1039	63
+T7	control-participants 1069 1071	41
+T8	outcome 1177 1190	sentinel node
+T9	iv-bin-abs 1209 1211	57
+T10	iv-bin-percent 1213 1216	90%
+T11	cv-bin-abs 1247 1249	40
+T12	cv-bin-percent 1251 1254	98%
+T13	outcome 1349 1387	axillary nodes positive for malignancy
+T14	iv-bin-abs 1291 1293	23
+T15	iv-bin-percent 1295 1298	37%
+T16	cv-bin-abs 1320 1322	23
+T17	cv-bin-percent 1324 1327	56%
+T18	iv-bin-abs 1399 1402	one
+T19	outcome 1403 1421	false negative SNB
+T20	cv-bin-abs 1442 1445	two
+T21	outcome 1517 1525	accuracy
+T22	iv-bin-percent 1529 1532	98%
+T23	outcome 1539 1550	sensitivity
+T24	cv-bin-percent 1554 1557	96%
+T25	outcome 1573 1581	accuracy
+T26	cv-bin-percent 1585 1588	95%
+T27	outcome 1595 1606	sensitivity
+T28	cv-bin-percent 1610 1613	91%

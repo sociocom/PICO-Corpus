@@ -1,0 +1,15 @@
+T1	intervention 0 25	Vandetanib with docetaxel
+T2	eligibility 258 305	patients with pretreated advanced breast cancer
+T3	control 509 531	placebo plus docetaxel
+T4	total-participants 533 543	Sixty-four
+T5	intervention-participants 601 603	35
+T6	control-participants 621 623	29
+T7	outcome 691 708	progression event
+T8	iv-bin-abs 754 756	24
+T9	iv-bin-percent 758 761	69%
+T10	cv-bin-abs 797 799	18
+T11	cv-bin-percent 801 804	62%
+T14	outcome 1014 1045	safety and tolerability profile
+T12	outcome 1207 1221	well tolerated
+T13	outcome 1223 1239	Clinical benefit
+T15	outcome-Measure 354 382	number of progression events

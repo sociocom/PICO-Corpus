@@ -1,0 +1,25 @@
+T1	intervention 10 43	Preoperative Intravenous Steroids
+T2	condition 47 63	Seroma Formation
+T4	total-participants 563 565	65
+T5	control 657 690	MRM+AD in the conventional manner
+T6	outcome-Measure 822 836	total drainage
+T7	outcome-Measure 838 854	days of drainage
+T8	outcome-Measure 856 875	wound complications
+T9	outcome-Measure 880 899	incidence of seroma
+T10	age 994 1009	34.2±10.1 years
+T11	age 1020 1034	32.3±9.1 years
+T12	outcome 1040 1053	mean drainage
+T13	outcome 1160 1179	Total drainage days
+T14	outcome 1229 1248	incidence of seroma
+T15	outcome 1328 1343	wound infection
+T16	iv-bin-abs 1298 1303	three
+T21	iv-bin-percent 1269 1275	18.75%
+T22	cv-bin-percent 1281 1286	6.06%
+T3	iv-cont-mean 1132 1137	755.4
+T17	iv-cont-sd 1138 1142	65ml
+T18	cv-cont-mean 1146 1151	928.3
+T23	cv-cont-sd 1152 1157	102.5
+T19	iv-cont-mean 1194 1197	6.5
+T24	iv-cont-sd 1198 1206	1.6 days
+T20	cv-cont-mean 1210 1214	10.2
+T25	cv-cont-sd 1215 1223	2.2 days

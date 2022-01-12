@@ -1,0 +1,20 @@
+T1	intervention 0 26	Bisphosphonate risedronate
+T2	condition 36 45	bone loss
+T3	eligibility 49 117	women with artificial menopause due to chemotherapy of breast cancer
+T4	total-participants 413 424	Fifty-three
+T5	ethinicity 425 430	white
+T6	age 443 457	36 to 55 years
+T8	intervention-participants 694 696	27
+T9	control 701 708	placebo
+T7	control-participants 714 716	26
+T12	outcome 1291 1300	bone loss
+T11	outcome 1598 1617	at the femoral neck
+T13	outcome 1660 1681	at the hip trochanter
+T14	outcome 1802 1816	well tolerated
+T15	outcome 1835 1849	safety profile
+T16	outcome 1871 1895	laboratory abnormalities
+T17	outcome 1157 1188	BMD at the lumbar spine and hip
+T18	outcome 1236 1239	BMD
+T10	outcome-Measure 955 997	changes in lumbar spine and proximal femur
+T19	outcome-Measure 1046 1072	bone mineral density (BMD)
+T20	outcome-Measure 1078 1114	biochemical markers of bone turnover

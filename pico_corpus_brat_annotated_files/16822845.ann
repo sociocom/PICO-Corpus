@@ -1,0 +1,19 @@
+T1	intervention 10 19	letrozole
+T2	control 27 34	placebo
+T3	eligibility 68 143	with primary breast cancer completing 5 or more years of adjuvant tamoxifen
+T4	location 317 323	Canada
+T6	total-participants 970 992	Two hundred twenty-six
+T7	intervention-participants 1003 1006	122
+T8	control-participants 1018 1021	104
+T9	age 1132 1142	60.7 years
+T12	iv-cont-mean 1284 1289	-3.6%
+T13	cv-cont-mean 1292 1298	-0.71%
+T15	iv-cont-mean 1332 1338	-5.35%
+T16	cv-cont-mean 1341 1347	-0.70%
+T17	outcome 1380 1423	urine N-telopeptide at 6, 12, and 24 months
+T19	iv-bin-percent 1649 1653	4.1%
+T20	cv-bin-percent 1656 1658	0%
+T5	outcome 1269 1282	total hip BMD
+T10	outcome 1314 1330	lumbar spine BMD
+T11	outcome 1524 1537	total hip BMD
+T14	outcome 1602 1621	osteoporotic by BMD

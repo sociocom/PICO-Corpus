@@ -1,0 +1,22 @@
+T3	eligibility 626 669	breast cancer patients with bone metastases
+T4	control 713 720	placebo
+T1	intervention 32 47	ibandronic acid
+T5	total-participants 1016 1018	62
+T6	outcome 1456 1477	treatment-related AEs
+T7	cv-bin-percent 1529 1533	6.3%
+T8	cv-bin-abs 1535 1536	1
+T9	control-participants 1537 1539	16
+T10	iv-bin-percent 1551 1556	13.0%
+T11	iv-bin-abs 1558 1559	6
+T12	intervention-participants 1560 1562	46
+T13	outcome 1492 1514	in the extension phase
+T14	outcome 1570 1590	in the initial phase
+T15	cv-bin-percent 1614 1619	56.3%
+T16	cv-bin-abs 1621 1622	9
+T17	control-participants 1623 1625	16
+T18	iv-bin-percent 1633 1638	67.4%
+T19	iv-bin-abs 1640 1642	31
+T20	intervention-participants 1643 1645	46
+T2	outcome 1657 1660	AEs
+T21	outcome 1738 1747	renal AEs
+T22	outcome 1769 1792	serum creatinine levels

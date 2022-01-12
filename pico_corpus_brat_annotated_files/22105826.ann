@@ -1,0 +1,20 @@
+T1	eligibility 386 460	Women with axillary node-positive or high-risk node-negative breast cancer
+T2	outcome-Measure 790 820	recurrence-free survival (RFS)
+T3	intervention 0 66	Adjuvant capecitabine, docetaxel, cyclophosphamide, and epirubicin
+T4	outcome 871 881	RFS events
+T5	iv-bin-abs 944 946	96
+T6	cv-bin-abs 959 962	118
+T7	outcome 965 968	RFS
+T8	outcome 892 930	local or distant recurrences or deaths
+T11	outcome 1078 1088	5-year RFS
+T12	iv-bin-percent 1090 1095	86.6%
+T13	cv-bin-percent 1109 1114	84.1%
+T14	iv-bin-abs 1127 1136	Fifty-six
+T15	outcome 1165 1169	died
+T16	cv-bin-abs 1205 1207	75
+T19	outcome 1323 1354	breast cancer-specific survival
+T9	control 749 752	CEF
+T10	intervention-participants 635 638	753
+T17	control-participants 758 761	747
+T18	outcome 1402 1405	RFS
+T20	outcome 1570 1578	toxicity

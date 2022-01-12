@@ -1,0 +1,21 @@
+T1	intervention 0 26	Regional Nodal Irradiation
+T2	eligibility 290 433	women with node-positive or high-risk node-negative breast cancer who were treated with breast-conserving surgery and adjuvant systemic therapy
+T3	control 610 656	whole-breast irradiation alone (control group)
+T4	outcome-Measure 682 698	overall survival
+T5	outcome-Measure 724 745	disease-free survival
+T6	outcome-Measure 747 790	isolated locoregional disease-free survival
+T7	outcome-Measure 796 825	distant disease-free survival
+T9	intervention-participants 876 880	1832
+T10	control-participants 954 957	916
+T12	outcome 1095 1103	survival
+T13	iv-bin-percent 1120 1125	82.8%
+T14	cv-bin-percent 1161 1166	81.8%
+T15	outcome 1266 1296	rates of disease-free survival
+T16	iv-bin-percent 1302 1307	82.0%
+T17	cv-bin-percent 1343 1348	77.0%
+T18	outcome 1482 1518	grade 2 or greater acute pneumonitis
+T19	iv-bin-percent 1520 1524	1.2%
+T20	cv-bin-percent 1529 1533	0.2%
+T21	outcome 1547 1557	lymphedema
+T22	iv-bin-percent 1559 1563	8.4%
+T23	cv-bin-percent 1568 1572	4.5%

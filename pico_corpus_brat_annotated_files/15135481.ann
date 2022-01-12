@@ -1,0 +1,18 @@
+T1	intervention 28 47	axillary dissection
+T3	total-participants 489 499	Ninety-two
+T4	age 518 526	55 years
+T5	intervention-participants 737 739	45
+T6	control 753 762	not using
+T7	control-participants 773 775	47
+T8	outcome 1025 1049	developed a wound seroma
+T9	iv-bin-abs 974 975	9
+T10	intervention-participants 983 985	45
+T11	iv-bin-percent 987 990	20%
+T12	cv-bin-abs 1000 1002	19
+T13	control-participants 1010 1012	47
+T14	cv-bin-percent 1014 1017	42%
+T15	outcome 1119 1137	surgical procedure
+T18	outcome 1166 1190	total amount of drainage
+T21	outcome 1223 1241	size of the tumour
+T16	condition 0 6	Seroma
+T2	eligibility 547 649	requiring surgery for known unilateral primary breast cancer (pT1a=1, pT1b=20, pT1c=43, pT2=25, pT3=3)

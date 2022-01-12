@@ -1,0 +1,18 @@
+T1	intervention 41 58	eribulin mesylate
+T2	control 66 78	capecitabine
+T3	eligibility 379 456	Women with MBC who had received prior anthracycline- and taxane-based therapy
+T5	outcome 793 808	Median OS times
+T6	intervention-participants 827 830	554
+T7	control-participants 854 857	548
+T8	iv-cont-median 864 868	15.9
+T9	cv-cont-median 873 884	14.5 months
+T12	outcome 958 974	Median PFS times
+T13	iv-cont-median 1010 1013	4.1
+T14	cv-cont-median 1018 1028	4.2 months
+T17	outcome 1086 1110	Objective response rates
+T18	iv-bin-percent 1116 1121	11.0%
+T19	cv-bin-percent 1139 1144	11.5%
+T20	outcome 1163 1183	Global health status
+T21	outcome 1188 1218	overall quality-of-life scores
+T4	outcome-Measure 734 755	overall survival (OS)
+T10	outcome-Measure 760 791	progression-free survival (PFS)

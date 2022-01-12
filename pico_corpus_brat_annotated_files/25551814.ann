@@ -1,0 +1,12 @@
+T1	intervention 14 42	thoracic paravertebral block
+T2	condition 46 69	postoperative analgesia
+T3	eligibility 73 120	patients undergoing modified radical mastectomy
+T4	total-participants 529 534	forty
+T5	age 545 558	aged 20 to 65
+T6	eligibility 560 656	diagnosed with breast cancer, and undergoing modified radical mastectomy and axillary dissection
+T7	control 703 716	control group
+T8	control-participants 729 731	20
+T9	intervention-participants 778 780	20
+T12	outcome 1108 1118	VAS values
+T14	outcome 1200 1231	VAS scores at postoperative 0 h
+T15	outcome 1351 1377	Additional use of tramadol

@@ -1,0 +1,13 @@
+T1	ethinicity 87 97	Vietnamese
+T2	ethinicity 102 109	Chinese
+T3	location 296 303	Vietnam
+T4	location 308 313	China
+T5	outcome 1304 1325	risk of breast cancer
+T8	outcome 1163 1181	breast cancer risk
+T13	outcome 1076 1094	breast cancer risk
+T14	intervention 45 66	tumor marker subtypes
+T15	eligibility 266 285	premenopausal women
+T16	intervention-participants 419 422	682
+T17	control 425 433	Controls
+T18	control-participants 503 506	649
+T6	outcome 1412 1414	OR

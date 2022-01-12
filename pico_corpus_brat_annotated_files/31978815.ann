@@ -1,0 +1,18 @@
+T2	condition 102 142	chemotherapy-induced nausea and vomiting
+T3	ethinicity 146 153	Chinese
+T4	eligibility 389 502	chemotherapy-naive Chinese breast cancer patients who were planned for (neo)adjuvant doxorubicin/cyclophosphamide
+T8	total-participants 914 917	120
+T9	outcome 1029 1057	rates of "Complete Response"
+T10	iv-bin-percent 1081 1086	65.0%
+T11	cv-bin-percent 1090 1095	38.3%
+T12	outcome 1096 1117	in the overall period
+T13	iv-bin-percent 1132 1137	70.0%
+T14	cv-bin-percent 1141 1146	51.7%
+T15	outcome 1147 1166	in the acute period
+T16	iv-bin-percent 1184 1189	92.9%
+T17	cv-bin-percent 1193 1198	74.2%
+T18	outcome 1199 1220	in the delayed period
+T19	outcome 1280 1328	rates of "No significant nausea" and "No nausea"
+T20	outcome 1444 1479	abnormalities in glucose and lipids
+T21	control 51 79	standard antiemetic regimens
+T1	intervention 22 43	olanzapine-containing

@@ -1,0 +1,11 @@
+T1	intervention 0 22	Cyanoacrylate Adhesive
+T2	condition 31 37	Seroma
+T3	total-participants 580 583	128
+T4	eligibility 584 711	women with a breast cancer diagnosis and scheduled for modified radical mastectomy or quadrantectomy with lymph node dissection
+T5	location 715 735	Thessaloniki, Greece
+T6	intervention-participants 740 742	64
+T7	control-participants 879 881	64
+T8	control 905 913	controls
+T9	outcome 915 932	Seroma production
+T11	outcome 979 994	drainage amount
+T12	outcome 1284 1297	seroma amount

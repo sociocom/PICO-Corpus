@@ -1,0 +1,18 @@
+T1	age 63 87	70 years of age or older
+T4	total-participants 360 363	636
+T6	intervention-participants 608 611	317
+T7	control 622 637	tamoxifen alone
+T8	control-participants 639 642	319
+T9	outcome-Measure 679 715	time to local or regional recurrence
+T10	outcome-Measure 721 759	frequency of mastectomy for recurrence
+T11	outcome-Measure 761 792	breast-cancer-specific survival
+T12	outcome-Measure 794 824	the time to distant metastasis
+T13	outcome-Measure 830 846	overall survival
+T14	outcome 914 964	rate of local or regional recurrence at five years
+T15	iv-bin-percent 966 975	1 percent
+T16	cv-bin-percent 1026 1035	4 percent
+T18	iv-bin-percent 1264 1274	87 percent
+T19	cv-bin-percent 1325 1335	86 percent
+T20	intervention 0 53	Lumpectomy plus tamoxifen with or without irradiation
+T2	eligibility 364 540	women who were 70 years of age or older and who had clinical stage I (T1N0M0 according to the tumor-node-metastasis classification), estrogen-receptor-positive breast carcinoma
+T3	outcome 1162 1262	rates of mastectomy for local recurrence, distant metastases, or five-year rates of overall survival

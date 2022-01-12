@@ -1,0 +1,19 @@
+T1	intervention 0 27	Partial-breast radiotherapy
+T4	age 795 812	50 years or older
+T5	location 780 782	UK
+T6	eligibility 813 1077	who had undergone breast-conserving surgery for unifocal invasive ductal adenocarcinoma of grade 1-3, with a tumour size of 3 cm or less (pT1-2), none to three positive axillary nodes (pN0-1), and minimum microscopic margins of non-cancerous tissue of 2 mm or more
+T7	control 1146 1187	40 Gy whole-breast radiotherapy (control)
+T8	outcome-Measure 1783 1808	ipsilateral local relapse
+T10	total-participants 2302 2306	2018
+T11	control-participants 2395 2398	674
+T12	intervention-participants 2472 2475	673
+T13	intervention-participants 2507 2510	669
+T15	cv-bin-percent 2654 2658	1·1%
+T16	iv-bin-percent 2710 2714	0·2%
+T17	iv-bin-percent 2757 2761	0·5%
+T2	outcome 2842 2855	local relapse
+T3	outcome 2614 2648	local relapse cumulative incidence
+T9	outcome 3834 3847	local relapse
+T14	outcome 3351 3366	adverse effects
+T18	outcome 3509 3536	change in breast appearance
+T19	outcome 3570 3593	breast harder or firmer

@@ -1,0 +1,23 @@
+T1	intervention 13 36	olive oil-enriched diet
+T3	eligibility 394 448	women previously diagnosed with invasive breast cancer
+T4	total-participants 1040 1050	Forty-four
+T6	total-participants 1080 1082	28
+T7	iv-bin-abs 1115 1121	Twelve
+T8	iv-bin-percent 1123 1126	80%
+T9	intervention-participants 1135 1137	15
+T10	outcome 1175 1210	achieved a weight loss of > or = 5%
+T11	cv-bin-abs 1223 1224	4
+T12	cv-bin-percent 1226 1229	31%
+T13	control-participants 1238 1240	13
+T14	outcome 1489 1502	triglycerides
+T17	outcome 1562 1605	higher high-density lipoprotein cholesterol
+T5	cv-cont-mean 1508 1511	105
+T15	cv-cont-sd 1516 1524	46 mg/dL
+T16	iv-cont-mean 1531 1533	96
+T20	iv-cont-sd 1538 1546	37 mg/dL
+T18	cv-cont-mean 1619 1621	64
+T21	cv-cont-sd 1626 1634	13 mg/dL
+T19	iv-cont-mean 1641 1643	68
+T22	iv-cont-sd 1648 1656	12 mg/dL
+T23	outcome 1719 1730	weight loss
+T2	control 42 65	standard lower-fat diet

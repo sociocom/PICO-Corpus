@@ -1,0 +1,17 @@
+T1	condition 80 102	upper limb dysfunction
+T2	intervention 30 76	sodium hyaluronate and carboxymethyl cellulose
+T3	total-participants 759 761	99
+T4	intervention-participants 857 859	50
+T5	control 974 987	control group
+T6	control-participants 993 995	49
+T7	control 1015 1040	without the use of HA-CMC
+T8	outcome-Measure 1068 1087	ROM of the shoulder
+T9	outcome-Measure 1092 1111	motion-related pain
+T10	outcome-Measure 1251 1301	disabilities of the arm, shoulder, and hand (DASH)
+T11	outcome-Measure 1310 1338	pectoralis minor length test
+T12	outcome 1405 1466	reductions in postoperative restriction of total shoulder ROM
+T14	outcome 1695 1705	DASH score
+T15	iv-cont-mean 1649 1654	-1.32
+T16	cv-cont-mean 1659 1664	-0.93
+T17	outcome 1765 1779	adverse effect
+T13	outcome 1542 1558	Mean pain levels

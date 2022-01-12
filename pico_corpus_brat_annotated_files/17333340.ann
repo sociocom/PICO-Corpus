@@ -1,0 +1,13 @@
+T1	intervention 0 9	Letrozole
+T2	eligibility 431 480	post-menopausal women with advanced breast cancer
+T3	intervention-participants 528 531	453
+T4	control 536 545	tamoxifen
+T5	control-participants 555 558	454
+T6	outcome 726 758	median time to progression (TTP)
+T7	iv-cont-median 820 830	9.4 months
+T8	cv-cont-median 835 845	6.0 months
+T10	iv-bin-percent 965 968	32%
+T11	cv-bin-percent 973 976	21%
+T9	outcome 876 905	objective response rate (ORR)
+T12	outcome 1099 1120	overall survival (OS)
+T13	outcome 1257 1266	median OS

@@ -1,0 +1,14 @@
+T1	condition 0 36	Anthracycline-induced cardiotoxicity
+T4	total-participants 542 544	96
+T5	age 564 572	47 years
+T6	eligibility 574 694	with BC after breast surgery, without significant cardiovascular diseases, who were eligible for adjuvant anthracyclines
+T7	control 734 745	control arm
+T9	outcome 1156 1184	LVEF above 10‑percent points
+T10	iv-bin-percent 1197 1201	6.3%
+T11	cv-bin-percent 1227 1232	18.5%
+T13	outcome 1332 1385	percentage of patients with elevated NT‑proBNP levels
+T14	outcome 1514 1530	NT‑proBNP levels
+T2	intervention 53 101	angiotensin-converting enzyme inhibitor ramipril
+T3	outcome 1268 1270	HF
+T8	outcome 1272 1285	cardiac death
+T12	outcome 1290 1294	LVEF

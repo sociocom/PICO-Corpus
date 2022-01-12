@@ -1,0 +1,19 @@
+T1	intervention 0 11	Cryotherapy
+T2	condition 215 236	peripheral neuropathy
+T3	condition 241 270	dermatological adverse events
+T4	eligibility 274 327	breast cancer patients treated with weekly paclitaxel
+T5	control 443 456	control group
+T6	outcome-Measure 487 610	percentage of patients with a marked decrease in the Functional Assessment of Cancer Therapy-Neurotoxicity (FACT-NTX) score
+T7	outcome-Measure 641 786	Patient Neurotoxicity Questionnaire (PNQ), Common Terminology Criteria for Adverse Event (CTCAE) for peripheral neuropathy, and FACT-Taxane score
+T8	total-participants 788 798	Forty-four
+T9	intervention-participants 855 857	22
+T10	control-participants 882 884	22
+T11	outcome 891 955	percentage of patients with a marked decrease in FACT-NTX scores
+T12	iv-bin-percent 1032 1034	41
+T13	cv-bin-percent 1039 1042	73%
+T14	outcome 1059 1095	incidence of CTCAE grade ≥ 2 sensory
+T15	outcome 1112 1139	motor peripheral neuropathy
+T16	outcome 1156 1211	PNQ grade D or higher for sensory peripheral neuropathy
+T17	outcome 1228 1261	decrease in the FACT-Taxane score
+T18	outcome 1366 1389	no serious side effects
+T19	condition 60 85	peripheral adverse events

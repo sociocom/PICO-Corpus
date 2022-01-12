@@ -1,0 +1,22 @@
+T1	intervention 30 36	APF530
+T2	control 44 56	palonosetron
+T3	condition 78 118	chemotherapy-induced nausea and vomiting
+T5	eligibility 134 216	patients with breast cancer receiving moderately or highly emetogenic chemotherapy
+T6	total-participants 1031 1034	423
+T7	total-participants 1044 1047	185
+T8	outcome 1191 1215	CRs in cycle 1 for acute
+T9	iv-bin-percent 1236 1240	71 %
+T10	iv-bin-percent 1246 1250	77 %
+T11	iv-bin-percent 1264 1268	73 %
+T12	iv-bin-percent 1274 1278	73 %
+T13	cv-bin-percent 1408 1412	52 %
+T14	cv-bin-percent 1418 1422	52 %
+T15	outcome 1424 1428	CINV
+T17	cv-bin-percent 1298 1302	68 %
+T18	cv-bin-percent 1308 1312	66 %
+T19	outcome 1318 1325	delayed
+T20	iv-bin-percent 1346 1350	46 %
+T21	iv-bin-percent 1356 1360	58 %
+T22	iv-bin-percent 1374 1378	48 %
+T23	iv-bin-percent 1384 1388	63 %
+T4	outcome-Measure 930 947	complete response

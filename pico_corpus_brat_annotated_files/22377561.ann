@@ -1,0 +1,21 @@
+T1	intervention 0 11	Trastuzumab
+T2	condition 39 56	clinical relapses
+T3	total-participants 423 435	Seventy five
+T4	eligibility 436 547	women with HER2 (-) breast cancer and detectable CK19 mRNA-positive CTCs before and after adjuvant chemotherapy
+T5	intervention-participants 598 600	36
+T6	control 605 616	observation
+T7	control-participants 620 622	39
+T8	outcome-Measure 764 797	3-year disease-free survival rate
+T9	iv-bin-abs 903 905	27
+T10	intervention-participants 909 911	36
+T11	iv-bin-percent 913 916	75%
+T12	outcome 924 949	became CK19 mRNA-negative
+T13	cv-bin-abs 962 967	seven
+T14	control-participants 971 973	39
+T15	cv-bin-percent 975 980	17.9%
+T18	outcome 1086 1094	relapses
+T19	outcome 1300 1310	median DFS
+T16	iv-bin-abs 1062 1066	four
+T20	iv-bin-percent 1068 1071	11%
+T17	cv-bin-abs 1077 1079	15
+T21	cv-bin-percent 1081 1084	38%

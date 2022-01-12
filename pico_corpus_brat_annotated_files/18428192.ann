@@ -1,0 +1,13 @@
+T1	outcome 1880 1903	average pedometer steps
+T2	iv-cont-mean 1907 1917	1621 steps
+T3	cv-cont-mean 1954 1962	60 steps
+T5	iv-cont-mean 1726 1737	129 minutes
+T6	cv-cont-mean 1761 1771	44 minutes
+T7	total-participants 1305 1307	75
+T9	total-participants 873 885	Seventy-five
+T10	eligibility 886 924	postmenopausal breast cancer survivors
+T11	intervention-participants 1063 1065	37
+T13	control 1070 1080	usual-care
+T14	control-participants 1086 1088	38
+T12	intervention 78 86	exercise
+T4	outcome 1664 1722	moderate- intensity to vigorous-intensity aerobic exercise

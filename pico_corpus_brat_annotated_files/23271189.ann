@@ -1,0 +1,10 @@
+T2	eligibility 313 333	postmenopausal women
+T3	control 608 615	placebo
+T7	total-participants 1026 1029	507
+T8	age 1070 1081	55.2-56.3 y
+T9	outcome 1113 1167	mammographic breast density from baseline to 24 months
+T1	intervention 67 100	bazedoxifene/conjugated estrogens
+T5	iv-cont-mean 1198 1204	-0.39%
+T10	iv-cont-mean 1223 1229	-0.05%
+T11	iv-cont-mean 1247 1253	-0.23%
+T12	cv-cont-mean 1275 1281	-0.42%

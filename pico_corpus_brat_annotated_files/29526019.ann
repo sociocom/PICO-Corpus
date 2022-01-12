@@ -1,0 +1,18 @@
+T1	intervention 0 10	Systematic
+T2	control 18 75	sentinel-lymph-node-driven axillary-lymph-node dissection
+T3	intervention-participants 591 594	774
+T4	control-participants 650 653	770
+T6	outcome 660 687	five-year overall survivals
+T7	iv-bin-percent 718 723	96.42
+T8	cv-bin-percent 728 734	95.64%
+T9	outcome 1245 1267	≥ 1 severe side effect
+T10	outcome 1387 1422	estimated sensitivity of SLN biopsy
+T11	cv-bin-abs 1309 1312	173
+T12	control-participants 1313 1317	703 
+T13	cv-bin-percent 1319 1324	24.6%
+T14	iv-bin-abs 1342 1344	91
+T15	intervention-participants 1345 1348	693
+T16	iv-bin-percent 1351 1356	13.1%
+T17	cv-bin-abs 1441 1444	145
+T18	control-participants 1445 1448	178
+T19	cv-bin-percent 1451 1456	81.5%

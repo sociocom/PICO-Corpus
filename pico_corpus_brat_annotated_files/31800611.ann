@@ -1,0 +1,19 @@
+T1	intervention 0 24	Intraoperative ketorolac
+T2	eligibility 662 813	breast cancer patients, planned for curative surgery, and with a Neutrophil-to-Lymphocyte Ratio≥4, node-positive disease or a triple-negative phenotype
+T3	outcome-Measure 840 880	Disease-Free Survival (DFS) at two years
+T6	total-participants 994 997	203
+T7	intervention-participants 1039 1041	96
+T8	control 1046 1053	placebo
+T9	control-participants 1059 1062	107
+T10	outcome 1204 1226	alive and disease free
+T11	iv-bin-percent 1177 1182	83.1%
+T12	cv-bin-percent 1248 1253	89.7%
+T15	iv-bin-percent 1321 1326	96.8%
+T16	cv-bin-percent 1331 1336	98.1%
+T17	outcome 1342 1347	alive
+T5	outcome 1470 1491	disease-free survival
+T13	outcome 1529 1545	Overall survival
+T4	outcome-Measure 911 917	safety
+T14	outcome-Measure 919 934	pain assessment
+T18	outcome-Measure 939 955	overall survival
+T19	age 1144 1161	55.7 (SD14) years

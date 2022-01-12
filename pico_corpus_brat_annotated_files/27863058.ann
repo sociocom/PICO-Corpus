@@ -1,0 +1,22 @@
+T2	eligibility 360 440	among women (BMI 25-40 kg/m2 ) following treatment for stage I-III breast cancer
+T3	outcome-Measure 445 456	weight loss
+T4	outcome-Measure 476 491	quality of life
+T5	outcome-Measure 496 526	treatment-related side-effects
+T6	control 531 541	usual care
+T7	total-participants 544 550	Ninety
+T8	age 573 588	55.3 ± 8.7years
+T9	intervention-participants 774 776	45
+T10	control-participants 797 799	45
+T12	outcome 1154 1170	mean weight loss
+T13	outcome 1309 1331	reductions in fat mass
+T14	outcome 1369 1388	waist circumference
+T15	iv-cont-mean 1222 1229	-3.1 kg
+T16	iv-cont-mean 1333 1340	-2.1 kg
+T17	iv-cont-mean 1390 1397	-4.0 cm
+T18	intervention 52 76	weight loss intervention
+T1	outcome 1519 1528	satisfied
+T11	outcome 1625 1663	adverse event (musculoskeletal injury)
+T19	outcome 1736 1744	feasible
+T20	outcome 1746 1756	acceptable
+T21	outcome 1758 1762	safe
+T22	outcome 1767 1776	effective

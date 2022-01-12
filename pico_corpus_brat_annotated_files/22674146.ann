@@ -1,0 +1,18 @@
+T1	intervention 0 17	Chemotherapy (CT)
+T2	control 22 41	hormonotherapy (HT)
+T3	eligibility 70 100	luminal breast cancer patients
+T5	total-participants 935 946	Ninety-five
+T6	intervention-participants 973 975	47
+T7	control-participants 980 982	48
+T8	outcome 992 1014	clinical response rate
+T9	iv-bin-percent 1019 1022	66%
+T10	cv-bin-percent 1034 1037	48%
+T11	outcome 1140 1157	clinical response
+T12	outcome 1183 1205	patients with low Ki67
+T13	iv-bin-percent 1211 1214	63%
+T14	cv-bin-percent 1220 1223	58%
+T15	outcome 1236 1259	patients with high Ki67
+T16	iv-bin-percent 1291 1293	67
+T17	cv-bin-percent 1301 1304	42%
+T18	outcome 1318 1336	Grade 3/4 toxicity
+T4	outcome-Measure 877 894	clinical response

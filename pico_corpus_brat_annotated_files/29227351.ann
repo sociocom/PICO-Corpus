@@ -1,0 +1,22 @@
+T1	intervention 10 30	pectoral nerve block
+T2	condition 34 52	postoperative pain
+T3	total-participants 713 718	Sixty
+T4	eligibility 719 757	women undergoing breast cancer surgery
+T6	control 943 976	saline mock block (control group)
+T10	outcome 1349 1382	pain score at 6 h postoperatively
+T11	outcome 1516 1588	blood concentration to maintain bispectral index (BIS) between 40 and 50
+T12	outcome 1807 1842	QoR-40 score on postoperative day 1
+T13	outcome 1673 1697	remifentanil consumption
+T14	iv-cont-median 1395 1396	1
+T15	cv-cont-median 1424 1425	1
+T20	iv-cont-median 1855 1858	182
+T21	cv-cont-median 1890 1895	174.5
+T5	iv-cont-mean 1601 1605	2.65
+T19	iv-cont-sd 1609 1613	0.52
+T16	cv-cont-mean 1633 1637	3.08
+T22	cv-cont-sd 1641 1645	0.41
+T17	iv-cont-mean 1710 1714	10.5
+T23	iv-cont-sd 1718 1722	4.28
+T18	cv-cont-mean 1742 1746	10.4
+T24	cv-cont-sd 1750 1754	4.68
+T25	outcome 2177 2195	postoperative pain

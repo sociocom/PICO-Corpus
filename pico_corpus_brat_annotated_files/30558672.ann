@@ -1,0 +1,13 @@
+T1	intervention 40 72	hyaluronic acid spacer injection
+T2	condition 77 90	skin toxicity
+T3	age 869 879	≥ 50 years
+T4	eligibility 880 1041	with a histologically proven non-lobular breast carcinoma and/or ductal carcinoma in situ (DCIS), tumor size ≤ 3 cm, node-negative, and PBSI technically feasible
+T5	outcome-Measure 1555 1590	rate of telangiectasia at two years
+T6	outcome-Measure 1668 1684	local recurrence
+T7	outcome-Measure 1686 1725	disease-free and overall survival rates
+T8	outcome-Measure 1727 1741	adverse events
+T9	outcome-Measure 1850 1859	skin dose
+T10	outcome-Measure 1861 1892	cosmetic and functional results
+T11	outcome-Measure 1898 1928	health-related quality of life
+T12	outcome 2129 2157	occurrence of telangiectasia
+T13	total-participants 2184 2187	230

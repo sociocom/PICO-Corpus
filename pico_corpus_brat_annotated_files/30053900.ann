@@ -1,0 +1,14 @@
+T1	intervention 4 34	Prosigna gene expression assay
+T2	eligibility 105 156	premenopausal high-risk patients with breast cancer
+T3	ethinicity 565 571	Danish
+T4	control 695 717	no systemic treatment,
+T5	eligibility 637 691	premenopausal women with high-risk early breast cancer
+T6	total-participants 861 864	460
+T7	outcome 1020 1047	disease-free survival (DFS)
+T8	outcome 1063 1084	overall survival (OS)
+T9	outcome 1460 1470	DFS events
+T12	outcome 1488 1497	basal-lik
+T13	outcome 1547 1556	luminal B
+T18	outcome 1700 1709	luminal A
+T19	outcome 1620 1667	Human epidermal growth factor receptor-enriched
+T10	outcome 1169 1179	DFS and OS

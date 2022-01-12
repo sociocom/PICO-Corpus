@@ -1,0 +1,25 @@
+T1	total-participants 363 366	129
+T2	ethinicity 367 374	Chinese
+T3	ethinicity 419 428	Hong Kong
+T4	eligibility 434 546	equired adjuvant tamoxifen for breast cancer after the completion of postoperative radiotherapy and chemotherapy
+T5	intervention 20 64	levonorgestrel-releasing intrauterine system
+T6	control 693 706	control group
+T8	total-participants 1026 1028	94
+T10	outcome 1106 1139	occurrence of submucosal fibroids
+T13	outcome 1329 1355	de novo endometrial polyps
+T14	outcome 1521 1550	breast cancer recurrence rate
+T17	outcome 1591 1612	cancer-related deaths
+T18	outcome 1178 1201	endometrial hyperplasia
+T19	iv-bin-abs 1208 1209	0
+T11	iv-bin-abs 1141 1142	1
+T23	iv-bin-percent 1144 1148	1.8%
+T12	cv-bin-abs 1164 1165	2
+T24	cv-bin-percent 1167 1171	3.4%
+T15	cv-bin-abs 1552 1554	10
+T25	cv-bin-percent 1556 1561	17.2%
+T16	iv-bin-abs 1577 1578	6
+T26	iv-bin-percent 1580 1585	10.0%
+T21	cv-bin-abs 1614 1615	6
+T27	cv-bin-percent 1617 1622	10.3%
+T22	iv-bin-abs 1638 1639	5
+T28	iv-bin-percent 1641 1645	8.3%

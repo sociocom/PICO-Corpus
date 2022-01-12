@@ -1,0 +1,22 @@
+T1	outcome 1262 1286	grade 3 to 4 neutropenia
+T2	outcome 1297 1332	grade 2 to 4 fatigue and neuropathy
+T3	outcome 1135 1138	TTP
+T4	iv-cont-median 1151 1155	6.14
+T5	cv-cont-median 1158 1169	3.98 months
+T7	iv-bin-percent 1214 1219	41.4%
+T8	cv-bin-percent 1222 1227	26.2%
+T9	outcome 960 975	Median survival
+T10	iv-cont-median 986 997	18.6 months
+T11	cv-cont-median 1005 1016	15.8 months
+T14	intervention-participants 895 898	266
+T15	control-participants 941 944	263
+T16	intervention 0 27	Gemcitabine plus Paclitaxel
+T17	control 35 45	Paclitaxel
+T18	eligibility 61 133	patients with metastatic breast cancer and prior anthracycline treatment
+T19	outcome-Measure 675 696	overall survival (OS)
+T6	outcome 1199 1201	RR
+T12	outcome-Measure 727 752	time to progression (TTP)
+T13	outcome-Measure 754 772	response rate (RR)
+T20	outcome-Measure 774 799	progression-free survival
+T21	outcome-Measure 801 818	response duration
+T22	outcome-Measure 824 832	toxicity

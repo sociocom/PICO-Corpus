@@ -1,0 +1,14 @@
+T1	intervention 0 9	Tamoxifen
+T2	control 17 24	control
+T3	eligibility 70 131	postmenopausal, receptor-negative patients with breast cancer
+T4	location 172 178	German
+T5	intervention-participants 440 443	421
+T6	control-participants 477 480	408
+T7	age 933 941	60 years
+T9	outcome 1107 1169	first event of failure (recurrence, secondary tumor, or death)
+T10	iv-bin-abs 1186 1189	123
+T11	cv-bin-abs 1226 1229	107
+T12	outcome 1261 1300	Event-free survival rates after 5 years
+T13	iv-bin-percent 1306 1311	70.3%
+T14	cv-bin-percent 1341 1346	72.8%
+T15	outcome 1428 1450	estimated hazard ratio

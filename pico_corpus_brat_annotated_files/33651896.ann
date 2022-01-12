@@ -1,0 +1,15 @@
+T1	intervention 51 69	lidocaine infusion
+T2	total-participants 626 629	150
+T3	eligibility 630 671	patients undergoing breast cancer surgery
+T4	location 698 715	Western Australia
+T6	outcome 1225 1250	In-hospital safety events
+T7	control 1281 1288	placebo
+T8	iv-bin-percent 1309 1311	3%
+T9	cv-bin-percent 1316 1318	1%
+T10	outcome 1342 1364	serum lidocaine levels
+T11	outcome 1437 1449	subcutaneous
+T12	outcome 1499 1507	infusion
+T13	outcome 1768 1798	postoperative pain at 6 months
+T5	outcome-Measure 1057 1082	in-hospital safety events
+T14	outcome-Measure 1084 1154	serum levels of lidocaine during intravenous and subcutaneous infusion
+T15	outcome-Measure 1160 1186	annualised enrolment rates

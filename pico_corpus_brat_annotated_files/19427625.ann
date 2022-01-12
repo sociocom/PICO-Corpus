@@ -1,0 +1,23 @@
+T1	intervention 32 51	paravertebral block
+T2	eligibility 255 323	Patients undergoing unilateral breast surgery without reconstruction
+T3	control 343 371	general anesthesia (GA) only
+T5	total-participants 413 419	Eighty
+T6	intervention-participants 446 448	41
+T7	control-participants 459 461	39
+T8	outcome 544 555	Pain scores
+T9	outcome 592 601	at 1 hour
+T10	outcome 625 632	3 hours
+T11	outcome 686 716	overall worst pain experienced
+T12	outcome 774 783	pain-free
+T13	outcome 801 810	at 1 hour
+T14	outcome 838 845	3 hours
+T15	iv-cont-mean 603 604	1
+T16	cv-cont-mean 608 609	3
+T17	iv-cont-mean 634 635	0
+T18	cv-cont-mean 639 640	2
+T19	iv-cont-mean 737 738	3
+T20	cv-cont-mean 742 743	5
+T21	iv-bin-percent 812 815	44%
+T22	cv-bin-percent 819 822	17%
+T23	iv-bin-percent 847 850	54%
+T24	cv-bin-percent 854 857	17%

@@ -1,0 +1,15 @@
+T3	intervention 843 861	adjuvant tamoxifen
+T4	control 872 899	adjuvant systemic treatment
+T5	eligibility 903 922	premenopausal women
+T7	total-participants 943 946	564
+T8	location 982 988	Sweden
+T9	intervention-participants 1220 1223	390
+T10	intervention-participants 1248 1251	390
+T11	intervention-participants 1286 1289	361
+T12	outcome 1337 1364	prevalence of ER-positivity
+T13	iv-bin-percent 1386 1389	75%
+T14	iv-bin-percent 1394 1397	72%
+T15	iv-bin-percent 1418 1421	68%
+T16	iv-bin-percent 1426 1429	66%
+T17	iv-bin-percent 1444 1447	66%
+T18	iv-bin-percent 1452 1455	62%

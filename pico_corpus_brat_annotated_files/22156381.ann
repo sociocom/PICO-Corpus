@@ -1,0 +1,15 @@
+T1	intervention 25 40	zoledronic acid
+T2	condition 44 53	bone loss
+T3	eligibility 373 492	Postmenopausal patients with stage I-III hormone receptor-positive breast cancer who received tamoxifen for 2.5-3 years
+T4	intervention 520 529	letrozole
+T5	intervention-participants 553 555	47
+T6	control 560 567	without
+T7	control-participants 573 575	43
+T10	total-participants 740 746	Ninety
+T11	total-participants 757 759	86
+T12	age 792 812	59 years (42.9-83.6)
+T13	outcome 980 990	LS T-score
+T14	outcome 1065 1095	Change over time in LS T-score
+T16	outcome 1266 1282	toxicity profile
+T8	outcome 1190 1246	fractures, renal dysfunction or osteonecrosis of the jaw
+T9	outcome-Measure 646 722	percent change from baseline in lumbar spine (LS) bone mineral density (BMD)

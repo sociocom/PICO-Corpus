@@ -1,0 +1,22 @@
+T1	condition 61 76	infection rates
+T4	intervention 30 57	disposable draping material
+T6	outcome-Measure 968 991	all other complications
+T8	total-participants 1399 1402	107
+T9	total-participants 1429 1432	102
+T10	control-participants 1556 1558	43
+T11	intervention-participants 1594 1596	59
+T12	outcome 1802 1812	infections
+T13	cv-bin-abs 1800 1801	5
+T14	cv-bin-percent 1814 1817	12%
+T16	outcome 1940 1963	secondary complications
+T17	outcome 1987 2010	positive wound cultures
+T18	iv-bin-percent 2012 2015	11%
+T19	cv-bin-percent 2020 2022	3%
+T20	outcome 2038 2061	positive drape cultures
+T21	iv-bin-percent 2063 2066	17%
+T22	cv-bin-percent 2070 2072	4%
+T23	outcome 2154 2205	number of colony-forming units or positive cultures
+T15	iv-bin-abs 1846 1847	0
+T24	iv-bin-percent 1849 1851	0%
+T2	control 1575 1589	Reusable Group
+T3	outcome-Measure 895 913	clinical infection

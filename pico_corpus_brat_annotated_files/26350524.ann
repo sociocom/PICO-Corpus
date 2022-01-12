@@ -1,0 +1,16 @@
+T1	intervention 0 38	Accelerated partial breast irradiation
+T2	control 100 124	whole breast irradiation
+T4	total-participants 575 578	520
+T5	age 593 611	more than 40 years
+T6	eligibility 721 805	women with early BC (maximum diameter 2.5 cm) suitable for breast conserving surgery
+T7	total-participants 881 884	117
+T8	age 894 915	aged 70 years or more
+T9	control-participants 931 933	58
+T10	intervention-participants 950 952	59
+T11	outcome 1025 1072	ipsilateral breast tumor recurrence (IBTR) rate
+T12	iv-bin-percent 1077 1082	1.9 %
+T14	outcome 1193 1233	5-year disease-free survival (DFS) rates
+T15	cv-bin-percent 1271 1274	6.1
+T16	iv-bin-percent 1279 1284	1.9 %
+T17	outcome 1377 1396	acute skin toxicity
+T18	outcome 1442 1459	grade 2 or higher

@@ -1,0 +1,10 @@
+T1	intervention 10 39	aerobic exercise intervention
+T2	eligibility 352 397	non-obese BC women without insulin resistance
+T3	total-participants 399 411	Thirty-eight
+T4	intervention-participants 470 472	18
+T5	control 477 490	control group
+T6	control-participants 497 499	20
+T7	outcome 1098 1115	change of insulin
+T8	outcome 1161 1174	HOMA-IR index
+T10	outcome 1303 1325	lower limb muscle mass
+T9	outcome 876 901	insulin and HOMA-IR index

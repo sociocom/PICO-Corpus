@@ -1,0 +1,11 @@
+T1	intervention 0 43	Visceral osteopathic manipulative treatment
+T2	condition 69 89	digestive toxicities
+T3	total-participants 614 625	Ninety-four
+T4	eligibility 626 745	women operated for a breast cancer stage 1-3, in complete resection and to whom a 3 FEC 100 chemotherapy was prescribed
+T5	control 790 803	placebo group
+T8	outcome 1116 1160	Rate of nausea/vomiting episodes of grade ≥1
+T9	outcome 1210 1243	Constipation episodes of grade ≥1
+T10	outcome 1340 1363	rate of nausea/vomiting
+T11	outcome 1379 1391	constipation
+T12	outcome 1510 1525	quality of life
+T6	outcome 1644 1672	incidence of nausea/vomiting

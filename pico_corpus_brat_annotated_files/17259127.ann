@@ -1,0 +1,27 @@
+T1	intervention 13 42	activated charcoal-epirubicin
+T2	total-participants 271 276	Sixty
+T3	eligibility 277 321	patients with breast cancer of stages II-III
+T4	intervention-participants 359 361	40
+T6	control-participants 500 502	20
+T5	control 518 536	aqueous epirubicin
+T10	outcome 1159 1197	metastatic rate of stained lymph nodes
+T11	iv-bin-abs 1248 1251	214
+T12	intervention-participants 1252 1255	565
+T13	cv-bin-abs 1259 1261	23
+T14	control-participants 1262 1264	85
+T15	outcome 1007 1066	proportion of the staining lymph nodes with diameter>1.0 cm
+T16	iv-bin-abs 1127 1129	96
+T17	cv-bin-abs 1137 1140	469
+T18	intervention-participants 1130 1133	131
+T19	control-participants 1141 1144	519
+T20	outcome 941 976	staining rate of the axillary lymph
+T21	iv-bin-percent 986 991	86.9%
+T22	iv-bin-abs 993 996	565
+T23	intervention-participants 997 1000	650
+T7	outcome 1296 1350	concentration of epirubicin in the stained lymph nodes
+T8	iv-cont-mean 1407 1412	443.0
+T26	iv-cont-sd 1415 1420	123.1
+T9	cv-cont-mean 1424 1428	31.8
+T27	cv-cont-sd 1431 1440	11.9 ng/g
+T28	outcome 1462 1474	degeneration
+T29	outcome 1479 1487	necrosis

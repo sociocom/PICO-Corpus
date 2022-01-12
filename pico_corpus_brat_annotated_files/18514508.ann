@@ -1,0 +1,24 @@
+T1	outcome 1059 1076	toxicity profiles
+T2	outcome 855 882	mean microscopic tumor size
+T3	iv-cont-mean 887 894	2.53 cm
+T4	iv-cont-mean 908 915	3.05 cm
+T5	cv-cont-mean 932 939	2.10 cm
+T6	outcome 703 729	complete clinical response
+T7	iv-bin-abs 678 679	3
+T8	intervention-participants 687 688	5
+T9	cv-bin-abs 761 762	2
+T10	control-participants 770 772	69
+T11	outcome 509 527	clinical responses
+T12	iv-bin-percent 529 534	58.6%
+T13	iv-bin-percent 548 553	54.5%
+T14	cv-bin-percent 570 575	62.0%
+T15	outcome 593 615	decrease in tumor area
+T16	iv-bin-percent 617 622	61.8%
+T17	iv-bin-percent 636 641	58.1%
+T18	cv-bin-percent 658 663	55.7%
+T19	total-participants 285 295	Eighty-two
+T22	control 452 461	letrozole
+T23	intervention-participants 405 407	30
+T24	intervention-participants 444 446	24
+T25	control-participants 486 488	28
+T20	intervention 339 380	exemestane 25mg daily and celecoxib 400mg

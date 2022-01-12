@@ -1,0 +1,37 @@
+T1	intervention 0 21	Pectoral nerve blocks
+T2	total-participants 372 377	Sixty
+T3	age 449 459	18-70years
+T4	intervention-participants 531 533	30
+T5	control 578 595	control (C) group
+T7	outcome 1073 1109	total amount of fentanyl requirement
+T12	outcome 1234 1248	intraoperative
+T13	outcome 1253 1274	post-operative period
+T14	outcome 1302 1337	time to first analgesic requirement
+T17	outcome 1480 1497	shoulder movement
+T18	outcome 1648 1695	incidence of post-operative nausea and vomiting
+T19	iv-bin-abs 1697 1699	22
+T20	intervention-participants 1707 1709	30
+T21	cv-bin-abs 1734 1736	20
+T22	control-participants 1744 1746	30
+T23	outcome 1805 1852	satisfaction score with postoperative analgesia
+T24	outcome 1893 1900	Score 1
+T25	iv-bin-abs 1902 1903	5
+T26	cv-bin-abs 1907 1909	20
+T27	outcome 1911 1918	Score 2
+T28	iv-bin-abs 1920 1922	12
+T29	cv-bin-abs 1926 1927	9
+T30	outcome 1929 1936	Score 3
+T31	iv-bin-abs 1938 1940	13
+T32	cv-bin-abs 1944 1945	1
+T8	iv-cont-mean 1130 1136	140.66
+T33	iv-cont-sd 1137 1144	31.80μg
+T9	iv-cont-mean 1151 1154	438
+T34	iv-cont-sd 1155 1162	71.74μg
+T10	cv-cont-mean 1192 1198	218.33
+T35	cv-cont-sd 1199 1206	23.93μg
+T11	cv-cont-mean 1213 1216	609
+T36	cv-cont-sd 1217 1224	53.00μg
+T15	iv-cont-mean 1364 1369	44.33
+T37	iv-cont-sd 1370 1378	17.65min
+T16	cv-cont-mean 1406 1411	10.36
+T38	cv-cont-sd 1412 1419	4.97min

@@ -1,0 +1,27 @@
+T1	intervention 33 40	Nefopam
+T2	condition 44 66	Acute and Chronic Pain
+T3	eligibility 295 391	patients undergoing lumpectomy with axillary lymph node dissection or sentinel lymph node biopsy
+T4	intervention-participants 513 515	41
+T5	control 524 531	control
+T6	control-participants 537 539	42
+T9	outcome 1047 1072	NRS of postoperative pain
+T10	outcome 1220 1240	at postoperative 6 h
+T11	outcome 1296 1317	at postoperative 24 h
+T12	outcome 1454 1480	chronic postoperative pain
+T13	iv-bin-percent 1549 1554	36.6%
+T14	cv-bin-percent 1558 1563	59.5%
+T15	outcome 1661 1706	proportion of patients reporting chronic pain
+T16	iv-bin-percent 1718 1723	23.5%
+T17	cv-bin-percent 1748 1753	61.5%
+T18	iv-cont-mean 1171 1174	4.5
+T24	iv-cont-sd 1177 1180	2.2
+T19	cv-cont-mean 1184 1187	5.7
+T25	cv-cont-sd 1190 1193	1.5
+T20	iv-cont-mean 1242 1245	3.0
+T26	iv-cont-sd 1248 1251	1.6
+T21	cv-cont-mean 1255 1258	4.5
+T27	cv-cont-sd 1261 1264	1.3
+T22	iv-cont-mean 1319 1322	3.1
+T28	iv-cont-sd 1325 1328	1.1
+T23	cv-cont-mean 1332 1335	3.8
+T29	cv-cont-sd 1338 1341	1.5

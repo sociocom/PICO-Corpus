@@ -1,0 +1,11 @@
+T1	intervention 362 381	nutrition education
+T2	total-participants 467 477	Fifty-nine
+T3	eligibility 478 553	female English-speaking breast cancer patients, who had completed treatment
+T4	control 622 635	control group
+T9	ethinicity 1172 1177	white
+T10	age 1198 1206	58 years
+T11	outcome 1252 1267	Follow-up rates
+T12	cv-bin-percent 1279 1282	89%
+T13	iv-bin-percent 1297 1300	77%
+T17	outcome 1465 1497	effect sizes (d) on the NLit-BCa
+T5	outcome 1371 1401	NLit-BCa assessment components

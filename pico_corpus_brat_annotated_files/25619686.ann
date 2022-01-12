@@ -1,0 +1,8 @@
+T3	condition 364 393	radiation-induced skin injury
+T2	control 76 82	Powder
+T5	total-participants 501 504	248
+T6	eligibility 505 532	patients with breast cancer
+T8	outcome 851 890	acute skin toxicity or symptom severity
+T9	outcome 960 979	acute skin toxicity
+T1	intervention 46 68	Aloe and Placebo Cream
+T7	outcome 1012 1034	skin reaction toxicity

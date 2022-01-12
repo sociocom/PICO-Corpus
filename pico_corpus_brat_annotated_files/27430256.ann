@@ -1,0 +1,15 @@
+T1	intervention 18 27	metformin
+T2	location 138 142	U.S.
+T3	eligibility 983 1059	overweight/obese premenopausal women who have elements of metabolic syndrome
+T4	intervention-participants 1139 1141	75
+T5	control 1146 1153	placebo
+T6	control-participants 1159 1161	75
+T8	outcome-Measure 1202 1226	change in breast density
+T9	outcome-Measure 1326 1357	changes in serum insulin levels
+T10	outcome-Measure 1359 1461	serum insulin-like growth factor (IGF)-1 to insulin-like growth factor binding protein (IGFBP)-3 ratio
+T11	outcome-Measure 1463 1480	serum IGF-2 level
+T12	outcome-Measure 1483 1508	serum testosterone levels
+T13	outcome-Measure 1510 1543	serum leptin to adiponectin ratio
+T14	outcome-Measure 1545 1556	body weight
+T15	outcome-Measure 1562 1581	waist circumference
+T16	outcome-Measure 1612 1679	changes in metabolomic profiles in plasma and nipple aspirate fluid

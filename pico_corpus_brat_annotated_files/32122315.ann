@@ -1,0 +1,11 @@
+T1	condition 144 154	depression
+T2	total-participants 1225 1228	330
+T3	eligibility 1229 1357	patients who have a diagnosis of myocardial infarction, breast cancer, prostate cancer, kidney failure, or lower limb amputation
+T4	control 1444 1483	treatment as usual as the control group
+T5	outcome-Measure 1701 1750	Beck Depression Inventory II (BDI-II) at 12 weeks
+T7	intervention 970 1003	real-time decision support system
+T8	outcome 2046 2065	depressive symptoms
+T6	outcome-Measure 1856 1902	prevention of the onset of depressive symptoms
+T9	outcome 1904 1930	changes in quality of life
+T10	outcome-Measure 1932 1948	perceived stigma
+T11	outcome-Measure 1954 1967	self-efficacy

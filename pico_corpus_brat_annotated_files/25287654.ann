@@ -1,0 +1,16 @@
+T1	intervention 0 26	Hypofractionated radiation
+T2	total-participants 868 892	One hundred thirty-three
+T9	iv-bin-abs 963 968	Three
+T10	outcome 984 1000	local recurrence
+T11	outcome 1032 1069	5-year local recurrence-free survival
+T12	iv-bin-percent 1073 1078	97.6%
+T13	outcome 1080 1106	Five-year overall survival
+T14	outcome 1111 1140	5-year breast cancer survival
+T15	iv-bin-percent 1146 1151	74.7%
+T16	iv-bin-percent 1156 1161	77.7%
+T17	outcome 1274 1295	grade 2 skin toxicity
+T18	iv-bin-percent 1300 1305	10.7%
+T19	iv-bin-abs 1311 1313	no
+T20	outcome 1335 1356	grade 3 skin toxicity
+T3	eligibility 664 688	post-mastectomy patients
+T4	outcome 1204 1220	acute toxicities
