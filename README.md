@@ -3,6 +3,11 @@ The corpus consists of about 1,011 PubMed abstracts which are RCTs related to br
 The abstracts were annotated using BRAT (https://brat.nlplab.org/).
 We shared the brat annotated files.
 
+
+# PICO label hierachy 
+![](label_hierachy.png)
+
+
 # Example annotated abstract 
 ![](example_annotated_abstract.png)
 
