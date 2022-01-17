@@ -5,7 +5,7 @@ We shared the brat annotated files.
 
 
 # PICO label hierachy 
-![](label_hierachy.png)
+![](label_hierachy1.png)
 
 
 # Example annotated abstract 
